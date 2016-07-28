@@ -1,0 +1,56 @@
+Luento 1: Mikä ihmeen morfologia?
+==================================
+
+
+Tästä kurssista
+---------------
+
+Kaksi kielentutkimuksen perinteistä päähaaraa ovat syntaksi ja morfologia.
+Siinä misä syntaksi tutkii lauserakenteideta ja sanojen suhteita, ovat
+morfologiassa kiinnostuksen kohteena ennen kaikkea sanat itse ja se, mistä ne
+koostuvat.
+
+Tällä luennolla perehdytään lyhyesti siihen, mitä kaikkea morfologian alaan
+kuuluu. Tarkastelemme, mitä aihealueita kurssilla käsitellään ja luomme
+yleiskuvan kurssiluentojen sisällöstä ja tavoitteista.
+
+Rohkaisuksi voin tässä vaiheessa todeta, että periaatteessa kyseessä on
+eräänlainen kertauskurssi: kaikki kursilla käsiteltävät asiat ovat sinulle jo
+tuttuja aikaisemmista opinnoistasi. Tämän kurssin pointtina on, että opit
+perusteellisemmin jäsentämään ja analysoimaan osaamistasi. Opit suomen- ja
+venäjänkieliset termit ilmiöille, joihin ennen olet ehkä viitannut vain
+ilmaisulla *"se ющий-päätteinen muoto"*. Samalla saat, toivottavasti, vastuksia
+moniin *miksi*-kysymyksiin, kuten *miksi отец-sanan genetiivi on отца eikä отеца*
+
+Kurssilla käytettävä materiaali saattaa olla sinulle jossain määrin
+uudenlaisessa muodossa. Toivottavasti et pelästy -- yritykseni on tehdä
+tästäkin "tylsästä kielioppikurssista" oikeasti motivoivaa ja nykyaikaista.
+Samalla on pidettävä mielessä se, että kyseessä ovat yliopiston aineopinnot, ja
+sitä kautta myös tilaisuus opetella syvällisempiä kielen analysoinnin
+työkaluja.
+
+Keskeisiä termejä
+-----------------------------------
+
+- Morfeemi (морфема) ja  morfi (морф)
+
+- Allomorfi (алломорф)
+
+
+Morfologia kielitieteen osa-alueena
+-----------------------------------
+
+- Sananmuodostusoppi (словоизменение) ja taivutusoppi (словообразование)
+
+- Morfofonologia(морфофонология), Morfosyntaksi (морфосинтаксис),
+  Funktionaalinen morfologia ()
+
+### Pari sanaa morfofonologiasta
+
+Miten esitetään kurssilla se ja se?
+
+
+Mitä ovat sanaluokat ja kieliopilliset kategoriat?
+--------------------------------------------------
+
+[Tehtävä: tunnista sanaluokat]
