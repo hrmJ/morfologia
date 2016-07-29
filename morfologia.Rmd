@@ -45,9 +45,29 @@ Morfologia kielitieteen osa-alueena
 - Morfofonologia(морфофонология), Morfosyntaksi (морфосинтаксис),
   Funktionaalinen morfologia ()
 
+
 ### Pari sanaa morfofonologiasta
 
 Miten esitetään kurssilla se ja se?
+
+### Millainen kieli venäjä on morfologian kannalta?
+
+Kielten luokittelua erilaisten yhtenevien ja eriävien ominaisuuksien
+perusteella kutsutaan kielitypologiaksi. Kun kieliä luokitellaan morfologisten
+ominaisuuksien perusteella, on perinteisesti jaoteltu kieliä toisaalta
+*synteettiisiin ja analyyttisiin*.
+
+- Analyyttisiksi kutsutaan kieliä, jossa kieliopillisia suhteita ilmaistaan
+  kieliopillisten sanojen (prepositiot, partikkelit, ym.) ja sanajärjestyksen avulla
+- Synteettisiksi sanotaan kieliä, jossa kieliopillisia suhteita ilmaistaan
+  taivutuspäätteiden avulla [vrt. @nikunl, 119]
+
+Kumpaan ryhmään venäjä mielestäsi kuuluu?
+
+
+
+
+
 
 
 Mitä ovat sanaluokat ja kieliopilliset kategoriat?

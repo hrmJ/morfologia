@@ -1,0 +1,7 @@
+*.swp
+kurssikartta.aux
+*.log
+kurssikartta.synctex.gz
+*.aux
+kurssikartta1.synctex.gz
+*.gz

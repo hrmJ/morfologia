@@ -1,0 +1,154 @@
+\documentclass[finnish]{standalone}
+\usepackage{forest}
+\usepackage[utf8]{inputenc}
+
+\usetikzlibrary{mindmap}
+\usepackage[T1]{fontenc}
+\usepackage[T2A]{fontenc}
+\usepackage[finnish]{babel}
+\begin{document}
+
+\begin{forest}
+  for tree={
+    child anchor=west,
+    parent anchor=east,
+    grow'=east,
+  %minimum size=1cm,%new possibility
+  %text width=8cm,%
+    %draw,
+    anchor=west,
+    edge path={
+      \noexpand\path[\forestoption{edge}]
+        (.child anchor) -| +(-5pt,0) -- +(-5pt,0) |-
+        (!u.parent anchor)\forestoption{edge label};
+    },
+  }
+[Venäjän morfologiaa
+    [venäjä morfologisessa luokittelussa
+        [{synteettinen, mutta analyyttisia piirteitä}, text width=3.5cm]
+    ]
+    [Kieliopilliset kategoriat
+        [{=ominaisuus/merkitys, jonka suhteen muodot oppositiossa}, text width=3cm]
+        [Kategorioita
+            [etenkin nomineilla
+                [suku, name=suku
+                    [3 arvoa, name=sukuarv
+                        [maskuliini, name=sukum]
+                        [feminiini]
+                        [neutri]
+                    ]
+                ]
+                [luku, name=luku
+                    [2 arvoa
+                        [yksikkö]
+                        [monikko]
+                    ]
+                ]
+                [sija, name=sija
+                    [substantiivien deklinaatiot
+                        [1.]
+                        [2.]
+                        [3.]
+                        [4.]
+                        [5.]
+                        [Lekseemikohtaiset poikkeukset ja sekadeklinaatiot, text width=3cm]
+                    ]
+                    [Tavalliset 6 arvoa
+                        [nominatiivi]
+                        [genetiivi]
+                        [datiivi]
+                        [akkusatiivi]
+                        [instrumentaali]
+                        [prepositionaali]
+                    ]
+                    [harvinaisemmat arvot
+                        [partitiivinen genetiivi]
+                        [lokatiivi]
+                        [adnumeratiivi]
+                        [vokatiivi]
+                    ]
+                ]
+                [elollisuus
+                    [etenkin akkusatiivin kannalta]
+                    [2 arvoa
+                        [elollinen]
+                        [eloton]
+                    ]
+                ]
+            ]
+            [etenkin verbeillä, name=verbs
+                [pääluokka
+                    [2 arvoa
+                        [aktiivi]
+                        [passiivi]
+                    ]
+                ]
+                [persoona, name=vpers
+                    [verbien konjugaatiot]
+                    [3 arvoa
+                        [1. pers.]
+                        [2. pers.]
+                        [3. pers.]
+                    ]
+                ]
+                [tapaluokka
+                    [3 arvoa
+                        [indikatiivi]
+                        [imperatiivi]
+                        [konditionaali]
+                    ]
+                ]
+                [aikamuoto
+                    [2 pääarvoa
+                        [mennyt aika, name=vpast]
+                        [ei-mennyt aika
+                            [preesensmerkitys] 
+                            [futuurimerkitys
+                                [yksinkertainen futuuri]
+                                [liittofutuuri]
+                            ]
+                        ]
+                    ]
+                ]
+                [aspekti
+                    [2 arvoa
+                        [perfektiivinen
+                            [erityismerkityksiä]
+                        ]
+                        [imperfektiivinen
+                            [erityismerkityksiä]
+                        ]
+                    ]
+                ]
+                [?toiminnan luonne
+                ]
+            ]
+        ]
+    ]
+    [erityisiä verbimuotoja
+        [infinitiivi]
+        [partisiipit, name=vpart
+            [aktiivin partisiippi
+                [preesens]
+                [preteriti]
+            ]
+            [passiivin partisiippi
+                [preesens]
+                [preteriti]
+            ]
+        ]
+        [gerundit
+            [imperfektiivisen aspektin]
+            [perfektiivisen aspektin]
+        ]
+        [teonlaadut]
+    ]
+]
+\draw[->,dotted] (suku) to[out=north east, in=north east] (vpast);
+\draw[->,dotted] (luku) to[out=south, in=west] (vpers);
+\draw[->,dotted] (sija) to[out=south, in=north] (vpart);
+\end{forest}
+
+
+
+\end{document}

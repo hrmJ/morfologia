@@ -1,0 +1,117 @@
+\documentclass[finnish]{standalone}
+\usepackage{forest}
+\usepackage[utf8]{inputenc}
+
+\usetikzlibrary{mindmap}
+\usepackage[T1]{fontenc}
+\usepackage[T2A]{fontenc}
+\usepackage[finnish]{babel}
+\begin{document}
+
+\begin{forest}
+  for tree={
+    child anchor=west,
+    parent anchor=east,
+    grow'=east,
+  %minimum size=1cm,%new possibility
+  %text width=8cm,%
+    %draw,
+    anchor=west,
+    edge path={
+      \noexpand\path[\forestoption{edge}]
+        (.child anchor) -| +(-5pt,0) -- +(-5pt,0) |-
+        (!u.parent anchor)\forestoption{edge label};
+    },
+  }
+[Morfologia kielitieteen osa-alueena, text width=3cm
+    [Morfologian osa-alueita
+        [Morfemiikka
+            [morfien luokittelua]
+        ]
+        [Morfofonologia
+            [esim. äännevaihtelut
+                 [пеку-печёшь]
+            ]
+        ]
+        [Morfosyntaksi
+            [eim. kongruenssi-ilmiöt
+                [на столе была книга / были книги]
+            ]
+        ]
+        [Funktionaalinen morfologia
+            [esim. aspektien käyttö]
+        ]
+    ]
+    [Morfologian käsitteitä
+        [sanataso
+            [sanan käsite
+                [lekseemi]
+                [sananmuoto]
+                [sane]
+                [lemma]
+            ]
+            [Perinteiset sanaluokat
+                [Itsenäiset sanaluokat
+                    [substantiivit]
+                    [adjektiivit]
+                    [pronominit]
+                    [lukusanat]
+                    [verbit]
+                    [adverbit
+                        [tavalliset adverbit]
+                        [predikatiiviadverbit]
+                    ]
+                ]
+                [Apusanaluokat
+                    [prepositiot]
+                    [konjunktiot]
+                    [partikkelit]
+                    [interjektiot]
+                ]
+            ]
+        ]
+        [Morfeemitaso
+            [morfeemi
+                [morfi
+                    [allomorfisuus]
+                    [salkkumorfit]
+                    [nollamorfit]
+                ]
+            ]
+            [morfeemityypit
+                [juurimorfit
+                ]
+                [affiksit
+                    [prefiksit ja suffiksit
+                        [käytetään sananmuodostuksessa]
+                        [prefiksit: ennen juurta]
+                        [suffiksit: juuren jälkeen]
+                    ]
+                    [taivutuspäätteet
+                        [ilmaisevat kieliopillisia merkityksiä kuten sijaa, text width=3cm]
+                    ]
+                    [interfiksit
+                        [lähinnä yhdyssanoissa]
+                    ]
+                    [postfiksit
+                        [taivutuspäätteen jälkeen: esim. -ся]
+                    ]
+                ]
+                [vartalot
+                    [prefiksi + juuri + suffiksi - päätteet]
+                ]
+            ]
+            [kieliopilliset kategoriat
+                [{=ominaisuus/merkitys, jonka suhteen muodot oppositiossa}, text width=3cm]
+                [suomessa myös: {kieliopillinen luokka/ taivutusluokka / taivutuskategoria}, text width=4cm
+                    [venäjässä ei kuitenkaan aina kyse taivutuksesta (esim. konditionaali), text width=4cm]
+                ]
+            ]
+        ]
+    ]
+]
+\end{forest}
+
+
+
+\end{document}
