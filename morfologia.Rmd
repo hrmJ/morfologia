@@ -29,45 +29,9 @@ Samalla on pidettävä mielessä se, että kyseessä ovat yliopiston aineopinnot
 sitä kautta myös tilaisuus opetella syvällisempiä kielen analysoinnin
 työkaluja.
 
-Keskeisiä termejä
------------------------------------
 
-- Morfeemi (морфема) ja  morfi (морф)
-
-- Allomorfi (алломорф)
-
-
-Morfologia kielitieteen osa-alueena
------------------------------------
-
-- Sananmuodostusoppi (словоизменение) ja taivutusoppi (словообразование)
-
-- Morfofonologia(морфофонология), Morfosyntaksi (морфосинтаксис),
-  Funktionaalinen morfologia ()
-
-
-### Pari sanaa morfofonologiasta
-
-Miten esitetään kurssilla se ja se?
-
-### Millainen kieli venäjä on morfologian kannalta?
-
-Kielten luokittelua erilaisten yhtenevien ja eriävien ominaisuuksien
-perusteella kutsutaan kielitypologiaksi. Kun kieliä luokitellaan morfologisten
-ominaisuuksien perusteella, on perinteisesti jaoteltu kieliä toisaalta
-*synteettiisiin ja analyyttisiin*.
-
-- Analyyttisiksi kutsutaan kieliä, jossa kieliopillisia suhteita ilmaistaan
-  kieliopillisten sanojen (prepositiot, partikkelit, ym.) ja sanajärjestyksen avulla
-- Synteettisiksi sanotaan kieliä, jossa kieliopillisia suhteita ilmaistaan
-  taivutuspäätteiden avulla [vrt. @nikunl, 119]
-
-Kumpaan ryhmään venäjä mielestäsi kuuluu?
-
-
-
-Mitä ovat sanaluokat ja kieliopilliset kategoriat?
---------------------------------------------------
+Mitä ovat sanaluokat? 
+---------------------
 
 Sanaluokan käsite esitellään meille jo ala-asteikäisenä. Sanat muodostavat
 kielessä enemmän tai vähemmän selviä ryhmiä: esimerkiksi lekseemeillä *книга*,
@@ -105,7 +69,56 @@ kutsutaan yhteisesti *nomineiksi* .
 - interjektiot (междометия)
 
 
-[Tehtävä: tunnista sanaluokat]
+[Tehtävä 1: tunnista sanaluokat]
+
+
+Mitä on sanan sisällä?
+-----------------------
+
+
+Katsotaan tässä yhteydessä tarkemmin morfeemin käsitettä ja sen lähikäsitteitä.
+
+- Morfeemi (морфема) ja  morfi (морф)
+
+- Allomorfi (алломорф)
+
+Sana siis jaetaan..
+
+
+[tehtävä 2: erottele morfeemeja]
+
+
+### Millainen kieli venäjä on morfologian kannalta?
+
+Kielten luokittelua erilaisten yhtenevien ja eriävien ominaisuuksien
+perusteella kutsutaan kielitypologiaksi. Kun kieliä luokitellaan morfologisten
+ominaisuuksien perusteella, on perinteisesti jaoteltu kieliä toisaalta
+*synteettiisiin ja analyyttisiin*.
+
+- Analyyttisiksi kutsutaan kieliä, jossa kieliopillisia suhteita ilmaistaan
+  kieliopillisten sanojen (prepositiot, partikkelit, ym.) ja sanajärjestyksen avulla
+- Synteettisiksi sanotaan kieliä, jossa kieliopillisia suhteita ilmaistaan
+  taivutuspäätteiden avulla [vrt. @nikunl, 119]
+
+Kumpaan ryhmään venäjä mielestäsi kuuluu?
+
+
+Morfologian osa-alueita
+-----------------------------------
+
+- Sananmuodostusoppi (словоизменение) ja taivutusoppi (словообразование)
+
+- Morfofonologia(морфофонология), Morfosyntaksi (морфосинтаксис),
+  Funktionaalinen morfologia ()
+
+
+### Pari sanaa morfofonologiasta
+
+Miten esitetään kurssilla se ja se?
+
+
+
+
 
 
 Kirjallisuutta

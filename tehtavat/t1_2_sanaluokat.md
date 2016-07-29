@@ -38,4 +38,4 @@ verbien V, pronominien P, partikkelien Part, konjunktioiden Konj jne.
 
 Lähde:
 
-![http://echo.msk.ru/programs/personalnovash/1806682-echo/](http://echo.msk.ru/programs/personalnovash/1806682-echo/) (tarkistettu 28.7.2016)
+[http://echo.msk.ru/programs/personalnovash/1806682-echo/](http://echo.msk.ru/programs/personalnovash/1806682-echo/) (tarkistettu 28.7.2016)
