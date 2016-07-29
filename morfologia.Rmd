@@ -5,10 +5,10 @@ Luento 1: Mikä ihmeen morfologia?
 Tästä kurssista
 ---------------
 
-Kaksi kielentutkimuksen perinteistä päähaaraa ovat syntaksi ja morfologia.
-Siinä misä syntaksi tutkii lauserakenteideta ja sanojen suhteita, ovat
-morfologiassa kiinnostuksen kohteena ennen kaikkea sanat itse ja se, mistä ne
-koostuvat.
+Kaksi kielentutkimuksen perinteistä päähaaraa ovat syntaksi ja morfologia. Siinä
+misä syntaksi tutkii lauserakenteita ja sanojen tai lausekkeiden välisiä
+suhteita, ovat morfologiassa kiinnostuksen kohteena ennen kaikkea sanat itse ja
+se, mistä ne koostuvat.
 
 Tällä luennolla perehdytään lyhyesti siihen, mitä kaikkea morfologian alaan
 kuuluu. Tarkastelemme, mitä aihealueita kurssilla käsitellään ja luomme
@@ -66,11 +66,48 @@ Kumpaan ryhmään venäjä mielestäsi kuuluu?
 
 
 
-
-
-
-
 Mitä ovat sanaluokat ja kieliopilliset kategoriat?
 --------------------------------------------------
 
+Sanaluokan käsite esitellään meille jo ala-asteikäisenä. Sanat muodostavat
+kielessä enemmän tai vähemmän selviä ryhmiä: esimerkiksi lekseemeillä *книга*,
+*стол* ja *разрушение* on jotain yhteistä ja ne eroavat lekseemeistä *играть*,
+*слушать* ja *читать*, joilla puolestaan on keskenään jotakin yhteistä.
+Sanaluokkien määrittely ei kuitenkaan ole yksiselitteistä. Mihin sanaluokkaan
+mielestäsi esimerkiksi aktiivin partisiipiin preesensin muoto "позволяющий"
+kuuluu? Entä onko sanalla *тысяча* enemmän yhteistä sanojen *пять*, *десять* ja
+*семь* kanssa kuin edellä mainittujen kolmen substantiivin kanssa? Ahti
+Nikunlassi[-@nikunl: 123] on käsitellyt sanaluokkajaon ongelmia laajasti. Tällä
+kurssilla palautetaan mieleen perinteistä sanaluokkajakoa, mutta kehotan
+muistamaan, että sanaluokat eivät ole millään tavalla ylhäältä annettuja,
+objektiivisia kategorioita, vaan enemmän tai vähemmän kompromissien tuloksena
+syntynyt taksonomia.
+
+Slavistisessa perinteessä on tapana erotella toisistaan itsenäiset sanaluokat
+(самостоятельные части речи) ja apusanaluokat (служебные части речи) Lisäksi
+luokittelua voidaan jatkaa morfologisin perustein esimerkiksi niin, että
+sijoissa taipuvia sanoja (substantiiveja, adjektiiveja, lukusanoja, pronomineja)
+kutsutaan yhteisesti *nomineiksi* . 
+
+### Itsenäiset sanaluokat
+
+- substantiivit (существительные)
+- adjektiivit (прилагательные)
+- pronominit (местоимения)
+- lukusanat (числителные)
+- verbit (глаголы)
+
+### Apusanaluokat
+
+- prepositiot (предлоги)
+- konjunktiot (союзы)
+- partikkelit (частицы)
+- interjektiot (междометия)
+
+
 [Tehtävä: tunnista sanaluokat]
+
+
+Kirjallisuutta
+==============
+
