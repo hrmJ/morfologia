@@ -62,6 +62,7 @@ kutsutaan yhteisesti *nomineiksi*.
 - pronominit (местоимения)
 - lukusanat (числителные)
 - verbit (глаголы)
+- adverbit (наречия)
 
 ### Apusanaluokat
 
@@ -137,7 +138,7 @@ morfit (/у/ ja /ёшь/) edustavat? Kysymys on monimutkaisempi kuin ensi katsom
 saattaisi olettaa. Liian informaatiotulvan välttämämiseksi siirrän vastauksen
 tuonnemmaksi ja palaan siihen, kun käsittelemme tarkemmin verbejä sanaluokkana.
 Lisälukemiseksi tässä esitetyistä käsitteistä ks. esimerkiksi
-[@nikunl:104, @koivisto2013suomen: 66].
+[@musatov2016: 20; @nikunl: 104, @koivisto2013suomen: 66].
 
 Pohditaan nyt vähän tarkemmin sanojen jakamista morfeihin.
 
@@ -157,7 +158,7 @@ on jotain yhteistä, joka taas erottaa ne joistakin muista morfeista.
 
 Esimerkiksi edellä tarkemmin käsitellyissä morfeissa /игр/ ja /пек/ on selkeästi
 jotakin yhteistä, jotakin erilaista verrattuna morfeihin /вы/, /ыва/, /ёшь/ jne.
-Ensinmainitut morfit voidaan luokitella *juurimorfeiksi* (корень). Ne ilmaisevat
+Ensinmainitut morfit voidaan luokitella *juurimorfeiksi* (корневой морф, корень). Ne ilmaisevat
 sanan varsinaisen leksikaalisen merkityksen: voisi sanoa, että ilman niitä muut
 morfit ovat turhia. Muut morfit nimittäin eivät ilmaise leksikaalista vaan
 *kieliopillista merkitystä*. Esimerkiksi esimerkin @ee_pechesh /ёшь/-morfi
@@ -206,11 +207,15 @@ jalkapallojoukkuemetaforaan voitaisiin kuvitella *pelipaikan* kieliopillinen
 kategoria ja sille arvot *maalivahti*, *puolustaja*, *hyökkääjä* jne.
 Yksi tämän kurssin tehtävistä on tutustua näihin kategorioihin ja 
 konkreettisiin tapoihin, joilla kategorioiden eri arvoja eri sanoilla ilmaistaan.
+Heti alkuun voidaan todeta, että läheskään kaikki sanat eivät ilmaise tai edes
+voi ilmaista kaikkia kategorioita. Toiset kategoriat ovat tyypillisiä
+esimerkiksi substantiiveille; joitain kategorioita ilmaisevat vain verbit.
 
 On huomattava, että yksi morfi voi ilmaista useaa eri kieliopillista kategoriaa.
 Venäjässä tämä on enemmän sääntö kuin poikkeus (vrt. kaikkia edellä käsiteltyjä
 kieliopillisia morfeja!), ja tällaisille morfeille on oma nimityksensäkin:
 salkkumorfi (гибридный морф) [ks. @nikunl, 106--107].
+
 
 
 
@@ -233,14 +238,286 @@ Kumpaan ryhmään venäjä mielestäsi kuuluu?
 Morfologian osa-alueita
 -----------------------------------
 
-- Sananmuodostusoppi (словоизменение) ja taivutusoppi (словообразование)
+- Sananmuodostusoppi (словообразование) ja taivutusoppi (словоизменение)
 
 - Morfofonologia(морфофонология), Morfosyntaksi (морфосинтаксис),
-  Funktionaalinen morfologia (функциональная морфология).
+  Funktionaalinen morfologia (функциональная морфология)
 
 
 
+Luento 2: morfeemityypeistä ja sanaluokista
+=============================================
 
+Morfeemien alalajeista tarkemmin
+-----------------------------
+
+Palataan toisen luennon aluksi tarkemmin eri morfeemityyppeihin. Edellä
+todettiin, että kieliopillisia morfeemeja voidaan luokitella juurimorfeemeiksi, prefikseiksi, suffikseiksi,
+postfikseiksi[^fikshuom], taivutuspäätteiksi ja interfikseiksi. Nämä voidaan jo
+lähtökohtaisesti jakaa kahteen ryhmään: juurimorfeemeihin ja
+*affikseihin* (аффиксы).
+Tutkitaan kumpaakin ryhmää seuraavassa tarkemmin.
+
+[^fikshuom]: Jos ihmettelet, miksi kaikki nämä nimitykset päättyvät
+"fiksi/фикс", sanojen etymologia juontaa latinan *figere*-verbiin, jonka
+merkitys on 'liittää, kiinnittää'.
+
+### Juurimorfeemit
+
+Juurimorfeemin käsitteeseen olemmekin jo törmänneet. Kuten Musatov
+[-@musatov2016: 28] huomauttaa, venäjässä ei ole sanoja, joissa ei olisi
+juurimorfia. Toisin sanoen jokaikisestä venäläisestä sanasta voidaan erottaa
+*vähintään* juurimorfeemi. Juurimorfeemi ilmaisee sanan lähtökohtaisen
+leksikaalisen merkityksen, jota muut morfeemit, esimerkiksi prefiksit, voivat
+muokata. Joskus juurimorfi on ainoa morfi koko sanassa:
+
+(@ee_avtor) /автор/
+
+On kuitenkin huomattava, että vaikka juurimorfeemi on ainoa morfeemityyppi, joka
+voi jo itsessään muodostaa sanan, aina näin ei kuitenkaan käy. Mieti esimerkiksi
+sanoja одеть ja надеть. Missä niissä on juurimorfi ja voisiko se esiintyä
+itsenäisenä sanana?
+
+Sanojen одеть ja надеть juurimorfeiksi voidaan erottaa /де/. Tällaisia
+ei-itsenäisinä esiintyvä morfeemeja nimitetään sidotuiksi (связанные) erotuksena
+vapaista (свободные) juurimorfeemeista.
+
+### Affiksit
+
+#### Prefiksit ja  suffiksit
+
+Prefiksejä (префиксы)[^pristavka] ja suffikseja (суффиксы) käytetään muodostettaessa uusia
+sanoja. Ne eivät siis liity taivuttamiseen, vaan ennen kaikkea *johtamiseen* ja
+*sananmuodostukseen* (vrt. päätteet alla). Tarkastellaan aluksi erityisen selkeää tapausta:
+
+[^pristavka]: Venäläisperäisempi termi olisi приставка. Tieteellisessä
+diskurssissa on kuitenkin parempi käyttää префикс-termiä. Vrt. myös ero suomen
+*prefiksi*- ja *etuliite*-sanojen välillä.
+
+(@ee_soavtor) /со/автор/
+
+Esimerkissä @ee_soavtor on prefiksi /со/, joka muuttaa автор-sanan merkitystä ja
+muodostaa kokonaan uuden sanan, jonka merkitys ('toinen mukana ollut
+kirjoittaja', 'kanssakirjoittaja') tässä tapauksessa on helppo ymmärtää
+ikään kuin muokatuksi juurimorfeemin merkitykseksi. Myös edellä mainituissa
+надеть- ja одеть-sanoissa juurimorfia /де/ edeltävää ainesta voidaan nimittää
+prefiksiksi (morfit /на/ ja /о/). Ne muokkaavat juuresta uuden sanan, vaikka
+tässä tapauksessa itse juuri ei sanana esiinnykään.
+Tavallisia prefiksejä ovat esimerkiksi *пере-*,*за-*,*от-*,*с-* jne.
+
+Suffiksit eroavat prefikseistä siten, että siinä missä prefiksit sijoittuvat
+*ennen* juurimorfeemia, sijoittuvat suffiksit juurimorfeemin *jälkeen*. Myös
+suffiksit ovat etupäässä sananmuodostuksellisia morfeemeja. Suffikseista voisi
+todeta, että muun muassa äänteenmuutosten takia niitä on välillä vaikea erottaa,
+niin että suffikseja on usein sielläkin, missä ensi katsomalta ei siltä näyttäisi.
+Helposti havaittavissa on esimerkiksi adjektiivista /хитр/- juurimorfiin
+liitetty ость-suffiksi esimerkissä @ee_hitrost:
+
+(@ee_hitrost) /хитр/ость/
+
+Vaikeammin havaittavia ovat esimerkiksi verbinmuodostussuffiksit /и/ ja /а/:
+
+(@ee_utshitel) уч/и/ть
+(@ee_igrat2) игр/а/ть
+
+Muita tyypillisiä suffikseja ovat esimerkiksi /ик/,/ец/,/тель/ jne.
+
+Sekä prefikseistä että suffikseista on huomattava, että niitä voi sanassa olla
+useita. Mitä prefiksejä ja suffikseja voit erottaa seuraavista sanoista?
+
+(@ee_pereodevat) переодеваю
+(@ee_osnovatelnitsa) основательницу
+
+
+#### Taivutuspäätteet
+
+Taivutuspäätteillä ei muodosteta uusia sanoja vaan ilmaistaan eri kieliopillisia
+kategorioita ja niiden arvoja (vrt. prefiksit ja suffiksit yllä).
+Taivutuspäätteet sijaitsevat sanassa prefiksian, juurien ja suffiksien jälkeen. Tutki
+esimerkiksi seuraavaa худой-adjektiivin sananmuotoa:
+
+(@ee_huduju) /худ/ую/
+
+/ую/ on taivutuspääte, joka ilmaisee useampaakin kieliopillista kategoriaa:
+lukua (arvona tässä yksikkö), sukua (feminiini) ja sijaa (akkusatiivi).
+Osin toisenlaisista taivutuspäätteistä on kyse seuraavissa esimerkeissä:
+
+(@ee_guljala) /гул/я/л/а/
+(@ee_kniga) /книг/а/
+(@ee_obed) /обед/ø/
+
+Esimerkissä @ee_guljala on itse asiassa kaksi päätettä, /л/, joka ilmaisee
+aikamuotoa (mennyt aika) ja /а/ joka ilmaisee lukua ja sukua (yksikkö,
+feminiini). Esimerkki @ee_obed on merkittävä siinä mielessä, että se esittelee
+*nollamorfin* (нулевой морф) käsitteen. Voidaan nimittäin katsoa, että
+обед-sanassakin on -- kuten книга-sanassa -- sukua ilmaiseva pääte. Tämä vain ei
+edustu jonakin sarjana foneemeja vaan nimenomaan äänteiden puuttumisena.
+Nollamorfia merkitän symbolilla ø. Käsitteeseen palataan vielä kurssin edetessä,
+joten ei kannata pelästyä, vaikka sen merkitys jäisi jonkin verran avoimeksi.
+
+Taivutuspäätteistä käytetään joskus pääte/окончание-nimitysten lisäksi termiä
+fleksio (флексия).
+
+
+#### Postfiksit ja interfiksit
+
+Prefiksit ja suffiksit ovat erittäin yleisiä morfeemityyppejä. Sen sijaan sekä
+*postfikseja* (постфиксы) että etenkin *interfiksejä* (интерфиксы) esiintyy
+huomattavasti harvemmin. Postfiksit ovat periaatteessa sananmuodostuksen
+palveluksessa olevia morfeemeja, jotka sijoittuvat prefiksien, juuren,
+suffiksien ja taivutuspäätteiden jälkeen, siis nimensä mukaisesti viimeiselle
+mahdolliselle paikalle sanassa. Venäjän tavallisimpia postfiksejä ovat -нибудь,
+-то, -либо sekä ehkä tavallisimmin vastaan tuleva verbeillä esiintyvä -cя.
+Interfiksit puolestaan ovat -- nekin nimensä mukaisesti -- sanojen välissä
+olevia liitosmorfeemeja, joiden avulla muodostetaan yhdyssanoja:
+
+(@ee_thsernobelyj) /чёрн/о/бел/ый/
+
+
+### Vartalo
+
+Vartalon (основа) käsitteeseen palataan tarkemmin käsiteltäessä kieliopillisten
+kategorioiden konkreettisia arvoja. Jo tässä vaiheessa on paikallaan todeta,
+että vartalon käsitettä ei kannata sekoittaa juurimorfeemin käsitteeseen. Itse
+asiassa vartalo ei useinkaan koostu vain yhdestä, vaan itse asiassa useammasta
+morfeemista. Vartaloksi nimittäin sanotaan sitä osaa sanasta, joka jää jäljelle,
+kun postetaan taivutuspäätteet, esimerkiksi (vartalo erotettu kursiivilla):
+
+(@ee_prepodovatelja) */преподава/тел*/я/
+
+[tehtävä 2.1: luokittele morfeemeja]
+
+Morfofonologisista vaihteluista
+-------------------------------
+
+Edellisellä luennolla mainittiin, että yksi morfologian alalajeista on nimeltään
+morfofonologia (морфофонология)
+
+
+Substantiivit, adjektiivit, pronominit, lukusanat
+-------------------------------------------------
+
+Tulevilla luennoilla aletaan tarkemmin perehtyä eri kieliopillisiin
+kategorioihin ja niiden arvoihin. Aloitamme luku-, suku- ja sijakategorioista,
+jotka ovat erityisen olennaisia substantiiveilla, mutta myös adjektiiveillä,
+pronomineilla ja lukusanoilla. Ennen kuin siirrytään varsinaisiin
+kieliopillisten kategorioiden arvoihin ja toisaalta niiden käyttöön käytännössä
+(funktionaaliseen morfologiaan), on syytä tutkia hivenen tarkemmin, mitä
+erityispiirteitä mainittuihin sanaluokkiin liittyy. Kun myöhemmin siirrytään
+käsittelemään verbejä, otetaan uudestaan käsittelyyn myös nämä kategoriat niiltä osin kuin ne
+verbeillä edustuvat.
+
+### Substantiivit
+
+Substantiivit ovat venäjän yleisin sanaluokka: Venäjän kansalliskorpuksen
+pääaineiston sanoista 28,5% on substantiiveja. Substantiivit ilmaisevat niin
+sukua, lukua, sijaa kuin elollisuuttakin.
+
+Substantiiveja voidaan luonnollisesti jaotella edelleen esimerkiksi semanttisin
+perustein (merkityksen mukaan). Voidaan erotella *yleisnimet* () ja
+erisnimet (имена собственные).
+Toisaalta voidaan puhua abstrakteista tai konkreettisista substantiiveista.
+Lisäksi oma ryhmänsä ovat ainesanat kuten каша, нефть ym.
+Substantiivit toimivat erityisen usein lähtökohtina muiden sanaluokkien sanojen
+muodostukselle [ks. @musatov2016:312--].
+
+### Adjektiivit
+
+Myös adjektiivit ilmaisevat suku- luku- ja sijakategorioita sekä ainakin
+välillisesti elollisuuttakin. Niiden erikoisuus ovat lisäksi *vertailuasteet*
+(степени сравнения), joita niiden lisäksi ilmaisevat vain adverbit.
+
+Adjektiivit esiintyvät venäjässä *pitkinä* ja *lyhyinä* muotoina ().
+Lyhyiden muotojen käyttö on syntaktisesti rajoitettua: ne toimivat ainoastaan
+predikatiiveina, kuten esimerkissä @ee_tufli.
+
+(@ee_tufli) Скандинавская кухня *лаконична* в средствах и *многообразна* в методах
+
+
+### Pronominit
+
+Pronominit ilmaisevat (joskin vaihtelevasti) luku-, suku- ja sijakategorioita
+sekä ainoana sanaluokkana verbien lisäksi myös persoonakategoriaa. Erotuksena
+verbeistä persoonan ilmaiseminen ei tapahdu pronomineilla taivutuspäätteen vaan
+sanavartalon avulla [@nikunl, 154]. Erityisesti persoonapronominit ovat
+taivutuksen suhteen omalaatuinen luokka, jonka sisällä on suurta vaihtelua.
+Tähän palataan tarkemmin luennolla 5. Pronominien erikoisuuksiin morfologian
+kannaltaa kuuluu myös se, että niistä on usein hankala erottaa juurimorfeemia ja
+taivutuspäätteitä. Ajettele vaikka sananmuotoja *мне* ja  *меня* ja vertaa niitä
+nominatiivimuotoon *я*.
+
+
+### Lukusanat
+
+Lukusanat ovat, kuten edellä mainittiin, osittain hämärästi määriteltävissä
+oleva luokka, johon luetaan usein morfologiselta rakenteeltaan hyvin erilaisia
+sanoja. Läheskään kaikki lukusanat eivät, nurinkurista kyllä, ilmaise
+luvun kieliopillista kategoriaa (niillä ei ole erillisiä yksikkö- ja
+monikkomuotoja). Myöskään sukua lukusanat eivät paria poikkeusta lukuunottamatta
+ilmaise. Lukusanat onkin oma luokkansa ennen muuta sen takia, että
+tähän ryhmään yleensä luettavat sanat ovat merkityksen puolesta lähellä toisiaan
+[tarkemmin ks. @nikunl: 123]. Morfologiselta kannalta kannattaa kiinnittää
+huomio seuraaviin luokansisäisiin jakoihin:
+
+#### Järjestysluvut (порядковые числительные) ja peruslukusanat (количественные числителные).
+
+Järjestysluvut (esimerkiksi *пятый*) toimivat monessa suhteessa adjektiivien
+tavoin. Niillä ei kuitenkaan ole vertailuasteita tai erillisiä lyhyitä ja pitkiä
+muotoja.
+
+#### Perusluvut 1-4 ja muut luvut
+
+Peruslukusanatkaan eivät ole täysin yhtenäinen joukko. Oma erillistapauksensa on
+ensinnäkin lukusana *один*, joka ilmaisee sukukategoriaa (vrt. muodot одна, одно
+jne), lukukategoriaa (один vs. одни) ja taipuu esimerkiksi sijoissa paljolti adjektiivien tavoin. Luvuilla 2-4
+on hyvin erilaiset taivutusparadigmat (konkreettiset kieliopillisten
+kategorioitten, kuten sijan, arvot) kuin muilla luvuilla. Peruslukusanat
+ovat siinäkin suhteessa erikoinen luokka, että nominatiivissa ne toimivat
+pääsanana ja määrävät niihin liittyvän substantiivin sijan (семь столов), mutta
+muuten käyttäytyvät syntaktisessa mielessä adjektiivien tavoin (без семи столов).
+
+#### Morfologiset substantiivit 
+
+Lukusanoiksi voidaan merkityksensä puolesta luetella myös sanat миллион,
+миллиард ja тысяча, vaikka ne taipuvat kuten mitkä tahansa substantiivit ja
+ilmaisevat niin suku-, luku- kuin sijakategorioita.
+
+
+#### Kollektiivilukusanat
+
+Oma alauokkansa lukusanojen sisällä ovat kollektiivilukusanat (*двое*, *трое*
+ym.) joiden käyttöympäristöt ovat melko rajattuja. Nekään eivät ilmaise lukua
+eli eivät tee eroa yksikön ja monikon välillä.
+
+
+[tehtävä: mitä kieliopillisia kategorioita muodot ilmaisevat?]
+
+
+Luento 3: luku, suku ja sija kieliopillisina kategorioina
+========================================================
+
+Luku kieliopillisena kategoriana
+--------------------------------
+
+### Erikoistapauksia
+
+- Pluralia tantum ja singularia tantum
+
+Suku kieliopillisena kategoriana
+--------------------------------
+
+Semanttinen ja morfologinen määräytyminen
+
+Sija kieliopillisena kategoriana
+--------------------------------
+
+Mitä eri sijoja venäjässä on?
+
+
+Luento 4: substantiivien ja lukusanojen deklinaatiot
+====================================================
+
+Mitä tarkoitetaan deklinaatiolla?
 
 
 Kirjallisuutta
