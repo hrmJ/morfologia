@@ -1,9 +1,5 @@
-Luento 1: Mikä ihmeen morfologia?
-==================================
-
-
 Tästä kurssista
----------------
+===============
 
 Kaksi kielentutkimuksen perinteistä päähaaraa ovat syntaksi ja morfologia. Siinä
 misä syntaksi tutkii lauserakenteita ja sanojen tai lausekkeiden välisiä
@@ -30,6 +26,12 @@ sitä kautta myös tilaisuus opetella syvällisempiä kielen analysoinnin
 työkaluja.
 
 
+Luento 1: Mikä ihmeen morfologia? 
+==================================
+
+[Lataa PDF](materiaalit/luento1.pdf)
+
+
 Mitä ovat sanaluokat? 
 ---------------------
 
@@ -45,13 +47,13 @@ Nikunlassi[-@nikunl: 123] on käsitellyt sanaluokkajaon ongelmia laajasti. Täll
 kurssilla palautetaan mieleen perinteistä sanaluokkajakoa, mutta kehotan
 muistamaan, että sanaluokat eivät ole millään tavalla ylhäältä annettuja,
 objektiivisia kategorioita, vaan enemmän tai vähemmän kompromissien tuloksena
-syntynyt taksonomia.
+syntynyt taksonomia eli luokittelu.
 
 Slavistisessa perinteessä on tapana erotella toisistaan itsenäiset sanaluokat
 (самостоятельные части речи) ja apusanaluokat (служебные части речи) Lisäksi
 luokittelua voidaan jatkaa morfologisin perustein esimerkiksi niin, että
-sijoissa taipuvia sanoja (substantiiveja, adjektiiveja, lukusanoja, pronomineja)
-kutsutaan yhteisesti *nomineiksi* . 
+sijoissa taipuvia sanoja (käytännössä substantiiveja, adjektiiveja, lukusanoja, pronomineja)
+kutsutaan yhteisesti *nomineiksi*. 
 
 ### Itsenäiset sanaluokat
 
@@ -76,19 +78,144 @@ Mitä on sanan sisällä?
 -----------------------
 
 
-Katsotaan tässä yhteydessä tarkemmin morfeemin käsitettä ja sen lähikäsitteitä.
+Ajattele vaikka pakettia lääkepillereitä -- kuvastakoon se lausetta tai laajemmin
+tekstiä. Jos sinulta kysytään, mistä lääkepaketti koostuu, selkein vastaus
+olisi *pillereistä*. Samaten vastaus kysymykseen *mistä lause koostuu* olisi
+luultavasti *sanoista*. Kuitenkin se, mikä vaikutus pillereillä on 
+jonkin sairauden parantamisessa, määräytyy sen mukaan, mistä ainesosista kukin
+pilleri on tehty. Samoin sanojen kohdalla itse sanojen merkitys muodostuu sen
+perusteella, mitä *morfeja* sanassa on.
 
-- Morfeemi (морфема) ja  morfi (морф)
+Otetaan esimerkki. Ajattele sananmuotoa *выигриваю*. Jaetaan se morfeiksi:
 
-- Allomorfi (алломорф)
+(@ee_vyigrivaju) /вы/игр/ыва/ю/
 
-Sana siis jaetaan..
+Esimerkissä @ee_vyigrivaju on siis neljä morfia. Jokaisella näistä on jokin
+merkitys -- jos jonkin näistä muuttaisi tai poistaisi, sanan merkitys muuttuisi.
+Kokeile mielessäsi! Millä tavalla merkitys muuttuu, jos poistat ensimmäisen
+morfin ja vaihdat hieman kolmatta? Entä jos vaihdat viimeisen morfin vaikka
+morfiksi */ешь/*?
 
+Kuten edellisestä käy ilmi, kielen pienintä, konkreettista yksikköä, joka kantaa
+itsessään jotakin merkitystä, kutsutaan *morfiksi* (морф). Morfeja on tapana
+merkitä laittamalla ne kauttaviivojen väliin (toinen vaihtoehto on erottaa
+morfit esimerkiksi +-merkillä). Esimerkissä @ee_vyigrivaju
+viimeinen morfi /ю/ tuo verbiin sen merkityksen, että toimintaa suorittaa
+yksikön ensimmäinen persoona. Sanan varsinainen merkitys -- jota muut morfit
+muokkaavat -- tulee toisesta morfista, */игр/*.
+
+Katsotaan lisää esimerkkejä ja jaetaan ne saman tien osiksi:
+
+(@ee_peku) /пек/у/
+(@ee_pechesh) /печ/ёшь/
+
+Kummassakin yllä olevista esimerkeistä on kaksi morfia. Olet varmasti kuullut
+myös sanan *morfeemi* (морфема). Siinä missä morfi on konkreettinen, yksittäinen
+esiintymä, morfeemi on abstrakti yksikkö, joka voi esiintyä useampana erilaisena
+morfina. Esimerkeissä @ee_peku ja @ee_pechesh on kummassakin morfeemi, jota
+voitaisiin merkitä esimerkiksi {пек} tai {LEIPOA}[^morfmerk].
+Tämän morfeemin konkreettisia esiintymiä ovat morfit /пек/ ja /печ/. Kyseessä
+on siis yhden ja saman morfeemin kaksi konkreettista esiintymää, vähän niin kuin
+jalkapallojoukkueessa {maalivahti}-"morfeemia" voivat edustaa "morfit" /Joe
+Hart/ ja /Manuel Neuer/.
+
+[^morfmerk] Kuten huomasit, morfeemeja merkitään asettamalla ne aaltosulkujen
+sisään. Jos morfeemiin viitataan sen merkityksellä, se on tapana kirjoittaa
+isolla.
+
+Usein on niin, että jokin tietty morfeemi edustuu aina vain yhdellä, tietyllä
+tavalla. Tällöin on käytännössä melkeinpä sama, puhutaanko morfeemista vai
+morfista, mutta teoriassa erottelu toki tulee edelleen pitää mielessä. Jos
+mietitään esimerkin @ee_vyigrivaju /игр/-morfia, voidaan todeta juuri näin:
+morfeemia {игр} edustaa vain yksi morfi, /игр/. Morfeista /пек/ ja /печ/ voidaan
+puolestaan vielä sanoa, että ne ovat toistensa *allomorfeja*. Allomorfin käsite
+kannattaa painaa mieleen nimenomaan suhteellisena käsitteenä: yksittäinen morfi
+voi muodostaa allomorfiparin tai kolmikon suhteessa joihinkin muihin morfeihin.
+
+Jäitkö miettimään, mitä morfeemeja esimerkkien @ee_peku ja @ee_pechesh toiset
+morfit (/у/ ja /ёшь/) edustavat? Kysymys on monimutkaisempi kuin ensi katsomalta
+saattaisi olettaa. Liian informaatiotulvan välttämämiseksi siirrän vastauksen
+tuonnemmaksi ja palaan siihen, kun käsittelemme tarkemmin verbejä sanaluokkana.
+Lisälukemiseksi tässä esitetyistä käsitteistä ks. esimerkiksi
+[@nikunl:104, @koivisto2013suomen: 66].
+
+Pohditaan nyt vähän tarkemmin sanojen jakamista morfeihin.
 
 [tehtävä 2: erottele morfeemeja]
 
+Älä pelästy, vaikka morfien erottelu ei aina ole selkeää. Voi olla, että sanasta
+voisi löytyä enemmän osasia kuin luulit tai voi myös olla, että pilkot sanan
+niin pieniksi palasiksi, ettei niillä kaikilla todellisuudessa ole omaa
+merkitystä. Kurssin kuluessa erilaisiin morfeemeihin tutustutaan paremmin
+ja tätä myötä myös kyky havaita niitä paranee.
 
-### Millainen kieli venäjä on morfologian kannalta?
+### Morfien lajeja
+
+Edellä sanoista puhuttaessa havaittiin, että niiden voi nähdä muodostavan
+erilaisia ryhmiä. Myös morfeja tutkittaessa huomataan, että tietyillä morfeilla
+on jotain yhteistä, joka taas erottaa ne joistakin muista morfeista.
+
+Esimerkiksi edellä tarkemmin käsitellyissä morfeissa /игр/ ja /пек/ on selkeästi
+jotakin yhteistä, jotakin erilaista verrattuna morfeihin /вы/, /ыва/, /ёшь/ jne.
+Ensinmainitut morfit voidaan luokitella *juurimorfeiksi* (корень). Ne ilmaisevat
+sanan varsinaisen leksikaalisen merkityksen: voisi sanoa, että ilman niitä muut
+morfit ovat turhia. Muut morfit nimittäin eivät ilmaise leksikaalista vaan
+*kieliopillista merkitystä*. Esimerkiksi esimerkin @ee_pechesh /ёшь/-morfi
+ilmaisee toista persoonaa, indikatiivia ja ei-mennyttä aikaa. Nämä ovat hyvin
+erityyppisiä merkityksiä kuin juurimorfin /пек/ leksikaalinen merkitys.
+Kieliopilliset morfit voi jakaa moniin alaluokkiin, joita tutkitaan tarkemmin
+seuraavalla luennolla. Näitä alalajeja ovat ennen kaikkea prefiksit, suffiksit,
+interefiksit, postfiksit ja taivutuspäätteet.
+
+
+Kieliopilliset kategoriat
+-------------------------
+
+Edellä puhuttiin *toisesta persoonasta*, *indikatiivista* ja *menneestä ajasta*.
+Nämä ovat asioita, joita edellä käsitellyt morfeemit ilmaisevat. Tutkitaan lisää
+vähän toisenlaisia sanoja:
+
+(@ee_stolami) /стол/ами/
+(@ee_krivaja) /крив/ая/
+
+Esimerkin @ee_stolami /ами/-morfista voidaan sanoa, että se ilmaisee toisalta
+monikkoa (sitä, että pöytiä on enemmän kuin yksi), toisaalta
+instrumentaalisijaa. Esimerkin @ee_krivaja /ая/-morfi ilmaisee puolestaan
+yksikköä, nominatiivisijaa ja lisäksi feminiinisukua.
+
+Huomataan siis, että vaikka kieliopilliset morfit eivät sinänsä pysty
+esiintymään yksinään, nillä silti ilmaistaan monenlaisia asioita. "Asia, jota
+morfeemilla ilmaistaan" ei ole erityisen kätevä nimitys, mutta onneksi näihin
+voidaan viitata kätevämmin termillä *kieliopillinen kategoria* (грамматическая
+категория).
+Venäjässä ilmaistavia kieliopillisia kategorioita ovat ainakin
+
+- suku
+- luku
+- sija
+- elollisuus
+- pääluokka
+- persoona
+- aspekti
+- tapaluokka
+- aikamuoto
+
+Jos mietitään käsitteitä *instrumentaali*, *toinen persoona* tai *feminiini*,
+voidaan sanoa, että ne ovat *kieliopillisten kategorioiden arvoja*. Palatakseni
+jalkapallojoukkuemetaforaan voitaisiin kuvitella *pelipaikan* kieliopillinen
+kategoria ja sille arvot *maalivahti*, *puolustaja*, *hyökkääjä* jne.
+Yksi tämän kurssin tehtävistä on tutustua näihin kategorioihin ja 
+konkreettisiin tapoihin, joilla kategorioiden eri arvoja eri sanoilla ilmaistaan.
+
+On huomattava, että yksi morfi voi ilmaista useaa eri kieliopillista kategoriaa.
+Venäjässä tämä on enemmän sääntö kuin poikkeus (vrt. kaikkia edellä käsiteltyjä
+kieliopillisia morfeja!), ja tällaisille morfeille on oma nimityksensäkin:
+salkkumorfi (гибридный морф) [ks. @nikunl, 106--107].
+
+
+
+Millainen kieli venäjä on morfologian kannalta?
+-----------------------------------------------
 
 Kielten luokittelua erilaisten yhtenevien ja eriävien ominaisuuksien
 perusteella kutsutaan kielitypologiaksi. Kun kieliä luokitellaan morfologisten
@@ -109,12 +236,7 @@ Morfologian osa-alueita
 - Sananmuodostusoppi (словоизменение) ja taivutusoppi (словообразование)
 
 - Morfofonologia(морфофонология), Morfosyntaksi (морфосинтаксис),
-  Funktionaalinen morfologia ()
-
-
-### Pari sanaa morfofonologiasta
-
-Miten esitetään kurssilla se ja se?
+  Funktionaalinen morfologia (функциональная морфология).
 
 
 

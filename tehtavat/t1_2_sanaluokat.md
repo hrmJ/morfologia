@@ -1,4 +1,4 @@
-Tehtävä 1.2
+Tehtävä 1.1
 ===========
 
 1. Tarkastele tekstin sanaluokkia. Merkitse substantiivien yläpuolelle S,
@@ -6,13 +6,19 @@ verbien V, pronominien P, partikkelien Part, konjunktioiden Konj jne.
 2. Mitä sanaluokkia vaikuttaisi olevan eniten?
 3. Mistä tunnistat, että jokin sana on verbi? Entä substantiivi?
 
+Tehtävä 1.2
+===========
+
+1. Valitse tekstistä noin 10--15 sanaa ja mieti, minkälaisiin morfeihin ne jakautuvat. 
+2. Verratkaa sanojanne ja ratkaisujanne 2--3 hengen ryhmissä.
+
 
 Интервью / Эхо Москвы
 ---------------------
 
 
 -- Допинговый скандал в Штатах воспринимается не скажу болезненно, но
-внимательно Я там столкнулся с некоторыми вещами, которые для меня были
+внимательно. Я там столкнулся с некоторыми вещами, которые для меня были
 удивительные. Например, люди среднего решающего звена, которые не занимаются
 впрямую Россией, занимаются внутренней американской политикой, они говорили:
 «Нет, ну про Украину мы ничего не понимаем, как хотите. А вот спорт – вы что
