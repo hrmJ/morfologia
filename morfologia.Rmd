@@ -240,7 +240,7 @@ Morfologian osa-alueita
 
 - Sananmuodostusoppi (словообразование) ja taivutusoppi (словоизменение)
 
-- Morfofonologia(морфофонология), Morfosyntaksi (морфосинтаксис),
+- Morfofonologia(морфонология), Morfosyntaksi (морфосинтаксис),
   Funktionaalinen morfologia (функциональная морфология)
 
 
@@ -391,7 +391,66 @@ Morfofonologisista vaihteluista
 -------------------------------
 
 Edellisellä luennolla mainittiin, että yksi morfologian alalajeista on nimeltään
-morfofonologia (морфофонология)
+morfofonologia (морфонология). Morfofonologialla on kielenkäyttäjän kannalta
+paljon käytännön merkitystä. Tämä johtuu siitä, että morfofonologia tutkii muun
+muassa *äänteenmuutoksia* (чередования). Juuri äänteenmuutokset saavat usein
+aikaan vaikutelman siitä, että esimerkiksi verbien persoonataivutuksessa on "pelkkiä
+poikkeuksia" tai muotoja, joita ei voi ennustaa. Tosiassa nämä muodot ovat usein
+täysin säännnmukaisia, mutta niissä vain tapahtuu yhtälailla säännönmukaisia
+konsonanttien tai vokaalien vaihteluita. Katsomme tässä yhteydessä vain lyhyesti
+yhtä esimerkkiä ja palaamme morfofonologisiin vaihteluihin muun muassa
+substantiivien sija- ja verbien persoonakategorian käsittelyn yhteydessä.
+
+Ehkäpä kaikkein tavallisin äänteenmuutos on liudentuneiden ja liudentumattomien
+konsonanttien vaihtelu. Vain kirjoitettua sanaa katsoessa ei ehkä tulisi
+ajatelleeksikaan, että seuraavat äänneparit [@musatov2016: 148-149] eivät itse
+asiassa edusta saman äänteen kahta eri versiota vaan kahta eri äännettä -- kahta
+eri foneemia:
+
+- р -- р
+- м -- м'
+- д -- д'
+- т -- т'
+- н -- н'
+- с -- с'
+- б -- б'
+- л -- л'
+- ф -- ф'
+- г -- г'
+- х -- х'
+- к -- к'
+- в -- в'
+- з -- з'
+- п -- п'
+
+
+Ajattele tässä valossa esimerkkiä @ee_kotik. Lisättäessä juurimorfiin /кот/
+suffiksi /ик/ morfin viimeinen foneemi vaihtuu eli äänne [т] muuttuu äänteeksi
+[т'] -- tämä ero vain ei näy ortografian tasolla, kirjoituksessa.
+
+(@ee_kotik) кот -- котик
+
+Tietyissä tapauksissa ero voidaan havaita ortografiankin tasolla:
+
+(@ee_putnik) путь -- путник
+
+esimerkissä @ee_putnik liudentunut [т']-äänne vaihtelee liudentumattoman
+[т]-äänteen kanssa, mikä näkyy pehmeän merkin puuttumisena путник-sanan
+kirjoitusasusta.
+
+Paljon näitä sananmuodostukseen liittyviä esimerkkejä konkreettisemmin
+äänteenmuutokset näyttäytyvät, kuten mainittua, taivutuksessa. Tavallisimpia
+tapauksia [ks. @musatov2016: 158] ovat esimerkiksi [з']/[ж]-vaihtelu
+(@ee_morozit), [т']/[ч]-vaihtelu (@ee_platit) ja [с']/[ш]-vaihtelu (@ee_kosit):
+
+(@ee_morozit) морозить -- морожу
+(@ee_platit) платить -- плачу
+(@ee_kosit) косить -- кошу
+
+
+Tällä kurssilla morfit merkitään aina kun mahdollista tavallisen kirjoitusasun
+mukaisesti. Jos huomio kuitenkin on esimerkiksi äänteenmuutoksissa, saatetaan
+käyttää foneettista merkintätapaa.
 
 
 Substantiivit, adjektiivit, pronominit, lukusanat
@@ -501,7 +560,28 @@ Luku kieliopillisena kategoriana
 
 ### Erikoistapauksia
 
-- Pluralia tantum ja singularia tantum
+[tehtävä 3.1]
+
+Substantiiveilla lukukategorian ilmaisemiseen liittyy kaksi erityistapausta:
+niin kutsutut *pluralia tantum*- ja *singularia tantum* -sanat. Kummatkaan
+näistä sanaryhmistä eivät käytännössä ilmaise lukukategoriaa [@nikunl, 147].
+
+Pluralia tantum -sanat ovat aina monikossa, singularia tantum -sanat puolestaan
+aina yksikössä esiintyviä sanoja. Pluralia tantum -sanat ovat selärajaisempi
+luokka (siihen kuuluu venäjässä noin 600 sanaa) siinä mielessä, että singularia
+tantum -ryhmän sanoilla voi usein tietyissä käyttötapauksissa tulkita olevan
+monikkomuodonkin.
+
+Mahdollisesti tulevina kielenopettajina kannattaa kiinnittää näihin sanaryhmiin
+huomiota siinä suhteessa, että vaikka mainitut ilmiöt ovat olemassa niin
+suomessa kuin venäjässä, eivät niihin kuuluvien sanojen joukot ole identtisiä.
+Klassinen esimerkki tästä on venäjän sana *мебель*.
+
+Suosittelen tustumaan näiden termien hyviin Wikipedia-artikkeleihin: 
+
+- [singularia tantum](https://ru.wikipedia.org/wiki/Singularia_tantum)
+- [pluralia tantum](https://ru.wikipedia.org/wiki/Pluralia_tantum)
+
 
 Suku kieliopillisena kategoriana
 --------------------------------
