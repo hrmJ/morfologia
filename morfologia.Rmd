@@ -25,6 +25,41 @@ Samalla on pidettävä mielessä se, että kyseessä ovat yliopiston aineopinnot
 sitä kautta myös tilaisuus opetella syvällisempiä kielen analysoinnin
 työkaluja.
 
+Kurssin aikataulu
+-----------------
+
+Pvm       | Aihe
+----------|---------------------
+ti 30.8.  | Mikä ihmeen morfologia?
+ke 31.8.  | Morfien luokittelua + yleistä nomineista ja 
+ke 7.9.   | Luku, sija ja suku kieliopillisina kategorioina
+ti 13.9.  | Substantiivien ja lukusanojen deklinaatiot
+ke 14.9.  | Adjektiivien ja pronominien deklinaatiot + vertailuaste
+ti 20.9.  | Sijat funktionaalisen morfologian kannalta: gen + dat
+ke 21.9.  | Sijat funktionaalisen morfologian kannalta: gen + dat + instr
+ti 27.9.  | Sijat funktionaalisen morfologian kannalta: nominatiivi + akkusatiivi
+ke 28.9.  | Elollisuuskategoria + lisää akkusatiivista
+ti 4.10.  | Yleistä verbeistä
+ke 5.10.  | Persoona kieliopillisena kategoriana + Partisiippien muodostus
+ti 11.10. | Pääluokka kieliopillisena kategoriana
+ke 12.10. | Pääluokka + partisiipit funktionaalisen morfologian kannalta
+ti 19.10  | PERIODITAUKO
+ke 20.10  | PERIODITAUKO
+ti 25.10. | Aspekti kieliopillisena kategoriana
+ke 26.10. | Aspektin muodostus ja aspektiparin käsite
+ti 1.11.  | Aspekti funktionaalisen morfologian kannalta 1
+ke 2.11.  | Aspekti funktionaalisen morfologian kannalta 2
+ti 8.11.  | Aika kieliopillisena kategoriana
+ke 9.11.  | Tapaluokka kieliopillisena kategoriana 1
+ti 15.11. | Tapaluokka kieliopillisena kategoriana 2
+ke 16.11. | Liikeverbit 1
+ti 22.11. | Liikeverbit 2
+ke 23.11. | Verbimuotoja: Gerundit
+ti 29.11. | Verbimuotoja: Infinitiivi
+ke 30.11. | Adverbien erityispiirteitä + kertausta
+ke 7.12.  | KOE
+
+
 
 Luento 1: Mikä ihmeen morfologia? 
 ==================================
