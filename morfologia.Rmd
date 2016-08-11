@@ -1,3 +1,4 @@
+
 Tästä kurssista
 ===============
 
@@ -61,10 +62,12 @@ ke 7.12.  | KOE
 
 
 
-Luento 1: Mikä ihmeen morfologia? 
+Luento 1: Mikä ihmeen morfolog
 ==================================
 
-[Lataa PDF](materiaalit/luento1.pdf)
+- [Lataa PDF](http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento1.pdf)
+- [Tutki luentokalvoja](http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento1.html)
+- [Tutki tuntitehtäviä](http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento1.pdf)
 
 
 Mitä ovat sanaluokat? 
@@ -638,3 +641,5 @@ Mitä tarkoitetaan deklinaatiolla?
 Kirjallisuutta
 ==============
 
+
+<!--  !pandoc -t latex --bibliography=lahteet.bib --template=textemp.tex -o materiaalia/luento1.tex -->

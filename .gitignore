@@ -5,3 +5,5 @@ kurssikartta.synctex.gz
 *.aux
 kurssikartta1.synctex.gz
 *.gz
+*.out
+materiaalia/luento1.toc
