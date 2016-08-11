@@ -5,5 +5,17 @@
 
 # Käytännön kurssi-infoa
 
->- 
+>- Kysy (juho.harme@uta.fi) tai tule rohkeasti käymään (B5004)
+>- Materiaalit Moodlen kautta tai suoraan osoitteesta [mustikka.uta.fi/~juho_harme/morfologia](http://mustikka.uta.fi/~juho_harme/morfologia/index.html) 
+>- Luento-opetus + tentti (uusintamahdollisuus tammikuussa)
 
+# Kurssin tavoitteita
+
+>- asd
+>- [Aikataulu]()
+
+
+
+
+
+<!--  pandoc -f markdown -s luento1.Rmd -t slideous -o luento1.html --self-contained --include-in-header=fontheader.html-->

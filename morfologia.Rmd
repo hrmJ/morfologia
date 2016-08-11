@@ -31,7 +31,7 @@ Kurssin aikataulu
 Pvm       | Aihe
 ----------|---------------------
 ti 30.8.  | Mikä ihmeen morfologia?
-ke 31.8.  | Morfien luokittelua + yleistä nomineista ja 
+ke 31.8.  | Morfien luokittelua + yleistä nomineista
 ke 7.9.   | Luku, sija ja suku kieliopillisina kategorioina
 ti 13.9.  | Substantiivien ja lukusanojen deklinaatiot
 ke 14.9.  | Adjektiivien ja pronominien deklinaatiot + vertailuaste
