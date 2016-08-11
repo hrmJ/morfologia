@@ -4,9 +4,16 @@
 
 # Mikä ihmeen morfologia?
 
->- Ensinnäkin
->- toisekseen
+<article class='incremental'>
 
-# Kohta 2
+|sarake|toinen sarake
+-------|-------------
+rivi1|rivi2
+rivi1|rivi2
+rivi1|rivi2
 
->- ja vielä
+
+>- tesdti
+>- atoin
+
+</article>
