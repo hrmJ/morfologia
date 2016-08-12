@@ -288,6 +288,9 @@ Luento 2: morfeemityypeistä ja sanaluokista
 =============================================
 
 - [Takaisin sivun ylälaitaan](https://mustikka.uta.fi/~juho_harme/morfologia/#tästä-kurssista)
+- [Lataa PDF](http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento2.pdf)
+- [Tutki luentokalvoja](http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento2.html)
+- [Tutki tuntitehtäviä](http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento2.pdf)
 
 Morfeemien alalajeista tarkemmin
 -----------------------------
@@ -597,6 +600,9 @@ Luento 3: luku, suku ja sija kieliopillisina kategorioina
 ========================================================
 
 - [Takaisin sivun ylälaitaan](https://mustikka.uta.fi/~juho_harme/morfologia/#tästä-kurssista)
+- [Lataa PDF](http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento3.pdf)
+- [Tutki luentokalvoja](http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento3.html)
+- [Tutki tuntitehtäviä](http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento3.pdf)
 
 Luku kieliopillisena kategoriana
 --------------------------------
@@ -641,6 +647,9 @@ Luento 4: substantiivien ja lukusanojen deklinaatiot
 ====================================================
 
 - [Takaisin sivun ylälaitaan](https://mustikka.uta.fi/~juho_harme/morfologia/#tästä-kurssista)
+- [Lataa PDF](http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento4.pdf)
+- [Tutki luentokalvoja](http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento4.html)
+- [Tutki tuntitehtäviä](http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento4.pdf)
 
 Mitä tarkoitetaan deklinaatiolla?
 
