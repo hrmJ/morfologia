@@ -82,7 +82,7 @@ div#TOC {
     position: fixed;
     left: 0;
     top: 20px;
-    background: #f5e8cf;
+    background: #fdf6e8;
     padding:0.5em;
     border: 1px dotted grey;
 }
@@ -449,11 +449,17 @@ html,body{        margin: auto;
       width:100%;
     }
 
+    div#TOC > ul{
+        line-height:200%;
+    }
+
+    /*
     div#TOC{
         background:white;
         position:relative;
         border:none;
     }
+    */
 }
 
 

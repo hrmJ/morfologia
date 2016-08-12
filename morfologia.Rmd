@@ -650,4 +650,4 @@ Kirjallisuutta
 
 
 <!--  !pandoc -t latex --bibliography=lahteet.bib --template=textemp.tex -o materiaalia/luento1.tex -->
-<!--  !pandoc morfologia.Rmd -f markdown -t html --bibliography=lahteet.bib --standalone -o index.html -H github-pandoc.css --toc --toc-depth=1 -->
+<!--  !pandoc morfologia.Rmd -f markdown -t html --bibliography=lahteet.bib --standalone -o index.html -H github-pandoc.css --toc --toc-depth=1 --include-after-body=scripts.js -->

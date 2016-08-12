@@ -5,11 +5,20 @@ var tocswitch = document.createElement('a');
 var tocheader = document.createElement('h4');
 tocheader.innerText = "Sisällys";
 
+
+var searchEles = toc.children;
+for(var i = 0; i < searchEles.length; i++) {
+    el = searchEles[i];
+    el.addEventListener('click',ShowHideMenu,false)
+}
+
+
 tocswitch.innerText = "Piilota sisällys";
 tocswitch.href = "javascript:void(0)";
 tocswitch.id  ='tocswitch';
 tocswitch.addEventListener('click',ShowHideMenu,false)
 toc.appendChild(tocswitch);
+
 
 toc.insertBefore(tocheader, toc.firstChild);
 
@@ -29,7 +38,7 @@ function ShowHideMenu(){
         document.getElementById('tocswitch').innerText = "Piilota sisällys";
     }
     else{
-        thistoc.style.top = (0 - tocheight + 26) + "px";
+        thistoc.style.top = (0 - tocheight + 40) + "px";
         document.getElementById('tocswitch').innerText = "Näytä sisällys";
     }
 }
