@@ -516,7 +516,7 @@ erisnimet (имена собственные).
 Toisaalta voidaan puhua abstrakteista tai konkreettisista substantiiveista.
 Lisäksi oma ryhmänsä ovat ainesanat kuten каша, нефть ym.
 Substantiivit toimivat erityisen usein lähtökohtina muiden sanaluokkien sanojen
-muodostukselle [ks. @musatov2016:312--].
+muodostukselle [ks. @musatov2016: 312--].
 
 ### Adjektiivit
 
