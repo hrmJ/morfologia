@@ -7,17 +7,13 @@ misä syntaksi tutkii lauserakenteita ja sanojen tai lausekkeiden välisiä
 suhteita, ovat morfologiassa kiinnostuksen kohteena ennen kaikkea sanat itse ja
 se, mistä ne koostuvat.
 
-Tällä luennolla perehdytään lyhyesti siihen, mitä kaikkea morfologian alaan
-kuuluu. Tarkastelemme, mitä aihealueita kurssilla käsitellään ja luomme
-yleiskuvan kurssiluentojen sisällöstä ja tavoitteista.
-
 Rohkaisuksi voin tässä vaiheessa todeta, että periaatteessa kyseessä on
 eräänlainen kertauskurssi: kaikki kursilla käsiteltävät asiat ovat sinulle jo
 tuttuja aikaisemmista opinnoistasi. Tämän kurssin pointtina on, että opit
 perusteellisemmin jäsentämään ja analysoimaan osaamistasi. Opit suomen- ja
 venäjänkieliset termit ilmiöille, joihin ennen olet ehkä viitannut vain
 ilmaisulla *"se ющий-päätteinen muoto"*. Samalla saat, toivottavasti, vastuksia
-moniin *miksi*-kysymyksiin, kuten *miksi отец-sanan genetiivi on отца eikä отеца*
+moniin *miksi*-kysymyksiin, kuten *miksi отец-sanan genetiivi on отца eikä отеца*.
 
 Kurssilla käytettävä materiaali saattaa olla sinulle jossain määrin
 uudenlaisessa muodossa. Toivottavasti et pelästy -- yritykseni on tehdä
@@ -27,7 +23,7 @@ sitä kautta myös tilaisuus opetella syvällisempiä kielen analysoinnin
 työkaluja.
 
 Kurssin aikataulu
------------------
+=================
 
 Pvm       | Aihe
 ----------|---------------------
@@ -62,12 +58,17 @@ ke 7.12.  | KOE
 
 
 
-Luento 1: Mikä ihmeen morfolog
+Luento 1: Mikä ihmeen morfologia?
 ==================================
 
+- [Takaisin sivun ylälaitaan](https://mustikka.uta.fi/~juho_harme/morfologia/#tästä-kurssista)
 - [Lataa PDF](http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento1.pdf)
 - [Tutki luentokalvoja](http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento1.html)
 - [Tutki tuntitehtäviä](http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento1.pdf)
+
+Tällä luennolla perehdytään lyhyesti siihen, mitä kaikkea morfologian alaan
+kuuluu. Tarkastelemme, mitä aihealueita kurssilla käsitellään ja luomme
+yleiskuvan kurssiluentojen sisällöstä ja tavoitteista.
 
 
 Mitä ovat sanaluokat? 
@@ -285,6 +286,8 @@ Morfologian osa-alueita
 
 Luento 2: morfeemityypeistä ja sanaluokista
 =============================================
+
+- [Takaisin sivun ylälaitaan](https://mustikka.uta.fi/~juho_harme/morfologia/#tästä-kurssista)
 
 Morfeemien alalajeista tarkemmin
 -----------------------------
@@ -593,6 +596,8 @@ eli eivät tee eroa yksikön ja monikon välillä.
 Luento 3: luku, suku ja sija kieliopillisina kategorioina
 ========================================================
 
+- [Takaisin sivun ylälaitaan](https://mustikka.uta.fi/~juho_harme/morfologia/#tästä-kurssista)
+
 Luku kieliopillisena kategoriana
 --------------------------------
 
@@ -635,6 +640,8 @@ Mitä eri sijoja venäjässä on?
 Luento 4: substantiivien ja lukusanojen deklinaatiot
 ====================================================
 
+- [Takaisin sivun ylälaitaan](https://mustikka.uta.fi/~juho_harme/morfologia/#tästä-kurssista)
+
 Mitä tarkoitetaan deklinaatiolla?
 
 
@@ -643,3 +650,4 @@ Kirjallisuutta
 
 
 <!--  !pandoc -t latex --bibliography=lahteet.bib --template=textemp.tex -o materiaalia/luento1.tex -->
+<!--  !pandoc morfologia.Rmd -f markdown -t html --bibliography=lahteet.bib --standalone -o index.html -H github-pandoc.css --toc --toc-depth=1 -->
