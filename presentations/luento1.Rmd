@@ -11,11 +11,124 @@
 
 # Kurssin tavoitteita
 
->- asd
->- [Aikataulu]()
+>- Morfologian peruskäsitteiden hallitseminen
+>- Venäjän sanojen morfologisten ominaisuuksien hallitseminen
+>- [Aikataulu](https://mustikka.uta.fi/~juho_harme/morfologia/#kurssin-aikataulu)
+
+# Sanojen tasolla
+
+>- Miksi sanoja luokitellaan?
+>- Ovatko luokat oikeasti olemassa?
 
 
+<div class='incremental'>
 
+<div style='float:left;' class='incremental'>
+
+### Itsenäiset sanaluokat
+
+>- substantiivit (существительные)
+>- adjektiivit (прилагательные)
+>- pronominit (местоимения)
+>- lukusanat (числителные)
+>- verbit (глаголы)
+>- adverbit (наречия)
+
+</div>
+
+<div style='float:left;' class='incremental'>
+
+### Apusanaluokat
+
+>- prepositiot (предлоги)
+>- konjunktiot (союзы)
+>- partikkelit (частицы)
+>- interjektiot (междометия)
+
+</div>
+
+
+</div>
+
+<div style='clear:left;padding-top:2em;'>
+
+>- [Tehtävä](../tehtavat/luento1.pdf)
+
+</div>
+
+# Sanojen sisälle
+
+
+<div class='incremental'>![](http://www.clker.com/cliparts/p/B/S/D/v/A/blank-pill-bottle-md.png)
+
+
+>- Morfeemit = muodostavat sanojen todellisen merkityksen
+>- Kielen atomeita
+
+
+</div>
+
+# Esimerkki
+
+<div class="incremental" style="font-size:300%;">
+>- выигриваю
+</div>
+
+<div class="incremental" style="font-size:300%;">
+>- /<span style="color:red">вы</span>/<span style="color:blue">игр</span>/<span style="color:green">ыва</span>/<span style="color:purple">ю</span>/
+</div>
+
+<div class="incremental" style="font-size:300%;">
+>- /пек/у/
+</div>
+
+<div class="incremental" style="font-size:300%;">
+>- /печ/ёшь/
+</div>
+
+<div class="incremental" style="font-size:100%;">
+>- [Tehtävä](../tehtavat/luento1.pdf)
+</div>
+
+<!-- 1. KYSY: Mitä kukin näistä morfeista tuo sanaan? Minkä merkityksen? -->
+<!-- 2. HUOMAUTA: petsh ja pek ovat samaa *morfeemia* -->
+<!-- 3. HUOMAUTA: läheskään aina ei väliä, puhuuko morfista vai morfeemista -->
+
+# Kieliopilliset kategoriat
+
+>- <span style='font-size:200%;'>/стол/ами/</span>
+>- <span style='font-size:200%;'>/крив/ая/</span>
+
+<div class='incremental'>
+## Venäjän kieliopillisia kategorioita
+</div>
+
+>- suku
+>- luku
+>- sija
+>- elollisuus
+>- pääluokka
+>- persoona
+>- aspekti
+>- tapaluokka
+>- aikamuoto
+
+# Morfologian osa-alueita
+
+>- Morfofonologia(морфонология)
+>- Morfosyntaksi (морфосинтаксис)
+>- Funktionaalinen morfologia (функциональная морфология)
+
+# Lopuksi 
+
+>- "Kurssikartat": [1](https://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/kurssikartta1.pdf) ja [2](https://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/kurssikartta2.pdf)
+>- Tutustu kotona Internet-materiaaliin
 
 
 <!--  pandoc -f markdown -s luento1.Rmd -t slideous -o luento1.html --self-contained --include-in-header=fontheader.html-->
+
+<!--
+<table class="incremental" style="visibility: visible;">
+<tr class="evn incremental" style="visibility: visible;"><td>Page Down </td><td>next slide </td></tr>
+</table>
+-->

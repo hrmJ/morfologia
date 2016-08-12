@@ -3,24 +3,30 @@ Tästä kurssista
 ===============
 
 Kaksi kielentutkimuksen perinteistä päähaaraa ovat syntaksi ja morfologia. Siinä
-misä syntaksi tutkii lauserakenteita ja sanojen tai lausekkeiden välisiä
+missä syntaksi tutkii lauserakenteita ja sanojen tai lausekkeiden välisiä
 suhteita, ovat morfologiassa kiinnostuksen kohteena ennen kaikkea sanat itse ja
 se, mistä ne koostuvat.
 
 Rohkaisuksi voin tässä vaiheessa todeta, että periaatteessa kyseessä on
-eräänlainen kertauskurssi: kaikki kursilla käsiteltävät asiat ovat sinulle jo
+eräänlainen kertauskurssi: kaikki kurssilla käsiteltävät asiat ovat sinulle jo
 tuttuja aikaisemmista opinnoistasi. Tämän kurssin pointtina on, että opit
 perusteellisemmin jäsentämään ja analysoimaan osaamistasi. Opit suomen- ja
 venäjänkieliset termit ilmiöille, joihin ennen olet ehkä viitannut vain
 ilmaisulla *"se ющий-päätteinen muoto"*. Samalla saat, toivottavasti, vastuksia
 moniin *miksi*-kysymyksiin, kuten *miksi отец-sanan genetiivi on отца eikä отеца*.
 
-Kurssilla käytettävä materiaali saattaa olla sinulle jossain määrin
+Kurssilla käytettävä  saattaa olla sinulle jossain määrin
 uudenlaisessa muodossa. Toivottavasti et pelästy -- yritykseni on tehdä
 tästäkin "tylsästä kielioppikurssista" oikeasti motivoivaa ja nykyaikaista.
 Samalla on pidettävä mielessä se, että kyseessä ovat yliopiston aineopinnot, ja
 sitä kautta myös tilaisuus opetella syvällisempiä kielen analysoinnin
 työkaluja.
+
+Linkkejä
+========
+
+- [Kurssin Moodle-alue](https://learning2.uta.fi/course/view.php?id=8679)
+
 
 Kurssin aikataulu
 =================
@@ -62,7 +68,7 @@ Luento 1: Mikä ihmeen morfologia?
 ==================================
 
 - [Takaisin sivun ylälaitaan](https://mustikka.uta.fi/~juho_harme/morfologia/#tästä-kurssista)
-- [Lataa PDF](http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento1.pdf)
+- [Lataa PDF](http://mustikka.uta.fi/~juho_harme/morfologia/t/luento1.pdf)
 - [Tutki luentokalvoja](http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento1.html)
 - [Tutki tuntitehtäviä](http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento1.pdf)
 
@@ -79,7 +85,7 @@ kielessä enemmän tai vähemmän selviä ryhmiä: esimerkiksi lekseemeillä *к
 *стол* ja *разрушение* on jotain yhteistä ja ne eroavat lekseemeistä *играть*,
 *слушать* ja *читать*, joilla puolestaan on keskenään jotakin yhteistä.
 Sanaluokkien määrittely ei kuitenkaan ole yksiselitteistä. Mihin sanaluokkaan
-mielestäsi esimerkiksi aktiivin partisiipiin preesensin muoto "позволяющий"
+mielestäsi esimerkiksi aktiivin partisiipin preesensin muoto "позволяющий"
 kuuluu? Entä onko sanalla *тысяча* enemmän yhteistä sanojen *пять*, *десять* ja
 *семь* kanssa kuin edellä mainittujen kolmen substantiivin kanssa? Ahti
 Nikunlassi[-@nikunl: 123] on käsitellyt sanaluokkajaon ongelmia laajasti. Tällä
@@ -174,7 +180,7 @@ voi muodostaa allomorfiparin tai kolmikon suhteessa joihinkin muihin morfeihin.
 
 Jäitkö miettimään, mitä morfeemeja esimerkkien @ee_peku ja @ee_pechesh toiset
 morfit (/у/ ja /ёшь/) edustavat? Kysymys on monimutkaisempi kuin ensi katsomalta
-saattaisi olettaa. Liian informaatiotulvan välttämämiseksi siirrän vastauksen
+saattaisi olettaa. Liian informaatiotulvan välttämiseksi siirrän vastauksen
 tuonnemmaksi ja palaan siihen, kun käsittelemme tarkemmin verbejä sanaluokkana.
 Lisälukemiseksi tässä esitetyistä käsitteistä ks. esimerkiksi
 [@musatov2016: 20; @nikunl: 104, @koivisto2013suomen: 66].
@@ -224,7 +230,7 @@ instrumentaalisijaa. Esimerkin @ee_krivaja /ая/-morfi ilmaisee puolestaan
 yksikköä, nominatiivisijaa ja lisäksi feminiinisukua.
 
 Huomataan siis, että vaikka kieliopilliset morfit eivät sinänsä pysty
-esiintymään yksinään, nillä silti ilmaistaan monenlaisia asioita. "Asia, jota
+esiintymään yksinään, niillä silti ilmaistaan monenlaisia asioita. "Asia, jota
 morfeemilla ilmaistaan" ei ole erityisen kätevä nimitys, mutta onneksi näihin
 voidaan viitata kätevämmin termillä *kieliopillinen kategoria* (грамматическая
 категория).
@@ -288,7 +294,7 @@ Luento 2: morfeemityypeistä ja sanaluokista
 =============================================
 
 - [Takaisin sivun ylälaitaan](https://mustikka.uta.fi/~juho_harme/morfologia/#tästä-kurssista)
-- [Lataa PDF](http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento2.pdf)
+- [Lataa PDF](http://mustikka.uta.fi/~juho_harme/morfologia/t/luento2.pdf)
 - [Tutki luentokalvoja](http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento2.html)
 - [Tutki tuntitehtäviä](http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento2.pdf)
 
@@ -600,7 +606,7 @@ Luento 3: luku, suku ja sija kieliopillisina kategorioina
 ========================================================
 
 - [Takaisin sivun ylälaitaan](https://mustikka.uta.fi/~juho_harme/morfologia/#tästä-kurssista)
-- [Lataa PDF](http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento3.pdf)
+- [Lataa PDF](http://mustikka.uta.fi/~juho_harme/morfologia/t/luento3.pdf)
 - [Tutki luentokalvoja](http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento3.html)
 - [Tutki tuntitehtäviä](http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento3.pdf)
 
@@ -616,7 +622,7 @@ niin kutsutut *pluralia tantum*- ja *singularia tantum* -sanat. Kummatkaan
 näistä sanaryhmistä eivät käytännössä ilmaise lukukategoriaa [@nikunl, 147].
 
 Pluralia tantum -sanat ovat aina monikossa, singularia tantum -sanat puolestaan
-aina yksikössä esiintyviä sanoja. Pluralia tantum -sanat ovat selärajaisempi
+aina yksikössä esiintyviä sanoja. Pluralia tantum -sanat ovat selvärajaisempi
 luokka (siihen kuuluu venäjässä noin 600 sanaa) siinä mielessä, että singularia
 tantum -ryhmän sanoilla voi usein tietyissä käyttötapauksissa tulkita olevan
 monikkomuodonkin.
@@ -626,7 +632,7 @@ huomiota siinä suhteessa, että vaikka mainitut ilmiöt ovat olemassa niin
 suomessa kuin venäjässä, eivät niihin kuuluvien sanojen joukot ole identtisiä.
 Klassinen esimerkki tästä on venäjän sana *мебель*.
 
-Suosittelen tustumaan näiden termien hyviin Wikipedia-artikkeleihin: 
+Suosittelen tutustumaan näiden termien hyviin Wikipedia-artikkeleihin: 
 
 - [singularia tantum](https://ru.wikipedia.org/wiki/Singularia_tantum)
 - [pluralia tantum](https://ru.wikipedia.org/wiki/Pluralia_tantum)
@@ -647,7 +653,7 @@ Luento 4: substantiivien ja lukusanojen deklinaatiot
 ====================================================
 
 - [Takaisin sivun ylälaitaan](https://mustikka.uta.fi/~juho_harme/morfologia/#tästä-kurssista)
-- [Lataa PDF](http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento4.pdf)
+- [Lataa PDF](http://mustikka.uta.fi/~juho_harme/morfologia/t/luento4.pdf)
 - [Tutki luentokalvoja](http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento4.html)
 - [Tutki tuntitehtäviä](http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento4.pdf)
 
@@ -658,5 +664,5 @@ Kirjallisuutta
 ==============
 
 
-<!--  !pandoc -t latex --bibliography=lahteet.bib --template=textemp.tex -o materiaalia/luento1.tex -->
+<!--  !pandoc -t latex --bibliography=lahteet.bib --template=textemp.tex -o a/luento1.tex -->
 <!--  !pandoc morfologia.Rmd -f markdown -t html --bibliography=lahteet.bib --standalone -o index.html -H github-pandoc.css --toc --toc-depth=1 --include-after-body=scripts.js -->
