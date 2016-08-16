@@ -1,0 +1,236 @@
+% Morfologia, luento 2
+% Juho Härme
+% Pinni B 5004, juho.harme@uta.fi
+
+
+# Käytännön kurssi-infoa
+
+>- Kysy (juho.harme@uta.fi) tai tule rohkeasti käymään (B5004)
+>- Materiaalit Moodlen kautta tai suoraan osoitteesta [mustikka.uta.fi/~juho_harme/morfologia](http://mustikka.uta.fi/~juho_harme/morfologia/index.html) 
+>- Luento-opetus + tentti (uusintamahdollisuus tammikuussa)
+
+# Morfeemien alalajit
+
+<div class="incremental">
+>- Vrt. sanaluokat
+</div>
+
+<article class="incremental">
+## Varsinaiset morfeemityypit
+
+>- Juurimorfeemit
+</article>
+
+<article class="incremental">
+>- Affiksit (аффиксы)
+    - prefiksit (префиксы)
+    - suffiksit (суффиксы)
+    - taivutuspäätteet (окончания)
+    - Lisäksi
+        - postfiksit (постфиксы)
+        - interfiksit (интерфиксы)
+</article>
+
+<div class="incremental">
+## Muita käsitteitä
+</div>
+
+<div class="incremental">
+>- Sanavartalo (основа)
+</div>
+
+# Esimerkkejä 1
+
+<article class="nobul" style="float:left;margin-left:3em;">
+
+<article class="incremental" style="font-size:300%;">
+- /автор/
+</article>
+
+<article class="incremental">
+- juurimorfeemi: sanan lähtökohtainen leksikaalinen merkitys
+</article>
+
+<article class="incremental" style="font-size:300%;">
+>- одеть
+>- /о/<span style="color:red">де</span>/ть/
+</article>
+
+<article class="incremental">
+- sidotut (связанные) juurimorfeemit (/де/)
+- vapaat (свободные) juurimorfeemit (/автор/)
+</article>
+
+</article>
+
+<article  style="float:left;margin-left:3em;">
+
+<article class="incremental nobul" style="font-size:300%;">
+- [играть](http://ru.wiktionary.org/wiki/играть)
+- [кукушка](http://ru.wiktionary.org/wiki/кукушка)
+- [синий](http://ru.wiktionary.org/wiki/синий)
+</article>
+
+</article>
+
+# Esimerkkejä 2
+
+<article  style="float:left;margin-left:3em;">
+<article class="incremental" style="font-size:300%;">
+- /со/автор/
+</article>
+
+<article class="incremental">
+- prefiksit: ennen juurimorfia
+</article>
+
+<article class="incremental nobul" style="font-size:300%;">
+>- надеть
+>- переобразовать
+>- заплатить
+>- супермодный
+</article>
+</article>
+
+
+<article  style="float:left;margin-left:3em;">
+<article class="incremental" style="font-size:300%;">
+- /хитр/ость/
+</article>
+
+<article class="incremental">
+- suffiksit: juurimorfin jälkeen
+</article>
+
+<article class="incremental nobul" style="font-size:300%;">
+>- однокурсник
+>- учить
+>- гулять
+>- уитель
+</article>
+</article>
+
+# Esimerkkejä 3
+
+
+<article  style="float:left;margin-left:3em;">
+<article class="incremental" style="font-size:300%;">
+- учител/ей/
+</article>
+
+<article class="incremental">
+- taivutuspäätteet: prefiksien, juurin ja suffiksien jälkeen
+- ilmaisevat kieliopillisia kategorioita (vrt. sananmuodostus)
+  - *sananmuotojen* välisiä eroja
+</article>
+
+<article class="incremental nobul" style="font-size:300%;">
+>- смотрю
+>- гуляла
+>- удачный
+</article>
+</article>
+
+<article  style="float:left;margin-left:3em;">
+
+<article class="incremental nobul" style="font-size:300%;">
+>- книга
+>- обед
+>- /обед/ø/
+</article>
+
+>- [Tehtävä](../tehtavat/luento2.pdf)
+
+</article>
+
+
+# Postfiksit ja interfiksit
+
+<article class="incremental" style="font-size:300%;">
+>- /кто/-нибудь/
+>- [/готов/и/ть/ся/](https://ru.wiktionary.org/wiki/%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%B8%D1%82%D1%8C%D1%81%D1%8F)
+>- /чёрн/о/бел/ый/
+</article>
+
+<article class="incremental">
+- postfiksit: juurimorfin jälkeen
+- interfiksit: sanoja yhdistettäessä
+>- [Tehtävä](../tehtavat/luento2.pdf)
+</article>
+
+# Pari sanaa morfofonologiasta 1
+
+<article class="incremental nobul" style="font-size:300%;">
+>- морозить -- морожу
+>- /мороз/и/ть/ -- /морож/у/
+>- платить -- плачу
+>- /плат/и/ть/ -- /плач/у/
+>- косить -- кошу
+>- /кос/и/ть/ -- /кош/у/
+</article>
+
+# Pari sanaa morfofonologiasta 2
+
+<article  style="float:left;margin-left:3em;">
+>- Liudentuneet ja liudentumattomat: kaksi eri äännettä
+<article class="incremental nobul" style="font-size:300%;">
+>- ко[т]-- ко[т']ик
+>- пу[т']-- спу[т]ник
+</article>
+</article>
+
+<article  style="float:left;margin-left:3em;">
+>- р -- р'
+>- м -- м'
+>- д -- д'
+>- т -- т'
+>- н -- н'
+>- с -- с'
+>- б -- б'
+>- л -- л'
+>- ф -- ф'
+>- г -- г'
+>- х -- х'
+>- к -- к'
+>- в -- в'
+>- з -- з'
+>- п -- п'
+</article>
+
+# Tulevan pohjustusta
+
+>- Substantiivit
+    - luku, suku, sija, elollisuus
+>- Adjektiivit
+    - luku, suku, sija, vertailuaste
+>- Pronominit
+    - luku, suku, sija, elollisuus
+    - persoona
+    - hankala erottaa juurimorfeja/suppletiivisuus: /я/ /мен/я/
+>- Lukusanat
+    - eivät aina ilmaise lukua!
+    - eivät yleensä ilmaise sukua
+    - järjestysluvut (порядковые) vs. peruslukusanat (количественные числительные)
+    - osa morfologisesti substantiiveja
+
+# Tehtävä
+
+Mitä kieliopillisia kategorioita seuraavat sananmuodot ilmaisevat?
+
+<article class="incremental nobul" style="font-size:230%;">
+>- /игр/а/
+>- /конеч/н/ых/
+>- /мо/ём/
+>- /пят/и/
+>- /президент/а/
+>- /ножниц/ы/
+</article>
+
+
+# Lopuksi 
+
+>- [Kokeile venäjän kansalliskorpusta](http://ruscorpora.ru/search-main.html)
+
+
+<!--  pandoc -f markdown -s luento1.Rmd -t slideous -o luento1.html --self-contained --include-in-header=fontheader.html --smart -->
+

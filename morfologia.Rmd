@@ -46,8 +46,8 @@ ti 4.10.  | Yleistä verbeistä
 ke 5.10.  | Persoona kieliopillisena kategoriana + Partisiippien muodostus
 ti 11.10. | Pääluokka kieliopillisena kategoriana
 ke 12.10. | Pääluokka + partisiipit funktionaalisen morfologian kannalta
-ti 19.10  | PERIODITAUKO
-ke 20.10  | PERIODITAUKO
+ti 18.10  | PERIODITAUKO
+ke 19.10  | PERIODITAUKO
 ti 25.10. | Aspekti kieliopillisena kategoriana
 ke 26.10. | Aspektin muodostus ja aspektiparin käsite
 ti 1.11.  | Aspekti funktionaalisen morfologian kannalta 1
@@ -68,7 +68,7 @@ Luento 1: Mikä ihmeen morfologia?
 ==================================
 
 - [Takaisin sivun ylälaitaan](https://mustikka.uta.fi/~juho_harme/morfologia/#tästä-kurssista)
-- [Lataa PDF](http://mustikka.uta.fi/~juho_harme/morfologia/t/luento1.pdf)
+- [Lataa PDF](http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento1.pdf)
 - [Tutki luentokalvoja](http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento1.html)
 - [Tutki tuntitehtäviä](http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento1.pdf)
 
@@ -294,7 +294,7 @@ Luento 2: morfeemityypeistä ja sanaluokista
 =============================================
 
 - [Takaisin sivun ylälaitaan](https://mustikka.uta.fi/~juho_harme/morfologia/#tästä-kurssista)
-- [Lataa PDF](http://mustikka.uta.fi/~juho_harme/morfologia/t/luento2.pdf)
+- [Lataa PDF](http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento2.pdf)
 - [Tutki luentokalvoja](http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento2.html)
 - [Tutki tuntitehtäviä](http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento2.pdf)
 
@@ -306,7 +306,13 @@ todettiin, että kieliopillisia morfeemeja voidaan luokitella juurimorfeemeiksi,
 postfikseiksi[^fikshuom], taivutuspäätteiksi ja interfikseiksi. Nämä voidaan jo
 lähtökohtaisesti jakaa kahteen ryhmään: juurimorfeemeihin ja
 *affikseihin* (аффиксы).
-Tutkitaan kumpaakin ryhmää seuraavassa tarkemmin.
+Tutkitaan kumpaakin ryhmää seuraavassa tarkemmin. Kun mietit yksittäisen sanan
+jakautumista morfeihin, [wikisanakirja](http://ru.wiktionary.org) on kätevä ja
+helppolukuinen paikka lähteä liikkeelle, josta löydät myös viitteet
+'vakavampiin' kirjallisiin lähteisiin. Kannattaa kuitenkin pitää mielessä,
+ettei sanan jakaminen morfeiksi ole sekään millään lailla objektiivista,
+itsenäistä todellisuutta vaan käytettävistä teoreettisista lähtökohdista
+riippuvaisen tulkinnan tulos.
 
 [^fikshuom]: Jos ihmettelet, miksi kaikki nämä nimitykset päättyvät
 "fiksi/фикс", sanojen etymologia juontaa latinan *figere*-verbiin, jonka
@@ -457,7 +463,7 @@ ajatelleeksikaan, että seuraavat äänneparit [@musatov2016: 148-149] eivät it
 asiassa edusta saman äänteen kahta eri versiota vaan kahta eri äännettä -- kahta
 eri foneemia:
 
-- р -- р
+- р -- р'
 - м -- м'
 - д -- д'
 - т -- т'
@@ -523,7 +529,8 @@ pääaineiston sanoista 28,5% on substantiiveja. Substantiivit ilmaisevat niin
 sukua, lukua, sijaa kuin elollisuuttakin.
 
 Substantiiveja voidaan luonnollisesti jaotella edelleen esimerkiksi semanttisin
-perustein (merkityksen mukaan). Voidaan erotella *yleisnimet* () ja
+perustein (merkityksen mukaan). Voidaan erotella *yleisnimet* (имена
+нарицательные) ja
 erisnimet (имена собственные).
 Toisaalta voidaan puhua abstrakteista tai konkreettisista substantiiveista.
 Lisäksi oma ryhmänsä ovat ainesanat kuten каша, нефть ym.
@@ -536,7 +543,8 @@ Myös adjektiivit ilmaisevat suku- luku- ja sijakategorioita sekä ainakin
 välillisesti elollisuuttakin. Niiden erikoisuus ovat lisäksi *vertailuasteet*
 (степени сравнения), joita niiden lisäksi ilmaisevat vain adverbit.
 
-Adjektiivit esiintyvät venäjässä *pitkinä* ja *lyhyinä* muotoina ().
+Adjektiivit esiintyvät venäjässä *pitkinä* ja *lyhyinä* muotoina (длинные и
+короткие формы прилагательных).
 Lyhyiden muotojen käyttö on syntaktisesti rajoitettua: ne toimivat ainoastaan
 predikatiiveina, kuten esimerkissä @ee_tufli.
 
@@ -599,14 +607,12 @@ ym.) joiden käyttöympäristöt ovat melko rajattuja. Nekään eivät ilmaise l
 eli eivät tee eroa yksikön ja monikon välillä.
 
 
-[tehtävä: mitä kieliopillisia kategorioita muodot ilmaisevat?]
-
 
 Luento 3: luku, suku ja sija kieliopillisina kategorioina
 ========================================================
 
 - [Takaisin sivun ylälaitaan](https://mustikka.uta.fi/~juho_harme/morfologia/#tästä-kurssista)
-- [Lataa PDF](http://mustikka.uta.fi/~juho_harme/morfologia/t/luento3.pdf)
+- [Lataa PDF](http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento3.pdf)
 - [Tutki luentokalvoja](http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento3.html)
 - [Tutki tuntitehtäviä](http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento3.pdf)
 
@@ -653,7 +659,7 @@ Luento 4: substantiivien ja lukusanojen deklinaatiot
 ====================================================
 
 - [Takaisin sivun ylälaitaan](https://mustikka.uta.fi/~juho_harme/morfologia/#tästä-kurssista)
-- [Lataa PDF](http://mustikka.uta.fi/~juho_harme/morfologia/t/luento4.pdf)
+- [Lataa PDF](http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento4.pdf)
 - [Tutki luentokalvoja](http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento4.html)
 - [Tutki tuntitehtäviä](http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento4.pdf)
 
