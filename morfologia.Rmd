@@ -35,6 +35,7 @@ Pvm       | Aihe
 ----------|---------------------
 ti 30.8.  | Mikä ihmeen morfologia?
 ke 31.8.  | Morfien luokittelua + yleistä nomineista
+ti 6.9.   | EI LUENTOA (avajaiset)
 ke 7.9.   | Luku, sija ja suku kieliopillisina kategorioina
 ti 13.9.  | Substantiivien ja lukusanojen deklinaatiot
 ke 14.9.  | Adjektiivien ja pronominien deklinaatiot + vertailuaste
@@ -95,7 +96,7 @@ objektiivisia kategorioita, vaan enemmän tai vähemmän kompromissien tuloksena
 syntynyt taksonomia eli luokittelu.
 
 Slavistisessa perinteessä on tapana erotella toisistaan itsenäiset sanaluokat
-(самостоятельные части речи) ja apusanaluokat (служебные части речи) Lisäksi
+(самостоятельные части речи) ja apusanaluokat (служебные части речи). Lisäksi
 luokittelua voidaan jatkaa morfologisin perustein esimerkiksi niin, että
 sijoissa taipuvia sanoja (käytännössä substantiiveja, adjektiiveja, lukusanoja, pronomineja)
 kutsutaan yhteisesti *nomineiksi*. 
@@ -184,10 +185,6 @@ saattaisi olettaa. Liian informaatiotulvan välttämiseksi siirrän vastauksen
 tuonnemmaksi ja palaan siihen, kun käsittelemme tarkemmin verbejä sanaluokkana.
 Lisälukemiseksi tässä esitetyistä käsitteistä ks. esimerkiksi
 [@musatov2016: 20; @nikunl: 104, @koivisto2013suomen: 66].
-
-Pohditaan nyt vähän tarkemmin sanojen jakamista morfeihin.
-
-[tehtävä 2: erottele morfeemeja]
 
 Älä pelästy, vaikka morfien erottelu ei aina ole selkeää. Voi olla, että sanasta
 voisi löytyä enemmän osasia kuin luulit tai voi myös olla, että pilkot sanan
@@ -441,7 +438,6 @@ kun postetaan taivutuspäätteet, esimerkiksi (vartalo erotettu kursiivilla):
 
 (@ee_prepodovatelja) */преподава/тел*/я/
 
-[tehtävä 2.1: luokittele morfeemeja]
 
 Morfofonologisista vaihteluista
 -------------------------------
@@ -618,6 +614,10 @@ Luento 3: luku, suku ja sija kieliopillisina kategorioina
 
 Luku kieliopillisena kategoriana
 --------------------------------
+
+Kuten edellä todettiin, lukukategoria koostuu venäjässä tasan kahdesta
+vaihtoehdosta, joiden suhteen sananmuodot ovat oppositiossa keskenään: jos
+sanat ilmaisevat lukua, ne ilmaisevat joko *yksikköä* (единственное число) tai monikkoa (множественное число). Tarkastellaan seuraavassa muutamaa tähän liittyvää erityistapausta.
 
 ### Erikoistapauksia
 

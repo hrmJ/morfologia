@@ -174,7 +174,8 @@
 <article  style="float:left;margin-left:3em;">
 >- Liudentuneet ja liudentumattomat: kaksi eri äännettä
 <article class="incremental nobul" style="font-size:300%;">
->- ко[т]-- ко[т']ик
+>- мо[л] -- мо[л']
+>- ко[т] -- ко[т']ик
 >- пу[т']-- спу[т]ник
 </article>
 </article>
