@@ -1,0 +1,59 @@
+% Morfologia, luento 3
+% Juho Härme
+% Pinni B 5004, juho.harme@uta.fi
+
+
+# Luku kieliopillisena kategoriana
+
+<article class="incremental nobul" style="font-size:250%;">
+>- ножницы
+>- штаны
+>- выборы
+>- молодёжь
+>- молоко
+>- лень
+</article>
+
+# Huomiota liittyen lukukategoriaan
+
+>- Singularia tantum -sanat ainesanoja, kollektiivisanoja, abstrakteja sanoja ym.
+>- Luku ja kongruenssi: 
+    - эти занятия мне **нравятся**
+    - твои кроссовки мне **малы**
+>- Luvun oletusarvo: yksikkö
+    - бабушке стало лучше
+
+# Suku kieliopillisena kategoriana
+
+<article  style="float:left;margin-left:3em;">
+>- Adjektiiveilla suku on taivutuskategoria: sukua ilmaistaan päätteillä
+
+<article class="incremental nobul" style="font-size:300%;">
+>- небывал/ый/
+>- небывал/ая/
+>- небывал/ое/
+</article>
+</article>
+<article  style="float:left;margin-left:3em;">
+>- Substantiiveilla sukua ei ilmaista päätteillä, vaan vartalolla
+    - Suku ilmenee syntaktisesti
+        - В молодости Джеймс играл в футбол
+        - большой ястреб
+    - **Miten suku määräytyy?**
+</article>
+
+# Suvun määräytyminen substantiiveilla 1
+
+<article class="incremental nobul" style="font-size:300%;">
+Tehtävä: muodosta parisi kanssa säännöt sille, miten substantiivin suku määräytyy
+</article>
+
+>- Poikkeusten ja säännön monimutkaisuuden suhde?
+>- Mahdollisimman suuri yleistettävyys
+
+# Suvun määräytyminen substantiiveilla 2
+
+
+
+<!--  pandoc -f markdown -s luento1.Rmd -t slideous -o luento1.html --self-contained --include-in-header=fontheader.html --smart -->
+

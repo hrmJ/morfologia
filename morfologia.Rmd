@@ -499,6 +499,8 @@ tapauksia [ks. @musatov2016: 158] ovat esimerkiksi [з']/[ж]-vaihtelu
 (@ee_platit) платить -- плачу
 (@ee_kosit) косить -- кошу
 
+Listaa tavallisista äänteenmuutoksista voi tutkia esimerkiksi [@sheljakin:
+21-22].
 
 Tällä kurssilla morfit merkitään aina kun mahdollista tavallisen kirjoitusasun
 mukaisesti. Jos huomio kuitenkin on esimerkiksi äänteenmuutoksissa, saatetaan
@@ -615,13 +617,26 @@ Luento 3: luku, suku ja sija kieliopillisina kategorioina
 Luku kieliopillisena kategoriana
 --------------------------------
 
-Kuten edellä todettiin, lukukategoria koostuu venäjässä tasan kahdesta
+Kuten edellä todettiin, lukukategoria (категория числа) koostuu venäjässä tasan kahdesta
 vaihtoehdosta, joiden suhteen sananmuodot ovat oppositiossa keskenään: jos
-sanat ilmaisevat lukua, ne ilmaisevat joko *yksikköä* (единственное число) tai monikkoa (множественное число). Tarkastellaan seuraavassa muutamaa tähän liittyvää erityistapausta.
+sanat ilmaisevat lukua, ne ilmaisevat joko *yksikköä* (единственное число) tai monikkoa (множественное число). 
+
+Voidaan sanoa, että luvun *oletusarvo* on yksikkö [@nikunl: 147]. Näin voidaan
+päätellä, koska monet sananmuodot eivät voi olla ilmaisematta lukua: esimerkiksi
+verbin *стать* preteritimuoto ilmaisee aina joko yksikköä tai monikkoa
+(стал,стала,стало,стали). Jos lauseessa ei ole elementtiä, joka ohjaisi
+(kongruenssi) käyttämään jompaakumpaa, valitaan yksikkö, niin kuin esimerkissä
+@ee_stalo:
+
+
+(@ee_stalo) Бабушке стало лучше.
+
+
+Tarkastellaan seuraavassa muutamaa lukukategoriaan liittyvää erityistapausta.
+
 
 ### Erikoistapauksia
 
-[tehtävä 3.1]
 
 Substantiiveilla lukukategorian ilmaisemiseen liittyy kaksi erityistapausta:
 niin kutsutut *pluralia tantum*- ja *singularia tantum* -sanat. Kummatkaan
@@ -648,6 +663,20 @@ Suku kieliopillisena kategoriana
 --------------------------------
 
 Semanttinen ja morfologinen määräytyminen
+
+### Substantiivien suvun määräytyminen
+
+Perinteinen tapa opettaa suvun määräytymistä on vain todeta, että äänteisiin X,
+Y ja Z päättyvät substantiivit ovat maskuliineja, äänteisiin A, B, C päättyvät feminiinejä ja
+äänteisiin  D, E, F taas neutreja. Tätä tapaa noudattaa esimerkiksi Šeljakin
+[-@sheljakin: 28] [ks. myös esimerkiksi @wade2010: 54]. Noudattelen tässä kuitenkin Nikunlassin [@nikunl, 150--151]
+esitystapaa, joka on eksaktimpi. Omassa tulevassa opetustyössä kannattaa pohtia,
+mikä tapa on oppilaiden omaksumisen kannalta paras ja muodostaa mahdollisesti
+oma kompromissinsa. Liiassa yksinkertaistamisessa on joka tapauksessa vaaransa.
+
+
+
+
 
 Sija kieliopillisena kategoriana
 --------------------------------

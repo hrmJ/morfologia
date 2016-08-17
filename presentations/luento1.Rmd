@@ -113,6 +113,8 @@
 >- tapaluokka
 >- aikamuoto
 
+[Kansalliskorpus](http://www.ruscorpora.ru)
+
 # Morfologian osa-alueita
 
 >- Morfofonologia(морфонология)
@@ -125,7 +127,7 @@
 >- Tutustu kotona Internet-materiaaliin
 
 
-<!--  pandoc -f markdown -s luento1.Rmd -t slideous -o luento1.html --self-contained --include-in-header=fontheader.html-->
+<!--  pandoc -f markdown -s luento1.Rmd -t slideous -o luento1.html --self-contained --include-in-header=fontheader.html --smart -->
 
 <!--
 <table class="incremental" style="visibility: visible;">

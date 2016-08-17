@@ -1,0 +1,822 @@
+Nikunlassi (laajuus: s. 100 - 228 = 128s.)
+	kieliopillinen kategoria (s.33)
+		esim lukukategoria (venäjässä y tai m)
+			kieliopilliset muodot ovat tämän suhteen oppositiossa
+	äänteiden luokittelua (s.81)
+		konsonantit
+			ääntö(artikulaatio)paikan mukaan
+				labiaalit
+					bilabiaalit
+						пбмю
+					dentolabiaalit
+						Фв
+				dentaalit
+					тдсзжчцщщлр
+				palataalit
+					j
+				velaarit
+					кгх
+			ääntö(artikulaatio)tavan mukaan
+				obstruentit
+					klusiilit (взрывные)
+						пбтдкг
+					frikatiivit
+						spirantit (плоскощелевые)
+							вфх
+						sibilantit (круглощелевые)
+							suppeat (свистящие)
+								сз
+							väljät (шипящие)
+								шщж
+					affrikaatat
+						чц
+				resonantit
+					nasaalit
+						мн
+					lateraalit
+						л
+					tremulantit
+						р
+					puolivokaalit
+						j
+		vokaalit
+			venäjän vokaalifoneemit painollisuuden suhteen
+				| Foneemi | Painollinen tavu | Painoton tavu       |
+				| /и/     | [и], [ы]         | [ы] [и] [ь] [ъ]     |
+				| /э/     | [э]              | [э] [и] [ь] [ъ]     |
+				| /а/     | [а]              | [ʌ] [и] [ь] [ъ] [æ] |
+				| /о/     | [о]              | [ʌ] [и] [ь] [ъ]     |
+				| /у/     | [у]              | [у]                 |
+			ympäröivät konsonantit vaikuttavat ääntämykseen (s.86)
+				1. edeltävä ja seuraava liudentunut konsonantti
+					liudentunut
+						seurauksena vokaalien suppeusa artikulaation alussa tai lopussa
+			ks. myös
+				https://en.wikipedia.org/wiki/IPA_vowel_chart_with_audio
+				http://dialectblog.com/the-international-phonetic-alphabet/the-ipa-vowels/
+	yleisen kielitieteen kannalta
+		semiotiikasta
+			- merkkien tiede
+			- luonnolliset kielet ovat monimutkaisimpia merkkijärjestelmiä (s.29)
+				- symboleja: merkin ja merkityksen suhde mielivaltainen
+				- ikonit: merkki kuvastaa merkitystä (kielissä lähimmäs pääsevät onomatopoettiset sanat)
+				- indeksit: savu ja tuli
+			- kaksoisjäsennys (s.30)
+				- двойное членение
+				1. kielellinen merkki voidaan jakaa merkitystä ilmaiseviin osiin > morfi (гор-а)
+				2. merkin jako äänteisiin, joilla ei ole omaa merkityssisältöä
+				- myös nollamorfit eli jonkin puuttuminen (гор-sanan genetiivi)
+		morfi ja morfeemi
+			muista ylipäätään määritelmä: pienin jakamaton merkitystä erottava yksikkö {}-merkit
+				- "kielen atomit"
+			morfin ja sanamuodon ero (s.100)
+				sanamuodon määritelmä on, että voi toimia minimaalisena autonomisena lausumana
+					- voi esiintyä yksinään lausumana
+					- osien järjestystä ei voi muuttaa
+					- väliin ei voi laittaa muita sanamuotoja
+				näin ollen venäjässä
+					- кое-где ei ole sanamuoto
+					- pelkkä prepositio tai prepositiomuoto (руках) eivät ole sanoja
+			morfologia voidaan jakaa taivutusoppiin (словоизменение) ja sananmuodostusoppiin (словообразование)
+				- taivutusoppi tutkii taivutusmuotojen syntymistä
+					ilmaisee sanojen suhteita ja sanojen kieliopillisia kategorioita
+				- sananmuodostusoppi tutkii joko taipumattomien sanojen tai sanojen vartalonmuodostuskeinojen muodostamista
+					ilmaisee, miten uusia sanoja syntyy
+					- joskus poisluetaan yhdyssanojen muodostus
+				- vrt. taivutusmorfeemi ja johtomorfeemi
+			morfologian alalajeja
+				painotetaanko muotoa vai merkitystä?
+					muoto
+						morfemiikka ja morfofonologia (s.101)
+							morfemiikka 
+								- mitä tutkii?
+									- mitä morfeja kielessä on
+									- morfien luokittelu mm. funktion perusteella
+								- alalajeja:
+									morfofonologia 
+										- tutkii äänneveihteluita allomorfien välillä
+					funktionaalinen morfologia (s.102)
+						esimerkiksi, miksi käytetään tiettyä aspektia
+			morfit
+				pienin merkitystä tai funktiota ilmaiseva osa (s.102)
+					morfit erotetaan (on erotettu) sanojen muotoja ja merkityksiä vertailemalla
+						kun kielen kaikki morgit on saatu lueteltua, siirrytään niiden luokitteluun
+					eri alalajit
+						juurimorfi (s.103)
+							корень, корневой морф
+							jokaisessa sanassa on juurimorfi
+							pysyy taivutettaessa muuttumattomana, ilmaisee konkreettisempaa merkitystä
+							johdoksissa se morfi, joka on alunperin toiminut johtoprosessin lähtökohtana
+								книж-ка
+							juurimorfit avoin luokka, affiksit suljettu
+						affiksit
+							- Tärkeää suffiksin ja päätteen ero!
+								suffiksi: ость... pääte ость[0]
+							prefiksit ja suffiksit
+								käytetään sananmuodostuksessa
+								prefiksit ennen juurta, suffiksit sen jälkeen
+							taivutuspäätteet
+								окончания, флексии
+								eri merkitys ja sijainti kuin suffikseilla
+									ilmaisevat kieliopillisia merkityksiä
+									sijoittuvat suffiksien jälkeen
+							interfiksit
+							postfiksit
+								taivutuspäätteen jälkeen.. иди-ка, готовить-ся (s. 104)
+								joskus kaikkia juurimorfin jälkeen ttulevia affikseja kutsutaan postfikseiksi
+						vartalo (s.104)
+							основа
+							- se taivutusmuodon osa, joka jää jäljelle kun taivutuspäätteet poistetaan
+							- johtovartaloita ylipäätään kaikki osat, jotka toimivat lähtökohtana uusia sanoja muodostettaessa
+			suppletiiviset morfit
+				esim. идти-verbillä ид,ид',шo,ja шэд ovat fonologisesti erilaisia, mutta kuitenkin täydennysjakaumassa toistensa kanssa (s.105)
+				myös taivutuspäätteillä suppletiivisuutta. 0, a ja o kaikki ilmiasevat yks. + nom, mutta mikä oikeastaan on morfeemi?
+					{YKS.NOM, 1.deklinaatio} vai
+					{YKS.NOM} -> 0 / 1.deklinaatio (=ympäristö, jossa sääntö toteutuu)
+			allomorfi
+				*morfit voivat olla allomorfeja keskenään suhteessa johonkin morfeemiin*
+				samaa morfeemia edustavat morfit ovat keskenään allomorfeja (s.105) #määritelmä
+					merkitykseltään samat, fonologisesti osittain samanlaiset + keskenään täydennysjakaumassa
+			salkkumorfit
+				гибридные
+				kantavat useaa merkitystä: esim. yksikkö ja nominatiivi, merkitys 'muistiin'  ja aspekti
+					vrt. sitä, että monikollisuudelle oma morfeeminsa, kuten usein suomessa: kirja-lla >> kirjo-i-lla
+			nollamorfi
+				hyödyllinen abstraktio(s.107-108)
+					venäjässä tavallinen, esim. m.y.nom
+					myös verbeissä
+						решить - реш[0]у
+							vrt. решать
+							реш-а-ю
+						imperatiivi
+							читай[0][0]
+			jäännösmorfi (s.109)
+				- selvästi erotettavissa muusta vartalosta, mutta 
+					- ei itsessään tarkoita mitään eikä 
+					- ei esiinny muissa sanoissa
+				- on ainoastaan morfinkaltainen, ei varsinainen morfi
+					- брусн-ик-а
+					- ра-дуг-а
+			morfeemit 
+				vrt. foneemi ja konkreettinen äänne
+				kielen pienin merkitystä tai funktiota ilmaiseva yksikkö, joka edustuu puheessa yhtenä tai useampana morfina (104) #määritelmä
+				samaa morfeemia edustavat morfit ovat 
+		morfofonologia
+			morfofonologinen vaihtelu (s.109)
+				allomorfien välinen säännönmukainen vaihtelu
+					määräytyy ympäröivien äänteiden perusteella
+				morfofoneemin (морфонема) käsite
+					vrt suomen llA, jossa A (morfofoneemi) = [a/ä]
+				se, mikä allomorfi realisoituu, riippuu sitä seuraavien (tai edeltävien) affiksien yms. morfologisista ominaisuuksista
+				vrt. esim . 4 мороз-allomorfia O-->a /__C[n]+/ива/
+				myös sääntöjä, jotka eivät rajoitu vain tiettyihin konkreettisiin morfeihin (s.111)
+					"kaikkien н- tai н'-foneemilla alkavien substantiivin ja adjektiivin suffiksien edellä velaarit vaihtuvat suhuäänteiksi"
+						книж-н-ый, ореш-ник
+				kaksi venäjän tärkeintä morfofonologista vaihtelua #vaihtelut
+					1. transitiivinen palatalisaatio (переходное смягчение)
+						= parillisten liudentuneiden ja liudentumattomien konsonanttien välinen vaihtelu
+							ks. myös s.83
+						esim. possessiiviadjektiiveilla:
+							мам-a/-мам'-ин
+						verbeillä
+							| muutos     | просить                | писать                                  |
+							| --------   | ---------------------- | -------------------                     |
+							| т-ч        | крутить-кручу          | бормотать-бормочу                       |
+							| т-щ        | обратить-обрашу        | клеветат-клевещу                        |
+							| д-ж        | посадить-посажу        | глодать-гложу                           |
+							| с-ш        | опросить-опрошу        | писать-пишу                             |
+							| з-ж        | изобразить-изображу    | резать-режу                             |
+							| ст-щ       | отомстить-отомщу       | свистать-свищу                          |
+							| к-ч        | -                      | плакать-плачу                           |
+							| г-ж        | -                      | двигать-дивжу                           |
+							| х-ш        | -                      | махать-машу                             |
+							| ск-щ       | -                      | искать-ищу                              |
+							| п-пл       | накопить-накоплю       | трепать-треплю                          |
+							| б-бл       | погубить-погублю       | колебать-колеблю                        |
+							| ф-фл       | разграфить-разграфлю   | -                                       |
+							| в-вл       | обновить-обновлю       | -                                       |
+							| м-мл       | покормить-покормлю     | дремать-дремлю                          |
+							| зд'-зж     | -                      | наездить-наезжу                         |
+							| д'-ж-жд'   | -                      | предупредить-предупрежу-предупреждённый |
+							| зд'-зж-жд' | -                      | пригвоздить-пригвозжу-пригвождённый     |
+					2. väistyvä vokaali (беглый гласный)
+						- tyypillisiä tapauksia
+							- ец,от-,сон
+						- perussääntö: (s.113)
+							# --> V /_[0] tai %
+							muussa tapauksessa # --> %
+						- säännössä # = väistyvä vokaali, % = nollaäänne, /_tarkoittaa ymäristöä, jossa seuraa nollamorfinen taivutuspääte tai 
+							во сне mutta в сон
+						- poikkeuksia, esim (s.114)
+							американец, американца, mutta подлеца, хитреца
+				Lisää vaihtelutapauksia
+					substantiiveilla
+						juurimorfissa (s.117)
+							parilliset liudentuneet ja liudentumattomat kons.
+								- ник-suffiksi
+									школа - школьник
+								- /#н/-suffiksi
+									школа - школьный
+							velaarien ja suhuäänteiden vaihtelu
+								- ник-suffiksi
+									волк - волчище
+					ks. myös
+						http://russian.cornell.edu/verbs/irg06stemchanges.htm#conchangetable
+						http://www.auburn.edu/~mitrege/russian/tutorials/0004.html
+						https://quizlet.com/143993344/russian-consonant-changes-flash-cards/
+				Missä morfofonologista vaihtelua yleensä tapahtuu?
+					- morfien rajoilla (s.116)
+					- poikkeuksena väistyvä vokaali sekä esim мороз-мораж
+				vaihteluiden systemaattisuus ja produktiivisuus
+					parillisten liudentumattomien ja liudentuneiden vaihtelu produktiiivisempaa
+						- казасшкий, mutta nykyään казахский, eli vaihtelua ei tapahdu
+						- пропылесосыть - пропылесошу, mutta nykyään myös пропылесосю
+				OPPIMISESTA (s.117)
+					 - helpottaa se, että sama äänne tuottaa yleensä samat vaihtelut, vaikka morfeemin merkitys tai tyyppi olisikin eri
+						- ин-suffiksi voi tarkoittaa eläimen lihaa, suurta kokoa tai yhtä kappaletta
+							- kaikissa samat muutokset
+							- vrt. г-ж
+								Koko: бульдог - бульдожина
+								Liha: Белуга - белужина
+								Kpl: жемчуг - жемчужина
+			Muita morfofonologian ilmiöitä
+				typistäminen
+					Тампере - тамперский
+				limittyminen
+					vrt. haplologia
+				interfiksaatio
+					сомали - сомалийский
+					debattia siitä, mikä lasketaan interfiksaation piiriin
+						perusmääritelmä, että yksi tai useampi äänne joita käytetään yhdistämään sanan osia toisiinsa
+		nykyvenäjä morfologiaan perustuvassa luokittelussa (s.119-121)
+			Jako 1: analyyttinen - synteettinen
+				- a: kieliopillisia suhteita ilmaistaan kieliopillisten sanojen ja sanajärjestyksen avulla
+				- s: taivutuspäätteiden avulla
+				- venäjän rooli:
+					perusluonteeltaan synteettinen, mutta analyyttisia piirteitä:
+						- konditionaali partikkelilla
+						- prepositiot
+						- liittofutuuri
+						- ym.
+			Jako 2: isoloiva-agglutinoiva-fuusioiva-polysynteettinen
+				- isoloivia kiina ja vietnam, joissa sanat eivät taivu
+				- agglutinoivassa päätteet lisätään toistensa perään
+					- ei juuri vartalonmuutoksia
+					- yksi affiksi yleensä ilmaisee yhtä merkitystä
+				- fuusioivassa paljon salkkumorfeja ja vartalonmuutoksia
+				venäjän rooli
+					- tässä mielessä venäjä fuusioiva
+					- kuitenkin myös agglutinoivia piirteitä,kuten где-то sekä preteritin päätteet
+			Kritiikkiä:
+				jaot keskittyvät taivutuksen tutkimiseen ja sananmuodostusta ei oteta huomioon
+				suurin osa kielistä on sekoituksia useasta kategoriasta
+				vaihtoehtona tarjottu kvantitatiivista analyysia: 
+					- esim. kuinka monta merkitystä keskimäärin morfilla on?
+			...
+	sanojen luokittelu kieliopillisten ominaisuuksien perusteella #sanaluokat
+		perinteinen sanaluokkajako (s.122)
+			jako itsenäisiin (самостоятельные) ja apussanaluokkiin (служебные)
+				itsenäiset
+					itsenäiset voivat toimia lauseenjäsenenenä (joko attribuuttina tai subjekti ym.)
+						tämä perustuu siihen, että niillä on selvä leksikaalinen merkitys
+					luokat
+						существительные
+						прилагательные
+						местоимения
+						числитльные
+						глаголы
+						наречия
+							предикативные наречия / слова категориии состояния #predikatiiviadverbit
+				apusanaluokat
+					предлоги
+					союзы
+					частицы
+					междометия
+			ongelmia (s.123)
+				yrittää yhdistää kahta erri luokitusperiaatetta
+					1. voivat toimia lauseenjäseninä (lekseemien luokittelua)
+					2. taivutuksen avulla ilmaistavat kieliopilliset kategoriat
+						taipuuko sana vai ei?
+							taipuu
+								mitä ko kategorioita vartaloon liitettävät päätteet ilmaisevat?
+							ei taivu
+								partikkeli
+					vrt. lukusanat
+						järjestysluvut + один
+							adjektiivitaivutus
+						тысяча, миллион yms.
+							substantiivitaivutus
+						peruslukusanat tyypiä пять + kollektiivilukusanat
+							ei sukua ja lukua
+							kuitenkin voivat toimia, kuten substantiivit, lausekkeen pääsanana
+								пять + gen
+							...ja silti ei-nominatiivissa toimivat kuten adjektiivit
+		sanojen morfologinen luokittelu (s.124)
+			nominit
+				lekseemit, jotka taipuvat sijamuodoissa
+				alajako (Mitä ko kategorioita ilmaisevat paitsi sijaa)
+					substantiivit
+						- lekseemejä, joiden taivutusmuodot ilmaisevat 
+							- lukua
+							- sijaa
+						- suku on vartalon ominaisuus
+							vrt. мужчина
+						-> myös тысяча näin muodoin substantiivi
+					adjektiivit
+						- lekseemejä, joiden kaikki taivutusmuodot ilmaisevat 
+							- *sukua* (lukua)
+							- sijaa
+					lukusanat
+						- morfologisessa jaottelussa omaksi tyypikseen jäävät enää peruslukusanat typpiä пять
+						- ovat siis lekseemejä, jotka
+							- ilmaisevat ainoastaan sijamuotoja, eivät sukua tai lukua
+			verbit
+				- sanoja, jotka
+					kaikissa taivutusmuodoissaan ilmaisevat pääuokka ja aspektia
+				- jakautuvat useisiin alaryhmiin riippuen ko kategorioista, joita ilmaisevat
+					- esim. preteritimuodot ilmaisevat tapaluokkaa, aikaa, sukua/lukua
+			pronominit eivät oma ryhmänsä!
+				esimerkiksi что ja кто ovat substantiiveja
+		sanojen luokittelu syntaktisen jakauman perusteella
+			Miksi tarve syntaktiselle määrittelylle?
+				заниматься спортом
+					ei kyse vain verbin ja substantiivin suhteesta, vaan kyseessä
+					verilekseemin suhde tiettyyn substantiivilekseemin taivutusmuotoon (s.125)
+					struktuuriskeemat (s.126) #struktuuriskeema
+						esim. venäjän peruslausetyypit: N(n) V(f)
+							ei riitä pelkkä N V, vaan tarvitaan tarkempaa informaatiota
+			morfosyntaktinen piirre
+				morfologinen kategoria tarkasteltuna syntaksin näkökulmasta:
+					piirre, joka  rajaa taivutusmuodon syntaktista jakaumaa
+				usein, muttei aina, morfologinen kategoria = morfosyntaktinen piirre
+					esim.
+						lukukategoria = morfologinen kategoria
+						lukukategoria ohjaa kongruenssia (joka on syntaktinen käsite):
+							на столе была старая книга / были старые книги
+						pluralia tantum -sanoilla 
+							- ei ole morfologista lukukategoriaa,
+							- *syntaktisesti* niiden päätteet silti toimivat kuten lukupäätteet
+			Perinteiset sanaluokat syntaktisessa luokittelussa
+				substantiivit
+					- voivat esiintyä sijassa ja suvussa/luvussa kongruoivien sanojen pääsanana (s.127)
+					- eri sijoilla erilaiset syntaktiset jakaumat
+				adjektiivit #syn-adjektiivit
+					PITKÄT
+						- voivat esiintyä mm. määreinä
+					LYHYET
+						- esiintyvät nominiliittopredikaateissa
+				lukusanat
+					- pääsanana nominatiivi- ja akkusatiivimuodoissa
+					- muissa sijoissa määreenä
+				verbit
+					- finiittimuodot
+						- voivat toimia predikaattina
+					- infinitiivit
+						- voivat toimia esim. liittopredikaatin jälkimmäisenä osana
+					- gerundit
+						- voivat toimia toisen verbin määreenä
+					- partisiipit
+						- jakauma muistuttaa adjektiivien jakaumaa
+							- lyhyet ja pitkät, ks. #syn-adjektiivit
+				taipumattomat sanat (s.127)
+					adverbit
+						- voivat toimita verbien ja/tai adjektiivien määrienä
+					predikatiiviset adverbit = tilakategoriaa ilmaisevat sanat
+						- voivat toimia persoonattoman lauseen predikaattina
+					Onko скучно lyhen adjektiivin neutrimuoto vai oma sanansa? (s.128)
+						- ужасно интересный, скучно рассказывал
+						- Määrittäessään verbiä saa *oletusmuodon*, *koska verbi- tai adjektiivivartalot eivät itsessään ilmaise sukua tai lukua*
+							- luvun oletusmuoto: yksikkö
+							- suvun oletusmuoto: neutri
+							- pääsanana nimenomaan vartalo
+						- Entä predikatiiviadverbit?
+							- Ei ollenkaan luku-/sukukongruenssin aiheuttavaa sanaa, joten oletusarvot vieläkin helpommin perusteltu ratkaisu
+					Miksi kuitenkin pitää olla erillinen adverbien ja predikatiivisten adverbien luokka?
+						- mieti esim. sanojen очень ja жаль syntaktista jakaumaa
+							--> Ei osu yksiin adjektiivien kanssa
+			perinteiseen sanaluokkajakoon liittyviä ongelmia
+				1.partisiipit (s.129)
+					- mikä ongelma?
+						- verbien ominaisuuksia
+							- aspekti 
+							- verbille tyypilliset määreet, esim. tavan adverbit
+						- adjektiivien ominaisuuksia
+							- sukua, lukua ja sijaa ilmaisevat päätteet
+					- miten syntaktinen läh.tapa ratkaisee? (s.130)
+						1. luokittelun kohteena eivät lekseemit vaan sanamuodot
+						2. määrietä koskeva informaatio liitetään oikeisiin sananosiin
+					- esim.
+						- прочитавший
+							- а-suffiksi tekee tästä verbin
+							- вш-suffiksi tekee pitkän adjektiivin
+								- ei kuitenkaan muuta sitä vartalossa olevaa informaatiota, joka sallii verbin määreitä:
+									- быстро прочитавший
+							- suhteessa pääsanaansa toimii adjektiivina, suhteessa omiin määreisiinsä verbinä
+						- прочитанный
+							- а-suffiksi tekee tästä verbin
+							- нн-suffiksi tekee adjektiivin, joka voi olla joko pitkä tai lyhyt
+								- MUUTTAA MYÖS sen vartalossa olevan informaation, joka sallii verbin määreitä:
+									- *быстро прочитанный
+									- sallii instrumentaalimääreen: прочитанный мной
+							- suhteessa pääsanaansa toimii adjektiivina, suhteessa omiin määreisiinsä verbinä
+				2. taipumattomat substantiivit/adjektiivit
+					- mikä ongelma?
+						- miten toimia syntaktisten sääntöjen kanssa, jotka perustuvat sijamuotoon?
+						- N(n) V(f)?
+					- miten syntaktinen läh.tapa ratkaisee? (s.130)
+						Ei-syntaktinen: ajatellaan, että 12 eri taivutusmuotoa, jotka vain ovat homonyymisia
+						Syntaktinen: taipumattomat N ovat substantiiveja ja niillä on sija ja luku, MUTTA
+							- nämä jätetään spesifioimatta
+							- ts. kategoriat on, arvot eivät
+								eli ei voi sanoa, että sanan x genetiivimuoto on y
+								vaan sana x ilmaisee genetiiviä lauseessa z, nominatiivia lauseessa y
+							- sijakategorian arvo määräytyy syntaktisen rakenteen perusteella (s.131)
+								- пальто лежало на диване
+								- я купил пальто
+							- lukukategorian arvo määräytyy kohteena olevan referentin lukumäärän perusteella
+								пальто лежали на диване
+							- Toisin sanoen: sanalla пальто / соло tms. ei ole sijamuotoja, vaan sijakategoria määräytyy konkreettisen lauseen syntaksin perusteella
+								- ei voida sanoa, että пальто-sanan monikkomuoto on пальто, vaan
+									- p-sanalla ei ole monikkomuotoa, mutta se ilmaisee monikkoa oikeassa syntaktisessa yhteydessä
+					- Ovatko taipumattomat adjektiivit kuitenkin taipumattomia substantiiveja?
+						- adjektiiviluokitus vain attributiivisuuteen perustuen
+							- kuitenkin myös substantiivit voivat olla toisten substantiivien määritteitä
+							- lisäksi puhekielessä mahdollinen rakenne "мини тебе совсем не подходит"
+		leksikaalis-kieliopilliset sanaryhmät
+			- sanaluokkien alajako (s.132)
+			- merkitykseen liittyviä piirteitä...
+				...jotka näkyvät siinä, miten sanat ilmaisevat tiettyjä morfologisia kategorioita
+			- esimerkiksi:
+				verbeillä
+					persoonaiset ja persoonattomat verbit
+					transitiivi- ja intransitiiviverbit
+				adjektiiveillä #laatuadverbit #relaatioadverbit
+					laatuadjektiivit
+						 умный, красивый
+					relaatioadjektiivit
+						государственный
+						мой
+							притяжательные местоимения
+						мамин
+	yleisiä huomioita vartaloista ja taivutuksesta
+		Nominien taivutus yksinkertaisempaa kuin verbien
+			vertailu
+				Nominit
+					- päätteen liittyminen vartaloon
+						- vartalo päättyy aina konsonanttiin, pääte alkaa vokaalilla
+					- morfofonologiset vaihtelut: vähän #vaihtelut
+						- parilliset liudentumattomat ja liudentuneet /e/-päätteen edellä
+							в окно - в окне
+						- väistyvä vokaali
+							два ок/%/на, пять окон
+							он зол, она з/%/л-а
+						- eniten yksinkertaisen komparatiivin muodostuksessa
+							громкий - громче
+					- vartalonmuodostussuffiksit (s.134)
+						- vartalot päättyvät konsonanttiin, päätteet alkavat vokaalilla
+						-ks. kuitenkin любовь ja väistyvä vokaali
+				Verbit
+					- päätteen liittyminen vartaloon
+						- vartalo voi päättyä
+							a) konsonanttiin
+								ужин/aj/у
+								прош0у
+							b) vokaaliin
+								ужин-а-ть
+								прос-и-ть
+						- pääte voi alkaa
+							a) konsonantilla
+								ужин-а-ть
+							b) vokaalilla
+								ужин-аj-у
+								прош0у
+						- ei kahden vokaalin yhtymiä, mutta kahden konsonantin esim. нес-л-а, нёс-ш-ий
+					- morfofonologiset vaihtelut: paljon
+						transitiivinen palatalisaatio
+							писать - пиш-0-у
+							просить - прош-0-у
+					- vartalomuodostussuffiksit
+						- 2 vaihtoehtoa:
+							- jos pääte alkaa vokaalilla: 
+								- 0-suffiksi tai
+									пиш-0-у
+								- konsonanttiin päättyvä suffiksi
+									чит-/аj/-у
+							- jos pääte alkaa konsonantilla
+								- vokaaliin päättyvä suffiksi
+									пис-/а/-л-а
+			nominien taivutuksen erityispiirteitä 
+				1. joillain substantiiveilla suffiksi yksikön muttei monikon päätteiden edessä
+					болгар-/ин/-0, болгар-ы
+				2. joillain substantiiveilla suffiksi monikon muttei yksikön päätteiden edessä
+					братья, брат
+				3. eräät suffiksit edustuvat kahtena allomorfina riippuen luvusta
+					кот'/-/oнок/-0 - кот'-/at/-а
+		Nominien taivuttaminen (s.135)
+			склонение (склонять, склоняться)
+			päätteillä ilmaistaan (eri määrää) kieliopillisia kategorioita
+				substantiivien päätteeet ilmaisevat sijaa ja lukua
+				pitkien adjektiivien päätteet
+					yksikössä sijaa, lukua ja sukua
+					monikossa sijaa ja lukua
+				lyhyiden adjektiivien päätteet
+					yksikössä lukua ja sukua
+					monikossa lukua
+				lukusanojen tyyppiä пять päätteet
+					sijaa
+			sijasynkretismi
+				fonologisesti sama pääte vähintään kahdessa sijassa
+				esiintyy kaikissa deklinaatioissa
+		verbien taivuttaminen
+			спряжение, спрягаться, спрягать
+			2 konjugaatiota (=спряжение)
+			tarkoittaa:
+				a) ei-menneen ajan persoonamuotoja
+				b) kaikkia finiittimuotoja
+			2 pääryhmää (s.136)
+				finiittimuodot = Спрягаемые формы глагола
+					ilmaisevat tapaluokkaa
+				ei-finiittiset muodot = неспрягаемые формы глагола
+					infinitiivi 
+						инфинитив, неопределённая форма
+					partisiipit
+						причастия
+					gerundit
+						деепричастия
+			tapaluokat
+				indikatiivi
+				imperatiivi
+				konditionaali
+			suffiksilliset ja suffiksittomat verbityypit =  суффиксальные, бессуффиксальные
+				suffiksikohtaiset alaluokat
+			produktiiviset ja epäproduktiiviset verbityypit (s.136)
+				produktiiviset
+					- kaikki suffiksillisia
+					- kaikki suffiksit edustuvat kahtena allomorfina
+					- 5. tyyppiä
+						| 1. | /aj/, /a/   | чит-аj-ут | чит-а-ть   | 1. konjugaatio
+						| 2. | /эj/, /э/   | бел-эj-ут | бел-э-ть   | 1. konjugaatio
+						| 3. | /yj/, /ова/ | рис-уj-ут | рис-ова-ть | 1. konjugaatio
+						| 4. | /н/, /ну/   | толк-н-ут | толк-ну-ть | 1. konjugaatio
+						| 5. | /0/, /и/    | конч-0-ат | конч-и-ть  | 2. konjugaatio
+				epäproduktiiviset
+					- näillä suffikseilla ei enää muodosteta uusia verbejä
+					- sekä suffiksillisia että suffiksittomia, eniten suffiksillisia
+					- n. 10 tyyppiä
+						esim.
+							| 1. | /а/, /0/ | пиш-0-ут  | пис-а-ть  |
+							| 2. | /а/, /0/ | крич-0-ат | крич-а-ть |
+						mutta: 
+							- suffiksit edustavat eri morfeemeja, sillä 
+								- tyypissä 2 kyseessä 2. konjugaatio
+								- tyypissä 1 1. konjugaatio
+				suffiksiin liittyy tieto siitä, miten verbi taipuu (s.137)
+					- suurin osa suffikseista liittää verbin 1. konjugaatioon
+						- produktiiviset: kaikki paitsi tyyppi 5.
+						- epäproduktiiviset: kaikki paitsi tyypit 
+							кричать
+							сидеть
+					- kaikki suffiksittomat taipuvat 1. konjugaation mukaisesti
+			päätteillä ilmaistaan kieliopillisia kategorioita
+				luku, persoona, suku, tempus=aikakategoria, modus
+				ei yleensä taivutuskategorioita:
+					pääluokka
+					aspekti
+				esim. persoonapääte /у/
+					- lukua, persoonaa, tapaluokkaa, tempusta
+			preesensvartalo ja infinitiivivartalo (основа настоящего времени / инфинитива) (s.137)
+				preesensvartalo
+					persoonamuodosta poistetaan persoonaa ilmaiseva pääte
+						perusmuoto vartalo, joka saadaan monikon 3.p.
+						--> писать - пиш, читать - читаj, говорить - говор'
+				infinitiivivartalo
+					sääntö: infinitiivimuodosta poistetaan infinitiivin tunnus
+						--> писать - писа, говорить - говори
+					poikkeuksia:
+						2 kpl
+							- infinitiivivartalo päättyy ч-konsonanttiin
+							- infinitiivin tunnuksen edellä с-konsonantti, jota preesensvartalossa vastaa д/т/б
+						- infinitiivivartalo = preesensvartalo
+							печь, беречь > пек, берег
+							вести, цвести, пропасть > вед-, цвет-, пропад-
+						huom! (s.138 )
+							печь on alun perin ollut пекть, mutta kielessä tapahtunut кт-yhtymän sulautuminen
+							вести on alun perin ollut ведт... 
+	morfologiset kategoriat ja niiden arvot
+		Sija (s.138)
+			- nominien keskeisin taivutuskategoria
+			- 6 arvoa: nominatiivi, genetiivi, datiivi, akkusatiivi, instrumentaali, prepositionaali (именительный, родительный, дательный, винительный, творительный, предложный)
+				- perussijat
+					nominatiivi
+					nominatiivin kaltainen akkusatiivi
+				- obliikvisijat
+					genetiivi
+					datiivi
+					akkusatiivi
+					instrumentaali
+					prepositionaali
+				- harvinaisemmat, ei aina erotettavat sijat  (vain yksikkö!)
+					- Partitiivinen genetiivi (родительный партитивный)
+						esim.
+							народу, чаю, снегу, сахару
+						käyttö
+							- tiettyjen verbien yhteydessä ilmaisemaan epämääräistä määrää
+							- määrää ilmaisevien substantiivien, epämääräisten lukusanojen yhteydessä
+					- Lokatiivi (местный падеж)
+						- esiintyy eräillä 1. deklinaation substantiiveilla
+						- на- ja в-prepositioiden yhteydessä
+							о береге vs. на берегу
+						- eräillä 3. deklinaation substantiiveilla
+							о крОви, в кровИ
+					- Adnumeratiivi (аднумератив)
+						vrt. два шагА -- длина шАга
+					- Vokatiivi (звательный падеж)
+						Лис, Серёш, (Сань!)
+			- Jokainen sija edustuu joukkona (salkku)morfeja (s.139)
+				- Selvittääkseen, mikä morfi kyseessä, on tiedettävä
+					a) vartalon äänneasu
+					b) deklinaatiotyyppi (склонение / тип склонения)
+						= sarja sijapäätteitä, jotka voidaan liittää tiettyihin vartaloihin
+				- johtamattomissa vartaloissa deklinaatiotyyppi määräytyy suoraan vartalon perusteella (s.139)
+				- johdetuissa vartaloissa tyypin määrää viimeinen suffiksi 
+					учи-тель, молод-ость
+				HUOM! erota kirjoitusasu ja foneemit
+			- Substantiivien deklinaatiot yksikössä (s.140)
+				-voidaan erottaa 5 päätyyppiä
+					- d1: maskuliinit
+						| Sija   | Päätemorfi | esim.1 | esim.2   | esim.3
+						| ----   | ---------- | ------ | ------   |
+						| Nom.   | ø          | стол   | учитель  | гений
+						| Gen.   | /а/        | стола  | учителя  | гения
+						| Akk.   | /ø/ ~ /a/  | стол   | учителя  | гения
+						| Dat.   | /у/        | столу  | учителю  | гению
+						| Instr. | /ом/       | cтолом | учителем | гением
+						| Prep.  | /е/ ~ /и   | столе  | учителе  | гении
+					- d2: "Tavalliset" feminiinit
+						| Sija   | Päätemorfi | esim.1 | esim.2 | esim.3
+						| ----   | ---------- | ------ | ------ | -------
+						| Nom.   | /а/        | книга  | серия  | тыква
+						| Gen.   | /и/        | книги  | серии  | тыквы
+						| Akk.   | /у/        | книгу  | серию  | тыкву
+						| Dat.   | /е/ ~ /и/  | книге  | серии  | тыкве
+						| Instr. | /ой/       | книгой | серией | тыквой
+						| Prep.  | /е/ ~ /и/  | книге  | серии  | тыкве
+					- d3: pm-feminiinit
+						| Sija   | Päätemorfi | esim.1   | esim.2 |
+						| ----   | ---------- | ------   | ------ |
+						| Nom.   | /ø/        | тетрадь  | ночь   |
+						| Gen.   | /и/        | тетради  | ночи   |
+						| Akk.   | /ø/        | тетрадь  | ночь   |
+						| Dat.   | /и/        | тетради  | ночи   |
+						| Instr. | /#jу/      | тетрадью | ночью  |
+						| Prep.  | /и/        | тетради  | ночи   |
+					- d4: "Tavalliset" neutrit
+						| Sija   | Päätemorfi | esim.1 | esim.2 |esim.3
+						| ----   | ---------- | ------ | ------ |-------
+						| Nom.   | /ø/        | место  | поле   | пение
+						| Gen.   | /а/        | места  | поля   | пения
+						| Akk.   | /ø/        | место  | поле   | пение
+						| Dat.   | /у/        | месту  | полю   | пению
+						| Instr. | /ом/      | местом | полем  | пением
+						| Prep.  | /е/ ~ /и/ | месте  | поле   | пении
+					- d5: мя-neutrit
+				-kuitenkin myös sekatyyppejä ja muuta yksilöllistä vaihtelua 
+		vertailuaste
+		luku
+		suku (s.148)
+			- kolme arvoa, neutri oletusarvo (об этом)
+				- maskuliini oletuksena, kun kyseessä semanttisesti elollinen olio
+			- taivutuskategoria vs. syntaktinen piirre (s.149)
+				- adjektiivin vartalo ei edusta sukua, vaan se ilmenee päätteiden kautta
+				- substantiivilla suku on vartalon piirre
+					- määräytyy semanttisten ja morfologisten ominaisuuksien perusteella
+						- semanttinen: eloton olio
+						- morfologinen: toinen deklinaatio
+					- oikeastaan substantiiveilla suku on syntaktinen kategoria, koska se ilmenee kongruenssin kautta, ei taivutuksessa (s.150)
+					- suvun määräytyminen noudattaa pääasiassa seuraavaa kaavaa:
+						kaava:
+							1. mies-/urospuolinen = maskuliini, nais-/naaraspuolinen = feminiini
+							2. 1. deklinaatio = maskuliini, 2. ja 3. = feminiini, 4. ja 5. = neutri
+							3. taipumaton sana, lyhenne tms. = erillisiä sääntöjä
+						selitys
+							- kaavaa sovelletaan juuri tässä järjestyksessä: jos sääntö 1 ei toimi, otetaan käyttöön 2.
+								vrt. человек, особа, лицо
+						ongelmia (s.151)
+							1. kieliopilliselta suvultaan ambivalentit substantiivit (слова общего рода)
+								- сирота, пяница, плакса, умница, убийца, коллега
+									- 2. deklinaatio, joten -> fem?
+									- kuitenkin puheena oleva henkilö määrää: мой коллега, такой пяница, такая пяница, моя коллега...
+									-> = sukukategorian arvoa ei pysyvästi spesifioitu
+									- jos viittauskohteena ihminen sukupuolesta riippumatta, oletuksena yleensä maskuliini (любой сирота...)
+							2. 1. deklinaation substantiivit kuten  врач, инженер, архитекор
+								- 1. deklinaatio, mutta naiseen viitattaessa **voivat** saada femininiinisiä määreitä
+									- vain nominatiivissa, ei: хорошую врача
+		elollisuus
+		persoona
+		tempus
+		tapaluokka
+		pääluokka
+		persoona
+		luku, suku ja persoona kongruenssin näkökulmasta
+	sananmuodostus
+		sananmuodostus ja vartalot
+		affiksien avulla tapahtuva sananmuodostus
+		muita sananmuodostuskeinoja
+		sananmuodostukselliset merkitykset
+		sanaston luokittelu sananmuodostuksen perusteella
+		sananmuodostukseen liittyvät kieliopillisiet ilmiöt
+		Словообразование
+sheljakin
+	substantiivien suku (s.28)
+		1. Taipuvilla substantiiveilla
+			suku määräytyy
+				1) yksikön nominatiivin päätteen mukaan
+					säännöt
+						- а/я = f
+						- о/е = n
+						- nollapääte kovan konsonantin jälkeen + й = m
+						- nollapääte pehmeän konsonantin jälkeen = f
+					poikkeukset
+						1. osa а/я-päätteisistä, nollapäätteisistä pehmeistä sekä *подмастерье* = m
+							- määräytyy merkityksen mukaan
+						2. osa а/я-pääätteisistä voi olla m tai f
+							- määräytyy merkityksen mukaan
+							- плакса, задира
+						3. Kaikki мя-päätteiset = n
+						4. tietyt kovaan sibilanttiin päättyvät ovat feminiinejä ja merkiksi tästä loppuun lisätään pehmeä merkki
+							- молодёжь, ложь, дрожь, мышь, роскошь
+						5. eräät pehmeään konsonanttiin päättyvät ovat maskuliineja (s.29)
+							- тель-päätteiset
+							- kaikki kuukausien nimet
+							- n. 150 muuta sanaa, joista
+								- monet päättyvät -нь
+									- ансамбль, Севастополь, корабль, рояль
+								- eräät eläimet, kun suku ei ilmaistu
+									- язь (=säynävä), окунь, конь, лебедь, червь
+										- mutta tyylillisesti neutraali лошадь = feminiini
+				2) merkityksen mukaan
+					a. 
+						1. Kaikki miespuoliseen henkilöön tai eläimeen viittaavat *sekä yleiset henkilöihin viittaamiset ilman viittaamista sukupuoleen* (vrt. nikunlassi) = m
+							- дедушка, врач, медведь, лев
+						2. Kaikki naispuoleiseen = f. 
+							- huomaa, että nämä ovat kaikki joko а/я-päätteisiä tai pehmeään konsonanttiin päättyviä
+								- бабушка, голобка, мать, медведица..
+								- yleiset eläimeen viittaavat voivat olla kumpia vain: (vrt. henkilöt miehiä)
+									лев, волк, паук, ястреб
+					b. Substantiivit jotka viittaavat henkilöön tai eläimeen yleisesti (общее название лиц) -> 3 ryhmää
+						1. ammatti tai toimeenkuva
+							- olemassa rinnakkaismuotoja: студентка, ученица...
+								ei kuitenkaan käytetänäitä, jos:
+									- konkreettinen tilanne
+										- видел на улице студента
+									- yleismerkitys:
+										- она прекрасный педагог
+							- ei rinnakkaismuotoja: врач, профессор, доктор, глава, кондуктор, шефёр (s.30)
+								- tulkitaan käytännössä aina niin, ettei oteta sukupuoleen kantaa -> maskuliinimuoto
+								- "допускают употребления форм прошедшего времени": в гостях была наш врач
+						2. substantiivi ei ammatti tai toimeenkuva
+							- человек, инвалид, детеныш, подросток, враг, гений
+						3. venäjässä on joukko /а/-päätteisiä, usein negatiivissävytteisiä henkilön luonteeseen ym. viittaavia
+							- плакса, убийца, пяница
+							- ei-negatiivisia: умница, коллега, бедняга
+							- lisäksi ишка-päätteiset, plus deminutiivejä
+								- хвастунишка, Валя, Женя
+		2. Taipumattomilla substantiiveilla
+			- suku merkityksen mukaan: miespuolista tarkoittavilla maskuliini jne.
+				аташе, рефери
+				feminiinejä: мадам, фрау
+			- eläimet ilman viittausta sukupuoleen maskuliineja, jos välttämätöntä viitata, feminiinejä
+				- кенгуру, шимпанзе, 
+				- кенгуру кормила своего детеныша
+				poikkeus:
+					муха цеце
+			- jos ei viittausta henkilöön, yleensä neutri (s.31)
+				- poikkeuksia: пенальти, кофе (puhek myös neutr)
+			- tietty joukko saa suvun perustuen pohjalla olevaan yleisnimeen
+				- kielet, kaupungit, saaret -> maskuliini
+				- jotkin joet feminiinejä
+			- lyhenteet: yleensä pääsanan suku (МГУ был хорошим )
+		3. useampiosaisilla sanoilla
+			- jos viittaavat henkilöön, henkilöosa määrää:
+				- женщина-скульптор
+			- eloton esine: sanaliiton ensimmäinen osa
+				- кресло-кровать
+			- jos taipumaton osa, niin taipuva määrää
+				пресс-конференция
+		4. suffiksit ище ja ищко
+			- joko m tai n riippuen lähtökohtana olevasta sanasta
+		5. erisnimet
+			- täysinä muotoina suvun mukaan: Михаил, миша = m
+			- sukunimet ов, ин, ский riippuen kantajasta:
+				иванов-иванова
+			- muut sukunimet: ei feminiiniversiota
+			- isännimet
+rozental
+	suku (s.182)
+		leksikaalis-semanttiset ominaisuudet määrääjänä
+			Тбилиси = m, koska tarkoittaa kaupunkia
+			Леди = f, koska tarkoittaa naista
+suzdalskij
+	suku (s.150)
+wade2010
+	suku (s.54)
