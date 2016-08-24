@@ -25,35 +25,156 @@
 
 # Suku kieliopillisena kategoriana
 
-<article  style="float:left;margin-left:3em;">
+<article  style="float:left;margin-left:3em;" class='nobul'>
 >- Adjektiiveilla suku on taivutuskategoria: sukua ilmaistaan päätteillä
 
-<article class="incremental nobul" style="font-size:300%;">
+<article class="incremental nobul" style="font-size:200%;">
 >- небывал/ый/
 >- небывал/ая/
 >- небывал/ое/
 </article>
+
 </article>
-<article  style="float:left;margin-left:3em;">
+
+<article  class="incremental nobul" style="float:left;margin-left:3em;">
 >- Substantiiveilla sukua ei ilmaista päätteillä, vaan vartalolla
-    - Suku ilmenee syntaktisesti
-        - В молодости Джеймс играл в футбол
-        - большой ястреб
-    - **Miten suku määräytyy?**
+>- Suku ilmenee syntaktisesti
+
+<article class="incremental nobul" style="font-size:200%;">
+>- В молодости Джеймс играл в футбол
+>- большой ястреб
+</article>
+
+>- <span style="color:red;">**Miten suku määräytyy?**</span>
 </article>
 
 # Suvun määräytyminen substantiiveilla 1
 
-<article class="incremental nobul" style="font-size:300%;">
+<article class="incremental nobul" style="font-size:150%;">
 Tehtävä: muodosta parisi kanssa säännöt sille, miten substantiivin suku määräytyy
 </article>
 
 >- Poikkeusten ja säännön monimutkaisuuden suhde?
 >- Mahdollisimman suuri yleistettävyys
 
-# Suvun määräytyminen substantiiveilla 2
+# Suvun määräytyminen substantiiveilla 2: Nikunlassi
+
+>1. mies-/urospuolinen = maskuliini. nais-/naaraspuolinen = feminiini
+>2. 1. deklinaatio = maskuliini, 2. ja 3. deklinaatio = feminiini, 4. ja 5. deklinaatio = neutri
+>3. taipumaton sana, lyhenne tms. = erillisiä sääntöjä
 
 
+# Suvun määräytyminen substantiiveilla 3: Šeljakin 
 
-<!--  pandoc -f markdown -s luento1.Rmd -t slideous -o luento1.html --self-contained --include-in-header=fontheader.html --smart -->
+>1. Taipuvat substantiivit
+>2. Taipumattomat substantiivit
+>3. Useampiosaiset sanat
+>4. ище- ja ищко-suffikseihin päättyvät sanat
+>5. Erisnimet
+
+# Šeljakin: taipuvat sunstantiivit
+
+<article style='float:left;' class="incremental">
+
+### 1. Nominatiivin päätteen mukaan
+
+
+<table style="visibility: visible;">
+<thead>
+<tr class="incremental header">
+<th align="left">esimerkkisana</th>
+<th align="left">nominatiivin pääte</th>
+<th align="left">suku</th>
+</tr>
+</thead>
+<tbody>
+<tr class="incremental odd">
+<td align="left">книга</td>
+<td align="left">-[а]</td>
+<td align="left">F</td>
+</tr>
+<tr class="incremental even">
+<td align="left">неделя</td>
+<td align="left">-[а]</td>
+<td align="left">F</td>
+</tr>
+<tr class="incremental odd">
+<td align="left">море</td>
+<td align="left">-[е]</td>
+<td align="left">N</td>
+</tr>
+<tr class="incremental even">
+<td align="left">тело</td>
+<td align="left">-[о]</td>
+<td align="left">N</td>
+</tr>
+<tr class="incremental odd">
+<td align="left">ночь</td>
+<td align="left">pehmeä konsonantti + ø</td>
+<td align="left">F</td>
+</tr>
+<tr class="incremental even">
+<td align="left">обед</td>
+<td align="left">kova konsonantti + ø</td>
+<td align="left">M</td>
+</tr>
+<tr class="incremental odd">
+<td align="left">гений</td>
+<td align="left">-[j]</td>
+<td align="left">M</td>
+</tr>
+</tbody>
+</table>
+
+#### Poikkeuksia
+
+>- мя
+>- eräät kovaan sibilanttiäänteeseen päättyvät: молодёжь, рожь
+>- pehmeään kononanttiin päättyvät maskuliinit
+
+</article>
+
+
+<article style='float:left;margin-left:3em;' class="incremental">
+
+### 2. Merkityksen mukaan
+
+#### Selkeät tapaukset
+
+>- Дедушка, папа, мужчина, дядя jne.
+>- Мать, дочь jne.
+
+#### Henkilöviittaukset
+
+>- человек, враг, подросток
+>- студентка, певица, спортсменка
+>- врач, профессор, шефёр
+>- плакса, умница, коллега
+
+</article>
+
+
+# Šeljakin: taipumattomat sunstantiivit
+
+<article style='float:left;margin-left:3em;' class="incremental">
+
+### Ei henkilö tai eläin:
+
+>- yleensä neutri (paitsi esim. кофе, пенальти)
+
+### Henkilö
+
+<article style='font-size:200%;' class="incremental nobul">
+>- рефери, аташе
+>- мадам, леди
+</article>
+
+### Eläin
+
+<article style='font-size:200%;' class="incremental nobul">
+>- Милый шимпанзе/кенгуру
+>- кенгуру кормила своего детеныша
+</article>
+
+<!--  pandoc -f markdown -s luento3.Rmd -t slideous -o luento3.html --self-contained --include-in-header=fontheader.html --smart -->
 
