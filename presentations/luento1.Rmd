@@ -11,6 +11,7 @@
 
 # Kurssin tavoitteita
 
+>- [Opinto-oppaassa](https://www10.uta.fi/opas/opintojakso.htm?id=24788&lang=fi&lvv=2016&uiLang=fi)
 >- Morfologian peruskäsitteiden hallitseminen
 >- Venäjän sanojen morfologisten ominaisuuksien hallitseminen
 >- [Aikataulu](https://mustikka.uta.fi/~juho_harme/morfologia/#kurssin-aikataulu)

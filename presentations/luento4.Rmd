@@ -1,0 +1,68 @@
+% Morfologia, luento 4
+% Juho Härme
+% Pinni B 5004, juho.harme@uta.fi
+
+
+# Sija kieliopillisena kategoriana
+
+>- Funktionaalisen morfologian kannalta
+>- **Taivutusopin kannalta**
+>- Substantiivit, adjektiivit, pronominit, partisiipit, lukusanat
+
+# Venäjän sijajärjestelmä
+
+<!--  Vuorotellen oppilasjärjestyksessä, kukin luettelee sijan suomeksi ja venäjäksi + jonkin substantiivin tässä sijassa -->
+<!--  Kierrätä langatonta näppistä? :P -->
+
+<table>
+<thead>
+<tr class="header">
+<th align="left">nimitys (suom)</th>
+<th align="left">nimitys (ven.)</th>
+<th align="left">esimerkki substantiivista</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left"><input type="text"></td>
+<td align="left"><input type="text"></td>
+<td align="left"><input type="text"></td>
+</tr>
+<tr class="even">
+<td align="left"><input type="text"></td>
+<td align="left"><input type="text"></td>
+<td align="left"><input type="text"></td>
+</tr>
+<tr class="odd">
+<td align="left"><input type="text"></td>
+<td align="left"><input type="text"></td>
+<td align="left"><input type="text"></td>
+</tr>
+<tr class="even">
+<td align="left"><input type="text"></td>
+<td align="left"><input type="text"></td>
+<td align="left"><input type="text"></td>
+</tr>
+<tr class="odd">
+<td align="left"><input type="text"></td>
+<td align="left"><input type="text"></td>
+<td align="left"><input type="text"></td>
+</tr>
+<tr class="even">
+<td align="left"><input type="text"></td>
+<td align="left"><input type="text"></td>
+<td align="left"><input type="text"></td>
+</tr>
+</tbody>
+</table>
+
+# Harvinaiset / katoavat sijat (funktionaalista morfologiaa)
+
+>- Родительный партитивный
+>- Местный падеж
+>- Аднумератив
+>- Звательный падеж
+
+<!--  pandoc -f markdown -s luento4.Rmd -t slideous -o luento4.html --self-contained --include-in-header=fontheader.html --smart -->
+
+

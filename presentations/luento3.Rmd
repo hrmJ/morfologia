@@ -28,7 +28,7 @@
 <article  style="float:left;margin-left:3em;" class='nobul'>
 >- Adjektiiveilla suku on taivutuskategoria: sukua ilmaistaan päätteillä
 
-<article class="incremental nobul" style="font-size:200%;">
+<article class="incremental nobul" style="font-size:160%;">
 >- небывал/ый/
 >- небывал/ая/
 >- небывал/ое/
@@ -40,7 +40,7 @@
 >- Substantiiveilla sukua ei ilmaista päätteillä, vaan vartalolla
 >- Suku ilmenee syntaktisesti
 
-<article class="incremental nobul" style="font-size:200%;">
+<article class="incremental nobul" style="font-size:160%;">
 >- В молодости Джеймс играл в футбол
 >- большой ястреб
 </article>
@@ -60,8 +60,10 @@ Tehtävä: muodosta parisi kanssa säännöt sille, miten substantiivin suku mä
 # Suvun määräytyminen substantiiveilla 2: Nikunlassi
 
 >1. mies-/urospuolinen = maskuliini. nais-/naaraspuolinen = feminiini
->2. 1. deklinaatio = maskuliini, 2. ja 3. deklinaatio = feminiini, 4. ja 5. deklinaatio = neutri
+>2. jos sääntöä 1 ei voi soveltaa, suku määräytyy taivutustyypin eli deklinaation perusteella
 >3. taipumaton sana, lyhenne tms. = erillisiä sääntöjä
+
+>- esimerkiksi sanoihin умница, коллега jne. nämä säännöt eivät sellaisenaan toimi
 
 
 # Suvun määräytyminen substantiiveilla 3: Šeljakin 
@@ -175,6 +177,12 @@ Tehtävä: muodosta parisi kanssa säännöt sille, miten substantiivin suku mä
 >- Милый шимпанзе/кенгуру
 >- кенгуру кормила своего детеныша
 </article>
+
+# Tehtävä
+
+>- Tutustu tarkemmin Šeljakinin esitykseen ja täydennä puuttuvat kohdat.
+
+
 
 <!--  pandoc -f markdown -s luento3.Rmd -t slideous -o luento3.html --self-contained --include-in-header=fontheader.html --smart -->
 
