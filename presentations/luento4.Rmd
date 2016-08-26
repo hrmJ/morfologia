@@ -62,7 +62,21 @@
 >- Местный падеж
 >- Аднумератив
 >- Звательный падеж
+>- [tehtävä](../tehtavat/luento4.pdf)
+
+# Mikä on deklinaatio?
+
+
+# Tehtävä (substantiivien deklinaatiot)
+
+- Jakautukaa 2--3 hengen ryhmiin (yhteensä 4--5).
+
+- Opiskelijoiden jako ryhmiin?
+- Tehtävä 1: erottele deklinaatiosta päätteet?
+- Tehtävä 2: keksi esimerkkisanoja deklinaatioon, josta vain päätteet annettu
+
 
 <!--  pandoc -f markdown -s luento4.Rmd -t slideous -o luento4.html --self-contained --include-in-header=fontheader.html --smart -->
+
 
 

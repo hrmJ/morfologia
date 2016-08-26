@@ -37,33 +37,34 @@ no  | Pvm        | Aihe
 --- | ---------- | ---------------------
 1   | ti 30.8.   | Mikä ihmeen morfologia?
 2   | ke 31.8.   | Morfien luokittelua + yleistä nomineista
-3   | ti 6.9.    | EI LUENTOA (avajaiset)
-4   | ke 7.9.    | Luku ja suku kieliopillisina kategorioina
-5   | ti 13.9.   | Sija kieliopillisena kategoriana
-6   | ke 14.9.   | Adjektiivien ja pronominien deklinaatiot + vertailuaste
-7   | ti 20.9.   | Sijat funktionaalisen morfologian kannalta: gen + dat
-8   | ke 21.9.   | Sijat funktionaalisen morfologian kannalta: gen + dat + instr
-9   | ti 27.9.   | Sijat funktionaalisen morfologian kannalta: nominatiivi + akkusatiivi (elollisuuskategoria)
-10  | ke 28.9.   | Yleistä verbeistä
-11  | ti 4.10.   | Persoona kieliopillisena kategoriana + Partisiippien muodostus
-12  | ke 5.10.   | Pääluokka kieliopillisena kategoriana
-13  | ti 11.10.  | Pääluokka + partisiipit funktionaalisen morfologian kannalta
+-   | ti 6.9.    | EI LUENTOA (avajaiset)
+3   | ke 7.9.    | Luku ja suku kieliopillisina kategorioina
+4   | ti 13.9.   | Sija kieliopillisena kategoriana 
+5   | ke 14.9.   | Sija kieliopillisena kategoriana 2 + vertailuaste
+6   | ti 20.9.   | Sijat funktionaalisen morfologian kannalta: gen + dat
+7   | ke 21.9.   | Sijat funktionaalisen morfologian kannalta: gen + dat + instr
+8   | ti 27.9.   | Sijat funktionaalisen morfologian kannalta: nominatiivi + akkusatiivi (elollisuuskategoria)
+9   | ke 28.9.   | Yleistä verbeistä
+10  | ti 4.10.   | Persoona kieliopillisena kategoriana + Partisiippien muodostus
+11  | ke 5.10.   | Pääluokka kieliopillisena kategoriana
+12  | ti 11.10.  | Pääluokka + partisiipit funktionaalisen morfologian kannalta
 -   | ke 12.10.  | PERIODITAUKO
 -   | ti 18.10   | PERIODITAUKO
-14  | ke 19.10   | Aspekti kieliopillisena kategoriana
-15  | ti 25.10.  | Aspektin muodostus ja aspektiparin käsite
-16  | ke 26.10.  | Aspekti funktionaalisen morfologian kannalta 1
-17  | ti 1.11.   | Aspekti funktionaalisen morfologian kannalta 2
-18  | ke 2.11.   | Aika kieliopillisena kategoriana
-19  | ti 8.11.   | Tapaluokka kieliopillisena kategoriana 1
-20  | ke 9.11.   | Tapaluokka kieliopillisena kategoriana 2
-21  | ti 15.11.  | Liikeverbit 1
-22  | ke 16.11.  | Liikeverbit 2
-23  | ti 22.11.  | Verbimuotoja: Gerundit
-24  | ke 23.11.  | Verbimuotoja: Infinitiivi
-25  | ti 29.11.  | Adverbien erityispiirteitä
-26  | ke 30.11.  | Kertausta
-27  | ke 7.12.   | KOE
+13  | ke 19.10   | Aspekti kieliopillisena kategoriana
+14  | ti 25.10.  | Aspektin muodostus ja aspektiparin käsite
+15  | ke 26.10.  | Aspekti funktionaalisen morfologian kannalta 1
+16  | ti 1.11.   | Aspekti funktionaalisen morfologian kannalta 2
+17  | ke 2.11.   | Aika kieliopillisena kategoriana
+18  | ti 8.11.   | Tapaluokka kieliopillisena kategoriana 1
+19  | ke 9.11.   | Tapaluokka kieliopillisena kategoriana 2
+20  | ti 15.11.  | Liikeverbit 1
+21  | ke 16.11.  | Liikeverbit 2
+22  | ti 22.11.  | Verbimuotoja: Gerundit
+23  | ke 23.11.  | Verbimuotoja: Infinitiivi
+24  | ti 29.11.  | Adverbien erityispiirteitä
+25  | ke 30.11.  | Kertausta
+26  | ke 7.12.   | KOE
+
 
 Luento 1: Mikä ihmeen morfologia?
 ==================================
@@ -897,18 +898,162 @@ Venäjän substantiivien jaottelu deklinaatioihin
 -----------------------------------------------
 
 Koulukieliopeissa deklinaatiot typistetään usein kolmeen ja todetaan, että
-kullakin suvulla on oma deklinaationsa [ks. esim. @wade2010: 73]. Tämä ei
-kuitenkaan nähdäkseni palvele opiskelijaa, sillä tällöin joudutaan kunkin luokan
-sisälle luomaan alaryhmiä ja menetetään monia helpottavia yleistyksiä. Ehkä
-tärkeämpi kritiikki on, ettei suvun ja deklinaation välillä ole mitään syytä
-ehdottomasti olettaa syy--seuraussuhdetta, jossa suku määrää taivutustyypin.
+kullakin suvulla on oma deklinaationsa [ks. esim. @wade2010: 73]. Ei kuitenkaan
+ole mitään erityistä syytä olettaa, että suvun ja
+deklinaation välillä olisi ehdottomasti syy--seuraussuhde,
+jossa suku määrää taivutustyypin. Tämän vuoksi seuraavassa esitettävät viisi
+deklinaatiotyyppiä [ks. @nikunl: 140--] eivät lankea aivan tarkalleen yksiin sukujen kanssa.
 
-P
+Jos suku ei määrää substantiivin taivutustyyppiä, niin mikä sitten? Jos kyseessä
+on johdettu sanavartalo (toisin sanoen, jos sanan vartaloon kuuluu juurimorfin
+lisäksi suffikseja), deklinaatiotyyppi määräytyy viimeisen suffiksin mukaan.
+Esimerkiksi abstrakteja substantiiveja muodostava *ость*-suffiksi tuottaa
+kolmannen deklinaation mukaisen taivutussarjan. Jos taas sanavartalo koostuu
+pelkästä juurimorfista, määräytyy deklinaatio juurimorfin mukaan.
+
+### Ensimmäinen deklinaatio
+
+Ensimmäiseen deklinaatioon kuuluvat käytännössä **kaikki maskuliinit**. Ne
+on mielekästä ryhmitellä yhteen, koska sijat ilmaistaan niissä koko lailla
+samoilla morfeilla. 
+
+- **Nominatiivin** päätteenä on nollamorfi (ø)
+- **Genetiivin** päätteenä on /а/. Huomaa, että jos edeltävä konsonantti on
+  liudentunut, merkitään morfia kirjoituksessa я-kirjaimella. Itse morfi on
+  silti sama vokaali.
+- **Akkusatiivin** pääte lankeaa yhteen joko nominatiivin tai genetiivin kanssa
+  elollisuudesta riippuen
+- **Datiivin** päätteenä on morfi /у/. Jälleen kerran, jos edelätävä konsonantti
+  on liudentunut, merkitään morfia kirjoituksessa ю-kirjaimella.
+- **Instrumentaalin** päätteenä on morfi /ом/ tai /ем/
+- **Prepositionaalin** päätteenä on morfi /е/ tai /и/
+
+Seuraava taulukko kuvaa ensimmäisen deklinaation kootusti esimerkkien kautta:
 
 
-- johtamattomissa vartaloissa deklinaatiotyyppi määräytyy suoraan vartalon perusteella (s.139)
-- johdetuissa vartaloissa tyypin määrää viimeinen suffiksi 
-    учи-тель, молод-ость
+Sija   | Päätemorfi | esim.1 | esim.2   | esim.3
+----   | ---------- | ------ | ------   |
+Nom.   | ø          | стол   | учитель  | гений
+Gen.   | /а/        | стола  | учителя  | гения
+Akk.   | /ø/ ~ /a/  | стол   | учителя  | гения
+Dat.   | /у/        | столу  | учителю  | гению
+Instr. | /ом/ ~ /ем/| cтолом | учителем | гением
+Prep.  | /е/ ~ /и   | столе  | учителе  | гении
+
+
+### Toinen deklinaatio
+
+Toiseen deklinaatioon kuuluvat vokaaliin päättyvät feminiinit. Niiden päätteistä
+voidaan todeta:
+
+- Nominatiivi ilmaistaan morfilla /а/ (vrt. myös kirjoitusasu)
+- Genetiivi ilmaistaan morfilla /и/. Etu- ja taka-i ovat saman [и]-foneemin eri
+  variantteja (allofoneja) [ks. @nikunl: 85, 94], joten äänneympäristöstä
+  riippuen[^i_ymp] morfi voi edustua joko etisenä tai takaisena.
+- Akkusatiivi ilmaistaan morfilla /у/
+- Datiivissa on kaksi vaihtoehtoa: /е/ tai /и/
+- Instrumentaali ilmaistaan morfilla /ой/
+- Prepositionaali ilmaistaan morfilla /е/ tai /и/
+
+[^i_ymp]: Sanan alussa ja liudentuneen konsonantin jäljessä foneemi [и] edustuu
+etu-i:nä, liudentumattoman konsonantin jälkeen taka-i:nä. Lisäksi kun prepositio
+ja sitä seuraava sana ääntyvät yhtenä sanana, käyttöön tulee taka-i (с Ирой).
+[@nikunl: 77, 94].
+
+Sija   | Päätemorfi | esim.1 | esim.2 | esim.3
+----   | ---------- | ------ | ------ | -------
+Nom.   | /а/        | книга  | серия  | тыква
+Gen.   | /и/        | книги  | серии  | тыквы
+Akk.   | /у/        | книгу  | серию  | тыкву
+Dat.   | /е/ ~ /и/  | книге  | серии  | тыкве
+Instr. | /ой/       | книгой | серией | тыквой
+Prep.  | /е/ ~ /и/  | книге  | серии  | тыкве
+
+### Kolmas deklinaatio
+
+Kolmanteen deklinaatioon kuuluvat liudentuneeseen konsonanttiin päättyvät
+feminiinit. Niiden päätteet jakautuvat seuraavasti
+
+- Nominatiivissa ja akkusatiivissa on nollamorfi /ø/ 
+- Genetiivissä, datiivissa ja prepositionaalissa /и/
+- instrumentaalissa /ju/
+
+
+Sija   | Päätemorfi | esim.1   | esim.2 |
+----   | ---------- | ------   | ------ |
+Nom.   | /ø/        | тетрадь  | ночь   |
+Gen.   | /и/        | тетради  | ночи   |
+Akk.   | /ø/        | тетрадь  | ночь   |
+Dat.   | /и/        | тетради  | ночи   |
+Instr. | /ju/       | тетрадью | ночью  |
+Prep.  | /и/        | тетради  | ночи   |
+
+### Neljäs deklinaatio
+
+Neljäs deklinaatio on hyvin samanlainen kuin ensimmäinen: ainoana erona on
+nominatiivi, jota neljännessä deklinaatiossa ei ilmaista nollapäätteellä vaan
+päätteillä /о/ ja /е/. Tämä deklinaatio voitaisiin hyvin esittää myös osana
+ensimmäistä.
+
+Sija   | Päätemorfi | esim.1 | esim.2 |esim.3
+----   | ---------- | ------ | ------ |-------
+Nom.   | /о/ tai [е]| место  | поле   | пение
+Gen.   | /а/        | места  | поля   | пения
+Akk.   | /ø/        | место  | поле   | пение
+Dat.   | /у/        | месту  | полю   | пению
+Instr. | /ом/       | местом | полем  | пением
+Prep.  | /е/ ~ /и/  | месте  | поле   | пении
+
+
+### Viides deklinaatio
+
+Viidennen deklinaation muodostavat yksinään мя-äänneyhdistelmään päättyvät
+substantiivit. Ne ovat kaikki neutreja.
+
+
+Sija   | Päätemorfi | esim.1
+----   | ---------- | ------
+Nom.   | /а/        | время
+Gen.   | /и/        | времени
+Akk.   | /ø/        | время
+Dat.   | /и/        | времени
+Instr. | /ом/       | временем
+Prep.  | /е/ ~ /и/  | времени
+
+
+### Monikon deklinaatiot
+
+
+### Sekadeklinaatiot ja muut sanatason poikkeukset
+
+Edellä lueteltujen viiden taivutustyypin voi nähdä muodostavan selkeimmät
+pääryhmät, joihin suurin osa substantiiveista voidaan sovittaa. Näiden
+ulkopuolelle jää kuitenkin väistämättä iso joukko substantiiveja. Seuraavassa
+esitetään muutamia huomioita ja säännönmukaisuuksia näistä sanoista.
+
+
+Deklinaatioista ja painotyypeistä
+---------------------------------
+
+Aleksandr Isachenko toteaa laajassa venäjän kieliopin kuvauksessaan seuraavasti
+[-@isachenko2003: 129]:
+
+*Морфологическая характеристика имен существительных в русском языке не
+ограничивается указанием всех падежных окончаний. Чтобы правильно пользоваться
+словом, необходимо усвоить его акцентологические особенности.*
+
+Vapaan sanapainon takia olennaista venäjän substantiivien morfologiassa on paitsi päätteiden tunteminen, 
+myös sen tiedostaminen, että eri sananmuotojen ääntämys vaihtelee painon osalta
+ja myös painon suhteen sanoja voidaan jossain määrin ryhmitellä.
+
+Tässä yhteydessä ei tehdä erityisen kattavaa katsausta eri painotyyppeihin, vaan
+tarkoitus on ennemminkin rohkaista itsenäiseen opiskeluun ja esitellä ajatus.
+
+
+Luento 12 : Pääluokka kieliopillisena kategoriana
+=================================================
+
+ks. Vanhala-Aniszewski 1992!
 
 
 Kirjallisuutta
@@ -917,3 +1062,5 @@ Kirjallisuutta
 
 <!--  !pandoc -t latex --bibliography=lahteet.bib --template=textemp.tex -o a/luento1.tex -->
 <!--  !pandoc morfologia.rmd -f markdown -t html --bibliography=lahteet.bib --standalone -o index.html -h github-pandoc.css --toc --toc-depth=1 --include-after-body=scripts.js --smart -->
+
+
