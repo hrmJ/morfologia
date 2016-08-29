@@ -153,9 +153,9 @@
 </article>
 
 <article class="incremental">
-- postfiksit: juurimorfin jälkeen
+- postfiksit: juurimorfin, suffiksien ja päätteiden jälkeen
 - interfiksit: sanoja yhdistettäessä
->- [Tehtävä](../tehtavat/luento2.pdf)
+- [Tehtävä](../tehtavat/luento2.pdf)
 </article>
 
 # Pari sanaa morfofonologiasta 1
@@ -233,5 +233,5 @@ Mitä kieliopillisia kategorioita seuraavat sananmuodot ilmaisevat?
 >- [Kokeile venäjän kansalliskorpusta](http://ruscorpora.ru/search-main.html)
 
 
-<!--  pandoc -f markdown -s luento1.Rmd -t slideous -o luento1.html --self-contained --include-in-header=fontheader.html --smart -->
+<!--  pandoc -f markdown -s luento2.Rmd -t slideous -o luento2.html --self-contained --include-in-header=fontheader.html --smart -->
 
