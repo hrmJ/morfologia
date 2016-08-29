@@ -4,6 +4,8 @@
 \usepackage[T2A]{fontenc}
 \usepackage[finnish]{babel}
 \usepackage{linguex} 
+\usepackage{longtable} 
+\usepackage{booktabs}
 \usepackage{amsthm}
 \newtheorem{maar}{Määritelmä}
 \usepackage{fixltx2e} % provides \textsubscript
@@ -30,11 +32,11 @@
 
 
 
-\section{Luento 3: luku, suku ja sija kieliopillisina
-kategorioina}\label{luento-3-luku-suku-ja-sija-kieliopillisina-kategorioina}
+\section{Luento 3: luku ja suku kieliopillisina
+kategorioina}\label{luento-3-luku-ja-suku-kieliopillisina-kategorioina}
 
 \begin{itemize}
-\itemsep1pt\parskip0pt\parsep0pt
+\tightlist
 \item
   \href{https://mustikka.uta.fi/~juho_harme/morfologia/\#tästä-kurssista}{Takaisin
   sivun ylälaitaan}
@@ -52,9 +54,29 @@ kategorioina}\label{luento-3-luku-suku-ja-sija-kieliopillisina-kategorioina}
 \subsection{Luku kieliopillisena
 kategoriana}\label{luku-kieliopillisena-kategoriana}
 
-\subsubsection{Erikoistapauksia}\label{erikoistapauksia}
+Kuten edellä todettiin, lukukategoria (категория числа) koostuu
+venäjässä tasan kahdesta vaihtoehdosta, joiden suhteen sananmuodot ovat
+oppositiossa keskenään: jos sanat ilmaisevat lukua, ne ilmaisevat joko
+\emph{yksikköä} (единственное число) tai monikkoa (множественное число).
 
-{[}tehtävä 3.1{]}
+Voidaan sanoa, että luvun \emph{oletusarvo} on yksikkö (Nikunlassi 2002:
+147). Näin voidaan päätellä, koska monet sananmuodot eivät voi olla
+ilmaisematta lukua: esimerkiksi verbin \emph{стать} preteritimuoto
+ilmaisee aina joko yksikköä tai monikkoa (стал,стала,стало,стали). Jos
+lauseessa ei ole elementtiä, joka ohjaisi (kongruenssi) käyttämään
+jompaakumpaa, valitaan yksikkö, niin kuin esimerkissä 1:
+
+\begin{enumerate}
+\def\labelenumi{(\arabic{enumi})}
+\tightlist
+\item
+  Бабушке стало лучше.
+\end{enumerate}
+
+Tarkastellaan seuraavassa muutamaa lukukategoriaan liittyvää
+erityistapausta.
+
+\subsubsection{Erikoistapauksia}\label{erikoistapauksia}
 
 Substantiiveilla lukukategorian ilmaisemiseen liittyy kaksi
 erityistapausta: niin kutsutut \emph{pluralia tantum}- ja
@@ -63,7 +85,7 @@ käytännössä ilmaise lukukategoriaa (Nikunlassi 2002, 147).
 
 Pluralia tantum -sanat ovat aina monikossa, singularia tantum -sanat
 puolestaan aina yksikössä esiintyviä sanoja. Pluralia tantum -sanat ovat
-selärajaisempi luokka (siihen kuuluu venäjässä noin 600 sanaa) siinä
+selvärajaisempi luokka (siihen kuuluu venäjässä noin 600 sanaa) siinä
 mielessä, että singularia tantum -ryhmän sanoilla voi usein tietyissä
 käyttötapauksissa tulkita olevan monikkomuodonkin.
 
@@ -73,10 +95,10 @@ olemassa niin suomessa kuin venäjässä, eivät niihin kuuluvien sanojen
 joukot ole identtisiä. Klassinen esimerkki tästä on venäjän sana
 \emph{мебель}.
 
-Suosittelen tustumaan näiden termien hyviin Wikipedia-artikkeleihin:
+Suosittelen tutustumaan näiden termien hyviin Wikipedia-artikkeleihin:
 
 \begin{itemize}
-\itemsep1pt\parskip0pt\parsep0pt
+\tightlist
 \item
   \href{https://ru.wikipedia.org/wiki/Singularia_tantum}{singularia
   tantum}
@@ -89,12 +111,201 @@ kategoriana}\label{suku-kieliopillisena-kategoriana}
 
 Semanttinen ja morfologinen määräytyminen
 
-\subsection{Sija kieliopillisena
-kategoriana}\label{sija-kieliopillisena-kategoriana}
+\subsubsection{Substantiivien suvun
+määräytyminen}\label{substantiivien-suvun-muxe4uxe4ruxe4ytyminen}
 
-Mitä eri sijoja venäjässä on?
+Substantiivien suvun määrätytyminen on melko monimutkainen ilmiö.
+Esitettäessä siihen liittyviä säännönmukaisuuksia voidaan päätyä
+hyvinkin erilaisiin kuvausmalleihin. Esittelen tässä kahta vaihtoehtoa.
 
-Nikunlassi, Ahti 2002. \emph{Johdatus venäjän kieleen ja sen
-tutkimukseen}. Helsinki: Finn Lectura.
+\paragraph{Nikunlassin kuvaus}\label{nikunlassin-kuvaus}
+
+Ahti Nikunlanssi (2002: 149) esittää lähtökohtaisesti hyvin
+yksinkertaisen kaavan, jota soveltamalla substantiivin suku voidaan
+määritellä:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  mies-/urospuolinen = maskuliini. nais-/naaraspuolinen = feminiini
+\item
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    deklinaatio = maskuliini, 2. ja 3. deklinaatio = feminiini, 4. ja 5.
+    deklinaatio = neutri
+  \end{enumerate}
+\item
+  taipumaton sana, lyhenne tms. = erillisiä sääntöjä
+\end{enumerate}
+
+Deklinaatioiden käsitteeseen pureudutaan tarkemmin seuraavalla
+luennolla, joten selvyyden vuoksi voi olla tarpeen ennen jatkamista
+tutustua alla olevaan deklinaatiosta kertovaan materiaaliin.
+
+Perusajatus Nikunlassin kaavassa on, että jokaisen sanan kohdalla
+katsotaan ensin, onko sillä merkityksensä puolesta (semanttisesti) jokin
+suku. Esimerkiksi \emph{папа} on merkityksen puolesta maskuliini, joten
+siihen sovelletaan ensimmäistä sääntöä eikä kaavassa tarvitse edetä
+pidemmälle. Sanasta \emph{город} ei puolestaan merkityksen osalta voida
+vielä sanoa mitään. Tämän vuoksi on katsottava toista sääntöä. Sana
+город kuuluu taivutusmuotojensa puolesta ensimmäiseen deklinaation,
+joten sen suvuksi määräytyy maskuliini. Sana \emph{умность} puolestaan
+kuuluu kolmanteen deklinaatiooon, joten se on feminiini. Sana
+\emph{море} kuuluu neljänteen deklinaatioon ja on neutri.
+
+Taipumattomilla sanoilla ei ole deklinaatiota -- ne eivät nimensä
+mukaisesti taivu, joten taivutusmuotojen sarjaakaan ei ole olemassa.
+Tämän vuoksi näiden sanojen suvun määrittelemiseen tarvitaan erillisiä
+sääntöjä. Sama koskee esimerkimsi lyhenteitä.
+
+\paragraph{Šeljakinin kuvaus}\label{ux161eljakinin-kuvaus}
+
+Edellistä perinteisempi tapa opettaa suvun määräytymistä on todeta, että
+äänteisiin X, Y ja Z päättyvät substantiivit ovat maskuliineja,
+äänteisiin A, B, C päättyvät feminiinejä ja äänteisiin D, E, F taas
+neutreja. Tätä tapaa noudattaa esimerkiksi Šeljakin (2006: 28--) (ks.
+myös esimerkiksi Wade 2010: 54). Kuvaus on selkeästi vähemmän yleistävä
+kuin Nikunlassilla, mutta toisaalta tarkempi -- se antaa edellistä
+kuvausta suorempia vastauksia yhtä konkreettista sanaa koskeviin
+kysymyksiin. Toisaalta kuvaus sisältää suuren määrän poikkeuksia. Esitän
+seuraavassa tiivistetyn version tästä kuvaustavasta.
+
+Šeljakin lähtee liikkeelle siitä, että sanat voidaan suvun määrätymisen
+suhteen jakaa viiteen pääryhmään:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Taipuvat substantiivit
+\item
+  Taipumattomat substantiivit
+\item
+  Useampiosaiset sanat
+\item
+  ище- ja ищко-suffikseihin päättyvät sanat
+\item
+  Erisnimet
+\end{enumerate}
+
+Tarkastelen tässä lyhyesti kahta ensimmäistä ryhmää sekä viimeistä
+ryhmää. Eniten huomiota täytyy kiinnittää ensimmäiseen ryhmään, joka
+onkin määrällisesti laajin. Tämän ryhmän osalta suku määräytyy
+seuraavasti:
+
+\textbf{Ensiksi}: Yksikön nominatiivin päätteen mukaan seuraavan
+taulukon kuvaamalla tavalla:
+
+\begin{longtable}[c]{@{}lll@{}}
+\toprule
+esimerkkisana & nominatiivin pääte & suku\tabularnewline
+\midrule
+\endhead
+книга & -{[}а{]} & F\tabularnewline
+неделя & -{[}а{]} & F\tabularnewline
+море & -{[}е{]} & N\tabularnewline
+тело & -{[}о{]} & N\tabularnewline
+ночь & pehmeä konsonantti + ø & F\tabularnewline
+обед & kova konsonantti + ø & M\tabularnewline
+гений & -{[}j{]} & M\tabularnewline
+\bottomrule
+\end{longtable}
+
+Tähän määräytymistapaan on kuitenkin seuraavia poikkeuksia tai
+lisäyksiä.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  kaikki мя-päätteiset sanat ovat neutreja
+\item
+  tietyt kovaan sibilanttiäänteeseen päättyvät ovat feminiinejä --
+  merkiksi tästä lisätään sanan loppuun pehmeä merkki (молодёжь, ложь,
+  дрожь, мышь, роскошь)
+\item
+  eräät pehmeään konsonanttiin päättyvät ovat maskuliineja. Suurin
+  tällainen ryhmä ovat \emph{тель}-päätteiset sanat. Toinen selkeä ryhmä
+  ovat kuukausien nimet. Näiden lisäksi on noin 150 muuta sanaa, jotka
+  päättyvät pehmeään konsonanttiin, mutta ovat maskuliineja.
+\end{enumerate}
+
+\textbf{Toiseksi}: sanan merkityksen mukaan
+
+Yleissääntö on yksinkertainen:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Kaikki miespuoliseen henkilöön tai eläimeen viittaavat ovat
+  maskuliineja
+\item
+  Kaikki naispuoliseen henkilöön tai eläimeen viittaavat ovat
+  feminiinejä
+\end{enumerate}
+
+Tilanne on todellisuudessa kuitenkin mutkikkaampi. Yksi ongelmallinen
+ryhmä ovat henkilöihin viittaavat sanat, jotka päätteensä perusteella
+ovat maskuliineja. Näihin tapauksiin on seuraavanlaisia ratkaisuja:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Kun sana ei ole ammatti, toimeenkuva tai muu vastaava: esimerkiksi
+  \emph{человек}, \emph{враг}, \emph{подросток} ja \emph{гений} ovat
+  aina maskuliineja. (Она -- хороший человек)
+\item
+  Ammattia tms. tarkoittavalla sanalla voi olla feminiininen
+  rinnakkaismuoto, jota tietyissä tilanteissa voidaan käyttää
+  maskuliinimuodon sijaan (студентка, певица, шахматистка ym.).
+\item
+  Ammattia tms. tarkoittavalla sanalla ei aina ole feminiinistä
+  rinnakkaismuotoa (врач, профессор, доктор, кондуктор). Nämä sanat ovat
+  tavallisesti maskuliineja. Tietyissä ympäristöissä suku voi kuitenkin
+  olla feminiini: \emph{в гостях была наш врач}.
+\end{enumerate}
+
+Lisäksi esimerkiksi sanoilla \emph{плакса}, \emph{убийца},
+\emph{пяница}, \emph{коллега}, \emph{умница} suku määräytyy riippuen
+kulloinkin puheena olevasta henkilöstä.
+
+Toinen Šeljakinin sanaryhmä ovat taipumattomat substantiivit. Sellaiset
+taipumattomat sanat, jotka eivät viittaa henkilöön, ovat yleensä
+neutreja -- poikkeuksena kuitenkin esimerkiksi sanat \emph{пенальти} ja
+\emph{кофе}.
+
+Jos taipumattomat sanat viittaavat henkilöön, niiden suvun määräytyminen
+muistuttaa taipuvien henkilöön viittaavien sanojen suvun määräytymistä.
+Esimerkiksi sanat \emph{рефери} ja \emph{аташе} vertautuvat tällöihin
+sanoihin \emph{врач}, \emph{профессор} ym. ja ovat lähtökohtaisesti
+maskuliineja. On kuitenkin myös selkeästi feminiinejä taipumattomia
+henkilösanoja, esimerkiksi sanat \emph{леди} ja \emph{мадам}.
+
+Jos ei ole välttämätöntä erikseen painottaa taipumattoman eläimen sukua,
+sen suku on myös maskuliini: \emph{коричневый кенгуру}, \emph{умный
+шимпанзе}. Lisäksi taipumattomien sanojen sisällä on joukko sanoja,
+joiden suku määräytyy niiden taustalla olevaan yleisnimeen: kielet,
+kaupungit ja saaret ovat maskuliineja (vrt. язык, город, остров), monet
+joet taas feminiinejä. Lyhenteiden osalta pätee yleensä lyhenteen
+pääsanan suku (Московский Государственный \textbf{Университет})
+
+Erisnimistä (viides ryhmä) Šeljakin toteaa, että etunimien suku
+luonnollisesti määräytyy sen kantajan mukaan. -он, -ин ja
+-cкий-päättyvistä sukunimistä on erikseen feminiiniversio, muista ei.
+
+\hyperdef{}{ref-nikunl}{\label{ref-nikunl}}
+Nikunlassi, Ahti. 2002. \emph{Johdatus Venäjän Kieleen Ja Sen
+Tutkimukseen}. Helsinki: Finn Lectura.
+
+\hyperdef{}{ref-wade2010}{\label{ref-wade2010}}
+Wade, Terence. 2010. \emph{A Comprehensive Russian Grammar}. Vol. 8.
+John Wiley \& Sons.
+
+\hyperdef{}{ref-sheljakin}{\label{ref-sheljakin}}
+Шелякин, М.А. 2006. \emph{Справочник По Русской Грамматике}. drofa.
 
 \end{document}
