@@ -152,7 +152,7 @@ viimeinen morfi /ю/ tuo verbiin sen merkityksen, että toimintaa suorittaa
 yksikön ensimmäinen persoona. Sanan varsinainen merkitys -- jota muut morfit
 muokkaavat -- tulee toisesta morfista, */игр/*.
 
-Katsotaan lisää esimerkkejä ja jaetaan ne saman tien osiksi:
+Katsotaan lisää esimerkkejä ja jaetaan ne samantien osiksi:
 
 (@ee_peku) /пек/у/
 (@ee_pechesh) /печ/ёшь/
@@ -178,7 +178,7 @@ mietitään esimerkin @ee_vyigrivaju /игр/-morfia, voidaan todeta juuri näin
 morfeemia {игр} edustaa vain yksi morfi, /игр/. Morfeista /пек/ ja /печ/ voidaan
 puolestaan vielä sanoa, että ne ovat toistensa *allomorfeja*. Allomorfin käsite
 kannattaa painaa mieleen nimenomaan suhteellisena käsitteenä: yksittäinen morfi
-voi muodostaa allomorfiparin tai kolmikon suhteessa joihinkin muihin morfeihin.
+voi muodostaa allomorfiparin tai -kolmikon suhteessa joihinkin muihin morfeihin.
 
 Jäitkö miettimään, mitä morfeemeja esimerkkien @ee_peku ja @ee_pechesh toiset
 morfit (/у/ ja /ёшь/) edustavat? Kysymys on monimutkaisempi kuin ensi katsomalta
@@ -260,8 +260,6 @@ kieliopillisia morfeja!), ja tällaisille morfeille on oma nimityksensäkin:
 salkkumorfi (гибридный морф) [ks. @nikunl, 106--107].
 
 
-
-
 Millainen kieli venäjä on morfologian kannalta?
 -----------------------------------------------
 
@@ -285,7 +283,6 @@ Morfologian osa-alueita
 
 - Morfofonologia(морфонология), Morfosyntaksi (морфосинтаксис),
   Funktionaalinen morfologia (функциональная морфология)
-
 
 
 Luento 2: morfeemityypeistä ja sanaluokista

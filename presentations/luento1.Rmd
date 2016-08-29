@@ -8,6 +8,10 @@
 >- Kysy (juho.harme@uta.fi) tai tule rohkeasti käymään (B5004)
 >- Materiaalit Moodlen kautta tai suoraan osoitteesta [mustikka.uta.fi/~juho_harme/morfologia](http://mustikka.uta.fi/~juho_harme/morfologia/index.html) 
 >- Luento-opetus + tentti (uusintamahdollisuus tammikuussa)
+>- 4 op, numeroarvostelu
+>- max 2 poissaoloa -- loput korvattava
+>- Kurssin keskeyttäminen = hylätty
+>- opetuskieli pääosin suomi
 
 # Kurssin tavoitteita
 
@@ -87,6 +91,10 @@
 >- /печ/ёшь/
 </div>
 
+<div class="incremental">
+![](http://www.sotdoc.co.uk/wp-content/uploads/2014/08/Picture-11.png)
+</div>
+
 <div class="incremental" style="font-size:100%;">
 >- [Tehtävä](../tehtavat/luento1.pdf)
 </div>
@@ -94,6 +102,7 @@
 <!-- 1. KYSY: Mitä kukin näistä morfeista tuo sanaan? Minkä merkityksen? -->
 <!-- 2. HUOMAUTA: petsh ja pek ovat samaa *morfeemia* -->
 <!-- 3. HUOMAUTA: läheskään aina ei väliä, puhuuko morfista vai morfeemista -->
+<!-- Muista myös erotella leksikaaliset ja kieliopilliset morfit -->
 
 # Kieliopilliset kategoriat
 
@@ -114,7 +123,7 @@
 >- tapaluokka
 >- aikamuoto
 
-[Kansalliskorpus](http://www.ruscorpora.ru)
+>- [Kansalliskorpus](http://www.ruscorpora.ru)
 
 # Morfologian osa-alueita
 
