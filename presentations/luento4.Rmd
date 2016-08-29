@@ -66,14 +66,47 @@
 
 # Mikä on deklinaatio?
 
+<article class='incremental nobul' style='font-size:140%; float:left;margin-right:1em;'>
+>- книг/а/
+>- книг/и/
+>- книг/у/
+>- книг/е/
+>- книг/ой/
+>- книг/е/
+</article>
+
+<article class='incremental nobul' style='font-size:140%; float:left;margin-right:1em;'>
+>- кукл/а/
+>- кукл/ы/
+>- кукл/у/
+>- кукл/е/
+>- кукло/й/
+>- кукл/е/
+</article>
+
+<article class='incremental nobul' style='font-size:140%; float:left;margin-right:1em;'>
+>- лёгкость
+>- лёгкости
+>- лёгкость
+>- лёгкости
+>- лёгкости
+>- лёгкости
+</article>
+
+# 
+
+>- Deklinaatio vs. suku
+>- Tulkintakysymys!
+>- poikkeusjäämä
+>- minä oppijana -- minä opettajana?
+
+
 
 # Tehtävä (substantiivien deklinaatiot)
 
-- Jakautukaa 2--3 hengen ryhmiin (yhteensä 4--5).
-
-- Opiskelijoiden jako ryhmiin?
-- Tehtävä 1: erottele deklinaatiosta päätteet?
-- Tehtävä 2: keksi esimerkkisanoja deklinaatioon, josta vain päätteet annettu
+>- Jakautukaa 2--3 hengen ryhmiin vierekkäin istuvien kesken (yhteensä 4--5 ryhmää).
+>- Tehtävä 1: erottele deklinaatiosta päätteet?
+>- Tehtävä 2: keksi esimerkkisanoja deklinaatioon, josta vain päätteet annettu
 
 
 <!--  pandoc -f markdown -s luento4.Rmd -t slideous -o luento4.html --self-contained --include-in-header=fontheader.html --smart -->

@@ -40,8 +40,8 @@ no  | Pvm        | Aihe
 -   | ti 6.9.    | EI LUENTOA (avajaiset)
 3   | ke 7.9.    | Luku ja suku kieliopillisina kategorioina
 4   | ti 13.9.   | Sija kieliopillisena kategoriana 
-5   | ke 14.9.   | Sija kieliopillisena kategoriana 2 + vertailuaste
-6   | ti 20.9.   | Sijat funktionaalisen morfologian kannalta: gen + dat
+5   | ke 14.9.   | Sija kieliopillisena kategoriana 2
+6   | ti 20.9.   | Vertailuaste. Sijat funktionaalisen morfologian kannalta: gen + dat
 7   | ke 21.9.   | Sijat funktionaalisen morfologian kannalta: gen + dat + instr
 8   | ti 27.9.   | Sijat funktionaalisen morfologian kannalta: nominatiivi + akkusatiivi (elollisuuskategoria)
 9   | ke 28.9.   | Yleistä verbeistä
@@ -925,8 +925,10 @@ samoilla morfeilla.
   elollisuudesta riippuen
 - **Datiivin** päätteenä on morfi /у/. Jälleen kerran, jos edelätävä konsonantti
   on liudentunut, merkitään morfia kirjoituksessa ю-kirjaimella.
-- **Instrumentaalin** päätteenä on morfi /ом/ tai /ем/
+- **Instrumentaalin** päätteenä on morfi /ом/ tai /ем/[^omem]
 - **Prepositionaalin** päätteenä on morfi /е/ tai /и/
+
+[^omem]: Tarkkaan ottaen kyseessä on yksi ja sama morfi /ом/
 
 Seuraava taulukko kuvaa ensimmäisen deklinaation kootusti esimerkkien kautta:
 
@@ -1011,7 +1013,7 @@ Viidennen deklinaation muodostavat yksinään мя-äänneyhdistelmään päätt
 substantiivit. Ne ovat kaikki neutreja.
 
 
-Sija   | Päätemorfi | esim.1
+Sija   | Päätemorfi | esim
 ----   | ---------- | ------
 Nom.   | /а/        | время
 Gen.   | /и/        | времени
@@ -1023,13 +1025,88 @@ Prep.  | /е/ ~ /и/  | времени
 
 ### Monikon deklinaatiot
 
+Esittelen seuraavassa Nikunlassin [@nikunl: 142] ehdotuksen monikon
+deklinaatioiksi. Monikkomuotojen muodostuksessa helppoa on, että datiivi-,
+instrumentaali- ja prepositionaalimuodot ovat käytännössä aina samat:
+muodostetaan päätteillä /ам/, /ами/, ja /ах/. Taivutuksen erot tulevat esille
+kaikkein yleisimmissä sijoissa eli nominatiivissa ja genetiivissä.
 
-### Sekadeklinaatiot ja muut sanatason poikkeukset
+
+#### Ensimmäinen monikon deklinaatio
+
+Monikon nominatiivin ja genetiivin kannalta ensimmäinen ja kolmas deklinaatio
+voidaan hyvin yhdistää. Tällöin säännöksi tulee, että nominatiivin pääte on /и/
+(muista, että kyseinen morfeemi kattaa sekä etu- että taka-i:n) ja genetiivin
+joko /ей/ tai /ов/. Genetiivin päätteen osalta voidaan todeta, että:
+
+- Jos sanan vartalo päättyy parilliseen liudentuneeseen konsonanttiin tai
+  konsonantteihin ж, ч, ш, щ, monikon genetiivin pääte on /ей/
+- Muussa tapauksessa monikon genetiivin pääte on /ов/
+
+
+Sija   | Päätemorfi  | esim. 1  | esim.2        | esim. 3    | esim. 4
+----   | ----------  | ----     | ------        | ---------- | ---
+Nom.   | /и/         | экраны   | выключа́тели   | врач       | ночи
+Gen.   | /ей/ ~ /ов/ | экранов  | выключа́телей  | врачей     | ночей
+Akk.   | /и/         | экраны   | выключатели   | врачей     | ночи
+Dat.   | /ам/        | экранам  | выключа́телям  | врачам     | ночам
+Instr. | /ами/       | экранами | выключа́телями | врачами    | ночами
+Prep.  | /ах/        | экранах  | выключа́телях  | врачах     | ночах
+
+#### Toinen monikon deklinaatio
+
+Toinen monikon deklinaatio voidaan muodostaa suoraan toisen yksikön deklinaation
+pohjalta, niin että monikon nominatiivin pääte on /и/ ja monikon genetiivin
+pääte /ø/
+
+Sija   | Päätemorfi | esim. 1
+----   | ---------- | ----
+Nom.   | /и/        | книги
+Gen.   | /ø/        | книг
+Akk.   | /и/        | книги
+Dat.   | /ам/       | книгам
+Instr. | /ами/      | книгами
+Prep.  | /ах/       | книгах
+
+
+#### Kolmas monikon deklinaatio
+
+Kolmas monikon deklinaatio saadaan, kun yhdistetään yksikön neljäs ja viides
+deklinaatio. Tällöin voidaan todeta, että monikon moninatiivin pääte on /а/ ja
+genetiivin /ø/.
+
+Sija   | Päätemorfi | esim. 1   | esim.2  
+----   | ---------- | ----      | ------  
+Nom.   | /и/        | времена   | гнёзда  
+Gen.   | /ø/        | времён    | гнёзд   
+Akk.   | /и/        | времена   | гнёзда  
+Dat.   | /ам/       | временам  | гнездам 
+Instr. | /ами/      | временами | гнездами
+Prep.  | /ах/       | временах  | гнездах 
+
+
+Luento 5: sija kieliopillisena kategoriana 2
+====================================================
+
+Tällä luennolla sijakategoriaa käsitellään vielä taivutusopin kannalta ja
+tarkastellaan poikkeuksia edellä esitettyihin deklinaatioihin sekä lisäksi
+adjektiivien ja pronominien deklinaatioita. Lopuksi pohditaan sanapainon
+vaihtelua eri taivutusmuodoissa.
+
+Sekadeklinaatiot ja muut sanatason poikkeukset
+----------------------------------------------
 
 Edellä lueteltujen viiden taivutustyypin voi nähdä muodostavan selkeimmät
 pääryhmät, joihin suurin osa substantiiveista voidaan sovittaa. Näiden
 ulkopuolelle jää kuitenkin väistämättä iso joukko substantiiveja. Seuraavassa
-esitetään muutamia huomioita ja säännönmukaisuuksia näistä sanoista.
+esitetään muutamia huomioita ja säännönmukaisuuksia näistä sanoista. Lähteenä
+käytän pääasiassa...
+
+**Monikossa**
+
+Instrumentaalin vaihtoehtoinen pääte..
+
+мечтаний
 
 
 Deklinaatioista ja painotyypeistä
@@ -1061,6 +1138,6 @@ Kirjallisuutta
 
 
 <!--  !pandoc -t latex --bibliography=lahteet.bib --template=textemp.tex -o a/luento1.tex -->
-<!--  !pandoc morfologia.rmd -f markdown -t html --bibliography=lahteet.bib --standalone -o index.html -h github-pandoc.css --toc --toc-depth=1 --include-after-body=scripts.js --smart -->
+<!--  !pandoc morfologia.Rmd -f markdown -t html --bibliography=lahteet.bib --standalone -o index.html -css github-pandoc.css --toc --toc-depth=1 --include-after-body=scripts.js --smart -->
 
 
