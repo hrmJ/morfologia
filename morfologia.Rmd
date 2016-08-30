@@ -12,7 +12,7 @@ eräänlainen kertauskurssi: kaikki kurssilla käsiteltävät asiat ovat sinulle
 tuttuja aikaisemmista opinnoistasi. Tämän kurssin pointtina on, että opit
 perusteellisemmin jäsentämään ja analysoimaan osaamistasi. Opit suomen- ja
 venäjänkieliset termit ilmiöille, joihin ennen olet ehkä viitannut vain
-ilmaisulla *"se ющий-päätteinen muoto"*. Samalla saat, toivottavasti, vastuksia
+ilmaisulla *"se ющий-päätteinen muoto"*. Samalla saat, toivottavasti, vastauksia
 moniin *miksi*-kysymyksiin, kuten *miksi отец-sanan genetiivi on отца eikä отеца*.
 
 Kurssilla käytettävä  saattaa olla sinulle jossain määrin
@@ -25,7 +25,21 @@ työkaluja.
 Linkkejä
 ========
 
+- [Kurssin termilista](termit.html)
 - [Kurssin Moodle-alue](https://learning2.uta.fi/course/view.php?id=8679)
+- [Kansalliskorpus](http://www.ruscorpora.ru)
+- [wiktionary](http://ru.wiktionary.org)
+- [Tihonovin sanakirja](http://http://old.kpfu.ru/infres/slovar1)
+- [Zaliznjakin sanakirja](http://morfologija.ru)
+- [Internet-yhteisö kysymyksille ja vastauksille](http://rus.stackexchange.com/)
+
+<!-- http://udarenieru.ru/  -->
+
+Termeistä
+=========
+
+Kurssilla esiintyvät oleellisimmat termit pyritään keräämään [omalle erilliselle sivulleen](termit.html)
+[https://mustikka.uta.fi/~juho_harme/morfologia/index.html](https://mustikka.uta.fi/~juho_harme/morfologia/index.html)
 
 
 Kurssin aikataulu
@@ -48,7 +62,7 @@ no  | Pvm        | Aihe
 10  | ti 4.10.   | Persoona kieliopillisena kategoriana + Partisiippien muodostus
 11  | ke 5.10.   | Pääluokka kieliopillisena kategoriana
 12  | ti 11.10.  | Pääluokka + partisiipit funktionaalisen morfologian kannalta
--   | ti 18.10  | PERIODITAUKO
+-   | ti 18.10   | PERIODITAUKO
 -   | ke 19.10   | PERIODITAUKO
 13  | ke 19.10   | Aspekti kieliopillisena kategoriana
 14  | ti 25.10.  | Aspektin muodostus ja aspektiparin käsite
@@ -63,6 +77,7 @@ no  | Pvm        | Aihe
 23  | ke 23.11.  | Verbimuotoja: Infinitiivi
 24  | ti 29.11.  | Adverbien erityispiirteitä
 25  | ke 30.11.  | Kertausta
+26  | ti 6.12.   | EI LUENTOA (itsenäisyyspäivä)
 26  | ke 7.12.   | KOE
 
 
@@ -119,9 +134,6 @@ kutsutaan yhteisesti *nomineiksi*.
 - interjektiot (междометия)
 
 
-[Tehtävä 1: tunnista sanaluokat]
-
-
 Mitä on sanan sisällä?
 -----------------------
 
@@ -176,7 +188,7 @@ tavalla. Tällöin on käytännössä melkeinpä sama, puhutaanko morfeemista va
 morfista, mutta teoriassa erottelu toki tulee edelleen pitää mielessä. Jos
 mietitään esimerkin @ee_vyigrivaju /игр/-morfia, voidaan todeta juuri näin:
 morfeemia {игр} edustaa vain yksi morfi, /игр/. Morfeista /пек/ ja /печ/ voidaan
-puolestaan vielä sanoa, että ne ovat toistensa *allomorfeja*. Allomorfin käsite
+puolestaan vielä sanoa, että ne ovat toistensa *allomorfeja* (алломорф). Allomorfin käsite
 kannattaa painaa mieleen nimenomaan suhteellisena käsitteenä: yksittäinen morfi
 voi muodostaa allomorfiparin tai -kolmikon suhteessa joihinkin muihin morfeihin.
 
@@ -234,15 +246,15 @@ voidaan viitata kätevämmin termillä *kieliopillinen kategoria* (грамма�
 категория).
 Venäjässä ilmaistavia kieliopillisia kategorioita ovat ainakin
 
-- suku
-- luku
-- sija
-- elollisuus
-- pääluokka
-- persoona
-- aspekti
-- tapaluokka
-- aikamuoto
+- sukukategoria (категория рода)
+- lukukategoria (категория числа)
+- sijakategoria (категория падежа)
+- elollisuuskategoria (категория одушевлённости)
+- pääluokkakategoria (категория залога)
+- persoonakategoria (категория лица)
+- aspektikategoria (категория вида)
+- tapaluokkakategoria (категория наклонения)
+- aikamuotokategoria (категория времени)
 
 Jos mietitään käsitteitä *instrumentaali*, *toinen persoona* tai *feminiini*,
 voidaan sanoa, että ne ovat *kieliopillisten kategorioiden arvoja*. Palatakseni
@@ -304,7 +316,7 @@ lähtökohtaisesti jakaa kahteen ryhmään: juurimorfeemeihin ja
 Tutkitaan kumpaakin ryhmää seuraavassa tarkemmin. Kun mietit yksittäisen sanan
 jakautumista morfeihin, [wikisanakirja](http://ru.wiktionary.org) on kätevä ja
 helppolukuinen paikka lähteä liikkeelle, josta löydät myös viitteet
-'vakavampiin' kirjallisiin lähteisiin. Kannattaa kuitenkin pitää mielessä,
+'vakavampiin' kirjallisiin lähteisiin. Samoin internetissä on vapaasti käytettävissä E.A. Zaliznjakin sanakirjaan perustuva [morfologija.ru](http://www.morfologija.ru/), joka ei kuitenkaan niinkään jaa sanoja morfeiksi kuin esittelee eri taivutusparadigmoja. Wikisanakirjan lähteenä paljon käytetty [Tihonovin sanakirja](http://old.kpfu.ru/infres/slovar1) on myös vapaasti selattavissa oleva hyvä lähde. Kannattaa joka tapauksessa pitää mielessä,
 ettei sanan jakaminen morfeiksi ole sekään millään lailla objektiivista,
 itsenäistä todellisuutta vaan käytettävistä teoreettisista lähtökohdista
 riippuvaisen tulkinnan tulos.
@@ -379,6 +391,9 @@ useita. Mitä prefiksejä ja suffikseja voit erottaa seuraavista sanoista?
 (@ee_pereodevat) переодеваю
 (@ee_osnovatelnitsa) основательницу
 
+Prefiksejä ja suffikseja ei ole ääretöntä määrää, vaan halutessaan
+tavallisimmat voi opetella vaikka ulkoa. Erilaisia substantiiveiin liitettäviä
+suffikseja on listannut muun muassa Šeljakin [-@sheljakin:32--37].
 
 #### Taivutuspäätteet
 
@@ -389,8 +404,8 @@ esimerkiksi seuraavaa худой-adjektiivin sananmuotoa:
 
 (@ee_huduju) /худ/ую/
 
-/ую/ on taivutuspääte, joka ilmaisee useampaakin kieliopillista kategoriaa:
-lukua (arvona tässä yksikkö), sukua (feminiini) ja sijaa (akkusatiivi).
+/ую/ on taivutuspääte (окончание), joka ilmaisee useampaakin kieliopillista kategoriaa:
+lukua (arvona tässä yksikkö), sukua (feminiini, женский род) ja sijaa (akkusatiivi, винительный падеж).
 Osin toisenlaisista taivutuspäätteistä on kyse seuraavissa esimerkeissä:
 
 (@ee_guljala) /гул/я/л/а/
@@ -398,7 +413,7 @@ Osin toisenlaisista taivutuspäätteistä on kyse seuraavissa esimerkeissä:
 (@ee_obed) /обед/ø/
 
 Esimerkissä @ee_guljala on itse asiassa kaksi päätettä, /л/, joka ilmaisee
-aikamuotoa (mennyt aika) ja /а/ joka ilmaisee lukua ja sukua (yksikkö,
+aikamuotoa (mennyt aika, продщее время) ja /а/ joka ilmaisee lukua ja sukua (yksikkö,
 feminiini). Esimerkki @ee_obed on merkittävä siinä mielessä, että se esittelee
 *nollamorfin* (нулевой морф) käsitteen. Voidaan nimittäin katsoa, että
 обед-sanassakin on -- kuten книга-sanassa -- sukua ilmaiseva pääte. Tämä vain ei
@@ -423,7 +438,6 @@ Interfiksit puolestaan ovat -- nekin nimensä mukaisesti -- sanojen välissä
 olevia liitosmorfeemeja, joiden avulla muodostetaan yhdyssanoja:
 
 (@ee_thsernobelyj) /чёрн/о/бел/ый/
-
 
 ### Vartalo
 
@@ -846,7 +860,11 @@ Lokatiivi (местный падеж) esiintyy myös rajoitetulla joukolla subst
 Sitä käytetään в- ja на-prepositioiden yhteydessä ilmaisemaan paikkaa (*на берегу*). Eron
 prepositionaaliin huomaa verratessaan sanaa о-preposition yhteydessä esiintyvään
 muotoon: *о береге*. Huomaa myös кровь-sanan yhteydessä lokatiivimuoto *в кровИ* ja
-prepositionaali muoto *о крОви*.
+prepositionaali muoto *о крОви*. Tähän ryhmään voidaan lukea myös tyyliltään
+puhekieliset muodot *в отпускУ*, *в чаЮ*, joiden kohdalla myös tavallinen
+e-päätteinen prepositionaalimuoto on mahdollinen [vrt. @sheljakin: 47].
+
+<!-- http://www.philology.ru/linguistics2/plungyan-02.htm   -->
 
 **Adnumeratiivi**
 
@@ -899,7 +917,9 @@ kullakin suvulla on oma deklinaationsa [ks. esim. @wade2010: 73]. Ei kuitenkaan
 ole mitään erityistä syytä olettaa, että suvun ja
 deklinaation välillä olisi ehdottomasti syy--seuraussuhde,
 jossa suku määrää taivutustyypin. Tämän vuoksi seuraavassa esitettävät viisi
-deklinaatiotyyppiä [ks. @nikunl: 140--] eivät lankea aivan tarkalleen yksiin sukujen kanssa.
+deklinaatiotyyppiä [ks. @nikunl: 140--] eivät lankea aivan tarkalleen yksiin
+sukujen kanssa. Erityisesti kannattaa kiinnittää huomiota siihen, että
+esimerkiksi toiseen deklinaatioon kuuluu myös maskuliineja kuten *мужчина*.
 
 Jos suku ei määrää substantiivin taivutustyyppiä, niin mikä sitten? Jos kyseessä
 on johdettu sanavartalo (toisin sanoen, jos sanan vartaloon kuuluu juurimorfin
@@ -942,7 +962,7 @@ Prep.  | /е/ ~ /и   | столе  | учителе  | гении
 
 ### Toinen deklinaatio
 
-Toiseen deklinaatioon kuuluvat vokaaliin päättyvät feminiinit. Niiden päätteistä
+Toiseen deklinaatioon kuuluvat -/а/-morfiin päättyvät sanat. Niiden sijapäätteistä
 voidaan todeta:
 
 - Nominatiivi ilmaistaan morfilla /а/ (vrt. myös kirjoitusasu)
@@ -951,7 +971,8 @@ voidaan todeta:
   riippuen[^i_ymp] morfi voi edustua joko etisenä tai takaisena.
 - Akkusatiivi ilmaistaan morfilla /у/
 - Datiivissa on kaksi vaihtoehtoa: /е/ tai /и/
-- Instrumentaali ilmaistaan morfilla /ой/
+- Instrumentaali ilmaistaan morfeilla /ой/ (tähän morfiin luetaan myös pääte
+  *ёй*) ja /ей/. Runokielessä on lisäksi olemassa päätteet /ою/, /ею/.
 - Prepositionaali ilmaistaan morfilla /е/ tai /и/
 
 [^i_ymp]: Sanan alussa ja liudentuneen konsonantin jäljessä foneemi [и] edustuu
@@ -965,7 +986,7 @@ Nom.   | /а/        | книга  | серия  | тыква
 Gen.   | /и/        | книги  | серии  | тыквы
 Akk.   | /у/        | книгу  | серию  | тыкву
 Dat.   | /е/ ~ /и/  | книге  | серии  | тыкве
-Instr. | /ой/       | книгой | серией | тыквой
+Instr. | /ой/ ~ /ей/| книгой | серией | тыквой
 Prep.  | /е/ ~ /и/  | книге  | серии  | тыкве
 
 ### Kolmas deklinaatio
@@ -1026,7 +1047,8 @@ Esittelen seuraavassa Nikunlassin [@nikunl: 142] ehdotuksen monikon
 deklinaatioiksi. Monikkomuotojen muodostuksessa helppoa on, että datiivi-,
 instrumentaali- ja prepositionaalimuodot ovat käytännössä aina samat:
 muodostetaan päätteillä /ам/, /ами/, ja /ах/. Taivutuksen erot tulevat esille
-kaikkein yleisimmissä sijoissa eli nominatiivissa ja genetiivissä.
+kaikkein yleisimmissä sijoissa eli nominatiivissa ja genetiivissä. Usein 
+[esim. @sheljakin:44] monikolle esitetäänkin ainoastaan yksi deklinaatio.
 
 
 #### Ensimmäinen monikon deklinaatio
@@ -1090,20 +1112,108 @@ tarkastellaan poikkeuksia edellä esitettyihin deklinaatioihin sekä lisäksi
 adjektiivien ja pronominien deklinaatioita. Lopuksi pohditaan sanapainon
 vaihtelua eri taivutusmuodoissa.
 
-Sekadeklinaatiot ja muut sanatason poikkeukset
-----------------------------------------------
+Sekamuotoja ja poikkeuksia
+---------------------------
 
 Edellä lueteltujen viiden taivutustyypin voi nähdä muodostavan selkeimmät
 pääryhmät, joihin suurin osa substantiiveista voidaan sovittaa. Näiden
 ulkopuolelle jää kuitenkin väistämättä iso joukko substantiiveja. Seuraavassa
-esitetään muutamia huomioita ja säännönmukaisuuksia näistä sanoista. Lähteenä
-käytän pääasiassa...
+esitetään muutamia huomioita ja säännönmukaisuuksia näistä sanoista.
+
+
+### Muutoksia vartaloissa
+
+#### Äänteenmuutokset
+
+Luonnollisesti myös äänteenmuutokset aiheuttavat vartaloeroja eri sijamuotojen
+välillä.
+
+[@ninkunl: 141]
+
+соседь 
+ухо
+око
+
+Väistyvä vokaali (беглый гласный) [@sheljakin: 59]
+
+
+#### Yksittäisiä tapauksia
+
+Substantiiveilla мать ja  дочь on useimmissa sijamuodoissa poikkeava vartalo:
+
+Sija   | Päätemorfi | esim.1 
+----   | ---------- | ------ 
+Nom.   | /ø/        | мать   
+Gen.   | /и/        | матери 
+Akk.   | /ø/        | мать   
+Dat.   | /и/        | матери 
+Instr. | /ju/       | матерью
+Prep.  | /и/        | матери 
+
+Toinen huomionarvoinen vartalonmuutosten ryhmään osuva sanajoukko ovat
+yhdyssanat tyyppiä *полдень*. Nämä sanat voivat saada ylimääräisen у-vokaalin:
+*полубутылки*, *полубутылке* jne. Tästä ilmiöstä ei kuitenkaan ole mahdollista
+tehdä yleispätevää sääntöä. Esimerkiksi Šeljakin[-@sheljakin: 50] toteaa
+(korostus minun):
+
+"При изменении по падежам ... компонент пол **может заменяться** компонентом полу"
+
+Jonkinnäköisenä suuntaviivana voinee sanoa, että у-vokaalin sisältävät muodot
+ovat usein tyyliltään kirjallisempia.
+
+<!-- ks. kansalliskorpus! 
+
+myös:
+http://rus.stackexchange.com/questions/424187/%D0%9F%D0%BE%D0%BB%D1%81%D1%83%D1%82%D0%BE%D0%BA-%D0%BF%D0%BE%D0%BB%D0%BF%D1%8F%D1%82%D0%BE%D0%B3%D0%BE/424190#424190
+
+-->
+
+
+
+
+### Poikkeuksellinen monikon nominatiivi
+
+ <!--  Hyvä paikka testata kansalliskorpusta! -->
+
+Monilla 1. deklinaatioon kuuluvilla sanoilla monikon pääte ei ole
+odotuksenmukaisesti /и/, vaan /а/. Näin on esimerkiksi seuraavilla sanoilla
+[täydellinen lista ks. @sheljakin: 52--53]:
+
+бок, век, глаз, дом, адрес, берег, вечер, лагерь, паспорт, профессор
+
+
+Muita poikkeuksellisia nominatiiveja: яблоко, колено
+
+цвет, листья
+
+
 
 **Monikossa**
 
 Instrumentaalin vaihtoehtoinen pääte..
 
 мечтаний
+
+
+### Sekadeklinaatiot sukunimissä
+
+Tietyt sukunimet taipuvat muuten 1. deklinaation mukaan, mutta niiden yksikön
+instrumentaalimuoto muistuttaa adjektiivien instrumentaalimuotoa:
+
+Sija   | Päätemorfi | esim. 1  | esim.2
+----   | ---------- | ----     | ------
+Nom.   | /ø/        | Иванов   | Малкин
+Gen.   | /а/        | Иванова  | Малкина
+Akk.   | /а/        | Иванова  | Малкина
+Dat.   | /у/        | Иванову  | Малкину
+Instr. | /ым/       | Ивановым | Малкиным
+Prep.  | /е/        | Иванове  | Малкине
+
+Kuitenkin esimerkiksi ук-päätteiset sukunimet saavat normaalin yksikön
+instrumentaalin päätteen:
+
+(@ee_mjak) фильм с Малкиным и Ковальчуком
+
 
 
 Deklinaatioista ja painotyypeistä
@@ -1121,8 +1231,22 @@ myös sen tiedostaminen, että eri sananmuotojen ääntämys vaihtelee painon os
 ja myös painon suhteen sanoja voidaan jossain määrin ryhmitellä.
 
 Tässä yhteydessä ei tehdä erityisen kattavaa katsausta eri painotyyppeihin, vaan
-tarkoitus on ennemminkin rohkaista itsenäiseen opiskeluun ja esitellä ajatus.
+tarkoitus on ennemminkin rohkaista itsenäiseen opiskeluun ja ylipäätään esitellä ajatus.
 
+
+Luento 6: Vertailuaste. Sijat funktionaalisen morfologian kannalta 1
+====================================================================
+
+Luento 7: Sijat funktionaalisen morfologian kannalta 2
+====================================================================
+
+
+Luento 8: Sijat. Elollisuuskategoria.
+=====================================
+
+[ks. @sheljakin:43]
+
+painoasioita: НА пол vs. на Пол
 
 Luento 12 : Pääluokka kieliopillisena kategoriana
 =================================================

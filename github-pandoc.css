@@ -463,4 +463,13 @@ html,body{        margin: auto;
 }
 
 
+#terms_fi{
+    display:block;
+}
+
+
+#terms_ru{
+    display:none;
+}
+
 </style>

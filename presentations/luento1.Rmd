@@ -76,7 +76,7 @@
 # Esimerkki
 
 <div class="incremental" style="font-size:300%;">
->- выигриваю
+>- выигрываю
 </div>
 
 <div class="incremental" style="font-size:300%;">
@@ -103,6 +103,11 @@
 <!-- 2. HUOMAUTA: petsh ja pek ovat samaa *morfeemia* -->
 <!-- 3. HUOMAUTA: läheskään aina ei väliä, puhuuko morfista vai morfeemista -->
 <!-- Muista myös erotella leksikaaliset ja kieliopilliset morfit -->
+
+# Viime kerralta
+
+>- Морфемы русского языка (1976): при/ним/а/ть/ся
+>- Словарь-справочник по русскому языку (1995): приним/а/ть/ся
 
 # Kieliopilliset kategoriat
 

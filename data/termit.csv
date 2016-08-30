@@ -1,3 +1,48 @@
 termfi;termru;explanation
 itsenäiset sanaluokat;самостоятельные части речи;muut sanaluokat paitsi partikkelit, prepositiot, konjunktiot ja interjektiot
 apusanaluokat;самостоятельные части речи;muut sanaluokat paitsi partikkelit, prepositiot, konjunktiot ja interjektiot
+sanaluokka;часть речи;sanojen ryhmittely, joka yleensä tehdään pääosin morfologisin, osin kuitenkin semanttisin (ja syntaktisin) perustein
+substantiivit;существительные;sijoissa taipuva asioita / henkilöitä / esineitä ym. nimeävä sanaluokka
+adjektiivit;прилагательные;laatua ilmaisevia sanoja. Ilmaisevat myös sukua taivutuspäätteillä
+pronominit;местоимения;Nominien asemesta käytettäviä sanoja
+lukusanat;числителные;numeroita ja lukumäärää ilmaisevia sanoja -- morfologisesti osin epäyhtenäinen luokka
+verbit;глаголы;tekemistä, toimintaa ilmaisevia sanoja, jotka ilmaisevat aspektia, pääluokkaa, persoonaa
+adverbit;наречия;taipumattomia mm. tapaa, paikkaa ja aikaa ilmaisevia sanoja
+nominit;инменные части речи;sijoissa taipuvat sanaluokat (pois lukien sijoissa taipuvat partisiipit)
+prepositiot;предлоги;yksimorfeemisia sanoja, joilla ilmaistaan kieliopillisia kategorioita. Adpositioita, jotka edeltävät niistä riippuvaa substantiivia.
+konjunktiot;союзы;lauseita yhdistävien apusanojen ryhmä (а,и,но,хотя ym.)
+partikkelit;частицы;määrällisesti suuri taipumattomien kieliopillisten sanojen ryhmä, esim. не, бы, мол 
+interjektiot;междометия;huudahdussanoja kuten ой! ах! ym.
+morfi;морф;morfeemin konkreettinen esiintymä
+morfeemi;морфема;kielen pienen merkitystä kantava yksikkö
+allomorfi;алломорф;morfi, joka on täydennysjakaumassa toisen morfin kanssa eli on yksi kahdesta tai useammasta konkreettisesta esiintymästä, jona jokin morfeemi ilmenee
+juurimorfi;корневой морф, корень;sanan leksikaalisen ytimen ilmaiseva johtamaton morfi
+kieliopillinen kategoria;грамматическая категория;morfeilla ilmaistava kielellinen piirre (esim. sija, suku, aspekti, persoona, pääluokka) jonka suhteen kaksi eri sananmuotoa (esim. играю, играешь) ovat oppositiossa.
+salkkumorfi;гибридный морф;morfi, joka ilmaisee samalla kertaa useampaa kieliopillista kategoriaa, esim. красив/ая/-sanan viimeinen morfi sijaa ja lukua 
+sukukategoria;категория рода;substantiivien luokittelu kolmeen ryhmään. Sukukategoriaa ilmaisevat myös adjektiivit, eräät pronominit sekä tietyissä muodoissa verbit
+lukukategoria;категория числа;venäjässä tällä kategorialla kaksi arvoa: yksikkö ja monikko
+sijakategoria;категория падежа;tärkein venäjän nominien keiliopillisista kategorioista, jolla erotetaan lukuisia erilaisia merkityksiä
+elollisuuskategoria;категория одушевлённости;erityisesti akkusatiivin osalta oleellinen kategoria, joka liittyy sanan referentin statukseen elollisena/elottomana olentona
+pääluokkakategoria;категория залога;verbien ilmaisema kategoria, jonka arvot ovat aktiivi (действительный залог) ja passiivi (старательный залог)
+persoonakategoria;категория лица;tavallisimmin verbeillä, mutta joissain tapauksissa myös pronomineilla ilmaistu kieliopillinen kategoria
+aspektikategoria;категория вида;koko venäjän verbijärjestelmän läpäisevä kategoria, jolla perinteisesti nähty kaksi arvoa, imperfektiivinen ja perfektiivinen
+tapaluokkakategoria;категория наклонения;verbien ilmaisema kieliopillinen kategoria, jonka arvoja mm. indikatiivi ja konditionaali
+aikamuotokategoria;категория времени;verbien ilmaisema kieliopillinen kategoria, jonka tärkeimmät arvot mennyt aika ja ei-mennyt aika
+sananmuodostusoppi;словообразование;morfologian toinen päähaara, joka tutkii mm. affikseja ja johtamista
+taivutusoppi;словоизменение;morfologian toinen päähäära, joka tutkii eri sananmuotoja
+morfofonologia;морфонология;morfologian osa-alue, joka tutkii muun muassa äänteenmuutoksia
+morfosyntaksi;морфосинтаксис;morfologian osa-alue, joka tutkii morfologian ja syntaksin rapaintoja, esimerkiksi kongruenssia
+funktionaalinen morfologia;функциональная морфонология;morfologian osa-alue, joka keskittyy sanojen ja morfeemien käytön tutkimiseen
+affiksi;аффикс;morfeemeja, joiden avulla johdetaan uusia sanoja. Jakautuvat suffikseihin, prefikseihin, interfikseihin ja postfikseihin
+prefiksi;префикс, приставка;affiksi, joka liittyy juurimorfeemin etupuolelle
+suffiksi;суффикс;affiksi, joka liittyy juurimorfeemin jälkeen ennen taivutuspäätteitä ja postfikseja
+taivutuspääte;окончание;ei uutta sanaa vaan uuden sananmuodon muodostava morfeemi,joka ilmaisee esim. sijaa
+fleksio;флексия;sama kuin taivutuspääte
+maskuliini;мужской род;yksi sukukategorian arvoista
+feminiini;женский род;yksi sukukategorian arvoista
+neutri;средний род;yksi sukukategorian arvoista
+nollamorfi;нулевой морф;morfeemi, joka ei ilmene minään konkreettisena kielellisenä aineksena, mutta jonka olemassaolo on perusteltua olettaa
+postfiksi;постфикс;morfeemi, joka esiintyy suffiksien ja päätteiden jäljessä, esim. ся
+interfiksi;интерфикс;morfeemi, joka esiintyy sanojen välissä, esin лес/о/заготовка
+vartalo;основа;se osa,joka jää (prefiksi+juuri+suffiksit) kun taivutuspääte otetaan pois
+äänteenmuutos/-vaihtelu;чередование;morfofonologinen ilmiö, jossa usein morfien rajalla esiintyy eri äänne sananmuodosta riippuen

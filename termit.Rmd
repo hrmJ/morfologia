@@ -1,0 +1,47 @@
+
+
+<!--.*fold-begin -->
+
+```{r, echo=FALSE}
+library(knitr)
+termit <- read.csv('data/termit.csv',sep=';')
+colnames(termit) <- c('suomi','venäjä','määritelmä')
+
+PrintToWeb <- function() {
+    knit('termit.Rmd',encoding='UTF-8');pandoc('termit.md',format='html',encoding='UTF-8', conf='pandoc_conf.txt') 
+} 
+
+```
+
+<!--.*fold-end -->
+
+
+# Kurssilla esiintyviä termejä
+
+Tähän sivulle on koottu suomen- ja venäjänkieliset variantit kurssin
+olennaisimmista termeistä. Päivitän termilistaa sitä mukaa, kuin etenemme ja jos
+jokin sinua askarruttava termi puuttuu, vinkkaa ihmeessä, niin lisätään sekin.
+Voita hakea termejä helposti selaimen hakutoiminnolla (ctr+f).
+
+- [Takaisin kurssin etusivulle](index.html)
+- <a href='javascript:void(0)' onClick='Order("fi");'>Järjestä termit suomenkielisen sanan mukaan</a>
+- <a href='javascript:void(0)' onClick='Order("ru");'>Järjestä termit venäjänkielisen sanan mukaan</a>
+
+
+<div id='terms_fi'>
+```{r, echo=FALSE}
+kable(termit[order(termit$suomi),],row.names=F)
+```
+</div>
+
+
+<div id='terms_ru'>
+```{r, echo=FALSE}
+termit <- data.frame("venäjä"=termit$venäjä,"suomi"=termit$suomi,"määritelmä"=termit$määritelmä)
+kable(termit[order(termit$venäjä),],row.names=F)
+```
+</div>
+
+
+
+<!--  !pandoc morfologia.Rmd -f markdown -t html --bibliography=lahteet.bib --standalone -o index.html -css github-pandoc.css --toc --toc-depth=1 --include-after-body=scripts.js --smart -->

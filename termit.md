@@ -1,0 +1,131 @@
+
+
+<!--.*fold-begin -->
+
+
+
+<!--.*fold-end -->
+
+
+# Kurssilla esiintyviä termejä
+
+Tähän sivulle on koottu suomen- ja venäjänkieliset variantit kurssin
+olennaisimmista termeistä. Päivitän termilistaa sitä mukaa, kuin etenemme ja jos
+jokin sinua askarruttava termi puuttuu, vinkkaa ihmeessä, niin lisätään sekin.
+Voita hakea termejä helposti selaimen hakutoiminnolla (ctr+f).
+
+- [Takaisin kurssin etusivulle](index.html)
+- <a href='javascript:void(0)' onClick='Order("fi");'>Järjestä termit suomenkielisen sanan mukaan</a>
+- <a href='javascript:void(0)' onClick='Order("ru");'>Järjestä termit venäjänkielisen sanan mukaan</a>
+
+
+<div id='terms_fi'>
+
+|suomi                      |venäjä                      |määritelmä                                                                                                                                                             |
+|:--------------------------|:---------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|äänteenmuutos/-vaihtelu    |чередование                 |morfofonologinen ilmiö, jossa usein morfien rajalla esiintyy eri äänne sananmuodosta riippuen                                                                          |
+|adjektiivit                |прилагательные              |laatua ilmaisevia sanoja. Ilmaisevat myös sukua taivutuspäätteillä                                                                                                     |
+|adverbit                   |наречия                     |taipumattomia mm. tapaa, paikkaa ja aikaa ilmaisevia sanoja                                                                                                            |
+|affiksi                    |аффикс                      |morfeemeja, joiden avulla johdetaan uusia sanoja. Jakautuvat suffikseihin, prefikseihin, interfikseihin ja postfikseihin                                               |
+|aikamuotokategoria         |категория времени           |verbien ilmaisema kieliopillinen kategoria, jonka tärkeimmät arvot mennyt aika ja ei-mennyt aika                                                                       |
+|allomorfi                  |алломорф                    |morfi, joka on täydennysjakaumassa toisen morfin kanssa eli on yksi kahdesta tai useammasta konkreettisesta esiintymästä, jona jokin morfeemi ilmenee                  |
+|apusanaluokat              |самостоятельные части речи  |muut sanaluokat paitsi partikkelit, prepositiot, konjunktiot ja interjektiot                                                                                           |
+|aspektikategoria           |категория вида              |koko venäjän verbijärjestelmän läpäisevä kategoria, jolla perinteisesti nähty kaksi arvoa, imperfektiivinen ja perfektiivinen                                          |
+|elollisuuskategoria        |категория одушевлённости    |erityisesti akkusatiivin osalta oleellinen kategoria, joka liittyy sanan referentin statukseen elollisena/elottomana olentona                                          |
+|feminiini                  |женский род                 |yksi sukukategorian arvoista                                                                                                                                           |
+|fleksio                    |флексия                     |sama kuin taivutuspääte                                                                                                                                                |
+|funktionaalinen morfologia |функциональная морфонология |morfologian osa-alue, joka keskittyy sanojen ja morfeemien käytön tutkimiseen                                                                                          |
+|interfiksi                 |интерфикс                   |morfeemi, joka esiintyy sanojen välissä, esin лес/о/заготовка                                                                                                          |
+|interjektiot               |междометия                  |huudahdussanoja kuten ой! ах! ym.                                                                                                                                      |
+|itsenäiset sanaluokat      |самостоятельные части речи  |muut sanaluokat paitsi partikkelit, prepositiot, konjunktiot ja interjektiot                                                                                           |
+|juurimorfi                 |корневой морф, корень       |sanan leksikaalisen ytimen ilmaiseva johtamaton morfi                                                                                                                  |
+|kieliopillinen kategoria   |грамматическая категория    |morfeilla ilmaistava kielellinen piirre (esim. sija, suku, aspekti, persoona, pääluokka) jonka suhteen kaksi eri sananmuotoa (esim. играю, играешь) ovat oppositiossa. |
+|konjunktiot                |союзы                       |lauseita yhdistävien apusanojen ryhmä (а,и,но,хотя ym.)                                                                                                                |
+|lukukategoria              |категория числа             |venäjässä tällä kategorialla kaksi arvoa: yksikkö ja monikko                                                                                                           |
+|lukusanat                  |числителные                 |numeroita ja lukumäärää ilmaisevia sanoja -- morfologisesti osin epäyhtenäinen luokka                                                                                  |
+|maskuliini                 |мужской род                 |yksi sukukategorian arvoista                                                                                                                                           |
+|morfeemi                   |морфема                     |kielen pienen merkitystä kantava yksikkö                                                                                                                               |
+|morfi                      |морф                        |morfeemin konkreettinen esiintymä                                                                                                                                      |
+|morfofonologia             |морфонология                |morfologian osa-alue, joka tutkii muun muassa äänteenmuutoksia                                                                                                         |
+|morfosyntaksi              |морфосинтаксис              |morfologian osa-alue, joka tutkii morfologian ja syntaksin rapaintoja, esimerkiksi kongruenssia                                                                        |
+|neutri                     |средний род                 |yksi sukukategorian arvoista                                                                                                                                           |
+|nollamorfi                 |нулевой морф                |morfeemi, joka ei ilmene minään konkreettisena kielellisenä aineksena, mutta jonka olemassaolo on perusteltua olettaa                                                  |
+|nominit                    |инменные части речи         |sijoissa taipuvat sanaluokat (pois lukien sijoissa taipuvat partisiipit)                                                                                               |
+|pääluokkakategoria         |категория залога            |verbien ilmaisema kategoria, jonka arvot ovat aktiivi (действительный залог) ja passiivi (старательный залог)                                                          |
+|partikkelit                |частицы                     |määrällisesti suuri taipumattomien kieliopillisten sanojen ryhmä, esim. не, бы, мол                                                                                    |
+|persoonakategoria          |категория лица              |tavallisimmin verbeillä, mutta joissain tapauksissa myös pronomineilla ilmaistu kieliopillinen kategoria                                                               |
+|postfiksi                  |постфикс                    |morfeemi, joka esiintyy suffiksien ja päätteiden jäljessä, esim. ся                                                                                                    |
+|prefiksi                   |префикс, приставка          |affiksi, joka liittyy juurimorfeemin etupuolelle                                                                                                                       |
+|prepositiot                |предлоги                    |yksimorfeemisia sanoja, joilla ilmaistaan kieliopillisia kategorioita. Adpositioita, jotka edeltävät niistä riippuvaa substantiivia.                                   |
+|pronominit                 |местоимения                 |Nominien asemesta käytettäviä sanoja                                                                                                                                   |
+|salkkumorfi                |гибридный морф              |morfi, joka ilmaisee samalla kertaa useampaa kieliopillista kategoriaa, esim. красив/ая/-sanan viimeinen morfi sijaa ja lukua                                          |
+|sanaluokka                 |часть речи                  |sanojen ryhmittely, joka yleensä tehdään pääosin morfologisin, osin kuitenkin semanttisin (ja syntaktisin) perustein                                                   |
+|sananmuodostusoppi         |словообразование            |morfologian toinen päähaara, joka tutkii mm. affikseja ja johtamista                                                                                                   |
+|sijakategoria              |категория падежа            |tärkein venäjän nominien keiliopillisista kategorioista, jolla erotetaan lukuisia erilaisia merkityksiä                                                                |
+|substantiivit              |существительные             |sijoissa taipuva asioita / henkilöitä / esineitä ym. nimeävä sanaluokka                                                                                                |
+|suffiksi                   |суффикс                     |affiksi, joka liittyy juurimorfeemin jälkeen ennen taivutuspäätteitä ja postfikseja                                                                                    |
+|sukukategoria              |категория рода              |substantiivien luokittelu kolmeen ryhmään. Sukukategoriaa ilmaisevat myös adjektiivit, eräät pronominit sekä tietyissä muodoissa verbit                                |
+|taivutusoppi               |словоизменение              |morfologian toinen päähäära, joka tutkii eri sananmuotoja                                                                                                              |
+|taivutuspääte              |окончание                   |ei uutta sanaa vaan uuden sananmuodon muodostava morfeemi,joka ilmaisee esim. sijaa                                                                                    |
+|tapaluokkakategoria        |категория наклонения        |verbien ilmaisema kieliopillinen kategoria, jonka arvoja mm. indikatiivi ja konditionaali                                                                              |
+|vartalo                    |основа                      |se osa,joka jää (prefiksi+juuri+suffiksit) kun taivutuspääte otetaan pois                                                                                              |
+|verbit                     |глаголы                     |tekemistä, toimintaa ilmaisevia sanoja, jotka ilmaisevat aspektia, pääluokkaa, persoonaa                                                                               |
+</div>
+
+
+<div id='terms_ru'>
+
+|venäjä                      |suomi                      |määritelmä                                                                                                                                                             |
+|:---------------------------|:--------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|алломорф                    |allomorfi                  |morfi, joka on täydennysjakaumassa toisen morfin kanssa eli on yksi kahdesta tai useammasta konkreettisesta esiintymästä, jona jokin morfeemi ilmenee                  |
+|аффикс                      |affiksi                    |morfeemeja, joiden avulla johdetaan uusia sanoja. Jakautuvat suffikseihin, prefikseihin, interfikseihin ja postfikseihin                                               |
+|гибридный морф              |salkkumorfi                |morfi, joka ilmaisee samalla kertaa useampaa kieliopillista kategoriaa, esim. красив/ая/-sanan viimeinen morfi sijaa ja lukua                                          |
+|глаголы                     |verbit                     |tekemistä, toimintaa ilmaisevia sanoja, jotka ilmaisevat aspektia, pääluokkaa, persoonaa                                                                               |
+|грамматическая категория    |kieliopillinen kategoria   |morfeilla ilmaistava kielellinen piirre (esim. sija, suku, aspekti, persoona, pääluokka) jonka suhteen kaksi eri sananmuotoa (esim. играю, играешь) ovat oppositiossa. |
+|женский род                 |feminiini                  |yksi sukukategorian arvoista                                                                                                                                           |
+|инменные части речи         |nominit                    |sijoissa taipuvat sanaluokat (pois lukien sijoissa taipuvat partisiipit)                                                                                               |
+|интерфикс                   |interfiksi                 |morfeemi, joka esiintyy sanojen välissä, esin лес/о/заготовка                                                                                                          |
+|категория вида              |aspektikategoria           |koko venäjän verbijärjestelmän läpäisevä kategoria, jolla perinteisesti nähty kaksi arvoa, imperfektiivinen ja perfektiivinen                                          |
+|категория времени           |aikamuotokategoria         |verbien ilmaisema kieliopillinen kategoria, jonka tärkeimmät arvot mennyt aika ja ei-mennyt aika                                                                       |
+|категория залога            |pääluokkakategoria         |verbien ilmaisema kategoria, jonka arvot ovat aktiivi (действительный залог) ja passiivi (старательный залог)                                                          |
+|категория лица              |persoonakategoria          |tavallisimmin verbeillä, mutta joissain tapauksissa myös pronomineilla ilmaistu kieliopillinen kategoria                                                               |
+|категория наклонения        |tapaluokkakategoria        |verbien ilmaisema kieliopillinen kategoria, jonka arvoja mm. indikatiivi ja konditionaali                                                                              |
+|категория одушевлённости    |elollisuuskategoria        |erityisesti akkusatiivin osalta oleellinen kategoria, joka liittyy sanan referentin statukseen elollisena/elottomana olentona                                          |
+|категория падежа            |sijakategoria              |tärkein venäjän nominien keiliopillisista kategorioista, jolla erotetaan lukuisia erilaisia merkityksiä                                                                |
+|категория рода              |sukukategoria              |substantiivien luokittelu kolmeen ryhmään. Sukukategoriaa ilmaisevat myös adjektiivit, eräät pronominit sekä tietyissä muodoissa verbit                                |
+|категория числа             |lukukategoria              |venäjässä tällä kategorialla kaksi arvoa: yksikkö ja monikko                                                                                                           |
+|корневой морф, корень       |juurimorfi                 |sanan leksikaalisen ytimen ilmaiseva johtamaton morfi                                                                                                                  |
+|междометия                  |interjektiot               |huudahdussanoja kuten ой! ах! ym.                                                                                                                                      |
+|местоимения                 |pronominit                 |Nominien asemesta käytettäviä sanoja                                                                                                                                   |
+|морф                        |morfi                      |morfeemin konkreettinen esiintymä                                                                                                                                      |
+|морфема                     |morfeemi                   |kielen pienen merkitystä kantava yksikkö                                                                                                                               |
+|морфонология                |morfofonologia             |morfologian osa-alue, joka tutkii muun muassa äänteenmuutoksia                                                                                                         |
+|морфосинтаксис              |morfosyntaksi              |morfologian osa-alue, joka tutkii morfologian ja syntaksin rapaintoja, esimerkiksi kongruenssia                                                                        |
+|мужской род                 |maskuliini                 |yksi sukukategorian arvoista                                                                                                                                           |
+|наречия                     |adverbit                   |taipumattomia mm. tapaa, paikkaa ja aikaa ilmaisevia sanoja                                                                                                            |
+|нулевой морф                |nollamorfi                 |morfeemi, joka ei ilmene minään konkreettisena kielellisenä aineksena, mutta jonka olemassaolo on perusteltua olettaa                                                  |
+|окончание                   |taivutuspääte              |ei uutta sanaa vaan uuden sananmuodon muodostava morfeemi,joka ilmaisee esim. sijaa                                                                                    |
+|основа                      |vartalo                    |se osa,joka jää (prefiksi+juuri+suffiksit) kun taivutuspääte otetaan pois                                                                                              |
+|постфикс                    |postfiksi                  |morfeemi, joka esiintyy suffiksien ja päätteiden jäljessä, esim. ся                                                                                                    |
+|предлоги                    |prepositiot                |yksimorfeemisia sanoja, joilla ilmaistaan kieliopillisia kategorioita. Adpositioita, jotka edeltävät niistä riippuvaa substantiivia.                                   |
+|префикс, приставка          |prefiksi                   |affiksi, joka liittyy juurimorfeemin etupuolelle                                                                                                                       |
+|прилагательные              |adjektiivit                |laatua ilmaisevia sanoja. Ilmaisevat myös sukua taivutuspäätteillä                                                                                                     |
+|самостоятельные части речи  |itsenäiset sanaluokat      |muut sanaluokat paitsi partikkelit, prepositiot, konjunktiot ja interjektiot                                                                                           |
+|самостоятельные части речи  |apusanaluokat              |muut sanaluokat paitsi partikkelit, prepositiot, konjunktiot ja interjektiot                                                                                           |
+|словоизменение              |taivutusoppi               |morfologian toinen päähäära, joka tutkii eri sananmuotoja                                                                                                              |
+|словообразование            |sananmuodostusoppi         |morfologian toinen päähaara, joka tutkii mm. affikseja ja johtamista                                                                                                   |
+|союзы                       |konjunktiot                |lauseita yhdistävien apusanojen ryhmä (а,и,но,хотя ym.)                                                                                                                |
+|средний род                 |neutri                     |yksi sukukategorian arvoista                                                                                                                                           |
+|суффикс                     |suffiksi                   |affiksi, joka liittyy juurimorfeemin jälkeen ennen taivutuspäätteitä ja postfikseja                                                                                    |
+|существительные             |substantiivit              |sijoissa taipuva asioita / henkilöitä / esineitä ym. nimeävä sanaluokka                                                                                                |
+|флексия                     |fleksio                    |sama kuin taivutuspääte                                                                                                                                                |
+|функциональная морфонология |funktionaalinen morfologia |morfologian osa-alue, joka keskittyy sanojen ja morfeemien käytön tutkimiseen                                                                                          |
+|частицы                     |partikkelit                |määrällisesti suuri taipumattomien kieliopillisten sanojen ryhmä, esim. не, бы, мол                                                                                    |
+|часть речи                  |sanaluokka                 |sanojen ryhmittely, joka yleensä tehdään pääosin morfologisin, osin kuitenkin semanttisin (ja syntaktisin) perustein                                                   |
+|чередование                 |äänteenmuutos/-vaihtelu    |morfofonologinen ilmiö, jossa usein morfien rajalla esiintyy eri äänne sananmuodosta riippuen                                                                          |
+|числителные                 |lukusanat                  |numeroita ja lukumäärää ilmaisevia sanoja -- morfologisesti osin epäyhtenäinen luokka                                                                                  |
+</div>
+
+
+
+<!--  !pandoc morfologia.Rmd -f markdown -t html --bibliography=lahteet.bib --standalone -o index.html -css github-pandoc.css --toc --toc-depth=1 --include-after-body=scripts.js --smart -->

@@ -44,4 +44,21 @@ function ShowHideMenu(){
 }
 
 
+function Order(lang){
+    var rudiv = document.getElementById("terms_ru");
+
+    if (lang=="fi"){
+        var showdiv = document.getElementById("terms_fi");
+        var hidediv = document.getElementById("terms_ru");
+    }
+    else{
+        var showdiv = document.getElementById("terms_ru");
+        var hidediv = document.getElementById("terms_fi");
+    }
+
+    showdiv.style.display="block";
+    hidediv.style.display="none";
+
+}
+
 </script>

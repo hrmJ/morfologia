@@ -1,0 +1,6 @@
+f: markdown
+t: html
+c: github-pandoc.css
+smart: 
+include-after-body: scripts.js
+self-contained:
