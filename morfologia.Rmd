@@ -48,8 +48,8 @@ no  | Pvm        | Aihe
 10  | ti 4.10.   | Persoona kieliopillisena kategoriana + Partisiippien muodostus
 11  | ke 5.10.   | Pääluokka kieliopillisena kategoriana
 12  | ti 11.10.  | Pääluokka + partisiipit funktionaalisen morfologian kannalta
--   | ke 12.10.  | PERIODITAUKO
--   | ti 18.10   | PERIODITAUKO
+-   | ti 18.10  | PERIODITAUKO
+-   | ke 19.10   | PERIODITAUKO
 13  | ke 19.10   | Aspekti kieliopillisena kategoriana
 14  | ti 25.10.  | Aspektin muodostus ja aspektiparin käsite
 15  | ke 26.10.  | Aspekti funktionaalisen morfologian kannalta 1
