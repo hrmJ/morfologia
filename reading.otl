@@ -205,6 +205,11 @@ Nikunlassi (laajuus: s. 100 - 228 = 128s.)
 						- perussääntö: (s.113)
 							# --> V /_[0] tai %
 							muussa tapauksessa # --> %
+							oma selitys:
+								sovella tätä sanan lopusta:
+									1. nollapäätteen edellä edustuu vokaalina: сон, американец, деревень
+									2. ennen toista, nollaäänteenä edustuvaa väistyvää vokaalia, edustuu vokaalina: во сне
+									   - tätä toista sääntöä tarvitaan lähinnä prepositioiden osalta
 						- säännössä # = väistyvä vokaali, % = nollaäänne, /_tarkoittaa ymäristöä, jossa seuraa nollamorfinen taivutuspääte tai 
 							во сне mutta в сон
 						- poikkeuksia, esim (s.114)
@@ -837,7 +842,7 @@ sheljakin
 				иванов-иванова
 			- muut sukunimet: ei feminiiniversiota
 			- isännimet
-	substantiivien sijat (43-)
+	substantiivien sijat (s.43-)
 		4 deklinaatiota
 			I dekl
 				kaikki а/я-päätteiset sukuun katsomatta
@@ -845,6 +850,38 @@ sheljakin
 				nollapäätteiset mask ja о/е-päätteiset neutrit
 			III dekl (s.49)
 				nollapäätteiset feminiinit, mja-neutrit ja put'
+	väistyvä vokaali (s.59-)
+		- vokaalien o, e ja i vaihtelu nollavokaalin kanssa
+		- 2 päätyyppiä
+			1.  y.nom: o,e,i; kaikki muut muodot: ei vokaalia
+				a. yksitavuiset (односложные) sanat
+					рот, сон, ров, рожь, лоб, мох, лед, шов, день, лев, пень
+				b. monitavuiset (yleensä 2-tav.) sanat
+					- ол, ел, ёл
+						посол-посла, орёл-орла, пепел-пЕпла, котЁл-котла
+					- ор, ер, ёр
+						ветер-ветра, костёр-костра, НО шофёр-шофЁРа yms.
+					- ок/ёк
+						висок-виска, дружок-дружка НО восток-востОка
+					- оть
+						локоть-локтя, ноготь-ногтя, 
+					- онь, ень
+						огонь-огня, корень-корня, НО олень-оленя
+					- заём-займа, НО подъём-подъёма
+					- ец
+						любимец-любимца, пЕрец-пЕрца НО близнЕц - близнецА
+					- ей
+						воробей-воробья, муравей-муравьЯ, ручей-ручьЯ
+					- овёс-овса
+			2. mon.gen: o,e,i; kaikki muut muodot: ei vokaalia
+				- ведро, волокно, окно, стекло
+				- а/ья-päätteiset substantiivit
+					статья-статьей,мужья-мужьей,свинья-свиньей
+				- kaksi konsonanttia joista vikana к-ц-н-л-р-м-г-б
+					сказка-сказок,блюдце-блюдец,колцо-колец
+					ребро-рёбер
+			3. mon.gen: ei vokaalia
+				яйцо-Яицы-яИц
 rozental
 	suku (s.182)
 		leksikaalis-semanttiset ominaisuudet määrääjänä

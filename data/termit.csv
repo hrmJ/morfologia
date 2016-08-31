@@ -50,3 +50,6 @@ tempus;время;ks. aikakategoria
 vapaa juurimorfi;свободный корень;juurimorfi, joka voi sellaisenaan muodostaa sanan
 sidottu juurimorfi;связанный корень;juurimorfi, joka ei voi itsessään muodostaa sanaa, esim. о/де/ть
 modus;наклонение;ks. tapaluokkakategoria
+morfeemiraja;морфемный шов;morfeemien välinen raja, esim juurimorfin ja suffiksin raja
+nollaäänne;нуль звука;erityisesti väistyvän vokaalin yhteydessä: äänne, joka toisissa ympäristöissä edustuu konkreettisena äänteenä, toisissa  ei
+nollavokaali;нуль гласного;ks. nollaäänne

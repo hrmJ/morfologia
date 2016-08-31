@@ -1,4 +1,8 @@
 
+<script language="Javascript">
+document.write("<i>Muokattu viimeksi " + document.lastModified +". Tarkemmin ks. <a href='https://github.com/hrmJ/morfologia'>repositoriosta</a></i>");
+</SCRIPT>
+
 Tästä kurssista
 ===============
 
@@ -39,7 +43,7 @@ Termeistä
 =========
 
 Kurssilla esiintyvät oleellisimmat termit pyritään keräämään [omalle erilliselle sivulleen](termit.html)
-[https://mustikka.uta.fi/~juho_harme/morfologia/index.html](https://mustikka.uta.fi/~juho_harme/morfologia/index.html)
+[https://mustikka.uta.fi/~juho_harme/morfologia/termit.html](https://mustikka.uta.fi/~juho_harme/morfologia/termit.html)
 
 
 Kurssin aikataulu
@@ -393,7 +397,7 @@ useita. Mitä prefiksejä ja suffikseja voit erottaa seuraavista sanoista?
 
 Prefiksejä ja suffikseja ei ole ääretöntä määrää, vaan halutessaan
 tavallisimmat voi opetella vaikka ulkoa. Erilaisia substantiiveiin liitettäviä
-suffikseja on listannut muun muassa Šeljakin [-@sheljakin:32--37].
+suffikseja on listannut muun muassa Šeljakin [-@sheljakin: 32--37].
 
 #### Taivutuspäätteet
 
@@ -652,7 +656,7 @@ Tarkastellaan seuraavassa muutamaa lukukategoriaan liittyvää erityistapausta.
 
 Substantiiveilla lukukategorian ilmaisemiseen liittyy kaksi erityistapausta:
 niin kutsutut *pluralia tantum*- ja *singularia tantum* -sanat. Kummatkaan
-näistä sanaryhmistä eivät käytännössä ilmaise lukukategoriaa [@nikunl, 147].
+näistä sanaryhmistä eivät käytännössä ilmaise lukukategoriaa [@nikunl: 147].
 
 Pluralia tantum -sanat ovat aina monikossa, singularia tantum -sanat puolestaan
 aina yksikössä esiintyviä sanoja. Pluralia tantum -sanat ovat selvärajaisempi
@@ -942,13 +946,12 @@ samoilla morfeilla.
   elollisuudesta riippuen
 - **Datiivin** päätteenä on morfi /у/. Jälleen kerran, jos edelätävä konsonantti
   on liudentunut, merkitään morfia kirjoituksessa ю-kirjaimella.
-- **Instrumentaalin** päätteenä on morfi /ом/ tai /ем/[^omem]
+- **Instrumentaalin** päätteenä on morfi /ом/
 - **Prepositionaalin** päätteenä on morfi /е/ tai /и/
 
-[^omem]: Tarkkaan ottaen kyseessä on yksi ja sama morfi /ом/
+[^omem]: Tarkkaan ottaen kyseessä on yksi ja sama morfi /ом/, 
 
 Seuraava taulukko kuvaa ensimmäisen deklinaation kootusti esimerkkien kautta:
-
 
 Sija   | Päätemorfi | esim.1 | esim.2   | esim.3
 ----   | ---------- | ------ | ------   |
@@ -956,8 +959,20 @@ Nom.   | ø          | стол   | учитель  | гений
 Gen.   | /а/        | стола  | учителя  | гения
 Akk.   | /ø/ ~ /a/  | стол   | учителя  | гения
 Dat.   | /у/        | столу  | учителю  | гению
-Instr. | /ом/ ~ /ем/| cтолом | учителем | гением
+Instr. | /ом/       | cтолом | учителем | гением
 Prep.  | /е/ ~ /и   | столе  | учителе  | гении
+
+#### Miten niin /ем/ ei ole oma päätteensä?
+
+Aika todennäköisesti jokin edellisessä taulukossa ja sitä edeltävässä listassa
+särähti korvaasi. Näissähän väitetään, että saneissa *учИтелем*, *врачОм*,
+*фонарЁм* ja *дОмом* olisi sama instrumentaalia ilmaiseva taivutuspääte.
+Kyse on fonologisista seikoista, ja tässä kohden vaadittaneen
+pidempää selitystä kuin pelkkä alaviite.
+
+Kuten 
+
+[ks. @nikunl: 87, 139]
 
 
 ### Toinen deklinaatio
@@ -1048,7 +1063,7 @@ deklinaatioiksi. Monikkomuotojen muodostuksessa helppoa on, että datiivi-,
 instrumentaali- ja prepositionaalimuodot ovat käytännössä aina samat:
 muodostetaan päätteillä /ам/, /ами/, ja /ах/. Taivutuksen erot tulevat esille
 kaikkein yleisimmissä sijoissa eli nominatiivissa ja genetiivissä. Usein 
-[esim. @sheljakin:44] monikolle esitetäänkin ainoastaan yksi deklinaatio.
+[esim. @sheljakin: 44] monikolle esitetäänkin ainoastaan yksi deklinaatio.
 
 
 #### Ensimmäinen monikon deklinaatio
@@ -1107,6 +1122,11 @@ Prep.  | /ах/       | временах  | гнездах
 Luento 5: sija kieliopillisena kategoriana 2
 ====================================================
 
+- [Takaisin sivun ylälaitaan](https://mustikka.uta.fi/~juho_harme/morfologia/#tästä-kurssista)
+- [Lataa PDF](http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento5.pdf)
+- [Tutki luentokalvoja](http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento5.html)
+- [Tutki tuntitehtäviä](http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento5.pdf)
+
 Tällä luennolla sijakategoriaa käsitellään vielä taivutusopin kannalta ja
 tarkastellaan poikkeuksia edellä esitettyihin deklinaatioihin sekä lisäksi
 adjektiivien ja pronominien deklinaatioita. Lopuksi pohditaan sanapainon
@@ -1120,21 +1140,123 @@ pääryhmät, joihin suurin osa substantiiveista voidaan sovittaa. Näiden
 ulkopuolelle jää kuitenkin väistämättä iso joukko substantiiveja. Seuraavassa
 esitetään muutamia huomioita ja säännönmukaisuuksia näistä sanoista.
 
-
 ### Muutoksia vartaloissa
 
 #### Äänteenmuutokset
 
-Luonnollisesti myös äänteenmuutokset aiheuttavat vartaloeroja eri sijamuotojen
-välillä.
+##### Väistyvä vokaali
 
-[@ninkunl: 141]
+Ehkäpä merkittävin yksittäinen sanojen sijataivutukseen vaikuttava
+morfofonologinen ilmiö on niin sanottu väistyvä vokaali (беглый гласный). Tällä
+ilmiöllä  viitataan lähinnä
+/о/- ja /э/-vokaalien vaihteluun nollaäänteen/nollavokaalin (нуль
+звука/нуль гласного) kanssa. Katsotaan paria esimerkkiä[^nkrjaes]:
 
-соседь 
-ухо
-око
+(@ee_signal) Световой сигнал выдергивал её из глубокого **сна**.
+(@ee_vrazhdeb) Враждебность к **иностранцам** в России глубоко обеспокоила его
+(@ee_stat) "Два пункта в справочнике, пара-тройка **статей** в прессе ― это и убило Бернара Луазо"
 
-Väistyvä vokaali (беглый гласный) [@sheljakin: 59]
+[^nkrjaes]: esimerkit [kansalliskorpuksesta](http://ruscorpora.ru)
+
+Esimerkkien @ee_signal--@ee_stat lihavoidut substantiivit ovat kaikki sanoja,
+joiden taivutusmuodoissa väistyvän vokaalin ilmiö näkyy. Esimerkiksi sananmuodon
+*сна* yksikön nominatiivi on с**о**н ja sananmuodon *иностранцам*
+иностран**е**ц. Myls sananmuoto *статьей* osuu väistyvän vokaalin piiriin,
+vaikkei ensi silmäykseltä siltä näyttäisikään. Katsotaan ilmiötä tarkemmin
+Nikunlassin [-@nikunl: 113-114] ja Šeljakinin [-@sheljakin: 59-60] pohjalta.
+
+Nikunlassin mukaan väistyvälle vokaalille voidaan esittää yksinkertainen
+perussääntö: jos sananmuodossa väistyvänä vokaalina ilmenevä foneemi esiintyy
+**ennen nollapäätettä** (ø), se edustuu konkreettisena vokaalina, muussa tapauksessa
+nollavokaalina.
+
+Ajatellaan edellä esitetyn pohjalta sanaa *сон* ja katsotaan sen
+taivutusparadigmaa (mukana sekä yksikkö että monikko):
+
+
+Sija     | Päätemorfi | esim.
+----     | ---------- | ----
+y.nom.   | ø          | сон 
+y.gen.   | /а/        | сна 
+y.akk.   | /ø/ ~ /a/  | сон 
+y.dat.   | /у/        | сну 
+y.instr. | /ом/ ~ /ем/| cном
+y.prep.  | /е/ ~ /и   | сне 
+-------  | ---------  | ---
+m.nom.   | /и/        | сны
+m.gen.   | /ов/       | снов
+m.akk.   | /и/        | сны
+m.dat.   | /ам/       | снам
+m.instr. | /ами/      | cнами
+m.prep.  | /ах/       | снах 
+
+
+Kuten taulukosta huomataan, ainoa sija, joka edustuu nollapäätteenä, on yksikön
+nominatiivi. Edellä esitetyn säännön mukaisesti tällöin myös väistyvä vokaali
+esiintyy oikeasti vokaalina, muissa tapauksissa nollaäänteenä. Šeljakinin
+[-@sheljakin: 59] luokittelussa *сон* kuuluu ensimmäiseen väistyvän vokaalin
+sisältävien sanojen ryhmään. Edellä mainittu статья sekä esimerkiksi sanat
+*ведро*, *окно* kuuluvat toiseen, jossa ainoa väistyvän vokaalin sisältävä muoto on
+monikon genetiivi. Tämä sopii edellä esitettyyn sääntöön: näillä sanoilla
+monikon genetiivi esiintyy nimenomaan nollapäätteenä.
+
+
+Pohdi tarkemmin ilmiötä tutkimalla esimerkiksi 
+seuraavien sanojen taivutusmuotoja (klikkaamalla linkkiä pääset wikisanakirjan
+artikkeliin):
+
+- [рот](https://ru.wiktionary.org/wiki/рот),
+  [сон](https://ru.wiktionary.org/wiki/сон),
+  [ров](https://ru.wiktionary.org/wiki/ров),
+  [рожь](https://ru.wiktionary.org/wiki/рожь),
+  [лоб](https://ru.wiktionary.org/wiki/лоб),
+  [мох](https://ru.wiktionary.org/wiki/мох),
+  [лед](https://ru.wiktionary.org/wiki/лед),
+  [шов](https://ru.wiktionary.org/wiki/шов),
+  [день](https://ru.wiktionary.org/wiki/день),
+  [лев](https://ru.wiktionary.org/wiki/лев),
+  [пень](https://ru.wiktionary.org/wiki/пень)
+- [посол](https://ru.wiktionary.org/wiki/посол),
+  [орёл](https://ru.wiktionary.org/wiki/орёл),
+  [пепел](https://ru.wiktionary.org/wiki/пепел),
+  [котёл](https://ru.wiktionary.org/wiki/котёл)
+- [висок](https://ru.wiktionary.org/wiki/висок),
+  [дружок](https://ru.wiktionary.org/wiki/дружок),
+- [локоть](https://ru.wiktionary.org/wiki/локоть),
+  [ноготь](https://ru.wiktionary.org/wiki/ноготь),
+- [огонь](https://ru.wiktionary.org/wiki/огонь),
+  [корень](https://ru.wiktionary.org/wiki/корень),
+- [любимец](https://ru.wiktionary.org/wiki/любимец),
+  [перец](https://ru.wiktionary.org/wiki/перец),
+- [воробей](https://ru.wiktionary.org/wiki/воробей),
+  [муравей](https://ru.wiktionary.org/wiki/муравей),
+  [ручей](https://ru.wiktionary.org/wiki/ручей)
+
+Monikon genetiivimuoto *статьей* saattaa vielä hämätä. Miten niin siinä on
+väistyvä vokaali? Sanan juurimorfi on tarkkaan ottaen /стать/ eli foneettisesti
+tarkemmassa asussa /статj/ (pehmeä merkki ei merkitse tässä kohden pelkkää
+liudennusta -- tähän riittäisi pelkkä я-kirjainkin). Nollavokaalin sisältävissä
+muodoissa статья taipuu siis cтатьи, статьям jne. Monikon genetiivi on kuitenkin
+nollapäätteinen, eli muoto olisi ilman väistyvää vokaalia juurimorfi + ø, toisin
+sanoen /статj/ + ø. Tähän nollapäätteen edelle livahtaa väistyvä vokaali е,
+jolloin muoto on /статej/ø/. Tätä ei tule sekoittaa /ей/-morfeemiin monikon
+genetiivin tunnuksena, vaan monikon tunnus on tässä nollapääte ja vokaali kuuluu
+juurimorfiin -- se ei vain esiinny nykykielessä sanan muissa muodoissa.
+
+Kyseessä on siis melko laaja, muttei kuitenkaan automaattinen ilmiö. Se esiintyy
+substantiiveilla tiettyjen suffiksien yhteydessä, ei kuitenkaan aina. 
+Usein väistyvän vokaalin ennustamisessa auttaakin paitsi suffiksi, myös
+sanapaino. Esimerkiksi sanat *америкАнец* ja *инострАнец* sisältävät väistyvän vokaalin,
+sana близнЕц ei. Sanat *кОрень* ja *кАмень* sisältävät väistyvän vokaalin, sana
+*олЕнь* ei. Lisäksi on todettava, että tiettyjen konsonanttiyhdistelmien läsnä
+ollessa nollavokaali ei esiinny, vaikka voisi olettaa: хитрЕц-хитрецА.
+
+#### Muita äänteenmuutostapauksia
+
+Väistyvän vokaalin lisäksi myös eräät muut ilmiöt vaikuttavat substantiivien
+sijataivutukseen. Näitä ovat esimerkiksi *х/ш*-vaihtelu ja *к/ч*-vaihtelu:
+Ухо/Уха mutta Уши/ушЕй - Око/Ока, mutta Очи/очЕй. Lisäksi sanalla сосед on
+monikossa liudentunut vartalo (vrt. yks.gen. соседа - mon.gen соседей). [@nikunl: 141].
 
 
 #### Yksittäisiä tapauksia
@@ -1161,6 +1283,19 @@ tehdä yleispätevää sääntöä. Esimerkiksi Šeljakin[-@sheljakin: 50] totea
 Jonkinnäköisenä suuntaviivana voinee sanoa, että у-vokaalin sisältävät muodot
 ovat usein tyyliltään kirjallisempia.
 
+Isachenko [-@isachenko2003: 167] mainitsee vielä esimerkiksi seuraavia
+poikkeuksellisesti taipuvia sanoja (linkit vievät wikisanakirjan artikkeleihin,
+joista voit tutkia taivutusta tarkemmin):
+[курица](https://ru.wiktionary.org/wiki/курица),
+[чудо](https://ru.wiktionary.org/wiki/чудо),
+[небо](https://ru.wiktionary.org/wiki/небо)
+[судно](https://ru.wiktionary.org/wiki/судно).
+
+Aivan omanlainen poikkeuksensa on sana
+[мечта](https://ru.wiktionary.org/wiki/мечта), jonka monikon genetiivimuoto on
+hankala määritellä. Ainoa järkevä ratkaisu on käyttää muotoa *мечтаний*, jonka
+voi varsinaisesti nähdä olevan peräisin sanasta *мечтание*.
+
 <!-- ks. kansalliskorpus! 
 
 myös:
@@ -1171,7 +1306,7 @@ http://rus.stackexchange.com/questions/424187/%D0%9F%D0%BE%D0%BB%D1%81%D1%83%D1%
 
 
 
-### Poikkeuksellinen monikon nominatiivi
+### Monikkoon liittyviä poikkeuksia
 
  <!--  Hyvä paikka testata kansalliskorpusta! -->
 
@@ -1179,23 +1314,23 @@ Monilla 1. deklinaatioon kuuluvilla sanoilla monikon pääte ei ole
 odotuksenmukaisesti /и/, vaan /а/. Näin on esimerkiksi seuraavilla sanoilla
 [täydellinen lista ks. @sheljakin: 52--53]:
 
-бок, век, глаз, дом, адрес, берег, вечер, лагерь, паспорт, профессор
+[бок](https://ru.wiktionary.org/wiki/бок), [век](https://ru.wiktionary.org/wiki/век), [глаз](https://ru.wiktionary.org/wiki/глаз), [дом](https://ru.wiktionary.org/wiki/дом), [адрес](https://ru.wiktionary.org/wiki/адрес), [берег](https://ru.wiktionary.org/wiki/берег), [вечер](https://ru.wiktionary.org/wiki/вечер), [лагерь](https://ru.wiktionary.org/wiki/лагерь), [паспорт](https://ru.wiktionary.org/wiki/паспорт), [профессор](https://ru.wiktionary.org/wiki/профессор)
 
+Joillakin substantiiveilla puolestaan on kaksi eri monikkomuotoa, niin että
+muodoilla usein on eri merkitys. Tällaisia sanoja ovat esimerkiksi *образ*
+(*образы*, 'hahmot' - *образА*, 'ikonit'), *пропуск* (*прОпуски*, 'poissaolot' -
+*пропускА*, 'pääsyluvat'), *лист* (*листЫ*, 'paperit/sivut',*лИстья*,'lehdet').
 
-Muita poikkeuksellisia nominatiiveja: яблоко, колено
+Erityistä huomiota kannattaa kiinnittää sanojen *колено* ja *яблоко* monikoihin.
+Sanalla колено on kaksi monikon nominatiivia, joista toinen (коленА) ei viittaa polviin
+fysiologisena ilmiönä vaan esimerkiksi Israelin heimoihin Raamatussa;
+muoto *колЕни* on se, joka viittaa колено-sanaan sen tutummassa merkityksessä.
+Яблоко-sana muistuttaa taivutukseltaan колено-sanaa siinä mielessä, että sekin
+noudattaa muuten neljättä deklinaatiota, mutta monikon nominatiivi ei osukaan
+edellä monikon kolmanneksi deklinaatioksi määriteltyyn ryhmään vaan ilmaistaan
+/и/-morfilla.
 
-цвет, листья
-
-
-
-**Monikossa**
-
-Instrumentaalin vaihtoehtoinen pääte..
-
-мечтаний
-
-
-### Sekadeklinaatiot sukunimissä
+### Sekadeklinaatioita
 
 Tietyt sukunimet taipuvat muuten 1. deklinaation mukaan, mutta niiden yksikön
 instrumentaalimuoto muistuttaa adjektiivien instrumentaalimuotoa:
@@ -1213,6 +1348,24 @@ Kuitenkin esimerkiksi ук-päätteiset sukunimet saavat normaalin yksikön
 instrumentaalin päätteen:
 
 (@ee_mjak) фильм с Малкиным и Ковальчуком
+
+
+Toinen esimerkki sekadeklinaatiosta on sana
+[путь](https://ru.wiktionary.org/wiki/путь), jossa sekoittuvat ensimmäisen ja
+kolmannen deklinaation päätteet siten, että instrumentaalin pääte on ensimmäisen
+deklinaation mukainen, genetiivi, datiivi ja prepositionaali kolmannen.
+Vertailun vuoksi alla on kuvattu myös yksi substantiivi kummastakin
+varsinaisesta deklinaatiotyypistä:
+
+
+Sija   | Päätemorfi | esim 1. | esim. 2
+----   | ---------- | ----  
+Nom.   | /ø/        | путь  ;
+Gen.   | /и/        | пути  
+Akk.   | /ø/        | путь  
+Dat.   | /и/        | пути  
+Instr. | /ом/       | путём 
+Prep.  | /и/        | пути  
 
 
 
@@ -1244,7 +1397,7 @@ Luento 7: Sijat funktionaalisen morfologian kannalta 2
 Luento 8: Sijat. Elollisuuskategoria.
 =====================================
 
-[ks. @sheljakin:43]
+[ks. @sheljakin: 43]
 
 painoasioita: НА пол vs. на Пол
 

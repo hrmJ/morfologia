@@ -1,0 +1,15 @@
+% Morfologia, luento 5
+% Juho Härme
+% Pinni B 5004, juho.harme@uta.fi
+
+
+# Sija kieliopillisena kategoriana
+
+
+![](http://atmpovar.ru/wp-content/uploads/2012/12/salat-s-seledkoj-yablokom-fenxelem-i-seldereem.jpg)
+
+
+<!--  pandoc -f markdown -s luento5.Rmd -t slideous -o luento5.html --self-contained --include-in-header=fontheader.html --smart -->
+
+
+

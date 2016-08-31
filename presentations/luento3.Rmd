@@ -74,7 +74,7 @@ Tehtävä: muodosta parisi kanssa säännöt sille, miten substantiivin suku mä
 >4. ище- ja ищко-suffikseihin päättyvät sanat
 >5. Erisnimet
 
-# Šeljakin: taipuvat sunstantiivit
+# Šeljakin: taipuvat substantiivit
 
 <article style='float:left;' class="incremental">
 
@@ -150,7 +150,7 @@ Tehtävä: muodosta parisi kanssa säännöt sille, miten substantiivin suku mä
 
 >- человек, враг, подросток
 >- студентка, певица, спортсменка
->- врач, профессор, шефёр
+>- врач, профессор, шефёр [ks. kansalliskorpus](http://search2.ruscorpora.ru/search.xml?env=alpha&mycorp=&mysent=&mysize=&mysentsize=&mydocsize=&spd=&text=lexgramm&mode=main&sort=gr_tagging&lang=ru&nodia=1&parent1=0&level1=0&lex1=&gramm1=S%2Cnom%2Cm&sem1=&sem-mod1=sem&sem-mod1=sem2&flags1=&m1=&parent2=0&level2=0&min2=1&max2=1&lex2=&gramm2=V%2Cindic%2Cpraet%2Cf&sem2=&sem-mod2=sem&sem-mod2=sem2&flags2=&m2=)
 >- плакса, умница, коллега
 
 </article>
