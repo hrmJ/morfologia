@@ -46,3 +46,7 @@ postfiksi;постфикс;morfeemi, joka esiintyy suffiksien ja päätteiden j�
 interfiksi;интерфикс;morfeemi, joka esiintyy sanojen välissä, esin лес/о/заготовка
 vartalo;основа;se osa,joka jää (prefiksi+juuri+suffiksit) kun taivutuspääte otetaan pois
 äänteenmuutos/-vaihtelu;чередование;morfofonologinen ilmiö, jossa usein morfien rajalla esiintyy eri äänne sananmuodosta riippuen
+tempus;время;ks. aikakategoria
+vapaa juurimorfi;свободный корень;juurimorfi, joka voi sellaisenaan muodostaa sanan
+sidottu juurimorfi;связанный корень;juurimorfi, joka ei voi itsessään muodostaa sanaa, esim. о/де/ть
+modus;наклонение;ks. tapaluokkakategoria
