@@ -21,7 +21,7 @@ PrintToWeb <- function() {
 Tähän sivulle on koottu suomen- ja venäjänkieliset variantit kurssin
 olennaisimmista termeistä. Päivitän termilistaa sitä mukaa, kuin etenemme ja jos
 jokin sinua askarruttava termi puuttuu, vinkkaa ihmeessä, niin lisätään sekin.
-Voita hakea termejä helposti selaimen hakutoiminnolla (ctr+f).
+Voit hakea termejä helposti selaimen hakutoiminnolla (ctr+f).
 
 - [Takaisin kurssin etusivulle](index.html)
 - <a href='javascript:void(0)' onClick='Order("fi");'>Järjestä termit suomenkielisen sanan mukaan</a>

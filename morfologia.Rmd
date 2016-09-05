@@ -641,7 +641,7 @@ Voidaan sanoa, että luvun *oletusarvo* on yksikkö [@nikunl: 147]. Näin voidaa
 päätellä, koska monet sananmuodot eivät voi olla ilmaisematta lukua: esimerkiksi
 verbin *стать* preteritimuoto ilmaisee aina joko yksikköä tai monikkoa
 (стал,стала,стало,стали). Jos lauseessa ei ole elementtiä, joka ohjaisi
-(kongruenssi) käyttämään jompaakumpaa, valitaan yksikkö, niin kuin esimerkissä
+(kongruenssi / согласование) käyttämään jompaakumpaa, valitaan yksikkö, niin kuin esimerkissä
 @ee_stalo:
 
 
@@ -678,8 +678,6 @@ Suosittelen tutustumaan näiden termien hyviin Wikipedia-artikkeleihin:
 Suku kieliopillisena kategoriana
 --------------------------------
 
-Semanttinen ja morfologinen määräytyminen
-
 ### Substantiivien suvun määräytyminen
 
 Substantiivien suvun määrätytyminen on melko monimutkainen ilmiö. Esitettäessä
@@ -695,7 +693,7 @@ soveltamalla substantiivin suku voidaan määritellä:
 2. 1. deklinaatio = maskuliini, 2. ja 3. deklinaatio = feminiini, 4. ja 5. deklinaatio = neutri
 3. taipumaton sana, lyhenne tms. = erillisiä sääntöjä
 
-Deklinaatioiden käsitteeseen pureudutaan tarkemmin seuraavalla luennolla, joten
+Deklinaatioiden (типы склонения) käsitteeseen pureudutaan tarkemmin seuraavalla luennolla, joten
 selvyyden vuoksi voi olla tarpeen ennen jatkamista tutustua alla olevaan
 deklinaatiosta kertovaan materiaaliin.
 
@@ -722,7 +720,6 @@ Y ja Z päättyvät substantiivit ovat maskuliineja, äänteisiin A, B, C päät
 [-@sheljakin: 28--] [ks. myös esimerkiksi @wade2010: 54]. Kuvaus on selkeästi
 vähemmän yleistävä kuin Nikunlassilla, mutta toisaalta tarkempi -- se antaa
 edellistä kuvausta suorempia vastauksia yhtä konkreettista sanaa koskeviin kysymyksiin.
-Toisaalta kuvaus sisältää suuren määrän poikkeuksia.
 Esitän seuraavassa tiivistetyn version tästä kuvaustavasta.
 
 Šeljakin lähtee liikkeelle siitä, että sanat voidaan suvun määrätymisen suhteen
@@ -842,7 +839,7 @@ Näiden yleensä mainittujen sijojen lisäksi venäjän sijajärjestelmästä vo
 erottaa myös eräitä harvinaisempia sijoja. Näistä sijoista [tarkemmin ks. esim. @nikunl: 138-139]
 on huomattava, että ne kaikki ovat käytössä vain yksikössä. Harvinaisempien
 sijojen mainitsemisella tässä yhteydessä on se funktio, että on hyvä tiedostaa
-näiden muotojen olevan selitettävissä todellisuudessa uskottavammin kuin vain "poikkeukselliseksi
+näiden muotojen olevan selitettävissä todellisuudessa muutenkin kuin vain "poikkeukselliseksi
 genetiiviksi", "poikkeukselliseksi prepositionaaliksi" tms. Oiva lähde
 pohdittaessa näiden sijojen nimittämistä *sijoiksi* on [tämä Lundin yliopiston
 opinnäyte](http://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=3810042&fileOId=3810043)
