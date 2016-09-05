@@ -35,6 +35,7 @@ Linkkejä
 - [wiktionary](http://ru.wiktionary.org)
 - [Tihonovin sanakirja](http://http://old.kpfu.ru/infres/slovar1)
 - [Zaliznjakin sanakirja](http://morfologija.ru)
+- [Foneettinen sanakirja](http://slovonline.ru/slovar_el_fonetic/)
 - [Internet-yhteisö kysymyksille ja vastauksille](http://rus.stackexchange.com/)
 
 <!-- http://udarenieru.ru/  -->
@@ -966,6 +967,9 @@ särähti korvaasi. Näissähän väitetään, että saneissa *учИтелем*
 *фонарЁм* ja *дОмом* olisi sama instrumentaalia ilmaiseva taivutuspääte.
 Kyse on fonologisista seikoista, ja tässä kohden vaadittaneen
 pidempää selitystä kuin pelkkä alaviite.
+
+[Ks. esim. море](http://slovonline.ru/slovar_el_fonetic/b-13/id-66515/more.html)
+
 
 Kuten 
 

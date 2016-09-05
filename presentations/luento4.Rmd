@@ -80,7 +80,7 @@
 >- кукл/ы/
 >- кукл/у/
 >- кукл/е/
->- кукло/й/
+>- кукл/ой/
 >- кукл/е/
 </article>
 
@@ -101,13 +101,89 @@
 >- minä oppijana -- minä opettajana?
 
 
-
 # Tehtävä (substantiivien deklinaatiot)
 
->- Jakautukaa 2--3 hengen ryhmiin vierekkäin istuvien kesken (yhteensä 4--5 ryhmää).
->- Tehkää tehtäväpaperissa annetut kaksi tehtävää oman deklinaationne osalta
+>- Jakautukaa 2--3 hengen ryhmiin vierekkäin istuvien kesken (tavoite 5 ryhmää).
+>- Tehkää tehtäväpaperissa annetut kaksi tehtävää 
 >- Varautukaa esittelemään oma deklinaationne muille
 >- Palauttakaa esittelemisen jälkeen tehtäväpaperi
+
+# Substantiivit monikossa
+
+
+<article class='incremental nobul' style='float:left;margin-right:1em; font-size:140%;'>
+
+### Я интересуюсь... Благодаря... Я не разбираюсь в...
+
+>- книга
+>- дом
+>- море
+>- ночь
+>- место
+>- выключатель
+
+
+</article>
+
+<article class='incremental nobul' style='float:left;margin-right:1em;font-size:140%;'>
+
+### Я не могу жить без...
+
+>- книга
+>- дом
+>- море
+>- ночь
+>- место
+>- выключатель
+
+
+</article>
+
+
+# Monikon ensimmäinen deklinaatio
+
+
+>- Yksikön 1. ja 3. deklinaatio
+
+
+<article class='incremental'>
+
+Sija   | Päätemorfi  | esim. 1  | esim.2        | esim. 3    | esim. 4
+----   | ----------  | ----     | ------        | ---------- | ---
+Nom.   | /и/         | экраны   | выключа́тели   | врач       | ночи
+Gen.   | /ей/ ~ /ов/ | экранов  | выключа́телей  | врачей     | ночей
+
+</article>
+
+>- /И/
+>- liudentunut konsonantti tai ж, ч, ш, щ --> /ЕЙ/
+>- Muuten --> /ОВ/
+
+# Monikon toinen deklinaatio
+
+>- Suoraan yksikön toisen deklinaation pohjalta
+
+<article class='incremental'>
+
+Sija   | Päätemorfi | esim. 1
+----   | ---------- | ----
+Nom.   | /и/        | книги
+Gen.   | /ø/        | книг
+
+</article>
+
+# Monikon kolmas deklinaatio
+
+>- Yksikön 4. ja 5. deklinaatio
+
+<article class='incremental'>
+
+Sija   | Päätemorfi | esim. 1   | esim.2  
+----   | ---------- | ----      | ------  
+Nom.   | /и/        | времена   | гнёзда  
+Gen.   | /ø/        | времён    | гнёзд   
+
+</article>
 
 
 <!--  pandoc -f markdown -s luento4.Rmd -t slideous -o luento4.html --self-contained --include-in-header=fontheader.html --smart -->
