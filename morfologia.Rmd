@@ -1312,9 +1312,9 @@ http://rus.stackexchange.com/questions/424187/%D0%9F%D0%BE%D0%BB%D1%81%D1%83%D1%
 
  <!--  Hyvä paikka testata kansalliskorpusta! -->
 
-Monilla 1. deklinaatioon kuuluvilla sanoilla monikon pääte ei ole
-odotuksenmukaisesti /и/, vaan /а/. Näin on esimerkiksi seuraavilla sanoilla
-[täydellinen lista ks. @sheljakin: 52--53]:
+Monilla 1. deklinaatioon kuuluvilla sanoilla monikon pääte ei aina ole
+odotuksenmukaisesti /и/, vaan tietyissä tapauksissa /а/. Näin on esimerkiksi
+seuraavilla sanoilla [täydellinen lista ks. @sheljakin: 52--53]:
 
 [бок](https://ru.wiktionary.org/wiki/бок), [век](https://ru.wiktionary.org/wiki/век), [глаз](https://ru.wiktionary.org/wiki/глаз), [дом](https://ru.wiktionary.org/wiki/дом), [адрес](https://ru.wiktionary.org/wiki/адрес), [берег](https://ru.wiktionary.org/wiki/берег), [вечер](https://ru.wiktionary.org/wiki/вечер), [лагерь](https://ru.wiktionary.org/wiki/лагерь), [паспорт](https://ru.wiktionary.org/wiki/паспорт), [профессор](https://ru.wiktionary.org/wiki/профессор)
 
@@ -1391,6 +1391,8 @@ tarkoitus on ennemminkin rohkaista itsenäiseen opiskeluun ja ylipäätään esi
 
 Luento 6: Vertailuaste. Sijat funktionaalisen morfologian kannalta 1
 ====================================================================
+
+Adjektiivi- ja pronominitaivutus.
 
 Luento 7: Sijat funktionaalisen morfologian kannalta 2
 ====================================================================

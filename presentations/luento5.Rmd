@@ -168,22 +168,18 @@ Prep.  | /и/        | пути
 
 </article>
 
+>- [Tehtävä](../tehtavat/luento5.pdf)
 
 
-# Monikkoon liittyviä epäsäännönmukaisuuksia
+# Vielä monikosta
 
+<!-- Ensin tehdään edellä oleva tehtävä -->
 
-[бок](https://ru.wiktionary.org/wiki/бок),
-[век](https://ru.wiktionary.org/wiki/век),
-[глаз](https://ru.wiktionary.org/wiki/глаз),
-[дом](https://ru.wiktionary.org/wiki/дом),
-[адрес](https://ru.wiktionary.org/wiki/адрес),
-[берег](https://ru.wiktionary.org/wiki/берег),
-[вечер](https://ru.wiktionary.org/wiki/вечер),
-[лагерь](https://ru.wiktionary.org/wiki/лагерь),
-[паспорт](https://ru.wiktionary.org/wiki/паспорт),
-[профессор](https://ru.wiktionary.org/wiki/профессор)
+>- Tietyillä 1. deklinaation substantiiveilla monikon nominatiivi: /а/
+>- [бок](https://ru.wiktionary.org/wiki/бок), [век](https://ru.wiktionary.org/wiki/век), [глаз](https://ru.wiktionary.org/wiki/глаз), [дом](https://ru.wiktionary.org/wiki/дом), [адрес](https://ru.wiktionary.org/wiki/адрес), [берег](https://ru.wiktionary.org/wiki/берег), [вечер](https://ru.wiktionary.org/wiki/вечер), [лагерь](https://ru.wiktionary.org/wiki/лагерь), [паспорт](https://ru.wiktionary.org/wiki/паспорт), [профессор](https://ru.wiktionary.org/wiki/профессор)
+>- Образ, лист, пропуск, цвет?
 
 # Painotyypeistä
 
+<!-- TÄMÄN voi antaa rauhassa lipsahtaa seuraavan kerran puolelle. -->
 
