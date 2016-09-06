@@ -1360,9 +1360,9 @@ Vertailun vuoksi alla on kuvattu myös yksi substantiivi kummastakin
 varsinaisesta deklinaatiotyypistä:
 
 
-Sija   | Päätemorfi | esim 1. | esim. 2
+Sija   | Päätemorfi | esim 1.
 ----   | ---------- | ----  
-Nom.   | /ø/        | путь  ;
+Nom.   | /ø/        | путь 
 Gen.   | /и/        | пути  
 Akk.   | /ø/        | путь  
 Dat.   | /и/        | пути  

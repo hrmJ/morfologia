@@ -139,6 +139,51 @@
   [ручей](https://ru.wiktionary.org/wiki/ручей)
 >- [статья](https://ru.wiktionary.org/wiki/статья)
 
+>- [Tehtävä](../tehtavat/luento5.pdf)
+
 </article>
+
+# Muita äänteenmuutostapauksia / yksittäisiä sanoja
+
+>- Ухо - уши,ушей...
+>- Око - очи, очей...
+>- сосед - соседи, соседей...
+>- Мать, дочь - ?
+>- Мечта - ?
+>- [судно](https://ru.wiktionary.org/wiki/судно)
+>- [курица](https://ru.wiktionary.org/wiki/курица)
+>- полдень, полбутылка, полчас...
+>- путь: sekadeklinaatio
+
+<article class='incremental'>
+
+Sija   | Päätemorfi | esim 1.
+----   | ---------- | ----  
+Nom.   | /ø/        | путь 
+Gen.   | /и/        | пути  
+Akk.   | /ø/        | путь  
+Dat.   | /и/        | пути  
+Instr. | /ом/       | путём 
+Prep.  | /и/        | пути  
+
+</article>
+
+
+
+# Monikkoon liittyviä epäsäännönmukaisuuksia
+
+
+[бок](https://ru.wiktionary.org/wiki/бок),
+[век](https://ru.wiktionary.org/wiki/век),
+[глаз](https://ru.wiktionary.org/wiki/глаз),
+[дом](https://ru.wiktionary.org/wiki/дом),
+[адрес](https://ru.wiktionary.org/wiki/адрес),
+[берег](https://ru.wiktionary.org/wiki/берег),
+[вечер](https://ru.wiktionary.org/wiki/вечер),
+[лагерь](https://ru.wiktionary.org/wiki/лагерь),
+[паспорт](https://ru.wiktionary.org/wiki/паспорт),
+[профессор](https://ru.wiktionary.org/wiki/профессор)
+
+# Painotyypeistä
 
 
