@@ -1163,7 +1163,7 @@ ilmiöllä  viitataan lähinnä
 Esimerkkien @ee_signal--@ee_stat lihavoidut substantiivit ovat kaikki sanoja,
 joiden taivutusmuodoissa väistyvän vokaalin ilmiö näkyy. Esimerkiksi sananmuodon
 *сна* yksikön nominatiivi on с**о**н ja sananmuodon *иностранцам*
-иностран**е**ц. Myls sananmuoto *статьей* osuu väistyvän vokaalin piiriin,
+иностран**е**ц. Myös sananmuoto *статьей* osuu väistyvän vokaalin piiriin,
 vaikkei ensi silmäykseltä siltä näyttäisikään. Katsotaan ilmiötä tarkemmin
 Nikunlassin [-@nikunl: 113-114] ja Šeljakinin [-@sheljakin: 59-60] pohjalta.
 
@@ -1235,8 +1235,8 @@ artikkeliin):
   [ручей](https://ru.wiktionary.org/wiki/ручей)
 
 Monikon genetiivimuoto *статьей* saattaa vielä hämätä. Miten niin siinä on
-väistyvä vokaali? Sanan juurimorfi on tarkkaan ottaen /стать/ eli foneettisesti
-tarkemmassa asussa /статj/ (pehmeä merkki ei merkitse tässä kohden pelkkää
+väistyvä vokaali? Sanan /статья/ juurimorfi on tarkkaan ottaen /стать/ eli foneettisessa
+asussa /статj/ (pehmeä merkki ei merkitse tässä kohden pelkkää
 liudennusta -- tähän riittäisi pelkkä я-kirjainkin). Nollavokaalin sisältävissä
 muodoissa статья taipuu siis cтатьи, статьям jne. Monikon genetiivi on kuitenkin
 nollapäätteinen, eli muoto olisi ilman väistyvää vokaalia juurimorfi + ø, toisin

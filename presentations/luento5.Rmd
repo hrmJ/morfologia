@@ -16,7 +16,7 @@
 
 <!-- Mikä ilmiö? Järjestyksessä samalla kertaillaan muotoja... -->
 
-<article class='incremental'>
+<article class='incremental' style='float:left;'>
 
 <table style="visibility: visible;">
 <thead>
@@ -94,13 +94,51 @@
 </tr>
 </tbody>
 </table>
+</article>
 
+<article class='incremental' style='float:left;margin-left:2em;padding:0.4em;background:beige;'>
+
+### Väistyvä vokaali / Беглый гласный
+
+>- Nyrkkisääntö: 
+    - ennen nollapäätettä konkreettisena vokaalina (о,е,и)
+    - muuten nollaäänne
+>- Yksitavuisia, kaksitavuisia, useampitavuisia...
 
 </article>
 
+# Esimerkkejä
 
-# Väistyvä vokaali
+<article class='incremental' style='font-size:130%;'>
 
+>- [рот](https://ru.wiktionary.org/wiki/рот),
+  [сон](https://ru.wiktionary.org/wiki/сон),
+  [ров](https://ru.wiktionary.org/wiki/ров),
+  [рожь](https://ru.wiktionary.org/wiki/рожь),
+  [лоб](https://ru.wiktionary.org/wiki/лоб),
+  [мох](https://ru.wiktionary.org/wiki/мох),
+  [лед](https://ru.wiktionary.org/wiki/лед),
+  [шов](https://ru.wiktionary.org/wiki/шов),
+  [день](https://ru.wiktionary.org/wiki/день),
+  [лев](https://ru.wiktionary.org/wiki/лев),
+  [пень](https://ru.wiktionary.org/wiki/пень)
+>- [посол](https://ru.wiktionary.org/wiki/посол),
+  [орёл](https://ru.wiktionary.org/wiki/орёл),
+  [пепел](https://ru.wiktionary.org/wiki/пепел),
+  [котёл](https://ru.wiktionary.org/wiki/котёл)
+>- [висок](https://ru.wiktionary.org/wiki/висок),
+  [дружок](https://ru.wiktionary.org/wiki/дружок),
+>- [локоть](https://ru.wiktionary.org/wiki/локоть),
+  [ноготь](https://ru.wiktionary.org/wiki/ноготь),
+>- [огонь](https://ru.wiktionary.org/wiki/огонь),
+  [корень](https://ru.wiktionary.org/wiki/корень),
+>- [любимец](https://ru.wiktionary.org/wiki/любимец),
+  [перец](https://ru.wiktionary.org/wiki/перец),
+>- [воробей](https://ru.wiktionary.org/wiki/воробей),
+  [муравей](https://ru.wiktionary.org/wiki/муравей),
+  [ручей](https://ru.wiktionary.org/wiki/ручей)
+>- [статья](https://ru.wiktionary.org/wiki/статья)
 
+</article>
 
 
