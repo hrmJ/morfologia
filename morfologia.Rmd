@@ -60,7 +60,7 @@ no  | Pvm        | Aihe
 3   | ke 7.9.    | Luku ja suku kieliopillisina kategorioina
 4   | ti 13.9.   | Sija kieliopillisena kategoriana 
 5   | ke 14.9.   | Sija kieliopillisena kategoriana 2
-6   | ti 20.9.   | Vertailuaste. Sijat funktionaalisen morfologian kannalta: gen + dat
+6   | ti 20.9.   | Muut sanaluokat. Sijat funktionaalisen morfologian kannalta: gen + dat
 7   | ke 21.9.   | Sijat funktionaalisen morfologian kannalta: gen + dat + instr
 8   | ti 27.9.   | Sijat funktionaalisen morfologian kannalta: nominatiivi + akkusatiivi (elollisuuskategoria)
 9   | ke 28.9.   | Yleistä verbeistä
@@ -705,13 +705,13 @@ sääntöä eikä kaavassa tarvitse edetä pidemmälle. Sanasta *город* ei 
 merkityksen osalta voida vielä sanoa mitään. Tämän vuoksi on katsottava toista
 sääntöä. Sana город kuuluu taivutusmuotojensa puolesta ensimmäiseen deklinaation,
 joten sen suvuksi määräytyy maskuliini. Sana *умность* puolestaan kuuluu
-kolmanteen deklinaatiooon, joten se on feminiini. Sana *море* kuuluu neljänteen
+kolmanteen deklinaatioon, joten se on feminiini. Sana *море* kuuluu neljänteen
 deklinaatioon ja on neutri. 
 
 Taipumattomilla sanoilla ei ole deklinaatiota -- ne eivät nimensä mukaisesti
 taivu, joten taivutusmuotojen sarjaakaan ei ole olemassa. Tämän vuoksi näiden
 sanojen suvun määrittelemiseen tarvitaan erillisiä sääntöjä. Sama koskee
-esimerkimsi lyhenteitä.
+esimerkiksi lyhenteitä.
 
 #### Šeljakinin kuvaus
 
@@ -968,7 +968,14 @@ särähti korvaasi. Näissähän väitetään, että saneissa *учИтелем*
 Kyse on fonologisista seikoista, ja tässä kohden vaadittaneen
 pidempää selitystä kuin pelkkä alaviite.
 
-[Ks. esim. море](http://slovonline.ru/slovar_el_fonetic/b-13/id-66515/more.html)
+Verrataan ensin sanoja ножОм ja мУжем. Nikunlassi [-@nikunl: 139] huomauttaa,
+että syy eriäville kirjoitusasuille on oikeinkirjoitussäännössä: konsonanttien
+ш, ж, ч, ц, щ jälkeen painoton pääte kirjoitetaan *-ем*, painollinen *-ом*.
+Samoin pääte kirjoitetaan *-ем* tai *-ём* liudentuneiden konsonanttien jäljessä
+ja /j/-foneemin jäljessä. Tämä ei poista kuitenkaan sitä, että fonetiikan
+(ja morfologian) näkökulmasta kyseessä on yhdestä ja samasta päätteestä,
+morfista /ом/. Painollisen tavun jälkeisessä asemassa sijaitessaan [о]-foneemi
+ääntyy redusoituneena toisen asteen reduktion [ks. @nikunl: 87] mukaisesti.
 
 
 Kuten 
@@ -1389,10 +1396,11 @@ Tässä yhteydessä ei tehdä erityisen kattavaa katsausta eri painotyyppeihin, 
 tarkoitus on ennemminkin rohkaista itsenäiseen opiskeluun ja ylipäätään esitellä ajatus.
 
 
-Luento 6: Vertailuaste. Sijat funktionaalisen morfologian kannalta 1
+Luento 6: Muut sanaluokat. Sijat funktionaalisen morfologian kannalta 1
 ====================================================================
 
 Adjektiivi- ja pronominitaivutus.
+Lukusanataivutus.
 
 Luento 7: Sijat funktionaalisen morfologian kannalta 2
 ====================================================================
