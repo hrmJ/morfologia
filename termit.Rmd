@@ -18,14 +18,22 @@ PrintToWeb <- function() {
 
 # Kurssilla esiintyviä termejä
 
+<script language="Javascript">
+document.write("<i>Termilista päivitetty " + document.lastModified + "</i>");
+</SCRIPT>
+
 Tähän sivulle on koottu suomen- ja venäjänkieliset variantit kurssin
 olennaisimmista termeistä. Päivitän termilistaa sitä mukaa, kuin etenemme ja jos
 jokin sinua askarruttava termi puuttuu, vinkkaa ihmeessä, niin lisätään sekin.
 Voit hakea termejä helposti selaimen hakutoiminnolla (ctr+f).
+Halutessasi voit myös ladata termilistan excelissä avautuvana
+[csv-tiedostona](data/termit.csv). OpenOffice saattaa avata tiedoston heti
+oikein, mutta Excelissä koodaus on kerrottava erikseen (ks. apua [tästä videosta](https://youtu.be/GcYt1mJbwk4?t=29))
 
 - [Takaisin kurssin etusivulle](index.html)
 - <a href='javascript:void(0)' onClick='Order("fi");'>Järjestä termit suomenkielisen sanan mukaan</a>
 - <a href='javascript:void(0)' onClick='Order("ru");'>Järjestä termit venäjänkielisen sanan mukaan</a>
+
 
 
 <div id='terms_fi'>

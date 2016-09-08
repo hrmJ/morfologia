@@ -60,7 +60,7 @@ no  | Pvm        | Aihe
 3   | ke 7.9.    | Luku ja suku kieliopillisina kategorioina
 4   | ti 13.9.   | Sija kieliopillisena kategoriana 
 5   | ke 14.9.   | Sija kieliopillisena kategoriana 2
-6   | ti 20.9.   | Muut sanaluokat. Sijat funktionaalisen morfologian kannalta: gen + dat
+6   | ti 20.9.   | Adjektiiveista, pronomineista ja lukusanoista
 7   | ke 21.9.   | Sijat funktionaalisen morfologian kannalta: gen + dat + instr
 8   | ti 27.9.   | Sijat funktionaalisen morfologian kannalta: nominatiivi + akkusatiivi (elollisuuskategoria)
 9   | ke 28.9.   | Yleistä verbeistä
@@ -955,8 +955,8 @@ Sija   | Päätemorfi | esim.1 | esim.2   | esim.3
 ----   | ---------- | ------ | ------   |
 Nom.   | ø          | стол   | учитель  | гений
 Gen.   | /а/        | стола  | учителя  | гения
-Akk.   | /ø/ ~ /a/  | стол   | учителя  | гения
 Dat.   | /у/        | столу  | учителю  | гению
+Akk.   | /ø/ ~ /a/  | стол   | учителя  | гения
 Instr. | /ом/       | cтолом | учителем | гением
 Prep.  | /е/ ~ /и   | столе  | учителе  | гении
 
@@ -968,21 +968,31 @@ särähti korvaasi. Näissähän väitetään, että saneissa *учИтелем*
 Kyse on fonologisista seikoista, ja tässä kohden vaadittaneen
 pidempää selitystä kuin pelkkä alaviite.
 
-Verrataan ensin sanoja ножОм ja мУжем. Nikunlassi [-@nikunl: 139] huomauttaa,
+Verrataan sanoja ножОм ja мУжем. Nikunlassi [-@nikunl: 139] huomauttaa,
 että syy eriäville kirjoitusasuille on oikeinkirjoitussäännössä: konsonanttien
 ш, ж, ч, ц, щ jälkeen painoton pääte kirjoitetaan *-ем*, painollinen *-ом*.
 Samoin pääte kirjoitetaan *-ем* tai *-ём* liudentuneiden konsonanttien jäljessä
 ja /j/-foneemin jäljessä. Tämä ei poista kuitenkaan sitä, että fonetiikan
 (ja morfologian) näkökulmasta kyseessä on yhdestä ja samasta päätteestä,
 morfista /ом/. Painollisen tavun jälkeisessä asemassa sijaitessaan [о]-foneemi
-ääntyy redusoituneena toisen asteen reduktion [ks. @nikunl: 87] mukaisesti.
+ääntyy joka tapauksessa redusoituneena toisen asteen reduktion [ks. @nikunl: 87]
+mukaisesti, niin että foneettisesti katsoen /om/-päätteen vokaali sanoissa
+*мУжем* ja *дОмом* on sama -- pieni ero on ainostaan siinä, että liudentuneen
+konsonantin jälkeinen [о]-vokaalin variantti (sanassa *мУжем*) eroaa hieman
+liudentumattoman konsonantin jälkeisestä (sanassa *дОмом*). 
 
+Kirjoitussääntöjen ei siis pidä antaa hämärtää sitä tosiasiaa, että
+ortografisesti merkkijoinoilla *ом* ja *ем* ilmaistavat päätteet ovat itse asiassa sama pääte,
+joiden sisältämä vokaalifoneemi [о] on sama. Tällä vokaalifoneemilla on tosin päätteen osana
+toimiessaan kolme eri allofonia: painollinen versio, liudentumattoman
+konsonantin jälkeinen versio ja liudentuneen konsonantin jälkeinen versio.
 
-Kuten 
+Fonetiikan kurssilta muistat ehkä, että [o]-foneemilla on myös niin kutsuttu
+*ensimmäisen asteen reduktion* mukainen allofoni, joka esiintyy juuri
+painollista tavua edeltävässä tavussa -- esimerkiksi sanoissa Россия, говорить
+(ensimmäinen näistä o-foneemeista edustaan toisen asteen reduktiota,
+jälkimmäinen ensimmäisen asteen reduktiota).
 
-[ks. @nikunl: 87, 139]
-
-ии-pääte гений-sanoilla
 
 ### Toinen deklinaatio
 
@@ -1008,8 +1018,8 @@ Sija   | Päätemorfi | esim.1 | esim.2 | esim.3
 ----   | ---------- | ------ | ------ | -------
 Nom.   | /а/        | книга  | серия  | тыква
 Gen.   | /и/        | книги  | серии  | тыквы
-Akk.   | /у/        | книгу  | серию  | тыкву
 Dat.   | /е/ ~ /и/  | книге  | серии  | тыкве
+Akk.   | /у/        | книгу  | серию  | тыкву
 Instr. | /ой/ ~ /ей/| книгой | серией | тыквой
 Prep.  | /е/ ~ /и/  | книге  | серии  | тыкве
 
@@ -1027,8 +1037,8 @@ Sija   | Päätemorfi | esim.1   | esim.2 |
 ----   | ---------- | ------   | ------ |
 Nom.   | /ø/        | тетрадь  | ночь   |
 Gen.   | /и/        | тетради  | ночи   |
-Akk.   | /ø/        | тетрадь  | ночь   |
 Dat.   | /и/        | тетради  | ночи   |
+Akk.   | /ø/        | тетрадь  | ночь   |
 Instr. | /ju/       | тетрадью | ночью  |
 Prep.  | /и/        | тетради  | ночи   |
 
@@ -1043,8 +1053,8 @@ Sija   | Päätemorfi | esim.1 | esim.2 |esim.3
 ----   | ---------- | ------ | ------ |-------
 Nom.   | /о/ tai [е]| место  | поле   | пение
 Gen.   | /а/        | места  | поля   | пения
-Akk.   | /ø/        | место  | поле   | пение
 Dat.   | /у/        | месту  | полю   | пению
+Akk.   | /ø/        | место  | поле   | пение
 Instr. | /ом/       | местом | полем  | пением
 Prep.  | /е/ ~ /и/  | месте  | поле   | пении
 
@@ -1059,8 +1069,8 @@ Sija   | Päätemorfi | esim
 ----   | ---------- | ------
 Nom.   | /а/        | время
 Gen.   | /и/        | времени
-Akk.   | /ø/        | время
 Dat.   | /и/        | времени
+Akk.   | /ø/        | время
 Instr. | /ом/       | временем
 Prep.  | /е/ ~ /и/  | времени
 
@@ -1073,6 +1083,21 @@ instrumentaali- ja prepositionaalimuodot ovat käytännössä aina samat:
 muodostetaan päätteillä /ам/, /ами/, ja /ах/. Taivutuksen erot tulevat esille
 kaikkein yleisimmissä sijoissa eli nominatiivissa ja genetiivissä. Usein 
 [esim. @sheljakin: 44] monikolle esitetäänkin ainoastaan yksi deklinaatio.
+
+### Vaihtoehtoisia jaotteluita
+
+
+Kuten kurssilla on painotettu, substantiivit voidaan jakaa deklinaatioihin
+useammalla eri tavalla ja kukin jaottelu on aina kyseisen tutkijan/jaottelun
+tekijän teoreettinen kannanotto. Tässä esitetty jaottelu eroaa klassisesta
+deklinaatiojärjestelmästä, joka menee karkeasti ottaen seuraavasti:
+
+| deklinaation nimi | mitkä substantiivit                                                                 | esimerkki
+|-------------------|-------------------------------------------------------------------------------------|------------------
+| I deklinaatio     | yksikön nominatiivi päättyy /а/-morfeemiin (suurin osa feminiinejä)                 | машина,баня
+| II deklinaatio    | yksikön nominatiivi nollapääte ja suku maskuliini sekä /о/-päätteiset  neutrit      | стол,учитель,море,тело, музей
+| III deklinaatio   | yksikön nominatiivi liudentuneen konsonantin jälkeinen nollapääte ja suku feminiini | ночь, молодёжь
+
 
 
 #### Ensimmäinen monikon deklinaatio
@@ -1115,7 +1140,7 @@ Prep.  | /ах/       | книгах
 #### Kolmas monikon deklinaatio
 
 Kolmas monikon deklinaatio saadaan, kun yhdistetään yksikön neljäs ja viides
-deklinaatio. Tällöin voidaan todeta, että monikon moninatiivin pääte on /а/ ja
+deklinaatio. Tällöin voidaan todeta, että monikon nominatiivin pääte on /а/ ja
 genetiivin /ø/.
 
 Sija   | Päätemorfi | esim. 1   | esim.2  
@@ -1396,11 +1421,108 @@ Tässä yhteydessä ei tehdä erityisen kattavaa katsausta eri painotyyppeihin, 
 tarkoitus on ennemminkin rohkaista itsenäiseen opiskeluun ja ylipäätään esitellä ajatus.
 
 
-Luento 6: Muut sanaluokat. Sijat funktionaalisen morfologian kannalta 1
+Luento 6: Adjektiiveista, pronomineista ja lukusanoista
 ====================================================================
 
-Adjektiivi- ja pronominitaivutus.
-Lukusanataivutus.
+Tähän asti olemme tutustuneet sijakategoriaan vasta taivutusopin kannalta ja
+vain substantiivien osalta. Tällä luennolla mietitään muiden nominien taivutusta
+ja lisäksi laajemmin eräitä adjektiiveihin liittyviä ilmiöitä. Jos aikaa jää,
+siirrytään myös tarkastelemaan sijaa *funktionaalisen morfologian* kannalta,
+toisin sanoen konkreettisia käyttötilanteita.
+
+Adjektiivien ja pronominien sijataivutus
+----------------------------------------
+
+Kuten substantiivien kohdalla, seuraamme myös adjektiivien osalta Nikunlassin
+[-@nikunl: 143] esittämiä deklinaatiomalleja. Tosin on todettava, että adjektiivien
+taivutus on joka tapauksessa simppelimpää, eikä tulkintaeroille jää samalla
+tavalla sijaa kuin substantiivien kohdalla. Adjektiivideklinaatio (адъективное
+склонение) Nikunlassin esittämässä muodossa näyttää seuraavalta:
+
+Sija   | Maskuliini       | Feminiini     | Neutri         | Monikko
+----   | ---------------- | ------------- | -------------- | ---------
+Nom.   | /ой/ ~ /иj/      | /аja          | /оje/          | /иjэ/
+Gen.   | /ово/            | /оj/          | /ово/          | /их/
+Dat.   | /ому/            | /оj/          | /ому/          | /им/
+Akk.   | /ой/ ~ /ово/     | /уjу          | /ой/ ~ /ово/   | /иjэ/ ~ /их/
+Instr. | /ом/             | /оj/          | /ом/           | /им'и/
+Prep.  | /ом/             | /оj/          | /ом/           | /их/
+
+Taulukkoa katsoessa on hyvä muistaa, että muodot on, jälleen kerran, esitetty 
+foneettisessa asussa, mistä johtuen kirjoitusasultaan eroavat *ой* ja *ей* ovat yhtä
+ja samaa päätettä, samoin kirjoitusasultaan eroavat *ых* ja *их*. Ainoa
+deklinaatioon poikkeuksen lisäävä tekijä on se, että maskuliinien nominatiivilla
+on kaksi varianttia: painollisen päätteen /ой/ ja painottoman /иj/
+
+Tässä esitetty taivutus koskee adjektiivien pitkiä muotoja (*полные формы
+прилагательных*), mutta myös monia pronomineja, partisiippien pitkiä muotoja ja
+suurinta osaa järjestysluvuista. Eräät muut pronominit, sanat *один* ja
+*третьий* sekä *possessiiviadjektiivit* (притяжательные прилагательные) taipuvat
+seuraavan, niin kutsutun *pronominideklinaation* (местоименное склонение)
+mukaan:
+
+<!-- Tehtävän paikka? -->
+
+
+| Sija    | Maskuliini       | Feminiini     | Neutri         | Monikko
+| ------- | ---------------- | ------------- | -------------- | ---------
+| Nom.    | /ø/              | /а/           | /о/            | /и/
+| Gen.    | /ово/            | /оj/ ~ /эj/   | /ово/          | /их/
+| Dat.    | /ому/            | /оj/ ~ /эj/   | /ому/          | /им/
+| Akk.    | /ø/ ~ /ово/      | /у/           | /о/ ~ /ово/    | /и/ ~ /их/
+| Instr.  | /им/             | /оj/ ~ /эj/   | /им/           | /им'и/
+| Prep.   | /ом/             | /оj/ ~ /эj/   | /ом/           | /их/
+
+Taulukosta on huomattava, että tällä kertaa /эj/ on esitetty erillisenä
+päätteenä. Tämä johtuu siitä, että kyseessä todella on eri vokaali.
+Tämä käy ilmi siitä, että monilla tämän ryhmän sananmuodoista pääte on
+painollinen (esim. моЕй), eikä painollisissa vokaaleissa tapahdu reduktiota.
+МОй- ja моЕй-sanojen viimeiset vokaalit ovat selvästi eri foneemeja. Se, kumpaa
+päätettä käytetään, määräytyy seuraavasti: /оj/-pääte, kun sanan
+vartalo päättyy liudentumattomaan konsonanttiin, /эj/-pääte kaikissa muissa
+tilanteissa.
+
+Tutkitaan vielä konkreettisia esimerkkejä kummastakin deklinaatiotyypistä.
+
+Adjektiivideklinaatio красивый-sanalla:
+
+Sija   | Maskuliini           | Feminiini     | Neutri               | Monikko
+-------|----------------------|---------------|----------------------|----------
+Nom.   | красивый             | красивая      | красивое             | красивые
+Gen.   | красивого            | красивой      | красивого            | красивых
+Dat.   | красивому            | красивой      | красивому            | красивым
+Akk.   | красивый / красивого | красивую      | красивое / красивого | красивые ~ красивых
+Instr. | красивом             | красивой      | красивом             | красивыми
+Prep.  | красивом             | красивой      | красивом             | красивых
+
+
+Pronominideklinaatio мой-sanalla:
+
+
+Sija    | Maskuliini             | Feminiini       | Neutri                 | Monikko
+------- | ---------------------- | --------------- | ---------------------- | ----------
+Nom.    | мой                    | моя             | моё                    | мои
+Gen.    | моего                  | моей            | моего                  | моих
+Dat.    | моему                  | моей            | моему                  | моим
+Akk.    | мой ~ моего            | мою             | моё ~ моего            | мои ~ моих
+Instr.  | моим                   | моей            | моим                   | моими
+Prep.   | моём                   | моей            | моём                   | моих
+
+
+Lukusanojen sijataivutus
+------------------------
+
+
+Adjektiiveihin liittyviä ilmiöitä 
+----------------------------------
+
+### Lyhyet ja pitkät muodot
+
+### Possessiiviadjektiivit
+
+### Vertailuaste kieliopillisena kategoriana
+
+
 
 Luento 7: Sijat funktionaalisen morfologian kannalta 2
 ====================================================================

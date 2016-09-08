@@ -57,3 +57,7 @@ kongruenssi;согласование;kongruenssiksi kutsutaan ilmiötä, jossa j
 deklinaatio;тип склонения;taivutusmuotojen sarja nomineilla
 väistyvä vokaali;беглый гласный;morfofonologinen ilmiö, jossa vokaalit [o], [e] ja joskus [и] vaihtelevat nollavokaalin kanssa, kuten muodoissa сон - сне
 painotyyppi;акцентологический тип;säännönmukainen sanapainon ilmeneminen tiettyjen muotojen päätteellä ja tiettyjen muotojen vartalolla
+adjektiivideklinaatio;адъективное склонение;(Pitkien) adjektiivien, eräiden pronominien ja partisiippien pitkien muotojen noudattama taivutusmuotojen sarja
+possessiiviadjektiivit;притяжательные прилагательные;adjektiivin kaltaisia sananmuotoja, joilla osoitetaan jonkin asian tai esineen kuuluuvuus jollekin elolliselle olennolle
+pronominideklinaatio;местоименное склонение;Eräiden pronominien ja muun muassa possesiiviadjektiivien  noudattama taivutusmuotojen sarja
+
