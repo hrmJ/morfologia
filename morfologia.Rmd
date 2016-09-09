@@ -1090,7 +1090,7 @@ kaikkein yleisimmissä sijoissa eli nominatiivissa ja genetiivissä. Usein
 Kuten kurssilla on painotettu, substantiivit voidaan jakaa deklinaatioihin
 useammalla eri tavalla ja kukin jaottelu on aina kyseisen tutkijan/jaottelun
 tekijän teoreettinen kannanotto. Tässä esitetty jaottelu eroaa klassisesta
-deklinaatiojärjestelmästä, joka menee karkeasti ottaen seuraavasti:
+deklinaatiojärjestelmästä, joka menee karkeasti ottaen seuraavasti [tarkemmin ks. @sheljakin: 44--50]:
 
 | deklinaation nimi | mitkä substantiivit                                                                 | esimerkki
 |-------------------|-------------------------------------------------------------------------------------|------------------
@@ -1426,9 +1426,13 @@ Luento 6: Adjektiiveista, pronomineista ja lukusanoista
 
 Tähän asti olemme tutustuneet sijakategoriaan vasta taivutusopin kannalta ja
 vain substantiivien osalta. Tällä luennolla mietitään muiden nominien taivutusta
-ja lisäksi laajemmin eräitä adjektiiveihin liittyviä ilmiöitä. Jos aikaa jää,
-siirrytään myös tarkastelemaan sijaa *funktionaalisen morfologian* kannalta,
-toisin sanoen konkreettisia käyttötilanteita.
+ja lisäksi laajemmin eräitä adjektiiveihin liittyviä ilmiöitä. Koska kurssin
+painopiste on substantiivien ja verbien kieliopillisten kategorioitten
+tuntemisessa, tämä luento on ehkä kohtuuttomankin tiivis ja pikainen katsaus
+melko laajaan joukkoon ilmiöitä. Pyrin kompensoimaan tätä antamalla vinkkejä
+lisälukemiselle ja toisaalta kotona tehtävillä internetharjoituksilla.
+
+<!-- Muista painottaaa yllä sanottua myös luennolla! -->
 
 Adjektiivien ja pronominien sijataivutus
 ----------------------------------------
@@ -1441,7 +1445,7 @@ tavalla sijaa kuin substantiivien kohdalla. Adjektiivideklinaatio (адъект�
 
 Sija   | Maskuliini       | Feminiini     | Neutri         | Monikko
 ----   | ---------------- | ------------- | -------------- | ---------
-Nom.   | /ой/ ~ /иj/      | /аja          | /оje/          | /иjэ/
+Nom.   | /оj/ ~ /иj/      | /аja          | /оje/          | /иjэ/
 Gen.   | /ово/            | /оj/          | /ово/          | /их/
 Dat.   | /ому/            | /оj/          | /ому/          | /им/
 Akk.   | /ой/ ~ /ово/     | /уjу          | /ой/ ~ /ово/   | /иjэ/ ~ /их/
@@ -1452,7 +1456,7 @@ Taulukkoa katsoessa on hyvä muistaa, että muodot on, jälleen kerran, esitetty
 foneettisessa asussa, mistä johtuen kirjoitusasultaan eroavat *ой* ja *ей* ovat yhtä
 ja samaa päätettä, samoin kirjoitusasultaan eroavat *ых* ja *их*. Ainoa
 deklinaatioon poikkeuksen lisäävä tekijä on se, että maskuliinien nominatiivilla
-on kaksi varianttia: painollisen päätteen /ой/ ja painottoman /иj/
+on kaksi varianttia: painollisen päätteen /оj/ ja painottoman /иj/.
 
 Tässä esitetty taivutus koskee adjektiivien pitkiä muotoja (*полные формы
 прилагательных*), mutta myös monia pronomineja, partisiippien pitkiä muotoja ja
@@ -1509,36 +1513,254 @@ Instr.  | моим                   | моей            | моим           
 Prep.   | моём                   | моей            | моём                   | моих
 
 
-Lukusanojen sijataivutus
-------------------------
+
+Lukusanoista
+------------
+
+Lukusanat ovat venäjässä heterogeeninen ryhmä sanoja. Ordinaalilukusanat
+(järjestysluvut, порядковые числительные) taipuvat venäjässä adjektiivideklinaation (третьий 
+pronominideklinaation) mukaan, joten niitä ei tässä yhteydessä käsitellä
+tarkemmin. Sen sijaan kardinaalilukusanojen (количественные числителные)
+taivutuksesta on paikallaan huomauttaa eräitä erityispiirteitä [vrt. @wade2010:
+208--209]:
+
+- suuri osa kardinaalilukusanoista ei taivu luvussa. Tämä on itse asiassa
+  hahmottavista helpottava asia: jos mietit, pitäisikö lauseessa *minä näin
+  kolme miestä* käyttää lukusanasta monikon vai yksikön genetiiviä
+  (akkusatiivia), vastaus on, ettei sanalla ole kuin yksi genetiivimuoto: *я
+  видел трёх мужчин*.
+- lukusana *один* taipuu myös suvussa ja luvussa (одна, одно, одни) ja noudattaa
+  pronominideklinaatiota
+- lukusanat *нуль* ja *ноль* taipuvat kuten ensimmäisen deklinaation substantiivit
+- muut liudentuneeseen äänteeseen päättyvät lukusanat taipuvat seuraavan
+  taulukon mukaisesti sijoissa mutteivät luvussa tai suvussa. Säännönmukaisten
+  kymmenlukujen taivutuksessa on huomioitava myös yhdyssanan ensimmäinen osa.
+  Lisäksi kannattaa muistaa väistyvä vokaali lukusanassa *восемь*.
+
+Sija    | Pääte   | Esimerkki 1 | Esimerkki 2 |
+------- | ------- | ------------|-------------|
+Nom.    | /ø/     | пять        | пятьдесЯть  |
+Gen.    | /и/     | пятИ        | пятИдесяти  |
+Dat.    | /и/     | пятИ        | пятИдесяти  |
+Akk.    | /ø/     | пять        | пятьдесЯть  |
+Instr.  | /ju/    | пятьЮ       | пятьЮдесяти |
+Prep.   | /и/     | пятИ        | пятИдесяти  |
+
+Lukusanojen 3--4 neljä sijataivutus on puolestaan seuraavanlainen:
+
+Sija    | Esimerkki              |
+------- | ---------------------- |
+Nom.    | три                    |
+Gen.    | трёх                   |
+Dat.    | трём                   |
+Akk.    | три ~ трёх             |
+Instr.  | тремЯ                  |
+Prep.   | трёх                   |
+
+
+Lukusana kaksi on siitä poikkeuksellinen, että se ilmaisee
+nominatiivi-/akkusatiivimuodoissaan myös sukua (seuraavassa taulukossa esiintyvä
+*две*-muoto):
+
+Sija    | Esimerkki              |
+------- | ---------------------- |
+Nom.    | два ~ две              |
+Gen.    | двух                   |
+Dat.    | двум                   |
+Akk.    | два ~ две ~ двух       |
+Instr.  | двумЯ                  |
+Prep.   | двух                   |
+
+
+Tutki vielä itsenäisesti lukusanojen
+[сорок](https://ru.wiktionary.org/wiki/сорок),
+[сто](https://ru.wiktionary.org/wiki/сто) ,
+[девяносто](https://ru.wiktionary.org/wiki/девяносто) ja
+[полтора](https://ru.wiktionary.org/wiki/полтора)
+taivutusta wiktionarysta (klikkaa sanoja).
+
+Ordinaali- ja kardinaalilukusanojen lisäksi venäjässä on erikseen
+kollektiivilukusanojen (собирательные числительные) ryhmä. Kollektiivimuoto
+muodostetaan ainakin teoriassa luvuista 2--10, joskin muodot 7--10 ovat
+harvinaisia [@wade2010: 221]. Seuraavassa on listattu kaikki tavallisimmat
+kollektiivilukusant nominatiivimuodossa (klikkaa sanoja tutkiaksesi taivutusta):
+
+- [двое](https://ru.wiktionary.org/wiki/двое)
+- [трое](https://ru.wiktionary.org/wiki/трое)
+- [чЕтверо](https://ru.wiktionary.org/wiki/четверо)
+- [пЯтеро](https://ru.wiktionary.org/wiki/пятеро)
+- [шЕстеро](https://ru.wiktionary.org/wiki/шестеро)
+- [cЕмеро](https://ru.wiktionary.org/wiki/cемеро)
+
+Funktionaalisen morfologian kannalta voidaan todeta, että kollektiivilukusanoja
+käytetään [@wade2010: 221--222]:
+
+1) kollektiivisanojen yhteydessä (двое часов, четверо суток)
+2) elollisten maskuliinisubstantiivien yhteydessä (ei aina, mutta usein): двое
+   друзьей, трое мальчиков
+3) sanan дети yhteydessä (ei myöskään aina): трое/четверо/пятеро детей
+4) Kun lukusanasta normaalisti riippuvaa subjektina toimivaa substantiivia ei
+ole ilmaistu: *Нас было двое* / *Трое стояли на углу*.
+
+<!-- Tehtävä, jossa sekaisin korpuskontekstissa eri lukusanamuotoja ja tapauksia. -->
 
 
 Adjektiiveihin liittyviä ilmiöitä 
 ----------------------------------
 
+### Laatu- ja relaatioadjektiivit
+
+Adjektiivien luokan sisällä voidaan tehdä osittain merkitykseen perustuva jako
+*laatu-* ja *relaatioadjektiiveihin* [ks. @nikunl: 132--133; @sheljakin: 72, 79].
+Jaottelulla on eräitä käytännössä hyödyllisiä sovellutuksia, joten käsitellään
+sitä lyhyesti myös tässä.
+
+Laatuadjektiivit (качественные прилагательны) voivat nimittäin ilmaista ominaisuuden
+asteittaisena: niihin voidaan luontevasti liittää määreeksi sellaisia adverbeja kuin *очень*
+tai *довольно*. 
+
+(@ee_otsh1) очень мягкий
+(@ee_dov1) довольно интересный
+
+Tästä seuraa, että näistä adjektiiveista voi myös muodostaa vertailuasteita (ks.
+alempana) ja lyhyitä muotoja (myös tarkemmin alempana). Nikunlassi [@nikunl:
+132] antaa relaatioadjektiivista (относительные прилагательные) esimerkin
+*государственный*, sheljakin [-@sheljakin: 72] puolestaan mainitsee muun muassa
+sanat *железный*  ja *московский*.
+
+
 ### Lyhyet ja pitkät muodot
+
+Kuten jo peruskoulusta muistat, monilla venäjän adjektiivilekseemeillä voidaan erottaa
+kaksi eri muotosarjaa, pitkät muodot (полные формы) ja lyhyet muodot (краткие
+формы). Pitkistä muodoista on jo puhuttu, joten seuraavaksi muutama sana
+lyhyistä. 
+
+Lyhyet muodot ilmaisevat ainoastaan *suku-* ja *lukukategorioita* (joko molempia
+tai jompaakumpaa), eivät siis sijaa. Lyhyitä muotoja voi muodostaa ainoastaan
+*laatuadjektiiveista* (ks. yllä), ei relaatioadjektiiveista tai 
+possessiiviadjektiiveista. Myös laatuadjektiivien suhteen Šeljakin [-@sheljakin:
+79] esittää  esittää seuraavat rajoitukset, niin että lyhyitä muotoja ei
+muodosteta, jos:
+
+1. laatuadjektiivi on muodostettu suffiksilla *-ск-* (братский ym.)
+2. laatuadjektiivi on muodostettu *-л-*suffiksilla ja muodosta tulisi homonyyminen verbin menneen ajan muodon kanssa (отсталый, бывалый ym.)
+3. laatuadjektiivin maskuliinin nominatiivipääte on /оj/ ja vartalo päättyy /ов/-suffiksiin (деловой ym.)
+4. Tiettyjen värien nimityksistä (розовый, коричневый ym.)
+
+Lisäksi on muistettava, että tietyillä adjektiiveilla on *pelkästään* lyhyet
+muodot: esimerkiksi рад, горазд, должен, виноват [@sheljakin: 80; @zolotova:
+90].
+
+Niissä tapauksissa kun lyhyet muodot ovat mahdollisia, muodostaminen tapahtuu
+seuraavasti niin, että sanan vartaloon lisätään sukua tai lukua ilmaiseva pääte:
+
+Adjektiivi | Vartalo | pääte / m  | pääte / f   | pääte / n | pääte / mon
+---------- | ------- | ---------- | ----------- | ----------|-----------
+молодой    | /молод/ | /ø/        | /а/         | /о/       | /и/
+синий      | /син'/  | /ø/        | /а/         | /о/|/и/
+
+Taulukkoa tulkittaessa kehotan muistamaan monesti jo toistetut huomautukset
+päätemorfeista fonetiikan ja kirjoitusasun kannalta.
+Seuraava taulukko kuvaa konkreettiset muodot kirjoitusasussaan:
+
+ muoto / m  | muoto / f   | muoto / n  | muoto / mon.
+ ---------- | ----------- | ---------- | ---------
+ мОлод      | молодА      | мОлодо     | мОлоды
+ сИнь       | синЯ        | сИне       | сИни
+
+
+Lyhyitä muotoja muodostettaessa tulee lisäksi muistaa, että väistyvän vokaalin
+ilmiö (ks. edellä) koskee myös näitä sanoja. Kuten aiemmasta muistetaan,
+perussääntö väistyvän vokaalin yhteydessä on, että  ennen nollapäätettä vokaali
+edustuu ilmiäänteenä (о, е, и), muulloin nollaäänteenä. Näin ollen väistyvä
+vokaali lyhyiden adjektiivien tapauksessa esiintyy konkreettisena äänteenä
+yksikön maskuliinimuodoissa,  esimerkiksi больной--болен, краткий--краток,
+длинный--длинен.
+
+Lyhyisiin muotoihin liittyy erittäin tärkeä *funktionaalisen morfologian*
+piiriin kuuluva kysymys: milloin lyhyttä muotoa käytetään?
+
+Ensinnäkin voidaan todeta, että käyttöön liittyy yksi merkittävä rajoite:
+lyhyttä adjektiivia voidaan käyttää ainoastaan predikatiivin (именная часть
+сказуемого) roolissa, ilmaisemaan jotakin ominaisuutta subjektista (дедушка
+болен). Tämä on kuitenkin -- filosofisesti sanottuna -- ainoastaan
+välttämätön, ei riittävä ehto lyhyen adjektiivin käytölle. Toisin sanoen ei ole
+myöskään niin, että predikatiivin funktiosta aina seuraisi lyhyt muoto.
+
+Zolotova ym. [-@zolotova: 90] huomauttavat, että joissakin tapauksissa lyhyen
+adjektiivin käyttö on "в контексте свободного авторского выбора" --
+puhujan tai kirjoittajan oma ratkaisu, joka ei ole kieliopillisesti pakotettu --
+joissain taas joko mahdotonta tai ainoa mahdollisuus. Zolotova ym. antavat
+seuraavanlaisia esimerkkejä tilanteista, joissa lyhyt adjektiivi on ainoa
+mahdollisuus:
+
+(@zolotova_uporstvo) Ваше упорство печально
+(@zolotova_fantastika) Фантастика хороша тогда, конда зритель не сразу понимает, как
+сделан трюк
+(@zolotova_moloko) Ты сам замечаешь, что молоко тебе полезно.
+
+Esimerkeissä @zolotova_fantastika ja @zolotova_moloko on adjektiivin merkitystä
+rajoittava spesifi konteksti, minkä takia pitkä muoto ei ole mahdollinen.
+Esimerkissä @zolotova_uporstvo puolestaan on *emotionaalis-kausatiivinen*
+adjektiivi (vrt. печальный, грустный, веселый). Yleisluontoisemmassa
+kontekstissa sekä lyhyet että pitkät adjektiivit olisivat mahdollisia 
+[vrt. @zolotova: 91]:
+
+(@zolotova_moloko2) Молоко полезное / полезно
+
+Toisaalta lyhyiden adjektiivien käyttö on rajattua, kun kyseessä ei ole
+henkilösubjekti:
+
+(@zolotova_holodnyj)  Он был холодным / холоден. **MUTTA** Он был холодным / холоден.
+
 
 ### Possessiiviadjektiivit
 
+Possessiiviadjektiivit (притяжательные прилагательные) ilmaisevat jonkin
+esineen, asian tai ominaisuuden kuulumista jollekin (elolliselle) subjektille.
+Šeljakinin mukaan [-@sheljakin: 72] possessiiviadjektiivit jakautuvat kahteen
+ryhmään: a) niihin, jotka ilmaisevat kuulumista jollekin konkreettiselle
+yksilölle (папин, мамин ym.) b) niihin, jotka ilmaisevat kuulumista jollekin
+ryhmälle tai joukolle. (вольчя шкура ym.)
+
+Ensimmäisen kategorian possessiiviadjektiivit muodostetaan liittämällä jokin
+suffikseista -ин, -нин ja -ов [@wade2010: 175]. Esimerkiksi:
+
+(@ee_babushkin) /бабушк/ -- /бабушк/ин/
+
+Toisen kategorian possessiiviadjektiivit puolestaan muodostetaan liittämällä
+adjektiivin pääte yleisnimeen. Samalla tapahtuu äänteenmuutoksia:
+
+(@ee_kat2) /медвед'/ -- /медвеж/ий
+(@ee_kat2b) /девиц/а/ -- /девич/ий
+
+Possessiiviadjektiivit taipuvat edellä esitetyn pronominideklinaation
+mukaisesti.
+
 ### Vertailuaste kieliopillisena kategoriana
 
+Vertailuaste on kieliopillinen kategoria, jota ilmaisevat ainoastaan adjektiivit
+ja adverbit. 
+
+<!-- Paljon nettiharjoituksia tästä tunnista! -->
 
 
-Luento 7: Sijat funktionaalisen morfologian kannalta 2
+luento 7: sijat funktionaalisen morfologian kannalta 2
 ====================================================================
 
 
-Luento 8: Sijat. Elollisuuskategoria.
+luento 8: sijat. elollisuuskategoria.
 =====================================
 
 [ks. @sheljakin: 43]
 
-painoasioita: НА пол vs. на Пол
+painoasioita: на пол vs. на пол
 
-Luento 12 : Pääluokka kieliopillisena kategoriana
+luento 12 : pääluokka kieliopillisena kategoriana
 =================================================
 
-ks. Vanhala-Aniszewski 1992!
+ks. vanhala-aniszewski 1992!
 
 
 Kirjallisuutta

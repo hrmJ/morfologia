@@ -74,7 +74,7 @@ document.write("<i>Termilista päivitetty " + document.lastModified + "</i>");
 </tr>
 <tr class="even">
 <td align="left">apusanaluokat</td>
-<td align="left">самостоятельные части речи</td>
+<td align="left">служебные части речи</td>
 <td align="left">muut sanaluokat paitsi partikkelit, prepositiot, konjunktiot ja interjektiot</td>
 </tr>
 <tr class="odd">
@@ -123,9 +123,19 @@ document.write("<i>Termilista päivitetty " + document.lastModified + "</i>");
 <td align="left">muut sanaluokat paitsi partikkelit, prepositiot, konjunktiot ja interjektiot</td>
 </tr>
 <tr class="even">
+<td align="left">järjestysluvut</td>
+<td align="left">порядковые числителные</td>
+<td align="left">lukusanoja, jotka ilmaisevat, kuinka mones jokin ilmiö/asia/tms. on.</td>
+</tr>
+<tr class="odd">
 <td align="left">juurimorfi</td>
 <td align="left">корневой морф, корень</td>
 <td align="left">sanan leksikaalisen ytimen ilmaiseva johtamaton morfi</td>
+</tr>
+<tr class="even">
+<td align="left">kardinaaliluvut</td>
+<td align="left">количественные числителные</td>
+<td align="left">lukusanoja, jotka ilmaisevat määrää</td>
 </tr>
 <tr class="odd">
 <td align="left">kieliopillinen kategoria</td>
@@ -143,74 +153,84 @@ document.write("<i>Termilista päivitetty " + document.lastModified + "</i>");
 <td align="left">lauseita yhdistävien apusanojen ryhmä (а,и,но,хотя ym.)</td>
 </tr>
 <tr class="even">
+<td align="left">laatuadjektiivi</td>
+<td align="left">качественное прилагательное</td>
+<td align="left">adjektiivi, joka voi ilmaista toiminnan astetta ja intensiteettiä</td>
+</tr>
+<tr class="odd">
 <td align="left">lukukategoria</td>
 <td align="left">категория числа</td>
 <td align="left">venäjässä tällä kategorialla kaksi arvoa: yksikkö ja monikko</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">lukusanat</td>
 <td align="left">числителные</td>
 <td align="left">numeroita ja lukumäärää ilmaisevia sanoja – morfologisesti osin epäyhtenäinen luokka</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">maskuliini</td>
 <td align="left">мужской род</td>
 <td align="left">yksi sukukategorian arvoista</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">modus</td>
 <td align="left">наклонение</td>
 <td align="left">ks. tapaluokkakategoria</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">morfeemi</td>
 <td align="left">морфема</td>
 <td align="left">kielen pienen merkitystä kantava yksikkö</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">morfeemiraja</td>
 <td align="left">морфемный шов</td>
 <td align="left">morfeemien välinen raja, esim juurimorfin ja suffiksin raja</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">morfi</td>
 <td align="left">морф</td>
 <td align="left">morfeemin konkreettinen esiintymä</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">morfofonologia</td>
 <td align="left">морфонология</td>
 <td align="left">morfologian osa-alue, joka tutkii muun muassa äänteenmuutoksia</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">morfosyntaksi</td>
 <td align="left">морфосинтаксис</td>
 <td align="left">morfologian osa-alue, joka tutkii morfologian ja syntaksin rapaintoja, esimerkiksi kongruenssia</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">neutri</td>
 <td align="left">средний род</td>
 <td align="left">yksi sukukategorian arvoista</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">nollaäänne</td>
 <td align="left">нуль звука</td>
 <td align="left">erityisesti väistyvän vokaalin yhteydessä: äänne, joka toisissa ympäristöissä edustuu konkreettisena äänteenä, toisissa ei</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">nollamorfi</td>
 <td align="left">нулевой морф</td>
 <td align="left">morfeemi, joka ei ilmene minään konkreettisena kielellisenä aineksena, mutta jonka olemassaolo on perusteltua olettaa</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">nollavokaali</td>
 <td align="left">нуль гласного</td>
 <td align="left">ks. nollaäänne</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">nominit</td>
 <td align="left">инменные части речи</td>
 <td align="left">sijoissa taipuvat sanaluokat (pois lukien sijoissa taipuvat partisiipit)</td>
+</tr>
+<tr class="odd">
+<td align="left">oletusarco</td>
+<td align="left">значение по умолчанию</td>
+<td align="left">kieliopillisen kategorian (esim. luvun tai suvun) arvo, jota käytetään, jos mikään lauseen elementti ei suoraan ohjaa käyttämään tiettyä arvoa (ks. kongruenssi), mutta arvoa ei yhtä kaikki voi myöskään olla ilmaisematta.</td>
 </tr>
 <tr class="even">
 <td align="left">pääluokkakategoria</td>
@@ -243,24 +263,34 @@ document.write("<i>Termilista päivitetty " + document.lastModified + "</i>");
 <td align="left">morfeemi, joka esiintyy suffiksien ja päätteiden jäljessä, esim. ся</td>
 </tr>
 <tr class="even">
+<td align="left">predikatiivi</td>
+<td align="left">именная часть сказуемого</td>
+<td align="left">se, mitä jostakin entiteetistä predikoidaan: lauseen predikaattiverbin täydennys, joka kertoo esimerkiksi jonkin ominaisuuden subjektista (я рад / дедушка болен)</td>
+</tr>
+<tr class="odd">
 <td align="left">prefiksi</td>
 <td align="left">префикс, приставка</td>
 <td align="left">affiksi, joka liittyy juurimorfeemin etupuolelle</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">prepositiot</td>
 <td align="left">предлоги</td>
 <td align="left">yksimorfeemisia sanoja, joilla ilmaistaan kieliopillisia kategorioita. Adpositioita, jotka edeltävät niistä riippuvaa substantiivia.</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">pronominideklinaatio</td>
 <td align="left">местоименное склонение</td>
 <td align="left">Eräiden pronominien ja muun muassa possesiiviadjektiivien noudattama taivutusmuotojen sarja</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">pronominit</td>
 <td align="left">местоимения</td>
 <td align="left">Nominien asemesta käytettäviä sanoja</td>
+</tr>
+<tr class="odd">
+<td align="left">relaatioadjektiivi</td>
+<td align="left">относительное прилагательное</td>
+<td align="left">adjektiivi, joka ei voi ilmaista toiminnan astetta ja intensiteettiä</td>
 </tr>
 <tr class="even">
 <td align="left">salkkumorfi</td>
@@ -406,6 +436,16 @@ document.write("<i>Termilista päivitetty " + document.lastModified + "</i>");
 <td align="left">yksi sukukategorian arvoista</td>
 </tr>
 <tr class="odd">
+<td align="left">значение по умолчанию</td>
+<td align="left">oletusarco</td>
+<td align="left">kieliopillisen kategorian (esim. luvun tai suvun) arvo, jota käytetään, jos mikään lauseen elementti ei suoraan ohjaa käyttämään tiettyä arvoa (ks. kongruenssi), mutta arvoa ei yhtä kaikki voi myöskään olla ilmaisematta.</td>
+</tr>
+<tr class="even">
+<td align="left">именная часть сказуемого</td>
+<td align="left">predikatiivi</td>
+<td align="left">se, mitä jostakin entiteetistä predikoidaan: lauseen predikaattiverbin täydennys, joka kertoo esimerkiksi jonkin ominaisuuden subjektista (я рад / дедушка болен)</td>
+</tr>
+<tr class="odd">
 <td align="left">инменные части речи</td>
 <td align="left">nominit</td>
 <td align="left">sijoissa taipuvat sanaluokat (pois lukien sijoissa taipuvat partisiipit)</td>
@@ -459,6 +499,16 @@ document.write("<i>Termilista päivitetty " + document.lastModified + "</i>");
 <td align="left">категория числа</td>
 <td align="left">lukukategoria</td>
 <td align="left">venäjässä tällä kategorialla kaksi arvoa: yksikkö ja monikko</td>
+</tr>
+<tr class="even">
+<td align="left">качественное прилагательное</td>
+<td align="left">laatuadjektiivi</td>
+<td align="left">adjektiivi, joka voi ilmaista toiminnan astetta ja intensiteettiä</td>
+</tr>
+<tr class="odd">
+<td align="left">количественные числителные</td>
+<td align="left">kardinaaliluvut</td>
+<td align="left">lukusanoja, jotka ilmaisevat määrää</td>
 </tr>
 <tr class="even">
 <td align="left">корневой морф, корень</td>
@@ -546,6 +596,16 @@ document.write("<i>Termilista päivitetty " + document.lastModified + "</i>");
 <td align="left">se osa,joka jää (prefiksi+juuri+suffiksit) kun taivutuspääte otetaan pois</td>
 </tr>
 <tr class="odd">
+<td align="left">относительное прилагательное</td>
+<td align="left">relaatioadjektiivi</td>
+<td align="left">adjektiivi, joka ei voi ilmaista toiminnan astetta ja intensiteettiä</td>
+</tr>
+<tr class="even">
+<td align="left">порядковые числителные</td>
+<td align="left">järjestysluvut</td>
+<td align="left">lukusanoja, jotka ilmaisevat, kuinka mones jokin ilmiö/asia/tms. on.</td>
+</tr>
+<tr class="odd">
 <td align="left">постфикс</td>
 <td align="left">postfiksi</td>
 <td align="left">morfeemi, joka esiintyy suffiksien ja päätteiden jäljessä, esim. ся</td>
@@ -576,29 +636,29 @@ document.write("<i>Termilista päivitetty " + document.lastModified + "</i>");
 <td align="left">muut sanaluokat paitsi partikkelit, prepositiot, konjunktiot ja interjektiot</td>
 </tr>
 <tr class="odd">
-<td align="left">самостоятельные части речи</td>
-<td align="left">apusanaluokat</td>
-<td align="left">muut sanaluokat paitsi partikkelit, prepositiot, konjunktiot ja interjektiot</td>
-</tr>
-<tr class="even">
 <td align="left">свободный корень</td>
 <td align="left">vapaa juurimorfi</td>
 <td align="left">juurimorfi, joka voi sellaisenaan muodostaa sanan</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">связанный корень</td>
 <td align="left">sidottu juurimorfi</td>
 <td align="left">juurimorfi, joka ei voi itsessään muodostaa sanaa, esim. о/де/ть</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">словоизменение</td>
 <td align="left">taivutusoppi</td>
 <td align="left">morfologian toinen päähäära, joka tutkii eri sananmuotoja</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">словообразование</td>
 <td align="left">sananmuodostusoppi</td>
 <td align="left">morfologian toinen päähaara, joka tutkii mm. affikseja ja johtamista</td>
+</tr>
+<tr class="odd">
+<td align="left">служебные части речи</td>
+<td align="left">apusanaluokat</td>
+<td align="left">muut sanaluokat paitsi partikkelit, prepositiot, konjunktiot ja interjektiot</td>
 </tr>
 <tr class="even">
 <td align="left">согласование</td>
