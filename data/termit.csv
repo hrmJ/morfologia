@@ -67,3 +67,6 @@ predikatiivi;именная часть сказуемого;se, mitä jostakin e
 järjestysluvut;порядковые числителные;lukusanoja, jotka ilmaisevat, kuinka mones jokin ilmiö/asia/tms. on.
 kardinaaliluvut;количественные числителные;lukusanoja, jotka ilmaisevat määrää
 kollektiivilukusanat;собирательные числителные;lukusanoja, jotka viittaavat ryhmään henkilöitä
+johdettu sana;производное слово;sana, jonka vartaloon kuuluu juurimorfin lisäksi affikseja
+johtamaton sana;непроизводное слово;sana, jonka vartaloon ei kuuluu (ainakaan nykykielen kannalta) juurimorfin lisäksi affikseja
+obliikvisija;косвенный падеж;muut sijat kuin nominatiivi ja nominatiivin kaltainen akkusatiivi

@@ -1406,20 +1406,657 @@ Prep.  | /и/        | пути
 Deklinaatioista ja painotyypeistä
 ---------------------------------
 
-Aleksandr Isachenko toteaa laajassa venäjän kieliopin kuvauksessaan seuraavasti
+Aleksandr Isatšenko toteaa laajassa venäjän kieliopin kuvauksessaan seuraavasti
 [-@isachenko2003: 129]:
 
 *Морфологическая характеристика имен существительных в русском языке не
 ограничивается указанием всех падежных окончаний. Чтобы правильно пользоваться
 словом, необходимо усвоить его акцентологические особенности.*
 
-Vapaan sanapainon takia olennaista venäjän substantiivien morfologiassa on paitsi päätteiden tunteminen, 
-myös sen tiedostaminen, että eri sananmuotojen ääntämys vaihtelee painon osalta
-ja myös painon suhteen sanoja voidaan jossain määrin ryhmitellä.
+Vapaan sanapainon takia olennaista venäjän substantiivien morfologiassa on
+paitsi päätteiden tunteminen, myös sen tiedostaminen, että eri sananmuotojen
+ääntämys vaihtelee painon osalta ja myös painon suhteen sanoja voidaan jossain
+määrin ryhmitellä.
 
-Tässä yhteydessä ei tehdä erityisen kattavaa katsausta eri painotyyppeihin, vaan
-tarkoitus on ennemminkin rohkaista itsenäiseen opiskeluun ja ylipäätään esitellä ajatus.
+Tässä yhteydessä ei luennoilla ehditä tekemään erityisen kattavaa katsausta eri
+painotyyppeihin, vaan tarkempi tutustuminen painotyyppeihin jää itsenäisen
+opiskelun varaan.
 
+Tarkastelen seuraavassa deklinaatiokohtaisesti painon määräytymistä Isatšenkon
+[-@isachenko2003: 130--136, 141--143, 152--156, 161] esityksen perusteella.
+Käytännössä sanapainoa pohdittaessa on kaksi vaihtoehtoa: joko paino sijaitsee
+vartalolla tai päätteellä. Eri painotyypit voidaan hahmottaa tämän opposition
+valossa niin, että tyypit erottaa toisistaan se, missä muodoissa paino on
+päätteellä, missä taas vartalolla. Usein yksikkö ja monikko muodostavat selkeän
+jakolinjan, mutta myös yksittäiset sijat voivat erottua joukosta. Merkittävä
+jakolinja kulkee nominatiivin ja *obliikvisijojen* (косвенные падежи) välillä:
+usein esimerkiksi poikkeava monikon taivutusmuoto on juuri nominatiivi.
+
+### I deklinaation painotyypit
+
+Ensimmäisen deklinaation sanoille voidaan erottaa viisi painotyyppiä, joita
+nimitän tässä seuraavasti:
+
+1. завОд-tyyppi
+2. стол-tyyppi
+3. нос-tyyppi
+4. волк-tyyppi
+
+#### ЗавОд-tyyppi
+
+ЗавОд-tyypin sanoissa paino on niin yksikössä kuin monikossa vartalolla:
+
+| sija    | yks.     | mon.       |
+| ------- | -------- | ---------  |
+| nom.    | завОд    | завОды     |
+| gen.    | завОда   | завОдов    |
+| dat.    | завОду   | завОдам    |
+| akk.    | завОд    | завОды     |
+| instr.  | завОдом  | завОдами   |
+| prep.   | завОде   | завОдах    |
+
+Tähän tyyppiin kuuluu suuri osa maskuliineista. Joukossa on 
+
+1. **johtamattomia  (непроизводные) sanoja** kuten
+   [барАн](http://ru.wiktionary.org/wiki/баран),
+   [стул](http://ru.wiktionary.org/wiki/стул),
+   [нарОд](http://ru.wiktionary.org/wiki/народ),
+   [соЮз](http://ru.wiktionary.org/wiki/союз),
+   [закОн](http://ru.wiktionary.org/wiki/закон). 
+2. paljon  **johdettuja (производные)**
+   [начАльник](http://ru.wiktionary.org/wiki/начальник),
+   [грОхот](http://ru.wiktionary.org/wiki/грохот),
+   [зАработок](http://ru.wiktionary.org/wiki/заработок),
+   [отдЕл](http://ru.wiktionary.org/wiki/отдел),[подокОнник](http://ru.wiktionary.org/wiki/подоконник) 
+3. melko uusia **lainoja**: [чемодАн](http://ru.wiktionary.org/wiki/чемодан),
+   [билЕт](http://ru.wiktionary.org/wiki/билет),
+   [магазИн](http://ru.wiktionary.org/wiki/магазин),[трамвАй](http://ru.wiktionary.org/wiki/трамвай) 
+4. **erisnimiä** ИвАн, НиколАй, БетхОвен, ДунАй
+
+#### Стол-tyyppi
+
+Стол-tyypin sanoilla paino on yksikön nominatiivissa (ja akkusatiivissa)
+teknisesti ottaen vartalolla (usein suffiksilla, kuten -ец), kaikissa muissa
+muodoissa päätteellä. Käytännössä tuloksena on paradigma, jossa paino on aina
+viimeisellä tavulla:
+
+| sija    | yks.     | mon.       |
+| ------- | -------- | ---------  |
+| nom.    | стОл     | столЫ      |
+| gen.    | столА    | столОв     |
+| dat.    | столУ    | столАм     |
+| akk.    | стол     | столЫ      |
+| instr.  | столОм   | столАми    |
+| prep.   | столЕ    | столАх     |
+
+
+Tähän tyyppiin kuuluu monia **johtamattomia yksitavuisia sanoja**: бык, вол,
+вождь, врач,гриб,гроб,двор,дождь,ёж,карандаш,пирог,рубль,чердак.
+
+Johdettujen sanojen osalta voidaan erottaa koko joukko suffikseja, jotka
+tuottavat tämän painotyypin substantiivin:
+
+- ец: [певЕц](http://ru.wiktionary.org/wiki/певец),
+  [купЕц](http://ru.wiktionary.org/wiki/купец),
+  [глупЕц](http://ru.wiktionary.org/wiki/глупец) 
+    - Myös sanat, joissa ец ei enää nykykielen kannalta suffiksi:
+      [отЕц](http://ru.wiktionary.org/wiki/отец),
+      [конЕц](http://ru.wiktionary.org/wiki/конец),[песЕц](http://ru.wiktionary.org/wiki/песец) 
+- ик: [ученИк](http://ru.wiktionary.org/wiki/ученик),
+  [грузовИк](http://ru.wiktionary.org/wiki/грузовик),
+  [большевИк](http://ru.wiktionary.org/wiki/большевик),
+  [старИк](http://ru.wiktionary.org/wiki/старик),[двойнИк](http://ru.wiktionary.org/wiki/двойник) 
+- ак: [рыбАк](http://ru.wiktionary.org/wiki/рыбак),[дурАк](http://ru.wiktionary.org/wiki/дурак)[казАк](http://ru.wiktionary.org/wiki/казак),
+- як: [землЯк](http://ru.wiktionary.org/wiki/земляк),
+  [полЯк](http://ru.wiktionary.org/wiki/поляк),[коньЯк](http://ru.wiktionary.org/wiki/коньяк) 
+- ок: [воротничОк](http://ru.wiktionary.org/wiki/воротничок),
+  [белОк](http://ru.wiktionary.org/wiki/белок),
+  [песОк](http://ru.wiktionary.org/wiki/песок),[потолОк](http://ru.wiktionary.org/wiki/потолок) 
+- ун:
+  [хвастУн](http://ru.wiktionary.org/wiki/хвастун),[бегУн](http://ru.wiktionary.org/wiki/бегун) 
+- [ух](http://ru.wiktionary.org/wiki/ух):
+  [петУх](http://ru.wiktionary.org/wiki/петух),[пастУх](http://ru.wiktionary.org/wiki/пастух) 
+- [ач](http://ru.wiktionary.org/wiki/ач):
+  [скрипАч](http://ru.wiktionary.org/wiki/скрипач),
+  [силАч](http://ru.wiktionary.org/wiki/силач),[трубАч](http://ru.wiktionary.org/wiki/трубач) 
+- ич: ИльИч, кирпИч
+
+#### Нос-tyyppi
+
+Нос-tyypissä paino on yksikössä vartalolla, monikossa päätteellä:
+
+| sija    | yks.    | mon.         |
+| ------- | --------| ---------    |
+| nom.    | нОс     | носЫ         |
+| gen.    | нОса    | носОв        |
+| dat.    | нОсу    | носАм        |
+| akk.    | нОс     | носЫ         |
+| instr.  | нОсом   | носАми       |
+| prep.   | о нОсе  |  о носАх     |
+
+
+Tähän tyyppiin kuuluvat muun muassa seuraavat pääosin yksitavuiset sanat:
+
+[альт](http://ru.wiktionary.org/wiki/альт),
+[бал](http://ru.wiktionary.org/wiki/бал),
+[бас](http://ru.wiktionary.org/wiki/бас),
+[борт](http://ru.wiktionary.org/wiki/борт),
+[бунт](http://ru.wiktionary.org/wiki/бунт),
+[вал](http://ru.wiktionary.org/wiki/вал),
+[верх](http://ru.wiktionary.org/wiki/верх),
+[воз](http://ru.wiktionary.org/wiki/воз),
+[год](http://ru.wiktionary.org/wiki/год),
+[гроб](http://ru.wiktionary.org/wiki/гроб),
+[долг](http://ru.wiktionary.org/wiki/долг),
+[жир](http://ru.wiktionary.org/wiki/жир),
+[круг](http://ru.wiktionary.org/wiki/круг),
+[лад](http://ru.wiktionary.org/wiki/лад),
+[мозг](http://ru.wiktionary.org/wiki/мозг),
+[мост](http://ru.wiktionary.org/wiki/мост),
+[низ](http://ru.wiktionary.org/wiki/низ),
+[нос](http://ru.wiktionary.org/wiki/нос),
+[пан](http://ru.wiktionary.org/wiki/пан),
+[пар](http://ru.wiktionary.org/wiki/пар),
+[пир](http://ru.wiktionary.org/wiki/пир),
+[плуг](http://ru.wiktionary.org/wiki/плуг),
+[раз](http://ru.wiktionary.org/wiki/раз),
+[ряд](http://ru.wiktionary.org/wiki/ряд),
+[сад](http://ru.wiktionary.org/wiki/сад),
+[суп](http://ru.wiktionary.org/wiki/суп),
+[сыр](http://ru.wiktionary.org/wiki/сыр),
+[шаг](http://ru.wiktionary.org/wiki/шаг),
+[шкаф](http://ru.wiktionary.org/wiki/шкаф),
+[торг](http://ru.wiktionary.org/wiki/торг),
+[чай](http://ru.wiktionary.org/wiki/чай)
+
+Kannattaa huomata, että lähes kaikilla näistä sanoista on olemassa у-päätteinen
+lokatiivimuoto: на носУ, в рядУ jne.
+
+Oman ryhmänsä tämän painotyypin sisällä muodostavat sanat, joilla on
+epäsäännöllinen /а/-päätteinen monikon nominatiivi:
+[берег](http://ru.wiktionary.org/wiki/берег),
+[глаз](http://ru.wiktionary.org/wiki/глаз),
+[голос](http://ru.wiktionary.org/wiki/голос),
+[холож](http://ru.wiktionary.org/wiki/холож),
+[друг](http://ru.wiktionary.org/wiki/друг),
+[князь](http://ru.wiktionary.org/wiki/князь).
+
+#### Волк-tyyppi
+
+Волк-tyypin sanoilla paino on vartalolla yksikössä sekä monikon
+nominatiivi-/akkusatiivimuodoilla, muuten päätteellä:
+
+|sija   | yks.   | mon.    |
+|-------|--------|---------|
+|nom.   | вОлк   | вОлки   |
+|gen.   | вОлка  | волкОв  |
+|dat.   | вОлку  | волкАм  |
+|akk.   | вОлка  | волкОв  |
+|instr. | вОлком | волкАми |
+|prep.  | вОлке  | волкАх  |
+
+
+Tähän ryhmään kuuluu lähinnä vanhoja kantavenäläisiä sanoja: бог, ветер, вОлос,
+[вор](http://ru.wiktionary.org/wiki/вор),
+[гость](http://ru.wiktionary.org/wiki/гость),
+[гОлубь](http://ru.wiktionary.org/wiki/голубь),
+[гром](http://ru.wiktionary.org/wiki/гром),
+[гусь](http://ru.wiktionary.org/wiki/гусь),
+[зверь](http://ru.wiktionary.org/wiki/зверь),
+[зуб](http://ru.wiktionary.org/wiki/зуб),
+[камень](http://ru.wiktionary.org/wiki/камень),
+[кОрень](http://ru.wiktionary.org/wiki/корень),
+[лЕбедь](http://ru.wiktionary.org/wiki/лебедь),
+[лОсось](http://ru.wiktionary.org/wiki/лосось),
+[лОкоть](http://ru.wiktionary.org/wiki/локоть),
+[медведь](http://ru.wiktionary.org/wiki/медведь),
+[Окунь](http://ru.wiktionary.org/wiki/окунь),
+[хлеб](http://ru.wiktionary.org/wiki/хлеб),
+[чёрт](http://ru.wiktionary.org/wiki/чёрт),
+[уголь](http://ru.wiktionary.org/wiki/уголь).
+
+
+### II deklinaation painotyypit
+
+Toinen deklinaatio on sanapainon kannalta ehkä kielrnoppijalle kaikkein
+haastavin, sillä paino ei läheskään aina noudattele kaavaa, jossa yksikkö ja
+monikko olisivat johdonmukaisia kokonaisuuksia. Toisen deklinaation sanat
+voidaan painon perusteella jakaa seuraaviin kolmeen pääryhmään:
+
+1. шкОла-tyyppi
+2. Sanat, joilla yksikössä aina paino päätteellä
+3. Sanat, joissa yksikön akkusatiivi muodostaa poikkeuksen
+
+Toinen pääryhmä voidaan edelleen jakaa kolmeen alaryhmään:
+
+a) травА-tyyppi
+b) свечА-tyyppi
+c) волнА-tyyppi
+
+Kolmannesta pääryhmästä voidaan erottaa alaluokat:
+
+a) рукА/головА-tyyppi
+b) ценА-tyyppi
+
+Mainittujen pääryhmien ulkopuolelle jäävät muun muassa sanat
+[дерЕвня](http://ru.wiktionary.org/wiki/деревня) sekä
+[дОля](http://ru.wiktionary.org/wiki/доля).
+
+#### ШкОла-tyyppi
+
+Tavallisin ja produktiivisin toisen deklinaation tyypeistä on школа-tyyppi,
+jonka sanoilla paino on muuttumattomasti aina vartalolla:
+
+| sija    | yks.     | mon.      |
+| ------- | -------- | --------- |
+| nom.    | шкОла    | шкОлы     |
+| gen.    | шкОлы    | шкОл      |
+| dat.    | шкОле    | шкОлам    |
+| akk.    | шкОлу    | шкОлы     |
+| instr.  | шкОлой   | шкОлами   |
+| prep.   | шкОле    | шкОлах    |
+
+Joukosta voi erottaa omiksi ryhmikseen:
+
+1. **johtamattomat** sanat: [кОжа](http://ru.wiktionary.org/wiki/кожа),
+   [мУха](http://ru.wiktionary.org/wiki/муха),
+   [вОля](http://ru.wiktionary.org/wiki/воля),
+   [лИпа](http://ru.wiktionary.org/wiki/липа),
+   [рЕпа](http://ru.wiktionary.org/wiki/репа),
+   [вЕра](http://ru.wiktionary.org/wiki/вера),
+   [лопАта](http://ru.wiktionary.org/wiki/лопата),
+   [недЕля](http://ru.wiktionary.org/wiki/неделя) 
+2. **nykykielen kannalta johtamattomat** sanat:
+   [лОжка](http://ru.wiktionary.org/wiki/ложка),
+   [свАдьба](http://ru.wiktionary.org/wiki/свадьба),
+   [пЕчка](http://ru.wiktionary.org/wiki/печка),[нОжка](http://ru.wiktionary.org/wiki/ножка) 
+3. **lainat**: [фабрика](http://ru.wiktionary.org/wiki/фабрика),
+   [кАфедра](http://ru.wiktionary.org/wiki/кафедра),
+   [культУра](http://ru.wiktionary.org/wiki/культура),
+   [газЕта](http://ru.wiktionary.org/wiki/газета),
+   [систЕма](http://ru.wiktionary.org/wiki/система),
+   [полЕмика](http://ru.wiktionary.org/wiki/полемика) 
+
+#### Sanat, joilla yksikössä paino aina päätteellä
+
+Kuten edellä todettiin, tämä joukko on mielekästä jakaa kolmeen alaryhmään,
+joita kaikkia yhdistää se, että kaikissa yksikön muodoissa paino on päätteellä
+mutta jotka eroavat sen perusteella, miten monikon painot asettuvat. Nämä tyypt
+eivät ole yhtä yleisiä kuin edellä mainittu школа-tyyppi, mutta niihin kuuluvat
+sanat ovat hyvin tavallisia.
+
+##### ТравА-tyypin sanat
+
+ТравА-tyypin sanoilla monikon paino on aina vartalolla:
+
+| sija    | yks.     | mon.      |
+| ------- | -------- | --------- |
+| nom.    | травА    | трАвы     |
+| gen.    | травЫ    | трАв      |
+| dat.    | травЕ    | трАвам    |
+| akk.    | травУ    | трАвы     |
+| instr.  | травОй   | трАвами   |
+| prep.   | травЕ    | трАвах    |
+
+Tähän tyyppiin kuuluvat muun muassa seuraavat kaksitavuiset sanat:
+[бедА](http://ru.wiktionary.org/wiki/беда),
+[вдовА](http://ru.wiktionary.org/wiki/вдова),
+[веснА](http://ru.wiktionary.org/wiki/весна),
+[ветлА](http://ru.wiktionary.org/wiki/ветла),
+[винА](http://ru.wiktionary.org/wiki/вина),
+[войнА](http://ru.wiktionary.org/wiki/война),
+[главА](http://ru.wiktionary.org/wiki/глава),
+[грядА](http://ru.wiktionary.org/wiki/гряда),
+[дырА](http://ru.wiktionary.org/wiki/дыра),
+[женА](http://ru.wiktionary.org/wiki/жена),
+[звездА](http://ru.wiktionary.org/wiki/звезда),
+[змеЯ](http://ru.wiktionary.org/wiki/змея),
+[иглА](http://ru.wiktionary.org/wiki/игла),
+[игрА](http://ru.wiktionary.org/wiki/игра),
+[икрА](http://ru.wiktionary.org/wiki/икра),
+[козА](http://ru.wiktionary.org/wiki/коза).
+[лунА](http://ru.wiktionary.org/wiki/луна),
+[норА](http://ru.wiktionary.org/wiki/нора),
+[нуждА](http://ru.wiktionary.org/wiki/нужда),
+[овцА](http://ru.wiktionary.org/wiki/овца),
+[осА](http://ru.wiktionary.org/wiki/оса),
+[пилА](http://ru.wiktionary.org/wiki/пила),[пчелА](http://ru.wiktionary.org/wiki/пчела),[рудА](http://ru.wiktionary.org/wiki/руда),
+[свиньЯ](http://ru.wiktionary.org/wiki/свинья),
+[семьЯ](http://ru.wiktionary.org/wiki/семья),
+[скалА](http://ru.wiktionary.org/wiki/скала),
+[сестрА](http://ru.wiktionary.org/wiki/сестра),
+[смолА](http://ru.wiktionary.org/wiki/смола),
+[совА](http://ru.wiktionary.org/wiki/сова),
+[соснА](http://ru.wiktionary.org/wiki/сосна),
+[стрелА](http://ru.wiktionary.org/wiki/стрела),
+[струнА](http://ru.wiktionary.org/wiki/струна),
+[странА](http://ru.wiktionary.org/wiki/страна),[трубА](http://ru.wiktionary.org/wiki/труба) 
+
+Lisäksi seuraavia kolmitavuisia ота-päätteisiä:
+[кислотА](http://ru.wiktionary.org/wiki/кислота),
+[красотА](http://ru.wiktionary.org/wiki/красота),
+[высотА](http://ru.wiktionary.org/wiki/высота),
+[сиротА](http://ru.wiktionary.org/wiki/сирота),
+[колбасА](http://ru.wiktionary.org/wiki/колбаса).
+
+##### свечА-tyyppi
+
+СвечА-tyypin monikon paino on obliikvisijoissa päätteellä:
+
+| sija    | yks.     | mon.      |
+| ------- | -------- | --------- |
+| nom.    | свечА    | свЕчы     |
+| gen.    | свечЫ    | свеч      |
+| dat.    | свечЕ    | свечАм    |
+| akk.    | свечУ    | свЕчи     |
+| instr.  | свечОй   | свечАми   |
+| prep.   | свечЕ    | свечАх    |
+
+Tämä tyyppi ei ole yleinen, mutta sisältää esimerkiksi sanat
+[железА](http://ru.wiktionary.org/wiki/железа),[сковородА](http://ru.wiktionary.org/wiki/сковорода),
+[строкА](http://ru.wiktionary.org/wiki/строка),
+[простынЯ](http://ru.wiktionary.org/wiki/простыня).
+
+##### волнА-tyyppi
+
+ВолнА-tyypin sanoilla monikon nominatiivin pääte on vartalolla, mutta
+obliikvisijoissa on rinnakkaismuotoja (molempi painovaihtoehto mahdollinen):
+
+| sija    | yks.     | mon.              |
+| ------- | -------- | ---------         |
+| nom.    | волнА    | вОлны             |
+| gen.    | волнЫ    | вОлн              |
+| dat.    | волнЕ    | вОлнам ~ волнАм   |
+| akk.    | волнУ    | вОлны             |
+| instr.  | волнОй   | вОлнами ~ волнАми |
+| prep.   | волнЕ    | вОлнах  ~  волнАх |
+
+Волна-sanan lisäksi tähän harvinaiseen tyyppiin kuuluvat muun muassa
+[дугА](http://ru.wiktionary.org/wiki/дуга) ('kaari'),
+[судьбА](http://ru.wiktionary.org/wiki/судьба),
+[судьЯ](http://ru.wiktionary.org/wiki/судья).
+
+#### Sanat, joissa yksikön akkusatiivi muodostaa poikkeuksen
+
+Tähän ryhmään kuuluvat sanat ovat monet erittäin tavallisia, ja painon
+muuttuminen yksikköparadigman sisällä aiheuttaa kielenoppijan kannalta paljon
+epävarmuutta. Tässäkin on kuitenkin kyseessä säännönmukainen tyyppi, joka on
+mahdollista opetella. Jaan tyypin tässä kahteen alaryhmään. Kaikille ryhmille on
+yhteistä se, että yksikön akkusatiivissa paino on vartalolla, muissa yksikön
+muodoissa päätteellä.
+
+##### рукА-tyyppi
+
+Рука-tyypin sanoilla monikon paino on obliikvisijoissa päätteellä:
+
+| sija    | yks.     | mon.      |
+| ------- | -------- | --------- |
+| nom.    | рукА     | рУки      |
+| gen.    | руки     | рук       |
+| dat.    | рукЕ     | рукАм     |
+| akk.    | рУку     | рУки      |
+| instr.  | рукОй    | рукАми    |
+| prep.   | рукЕ     | рукАх     |
+
+
+Tähän alatyyppiin voidaan lukea mm. seuraavat:
+
+[вода](http://ru.wiktionary.org/wiki/вода),
+[гора](http://ru.wiktionary.org/wiki/гора),
+[доскА](http://ru.wiktionary.org/wiki/доска),
+[душА](http://ru.wiktionary.org/wiki/душа),
+[зимА](http://ru.wiktionary.org/wiki/зима),
+[крохА](http://ru.wiktionary.org/wiki/кроха),
+[косА](http://ru.wiktionary.org/wiki/коса),
+[рекА](http://ru.wiktionary.org/wiki/река),
+[рукА](http://ru.wiktionary.org/wiki/рука),
+[зимА](http://ru.wiktionary.org/wiki/зима),
+[спинА](http://ru.wiktionary.org/wiki/спина),
+[средА](http://ru.wiktionary.org/wiki/среда),
+[стенА](http://ru.wiktionary.org/wiki/стена),
+[стопА](http://ru.wiktionary.org/wiki/стопа),
+[щекА](http://ru.wiktionary.org/wiki/щека),
+[ногА](http://ru.wiktionary.org/wiki/нога) 
+
+
+Lisäksi samalla tavoin taipuvat eräät useampitavuiset sanat, kuten
+[голова](http://ru.wiktionary.org/wiki/голова):
+
+| sija    | yks.       | mon.        |
+| ------- | --------   | ---------   |
+| nom.    | головА     | гОловы      |
+| gen.    | головЫ     | голОв       |
+| dat.    | головЕ     | головАм     |
+| akk.    | гОлову     | гОловы      |
+| instr.  | головОй    | головАми    |
+| prep.   | головЕ     | головАх     |
+
+
+##### цена-tyyppi
+
+Tämän alatyypin sanoissa koko monikon paradigma saa painon vartalolle (joka
+genetiivin osalta tosin tarkoittaa väistyvän vokaalin tapauksessa viimeistä
+tavua):
+
+| sija    | yks.     | mon.      |
+| ------- | -------- | --------- |
+| nom.    | землЯ    | зЕмли     |
+| gen.    | землИ    | земЕль    |
+| dat.    | землЕ    | зЕмлям    |
+| akk.    | зЕмлу    | зЕмли     |
+| instr.  | землЁй   | зЕмлями   |
+| prep.   | землЕ    | зЕмлях    |
+
+Tyyppi on harvalukuinen, sen tavallisimpia sanoja ovat
+[ценА](http://ru.wiktionary.org/wiki/цена),
+[землЯ](http://ru.wiktionary.org/wiki/земля),
+[избА](http://ru.wiktionary.org/wiki/изба) ('pieni
+mökki').
+
+### III deklinaation painotyyppejä
+
+Kolmas deklinaatio voidaan jakaa kahteen pääryhmään:
+
+1. Тетрадь-tyyppi
+2. Вещь-tyyppi
+
+#### тетрадь-tyyppi
+
+Тертрадь-tyyppi on produktiivinen ja yleinen. Paino lankeaa kaikissa muodoissa
+vartalolle:
+
+| sija    | yks.       | mon.        |
+| ------- | --------   | ---------   |
+| nom.    | тетрАдь    | тетрАди     |
+| gen.    | тетрАди    | тетрАдей    |
+| dat.    | тетрАди    | тетрАдям    |
+| akk.    | тетрАдь    | тетрАди     |
+| instr.  | тетрАдью   | тетрАдями   |
+| prep.   | тетрАди    | тетрАдях    |
+
+
+Tyyppiin kuuluu suuri joukko sanoja, jotka voi jakaa karkeasti seuraaviin
+alaryhmiin:
+
+1. Yksitavuisia: [жизнь](http://ru.wiktionary.org/wiki/жизнь),
+   [жесть](http://ru.wiktionary.org/wiki/жесть),
+   [сталь](http://ru.wiktionary.org/wiki/сталь),
+   [шерсть](http://ru.wiktionary.org/wiki/шерсть),
+   [нефть](http://ru.wiktionary.org/wiki/нефть), 
+2. Kaksitavuisia: [ладОнь](http://ru.wiktionary.org/wiki/ладонь),
+   [кровАть](http://ru.wiktionary.org/wiki/кровать),
+   [постЕль](http://ru.wiktionary.org/wiki/постель),
+   [прЕлесть](http://ru.wiktionary.org/wiki/прелесть),
+   [пАмять](http://ru.wiktionary.org/wiki/память),[пОмощь](http://ru.wiktionary.org/wiki/помощь) 
+3. Suurin osa [ость](http://ru.wiktionary.org/wiki/ость)-päätteisistä kuuluu
+   tähän tyyppiin (näillä yleensä ei monikkomuotoja):
+   [рАдость](http://ru.wiktionary.org/wiki/радость),
+   [глУпость](http://ru.wiktionary.org/wiki/глупость),[неожИданность](http://ru.wiktionary.org/wiki/неожиданность) 
+4. Vierasperäisiä: [морАль](http://ru.wiktionary.org/wiki/мораль),
+   [медАль](http://ru.wiktionary.org/wiki/медаль),
+   [форЕль](http://ru.wiktionary.org/wiki/форель),
+   [панЕль](http://ru.wiktionary.org/wiki/панель) 
+
+
+#### вещь-tyyppi
+
+Вещь-tyyppiin kuuluvat III deklinaation sanat, joissa monikon obliikvisijoissa
+paino lankeaa päätteelle:
+
+| sija    | yks.     | mon.      |
+| ------- | -------- | --------- |
+| nom.    | вЕщь     | вЕщи      |
+| gen.    | вЕщи     | вещЕй     |
+| dat.    | вЕщи     | вещАм     |
+| akk.    | вЕщь     | вЕщи      |
+| instr.  | вЕщью    | вещАми    |
+| prep.   | вЕщи     | вещАх     |
+
+Tähän ryhmään kuuluvat sanat voidaan pituutensa ja muodostustapansa perusteella
+jaotella seuraavasti:
+
+1. Yksitavuisia johtamattomia: [весть](http://ru.wiktionary.org/wiki/весть),
+   [власть](http://ru.wiktionary.org/wiki/власть),
+   [ночь](http://ru.wiktionary.org/wiki/ночь),
+   [речь](http://ru.wiktionary.org/wiki/речь),
+   [рояль](http://ru.wiktionary.org/wiki/рояль),
+   [сельдь](http://ru.wiktionary.org/wiki/сельдь),
+   [сеть](http://ru.wiktionary.org/wiki/сеть),
+   [смерть](http://ru.wiktionary.org/wiki/смерть),
+   [снасть](http://ru.wiktionary.org/wiki/снасть),[соль](http://ru.wiktionary.org/wiki/соль),[страсть](http://ru.wiktionary.org/wiki/страсть)[часть](http://ru.wiktionary.org/wiki/часть),
+2. Useampitavuisia, pääosin johdettuja:
+   [вЕдомость](http://ru.wiktionary.org/wiki/ведомость),
+   [лОпасть](http://ru.wiktionary.org/wiki/лопасть),
+   [лОшадь](http://ru.wiktionary.org/wiki/лошадь),
+   [мЕлочь](http://ru.wiktionary.org/wiki/мелочь),
+   [нОвость](http://ru.wiktionary.org/wiki/новость),
+   [Область](http://ru.wiktionary.org/wiki/область),
+   [скОрость](http://ru.wiktionary.org/wiki/скорость),
+   [стЕпень](http://ru.wiktionary.org/wiki/степень),
+   [плОщадь](http://ru.wiktionary.org/wiki/площадь),
+   [пОвесть](http://ru.wiktionary.org/wiki/повесть),
+   [цЕрковь](http://ru.wiktionary.org/wiki/церковь),[чЕтверть](http://ru.wiktionary.org/wiki/четверть) 
+
+Lisäksi muutamat sanat kuten [печь](http://ru.wiktionary.org/wiki/печь) kuuluvat tähän tyyppiin, mutta niillä on
+olemassa lokatiivimuoto (в печИ).
+
+### IV deklinaation painotyyppejä
+
+Neljäs deklinaatio jakautuu painotyyppien puolesta seuraaviin ryhmiin:
+
+1. богатство-tyyppi
+2. слово-tyyppi
+3. письмо-tyyppi
+
+#### Богатство-tyyppi
+
+Neljännen deklinaation perustyyppiä edustavat богатство-sanan kaltaiset sanat,
+joilla paino pysyy joka muodossa vartalolla.
+
+| sija    | yks.       | mon.        |
+| ------- | --------   | ---------   |
+| nom.    | богАтство  | богАтства   |
+| gen.    | богАтства  | богАтств    |
+| dat.    | богАтству  | богАтствам  |
+| instr.  | богАтством | богАтствами |
+| prep.   | богАтстве  | богАтствах  |
+
+Tähän ryhmään kuuluu seuraavanlaisia sanoja:
+
+- ще-suffiksi:[жилИще](http://ru.wiktionary.org/wiki/жилище) 
+- painoton -[ство](http://ru.wiktionary.org/wiki/ство)-suffiksi:
+  [богатство](http://ru.wiktionary.org/wiki/богатство),
+  [Общество](http://ru.wiktionary.org/wiki/общество),
+  [кАчество](http://ru.wiktionary.org/wiki/качество),[лекАрство](http://ru.wiktionary.org/wiki/лекарство) 
+- suurin osa painollisista
+  [ство](http://ru.wiktionary.org/wiki/ство)-suffikseista:
+  [веществО](http://ru.wiktionary.org/wiki/вещество),[божествО](http://ru.wiktionary.org/wiki/божество) 
+- [ние](http://ru.wiktionary.org/wiki/ние)-suffiksi,
+  [тие](http://ru.wiktionary.org/wiki/тие)-suffiksi:
+  [наслаждение](http://ru.wiktionary.org/wiki/наслаждение),
+  [объявление](http://ru.wiktionary.org/wiki/объявление),
+  [старАние](http://ru.wiktionary.org/wiki/старание),
+  [понЯтие](http://ru.wiktionary.org/wiki/понятие),[предприЯтие](http://ru.wiktionary.org/wiki/предприятие) 
+- ичко-deminutiivit:
+  [сердЕчко](http://ru.wiktionary.org/wiki/сердечко),[окОшечко](http://ru.wiktionary.org/wiki/окошечко) 
+
+#### слово-tyyppi
+
+Erotuksena edellisestä tyypissä lankeavat tässä tyypissä monikon päätesarjan
+kaikki painot päätteelle:
+
+| sija    | yks.     | mon.      |
+| ------- | -------- | --------- |
+| nom.    | слОво    | словА     |
+| gen.    | слОва    | слов      |
+| dat.    | слОву    | словАм    |
+| instr.  | слОвом   | словАми   |
+| prep.   | слОве    | словАх    |
+
+Tyyppiin kuuluu muun muassa:
+- **kaksitavuisia johtamattomia** sanoja: [вОйско](http://ru.wiktionary.org/wiki/войско),
+  [дЕло](http://ru.wiktionary.org/wiki/дело),
+  [лЕто](http://ru.wiktionary.org/wiki/лето),
+  [мАсло](http://ru.wiktionary.org/wiki/масло),
+  [мЕсто](http://ru.wiktionary.org/wiki/место),
+  [мОре](http://ru.wiktionary.org/wiki/море),
+  [мЫло](http://ru.wiktionary.org/wiki/мыло),
+  [пОле](http://ru.wiktionary.org/wiki/поле),
+  [прАво](http://ru.wiktionary.org/wiki/право),
+  [сЕрдце](http://ru.wiktionary.org/wiki/сердце),
+  [слОво](http://ru.wiktionary.org/wiki/слово),
+  [стАдо](http://ru.wiktionary.org/wiki/стадо),
+  [тЕло](http://ru.wiktionary.org/wiki/тело) 
+- **kolmetavuisia**, joissa paino siirtyy ensimmäiseltä tavulta viimeiselle:
+  [зЕркало](http://ru.wiktionary.org/wiki/зеркало),
+  [Облако](http://ru.wiktionary.org/wiki/облако) 
+- poikkeustapauksia:
+  [дЕрево](http://ru.wiktionary.org/wiki/дерево),
+  [Озеро](http://ru.wiktionary.org/wiki/озеро) 
+
+#### Письмо-tyyppi
+
+Письмо-tyypin sanoissa kaikkien yksikkömuotojen painot ovat päätteellä.
+Monikossa paino siirtyy edelliselle tavulle:
+
+| sija    | yks.      | mon.       |
+| ------- | --------  | ---------  |
+| nom.    | письмО    | пИсьмА     |
+| gen.    | письмА    | пИсем      |
+| dat.    | письмУ    | пИсьмам    |
+| instr.  | письмОм   | пИсьмами   |
+| prep.   | письмЕ    | пИсьмах    |
+
+Tähän tyyppiin kuuluu:
+- **kaksitavuisia johtamattomia** sanoja:
+  [бедрО](http://ru.wiktionary.org/wiki/бедро),
+  [бельмО](http://ru.wiktionary.org/wiki/бельмо),
+  [бревнО](http://ru.wiktionary.org/wiki/бревно),
+  [ведрО](http://ru.wiktionary.org/wiki/ведро),
+  [веслО](http://ru.wiktionary.org/wiki/весло),
+  [винО](http://ru.wiktionary.org/wiki/вино),
+  [гнездО](http://ru.wiktionary.org/wiki/гнездо),
+  [звенО](http://ru.wiktionary.org/wiki/звено),
+  [зернО](http://ru.wiktionary.org/wiki/зерно),
+  [кольцО](http://ru.wiktionary.org/wiki/кольцо),
+  [крылО](http://ru.wiktionary.org/wiki/крыло),
+  [лицО](http://ru.wiktionary.org/wiki/лицо),
+  [окнО](http://ru.wiktionary.org/wiki/окно),
+  [перО](http://ru.wiktionary.org/wiki/перо),
+  [плечО](http://ru.wiktionary.org/wiki/плечо),
+  [стеклО](http://ru.wiktionary.org/wiki/стекло),
+  [числО](http://ru.wiktionary.org/wiki/число),
+  [ядрО](http://ru.wiktionary.org/wiki/ядро),
+  [яйцО](http://ru.wiktionary.org/wiki/яйцо), 
+- **kolmitavuisia** sanoja: [веретенО](http://ru.wiktionary.org/wiki/веретено),
+  [колесо](http://ru.wiktionary.org/wiki/колесо),[ремесло](http://ru.wiktionary.org/wiki/ремесло) 
+- eräitä **ство-johdettuja**
+  sanoja:[меньшинствО](http://ru.wiktionary.org/wiki/меньшинство) 
+
+Huomaa seuraavien sanojen vartaloissa tapahtuvat muutokset:
+[яйцо](http://ru.wiktionary.org/wiki/яйцо),
+[плечо](http://ru.wiktionary.org/wiki/плечо),
+[кольцо](http://ru.wiktionary.org/wiki/кольцо)
 
 Luento 6: Adjektiiveista, pronomineista ja lukusanoista
 ====================================================================
