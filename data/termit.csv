@@ -70,3 +70,7 @@ kollektiivilukusanat;собирательные числителные;lukusanoj
 johdettu sana;производное слово;sana, jonka vartaloon kuuluu juurimorfin lisäksi affikseja
 johtamaton sana;непроизводное слово;sana, jonka vartaloon ei kuuluu (ainakaan nykykielen kannalta) juurimorfin lisäksi affikseja
 obliikvisija;косвенный падеж;muut sijat kuin nominatiivi ja nominatiivin kaltainen akkusatiivi
+vertailuaste;степень сравнения;adjektiivien ja adverbien kieliopillinen kategoria, jolla on arvot positiivi, komparatiivi, superlatiivi
+positiivi;положительная степень;ensimmäinen vertailuaste
+komparatiivi;сравнительная степень;toinen vertailuaste
+superlatiivi;превосходная степень;kolmas vertailuaste

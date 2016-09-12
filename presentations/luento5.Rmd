@@ -181,5 +181,46 @@ Prep.  | /и/        | пути
 
 # Painotyypeistä
 
-<!-- TÄMÄN voi antaa rauhassa lipsahtaa seuraavan kerran puolelle. -->
+<article class='incremental nobul' style='max-width:40em;font-size:120%;'>
+>- *Морфологическая характеристика имен существительных в русском языке не
+ограничивается указанием всех падежных окончаний. Чтобы правильно пользоваться
+словом, необходимо усвоить его акцентологические особенности.* 
+(А.В. Исаченко)
+>- Työlästä, mutta palkitsevaa!
+>- Vartalo / pääte
+>- Monikko / yksikkö
+>- Nominatiivi / obliikvisijat
+</article>
+
+# I deklinaatio
+
+>1. [завОд](http://ru.wiktionary.org/wiki/завод)-tyyppi
+>2. [стол](http://ru.wiktionary.org/wiki/стол)-tyyppi
+>3. [нос](http://ru.wiktionary.org/wiki/нос)-tyyppi
+>4. [волк](http://ru.wiktionary.org/wiki/волк)-tyyppi
+
+# II deklinaatio
+
+>1. [шкОла](http://ru.wiktionary.org/wiki/школа)-tyyppi
+>2. Sanat, joilla yksikössä aina paino päätteellä
+    - [трава](http://ru.wiktionary.org/wiki/трава)-tyyppi
+    - [свеча](http://ru.wiktionary.org/wiki/свеча)-tyyppi
+    - [волна](http://ru.wiktionary.org/wiki/волна)-tyyppi
+>3. Sanat, joissa yksikön akkusatiivi muodostaa poikkeuksen
+    - [рука](http://ru.wiktionary.org/wiki/рука)-tyyppi
+    - [цена](http://ru.wiktionary.org/wiki/цена)-tyyppi
+
+# III deklinaatio
+
+>1. [Тетрадь](http://ru.wiktionary.org/wiki/тетрадь)-tyyppi
+>2. [Вещь](http://ru.wiktionary.org/wiki/вещь)-tyyppi
+
+# IV deklinaatio
+
+>1. [богатство](http://ru.wiktionary.org/wiki/богатство)-tyyppi
+>2. [слово](http://ru.wiktionary.org/wiki/слово)-tyyppi
+>3. [письмо](http://ru.wiktionary.org/wiki/письмо)-tyyppi
+
+
+<!-- TÄMÄN voi antaa rauhassa lipsahtaa seuraavan kerran puolelle. Joka tapauksessa itse opettelu kotiin! -->
 

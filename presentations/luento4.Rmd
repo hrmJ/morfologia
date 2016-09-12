@@ -104,7 +104,7 @@
 # Tehtävä (substantiivien deklinaatiot)
 
 >- Jakautukaa 2--3 hengen ryhmiin vierekkäin istuvien kesken (tavoite 5 ryhmää).
->- Tehkää tehtäväpaperissa annetut kaksi tehtävää 
+>- Tehkää tehtäväpaperissa annetut [kaksi tehtävää](../tehtavat/deklinaatiotehtava.pdf)
 >- Varautukaa esittelemään oma deklinaationne muille
 >- Palauttakaa esittelemisen jälkeen tehtäväpaperi
 
@@ -171,6 +171,7 @@ Nom.   | /и/        | книги
 Gen.   | /ø/        | книг
 
 </article>
+
 
 # Monikon kolmas deklinaatio
 
