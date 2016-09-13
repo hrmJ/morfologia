@@ -1170,6 +1170,8 @@ Luento 5: sija kieliopillisena kategoriana 2
 - [Tutki luentokalvoja](http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento5.html)
 - [Tutki tuntitehtäviä](http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento5.pdf)
 
+(Huom: pdf-versiossa wiktionarylinkit eivät toistaiseksi toimi)
+
 Tällä luennolla sijakategoriaa käsitellään vielä taivutusopin kannalta ja
 tarkastellaan poikkeuksia edellä esitettyihin deklinaatioihin sekä lisäksi
 adjektiivien ja pronominien deklinaatioita. Lopuksi pohditaan sanapainon
