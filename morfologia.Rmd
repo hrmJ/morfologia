@@ -2447,13 +2447,20 @@ Kaksi muuta päätettä aiheuttavat monimutkaisempia muutoksia vartalon viimeise
 morfeemin ja vertailuastepäätteen rajalla. Seuraavaan on listattu tavallisimpia
 muutoksia [ks. @wade2010: 197]:
 
-|äänne|uusi äänne|esimerkki|huom.|
-|-----|----------|---------|-----|
-|г|ж|дорогой-дороже||
-|д|ж|молодой-моложе||
-|д|ж|молодой-моложе||
-|з|ж|близкий-ближе||
-|з|ж|близкий-ближе||
+| äänne | uusi äänne | esimerkki      | huom.    |
+| ----- | ---------- | ---------      | -----    |
+| г     | ж          | дорогой-дороже |          |
+| д     | ж          | молодой-моложе |          |
+| д     | ж          | молодой-моложе |          |
+| з     | ж          | близкий-ближе  |          |
+| з     | ж          | близкий-ближе  |          |
+| к     | ч          | жаркий-жарче   |          |
+| с     | ш          | высокий-выше   |          |
+| ск    | щ          | плоский-площе  | к katoaa |
+| ст    | щ          | чистый-чище    | т katoaa |
+| т     | ч          | богатый-богаче |          |
+| х     | ш          | тихий-тише     |          |
+| в     | вл         | дешёвый-дешевле|          |
 
 Edellä esitettyjen muodostustapojen lisäksi on huomattava, että eräillä
 tutuilla adjektiiveilla yksinkertaisten komparatiivimuotojen ei voi sanoa
@@ -2466,7 +2473,6 @@ ainakin seuraavat:
 - плохой - хуже
 - маленький - меньше
 
-
 #### Morfosyntaksia
 
 Yksinkertaisen komparatiivin muodot ovat syntaksin kannalta poikkeuksellisia
@@ -2476,13 +2482,16 @@ tai sijaa, vaan niitä käytetään käytännössä aina predikatiivisesti, kute
 (@ee_inostrannie) Они были **лучше**, они были иностранные и прекрасные.
 (@ee_des) Но те были **дешевле**, **функциональнее** и в конечном счёте победили 
 
-<!-- Paljon nettiharjoituksia tästä tunnista! -->
-
 
 luento 7: sijat funktionaalisen morfologian kannalta 1
 ======================================================
 
+Kontrastiivista analyysia suomeen.
 
+
+Mielenkiintoisena faktana todettakoon, että eräissä muissa slaavilaisissa
+kielissä (puola, slovakki) genetiivi on kieltomuodoissa välttämätön 
+[@king1995: 31].
 
 luento 8: sijat funktionaalisen morfologian kannalta 2. Elollisuuskategoria.
 ============================================================================
