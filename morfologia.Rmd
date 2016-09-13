@@ -981,7 +981,7 @@ että syy eriäville kirjoitusasuille on oikeinkirjoitussäännössä: konsonant
 ш, ж, ч, ц, щ jälkeen painoton pääte kirjoitetaan *-ем*, painollinen *-ом*.
 Samoin pääte kirjoitetaan *-ем* tai *-ём* liudentuneiden konsonanttien jäljessä
 ja /j/-foneemin jäljessä. Tämä ei poista kuitenkaan sitä, että fonetiikan
-(ja morfologian) näkökulmasta kyseessä on yhdestä ja samasta päätteestä,
+(ja morfologian) näkökulmasta kyse on yhdestä ja samasta päätteestä,
 morfista /ом/. Painollisen tavun jälkeisessä asemassa sijaitessaan [о]-foneemi
 ääntyy joka tapauksessa redusoituneena toisen asteen reduktion [ks. @nikunl: 87]
 mukaisesti, niin että foneettisesti katsoen /om/-päätteen vokaali sanoissa
@@ -1013,8 +1013,7 @@ voidaan todeta:
   riippuen[^i_ymp] morfi voi edustua joko etisenä tai takaisena.
 - Akkusatiivi ilmaistaan morfilla /у/
 - Datiivissa on kaksi vaihtoehtoa: /е/ tai /и/
-- Instrumentaali ilmaistaan morfeilla /ой/ (tähän morfiin luetaan myös pääte
-  *ёй*) ja /ей/. Runokielessä on lisäksi olemassa päätteet /ою/, /ею/.
+- Instrumentaali ilmaistaan morfilla /ой/ (tähän morfiin luetaan myös kirjoitusasultaan eroavat päätteet *ёй*  ja *ей*). Runokielessä on lisäksi olemassa pääte /ою/.
 - Prepositionaali ilmaistaan morfilla /е/ tai /и/
 
 [^i_ymp]: Sanan alussa ja liudentuneen konsonantin jäljessä foneemi [и] edustuu
@@ -1028,7 +1027,7 @@ Nom.   | /а/        | книга  | серия  | тыква
 Gen.   | /и/        | книги  | серии  | тыквы
 Dat.   | /е/ ~ /и/  | книге  | серии  | тыкве
 Akk.   | /у/        | книгу  | серию  | тыкву
-Instr. | /ой/ ~ /ей/| книгой | серией | тыквой
+Instr. | /ой/       | книгой | серией | тыквой
 Prep.  | /е/ ~ /и/  | книге  | серии  | тыкве
 
 ### Kolmas deklinaatio
@@ -1054,17 +1053,19 @@ Prep.  | /и/        | тетради  | ночи   |
 
 Neljäs deklinaatio on hyvin samanlainen kuin ensimmäinen: ainoana erona on
 nominatiivi, jota neljännessä deklinaatiossa ei ilmaista nollapäätteellä vaan
-päätteillä /о/ ja /е/. Tämä deklinaatio voitaisiin hyvin esittää myös osana
-ensimmäistä.
+päätteillä /о/ (johon tässä luen myös kirjoitusasultaan eroavan *е*-päätteen)[^ehuom].
+Tämä deklinaatio voitaisiin hyvin esittää myös osana ensimmäistä.
 
 Sija   | Päätemorfi | esim.1 | esim.2 |esim.3
 ----   | ---------- | ------ | ------ |-------
-Nom.   | /о/ tai [е]| место  | поле   | пение
+Nom.   | /о/        | место  | поле   | пение
 Gen.   | /а/        | места  | поля   | пения
 Dat.   | /у/        | месту  | полю   | пению
 Akk.   | /ø/        | место  | поле   | пение
 Instr. | /ом/       | местом | полем  | пением
 Prep.  | /е/ ~ /и/  | месте  | поле   | пении
+
+[^ehuom]: Kuitenkin painollisessa muodossa, esimerkiksi sanassa житиЕ morfi todella koostuu /э/-foneemista [@nikunl: 140].
 
 
 ### Viides deklinaatio
@@ -1153,7 +1154,7 @@ genetiivin /ø/.
 
 Sija   | Päätemorfi | esim. 1   | esim.2  
 ----   | ---------- | ----      | ------  
-Nom.   | /и/        | времена   | гнёзда  
+Nom.   | /а/        | времена   | гнёзда  
 Gen.   | /ø/        | времён    | гнёзд   
 Akk.   | /и/        | времена   | гнёзда  
 Dat.   | /ам/       | временам  | гнездам 
@@ -1430,8 +1431,6 @@ Tässä yhteydessä ei luennoilla ehditä tekemään erityisen kattavaa katsaust
 painotyyppeihin, vaan tarkempi tutustuminen painotyyppeihin jää itsenäisen
 opiskelun varaan.
 
-Tarkastelen seuraavassa deklinaatiokohtaisesti painon määräytymistä Isatšenkon
-[-@isachenko2003: 130--136, 141--143, 152--156, 161] esityksen perusteella.
 Käytännössä sanapainoa pohdittaessa on kaksi vaihtoehtoa: joko paino sijaitsee
 vartalolla tai päätteellä. Eri painotyypit voidaan hahmottaa tämän opposition
 valossa niin, että tyypit erottaa toisistaan se, missä muodoissa paino on
@@ -1439,6 +1438,19 @@ päätteellä, missä taas vartalolla. Usein yksikkö ja monikko muodostavat sel
 jakolinjan, mutta myös yksittäiset sijat voivat erottua joukosta. Merkittävä
 jakolinja kulkee nominatiivin ja *obliikvisijojen* (косвенные падежи) välillä:
 usein esimerkiksi poikkeava monikon taivutusmuoto on juuri nominatiivi.
+
+Itse asiassa hivenen yksinkertaistaen substantiivien sanapainon vaihtelun voi
+typistää seuraavaan L.L. Kasatkinin [-@kasatkin: 68] esittämään taulukkoon:
+
+
+![](materiaalit/kasatkin.png)
+
+Taulukossa neliöt merkitsevät sanavartaloa, ympyrät päätettä. Musta neliö tai
+ympyrä tarkoittaa painon sijaintia. Taulukko listaa tavalliset kahdeksan
+painotyyppiä ja osoittaa painon vaihtelun säännönmukaisuuden. Siihen kannattaa
+palata, kun käyt läpi seuraavassa esitettyjä deklinaatiokohtaisia painotyyppejä.
+Tarkasteluni perustuu Isatšenkon
+[-@isachenko2003: 130--136, 141--143, 152--156, 161] esitykseen.
 
 ### I deklinaation painotyypit
 
@@ -2430,7 +2442,37 @@ vaihtumisen liudentuneeseen versioon. Näin ollen saadaan seuraavat muodot:
 - /про/хлад/н/ее/
 
 Kaksi muuta päätettä aiheuttavat monimutkaisempia muutoksia vartalon viimeisen
-morfeemin ja vertailuastepäätteen rajalla.
+morfeemin ja vertailuastepäätteen rajalla. Seuraavaan on listattu tavallisimpia
+muutoksia [ks. @wade2010: 197]:
+
+|äänne|uusi äänne|esimerkki|huom.|
+|-----|----------|---------|-----|
+|г|ж|дорогой-дороже||
+|д|ж|молодой-моложе||
+|д|ж|молодой-моложе||
+|з|ж|близкий-ближе||
+|з|ж|близкий-ближе||
+
+Edellä esitettyjen muodostustapojen lisäksi on huomattava, että eräillä
+tutuilla adjektiiveilla yksinkertaisten komparatiivimuotojen ei voi sanoa
+sisältävän samaa juurimorfeemia kuin positiivimuotojen. Näissä tapauksissa ei
+ole kyse suffiksin lisäämisestä vartaloon, vaan kokonaan uudesta vartalosta.
+Tällaisia muotoja sanotaan *suppletiivisiksi* (супплетивные формы). Näitä ovat
+ainakin seuraavat:
+
+- хороший - лучше
+- плохой - хуже
+- маленький - меньше
+
+
+#### Morfosyntaksia
+
+Yksinkertaisen komparatiivin muodot ovat syntaksin kannalta poikkeuksellisia
+muihin adjektiivimuotoihin verrattuna. Ne eivät nimittäin ilmaise sukua, lukua
+tai sijaa, vaan niitä käytetään käytännössä aina predikatiivisesti, kuten seuraavissa esimerkeissä:
+
+(@ee_inostrannie) Они были **лучше**, они были иностранные и прекрасные.
+(@ee_des) Но те были **дешевле**, **функциональнее** и в конечном счёте победили 
 
 <!-- Paljon nettiharjoituksia tästä tunnista! -->
 

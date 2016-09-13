@@ -192,6 +192,10 @@ Prep.  | /и/        | пути
 >- Nominatiivi / obliikvisijat
 </article>
 
+<article class='incremental nobul'>
+![](../materiaalit/kasatkin.png)
+</article>
+
 # I deklinaatio
 
 >1. [завОд](http://ru.wiktionary.org/wiki/завод)-tyyppi

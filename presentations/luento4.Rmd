@@ -64,6 +64,18 @@
 >- Звательный падеж
 >- [tehtävä](../tehtavat/luento4.pdf)
 
+# Pala fonetiikkaa
+
+
+<article class='incremental nobul'>
+![](../materiaalit/kasatkin2.png)
+</article>
+
+<article class='incremental nobul'>
+>- Kirjoitussääntö:
+>- ш, ж, ч, ц, щ + painoton tavu =  е
+</article>
+
 # Mikä on deklinaatio?
 
 <article class='incremental nobul' style='font-size:140%; float:left;margin-right:1em;'>
@@ -150,7 +162,7 @@
 
 Sija   | Päätemorfi  | esim. 1  | esim.2        | esim. 3    | esim. 4
 ----   | ----------  | ----     | ------        | ---------- | ---
-Nom.   | /и/         | экраны   | выключа́тели   | врач       | ночи
+Nom.   | /и/         | экраны   | выключа́тели   | врачи       | ночи
 Gen.   | /ей/ ~ /ов/ | экранов  | выключа́телей  | врачей     | ночей
 
 </article>
@@ -181,7 +193,7 @@ Gen.   | /ø/        | книг
 
 Sija   | Päätemorfi | esim. 1   | esim.2  
 ----   | ---------- | ----      | ------  
-Nom.   | /и/        | времена   | гнёзда  
+Nom.   | /а/        | времена   | гнёзда  
 Gen.   | /ø/        | времён    | гнёзд   
 
 </article>
