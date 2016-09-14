@@ -1343,6 +1343,8 @@ voi varsinaisesti nähdä olevan peräisin sanasta *мечтание*.
 
 <!-- ks. kansalliskorpus! 
 
+http://search2.ruscorpora.ru/search.xml?env=alpha&mycorp=&mysent=&mysize=&mysentsize=&mydocsize=&spd=&text=lexgramm&mode=main&sort=gr_tagging&lang=ru&nodia=1&parent1=0&level1=0&lex1=%E1%EE%EB%E5%E5%7C%EC%E5%ED%E5%E5%7C%EC%E5%ED%FC%F8%E5%7C%E1%EE%EB%FC%F8%E5&gramm1=&sem1=&sem-mod1=sem&sem-mod1=sem2&flags1=&m1=&parent2=0&level2=0&min2=1&max2=1&lex2=%EF%EE%EB%EC%E8%ED%F3%F2%FB&gramm2=&sem2=&sem-mod3=sem&sem-mod3=sem2&flags2=&m3=
+
 myös:
 http://rus.stackexchange.com/questions/424187/%D0%9F%D0%BE%D0%BB%D1%81%D1%83%D1%82%D0%BE%D0%BA-%D0%BF%D0%BE%D0%BB%D0%BF%D1%8F%D1%82%D0%BE%D0%B3%D0%BE/424190#424190
 
@@ -1767,8 +1769,8 @@ Lisäksi seuraavia kolmitavuisia ота-päätteisiä:
 
 | sija    | yks.     | mon.      |
 | ------- | -------- | --------- |
-| nom.    | свечА    | свЕчы     |
-| gen.    | свечЫ    | свеч      |
+| nom.    | свечА    | свЕчи     |
+| gen.    | свечИ    | свеч      |
 | dat.    | свечЕ    | свечАм    |
 | akk.    | свечУ    | свЕчи     |
 | instr.  | свечОй   | свечАми   |
@@ -1777,12 +1779,17 @@ Lisäksi seuraavia kolmitavuisia ота-päätteisiä:
 Tämä tyyppi ei ole yleinen, mutta sisältää esimerkiksi sanat
 [железА](http://ru.wiktionary.org/wiki/железа),[сковородА](http://ru.wiktionary.org/wiki/сковорода),
 [строкА](http://ru.wiktionary.org/wiki/строка),
-[простынЯ](http://ru.wiktionary.org/wiki/простыня).
+[простынЯ](http://ru.wiktionary.org/wiki/простыня). Näissäkin kuitenkin monikon
+painomuodoissa voi olla vaihtelua.
 
 ##### волнА-tyyppi
 
 ВолнА-tyypin sanoilla monikon nominatiivin pääte on vartalolla, mutta
-obliikvisijoissa on rinnakkaismuotoja (molempi painovaihtoehto mahdollinen):
+obliikvisijoissa on rinnakkaismuotoja (molempi painovaihtoehto mahdollinen).
+Käytännössä tästä tyyppiä voi ajatella niin, että yksikkö=pääte,
+monikko=vartalo. Kuten alla olevista wiktionary-linkeistä huomaat, kaikilla
+Isatšenkon tähän luokkaan luettelemilla substantiiveilla ei nykykielessä
+välttämättä katsota olevan edes vaihtelun mahdollisuutta.
 
 | sija    | yks.     | mon.              |
 | ------- | -------- | ---------         |
@@ -1833,7 +1840,6 @@ Tähän alatyyppiin voidaan lukea mm. seuraavat:
 [рекА](http://ru.wiktionary.org/wiki/река),
 [рукА](http://ru.wiktionary.org/wiki/рука),
 [зимА](http://ru.wiktionary.org/wiki/зима),
-[спинА](http://ru.wiktionary.org/wiki/спина),
 [средА](http://ru.wiktionary.org/wiki/среда),
 [стенА](http://ru.wiktionary.org/wiki/стена),
 [стопА](http://ru.wiktionary.org/wiki/стопа),
@@ -1870,6 +1876,7 @@ tavua):
 | prep.   | землЕ    | зЕмлях    |
 
 Tyyppi on harvalukuinen, sen tavallisimpia sanoja ovat
+[спинА](http://ru.wiktionary.org/wiki/спина),
 [ценА](http://ru.wiktionary.org/wiki/цена),
 [землЯ](http://ru.wiktionary.org/wiki/земля),
 [избА](http://ru.wiktionary.org/wiki/изба) ('pieni
@@ -1994,9 +2001,10 @@ Tähän ryhmään kuuluu seuraavanlaisia sanoja:
   [богатство](http://ru.wiktionary.org/wiki/богатство),
   [Общество](http://ru.wiktionary.org/wiki/общество),
   [кАчество](http://ru.wiktionary.org/wiki/качество),[лекАрство](http://ru.wiktionary.org/wiki/лекарство) 
-- suurin osa painollisista
+<!-- - suurin osa painollisista
   [ство](http://ru.wiktionary.org/wiki/ство)-suffikseista:
-  [веществО](http://ru.wiktionary.org/wiki/вещество),[божествО](http://ru.wiktionary.org/wiki/божество) 
+  [веществО](http://ru.wiktionary.org/wiki/вещество),[божествО](http://ru.wiktionary.org/wiki/божество)
+  -->
 - [ние](http://ru.wiktionary.org/wiki/ние)-suffiksi,
   [тие](http://ru.wiktionary.org/wiki/тие)-suffiksi:
   [наслаждение](http://ru.wiktionary.org/wiki/наслаждение),
@@ -2483,15 +2491,140 @@ tai sijaa, vaan niitä käytetään käytännössä aina predikatiivisesti, kute
 (@ee_des) Но те были **дешевле**, **функциональнее** и в конечном счёте победили 
 
 
-luento 7: sijat funktionaalisen morfologian kannalta 1
+luento 7: sijat funktionaalisen morfologian kannalta 
 ======================================================
 
-Kontrastiivista analyysia suomeen.
+Nyt siirrymme taivutusopista kohti funktionaalista morfologiaa ja ryhdymme
+tarkastelemaan, miten eri merkityksiä ja käyttöyhteyksiä eri sijoilla (sijakategorian
+arvoilla) on. Yksi monimerkityksisimmistä on genetiivi.
+
+
+Genetiivin perusmerkitykset
+---------------------------
+
+### Suomen genetiiviin verrattavia merkityksiä
+
+Genetiiville  voidaan erottaa esimerkiksi seuraavia 
+merkityksiä [vrt. @wade2010: 54--55 , @sheljakin: 62--63]:
+
+- Omistus (kenelle jokin kuuluu)
+- Rooli kokonaisuudessa
+- Osa kokonaisuudesta
+- Ominaisuus
+- Toiminnan tekijä
+- Toiminnan kohde
+- Syy
+
+Omistus on luonnollisesti tyypillisin mieleen tuleva genetiivin ominaisuus.
+Ajattele seuraavia esimerkkejä:
+
+(@ee_dom) Дом брата
+(@ee_velik) Велосипед мальчика
+(@ee_mash) Идея знаменитого философа
+
+Näissä kaikissa ilmaistaan jonkin konkreettisen tai abstraktin asian kuulumista
+henkilölle. Omistussuhteen kaltainen on myös merkitys, jossa genetiivi ilmaisee
+jonkin henkilön tai esineen roolia jossakin kokonaisuudessa:
+
+(@ee_jasen) член комитета
+(@ee_grazh) гражданин России
+
+Tätä lähellä on varsinainen osan merkitys:
+
+(@ee_osa) часть страны
+(@ee_krysha) крыша дома
+
+Ominaisuuden merkitys käy ilmi esimerkiksi seuraavasta:
+
+(@ee_rost) женщина высокого роста
+(@ee_rost) человек твёрдых убеждений
+
+Genetiivi voi ilmaista sekä jonkin esineen tai henkilön olemista toiminnan
+kohteena että toiminnan suorittajana:
+
+(@ee_tstenije) чтение газеты
+(@ee_keksija) изобретатель самолёта
+
+
+Jos asiaa pohtii, huomaa, että suomen ja venäjän genetiiveillä on monia hyvin
+samanlaisia funktioita -- ajattele edellisten esimerkkien valossa ilmaisuja
+*pojan pyörä, komitean jäsen, Venäjän kansalainen, talon katto, lehden
+lukeminen, lentokoneen keksijä*. Usein venäjän genetiivillä on kuitenkin
+tehtäviä, joita suomessa toteuttaa partitiivi (joskus kumpikin: maan osa / osa
+maata).
+
+### Suomen partitiiviin verrattavia merkityksiä
+
+Suomen partitiivia muistuttavat etenkin seuraavat käyttötilanteet:
+
+#### Määrän ilmaisut: 
+
+(@ee_maar1) мало/много/сколько/столько  интересных людей
+
+Tähän liittyvät myös *tarpeeksi suurta määrää* kuuvaavat ilmaisut:
+
+(@ee_tarp) Достачно денег
+(@ee_den2) денег не хватает
+
+#### Vertailun kohde
+
+(@ee_vertkoh) Маша моложе Миши
+(@ee_vrt2) Лев сильнее человека
+
+### Mitan ilmaukset
+
+Genetiivi voi ilmasta, että jotakin on abstraktin mittayksikön  (литр
+воды) tai jonkin konkreettisen esineen määrän verran (чашка молока).
+
+
+#### Varsinaisia partitiivisia merkityksiä
+
+Kuten aiemmilta luennoilta muistat, venäjästä voidaan jopa erotella erikseen
+partititivisen genetiivin sija. *Partitiivisia
+merkityksiä* voidaan kuitenkin ilmaista myös tavallisella genetiivillä.
+Yksi erityinen käyttötilanne käy ilmi seuraavista esimerkeistä:
+
+(@ee_pomidor) Он взял и съел помидор.
+(@ee_kvas) Давайте лучше выпьем кваса и будем танцевать. 
+
+Esimerkeissä @ee_pomidor ja @ee_kvas genetiivin merkitys on nimenomaan
+partitiivinen: se ilmaisee (jo ilman esimerkiksi немного-sanaa) pientä määrää
+jotakin ainetta tai joitakin yksilöitä jotakin tavaraa (yleensä syötävää), jota on saatavilla
+paljon / yhtenä massana tai joukkona. Wade [@wade2010: 108--109] luettelee joukon rajoituksia, jotka
+säätelevät, milloin vastaava partitiivinen merkitys on mahdollinen.
+
+Ensinnäkin, genetiivimuotoisen sanan on oltava objektina eikä subjektina: ei ole
+mahdollista sanoa *на столе есть вина*. Toinen, häilyvämpi, rajoitus on, että
+objektin pääverbi on useimmin perfektiivinen. Tähän liittyy myös myöhemmin
+kurssilla vastaan tuleva teonlaadun (способ действия) käsite: eräät teonlaadut
+ilmaisevat luonnostaan partitiivisuutta, kuten seuraavat esimerkit:
+
+(@ee_naru) Дедушка уже нарубил дров.
+(@ee_satur_part) Мы наелись яблок.
+
+Poikkeus tästä rajoituksesta ovat verbit хотеть ja просить:
+
+(@ee_hotpart) Если ребёнок просит конфет, надо ему сначала дать, а потом...
+(@ee_prospart) Ты хочешь мороженого?
+
+### Genetiivi verbin täydennyksenä
+
+
+### Genetiivi ja kieltomuodot
+
+### Genetiivi ja prepositiot
+
+Genetiivi ilmaisee prepositioiden yhteydessä esimerkiksi syytä (от
+стыда) ja päämäärää (ради обшего блага).
+
+
 
 
 Mielenkiintoisena faktana todettakoon, että eräissä muissa slaavilaisissa
 kielissä (puola, slovakki) genetiivi on kieltomuodoissa välttämätön 
 [@king1995: 31].
+
+
 
 luento 8: sijat funktionaalisen morfologian kannalta 2. Elollisuuskategoria.
 ============================================================================
