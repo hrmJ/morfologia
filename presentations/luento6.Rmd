@@ -1,0 +1,219 @@
+% Morfologia, luento 6
+% Juho Härme
+% Pinni B 5004, juho.harme@uta.fi
+
+
+# Adjektiiveista, pronomineista, lukusanoista
+
+
+<!--  pandoc -f markdown -s luento6.Rmd -t slideous -o luento6.html --self-contained --include-in-header=fontheader.html --smart -->
+
+
+# Kertausta painotyypeistä
+
+>- I deklinaatio?
+>- II deklinaatio?
+>- III deklinaatio?
+>- IV deklinaatio?
+
+
+<!-- Parin kanssa / ryhmässä läpi vastauksia painotyyppeihin-->
+
+# Adjektiivideklinaatio
+
+>- Tehtävä: muodostakaa yksi ainoa deklinaatio, johon olisi mahdollista sovittaa kaikki adjektiivit.
+    - sija, suku, luku
+>- Minkälaisia sanoja tähän deklinaatioon kuuluu?
+
+<table>
+<thead>
+<tr class="incremental header">
+<th align="left">Sija</th>
+<th align="left">Maskuliini</th>
+<th align="left">Feminiini</th>
+<th align="left">Neutri</th>
+<th align="left">Monikko</th>
+</tr>
+</thead>
+<tbody>
+<tr class="incremental odd">
+<td align="left">Nom.</td>
+<td align="left">/оj/ ~ /иj/</td>
+<td align="left">/аja/</td>
+<td align="left">/оjэ/</td>
+<td align="left">/иjэ/</td>
+</tr>
+<tr class="incremental even">
+<td align="left">Gen.</td>
+<td align="left">/ово/</td>
+<td align="left">/оj/</td>
+<td align="left">/ово/</td>
+<td align="left">/их/</td>
+</tr>
+<tr class="incremental odd">
+<td align="left">Dat.</td>
+<td align="left">/ому/</td>
+<td align="left">/оj/</td>
+<td align="left">/ому/</td>
+<td align="left">/им/</td>
+</tr>
+<tr class="incremental even">
+<td align="left">Akk.</td>
+<td align="left">/ой/ ~ /ово/</td>
+<td align="left">/уjу</td>
+<td align="left">/ой/ ~ /ово/</td>
+<td align="left">/иjэ/ ~ /их/</td>
+</tr>
+<tr class="incremental odd">
+<td align="left">Instr.</td>
+<td align="left">/ом/</td>
+<td align="left">/оj/</td>
+<td align="left">/ом/</td>
+<td align="left">/им’и/</td>
+</tr>
+<tr class="incremental even">
+<td align="left">Prep.</td>
+<td align="left">/ом/</td>
+<td align="left">/оj/</td>
+<td align="left">/ом/</td>
+<td align="left">/их/</td>
+</tr>
+</tbody>
+</table>
+
+>- Adjektiivien pitkät muodot
+>- Suurin osa järjestysluvuista
+>- Partisiippien pitkät muodot
+>- Pronomineja (который ym.)
+
+# Pronominideklinaatio
+
+
+| Sija    | Maskuliini       | Feminiini     | Neutri         | Monikko
+| ------- | ---------------- | ------------- | -------------- | ---------
+| Nom.    | /ø/              | /а/           | /о/            | /и/
+| Gen.    | /ово/            | /оj/ ~ /эj/   | /ово/          | /их/
+| Dat.    | /ому/            | /оj/ ~ /эj/   | /ому/          | /им/
+| Akk.    | /ø/ ~ /ово/      | /у/           | /о/ ~ /ово/    | /и/ ~ /их/
+| Instr.  | /им/             | /оj/ ~ /эj/   | /им/           | /им'и/
+| Prep.   | /ом/             | /оj/ ~ /эj/   | /ом/           | /их/
+
+
+>- Pronomineja, kuten этот, мой/твой/наш
+>- Один, третий
+>- Possessiiviadjektiivit
+
+<article class='incremental'>
+
+Sija    | Maskuliini             | Feminiini       | Neutri                 | Monikko
+------- | ---------------------- | --------------- | ---------------------- | ----------
+Nom.    | мой                    | моя             | моё                    | мои
+Gen.    | моего                  | моей            | моего                  | моих
+Dat.    | моему                  | моей            | моему                  | моим
+Akk.    | мой ~ моего            | мою             | моё ~ моего            | мои ~ моих
+Instr.  | моим                   | моей            | моим                   | моими
+Prep.   | моём                   | моей            | моём                   | моих
+
+</article>
+
+# Lukusanojen taivutus
+
+<article class='incremental'>
+
+#### Suurin osa:
+
+Sija    | Pääte   | Esimerkki 1 | Esimerkki 2 |
+------- | ------- | ------------|-------------|
+Nom.    | /ø/     | пять        | пятьдесЯть  |
+Gen.    | /и/     | пятИ        | пятИдесяти  |
+Dat.    | /и/     | пятИ        | пятИдесяти  |
+Akk.    | /ø/     | пять        | пятьдесЯть  |
+Instr.  | /ju/    | пятьЮ       | пятьЮдесяти |
+Prep.   | /и/     | пятИ        | пятИдесяти  |
+
+</article>
+
+
+<article class='incremental'>
+
+#### 3-4
+
+Sija    | Esimerkki              |
+------- | ---------------------- |
+Nom.    | три                    |
+Gen.    | трёх                   |
+Dat.    | трём                   |
+Akk.    | три ~ трёх             |
+Instr.  | тремЯ                  |
+Prep.   | трёх                   |
+
+</article>
+
+
+
+<article class='incremental'>
+
+#### 2
+
+Sija    | Esimerkki              |
+------- | ---------------------- |
+Nom.    | два ~ две              |
+Gen.    | двух                   |
+Dat.    | двум                   |
+Akk.    | два ~ две ~ двух       |
+Instr.  | двумЯ                  |
+Prep.   | двух                   |
+
+</article>
+
+>- [сорок](https://ru.wiktionary.org/wiki/сорок),
+>- [сто](https://ru.wiktionary.org/wiki/сто) ,
+>- [девяносто](https://ru.wiktionary.org/wiki/девяносто) ja
+>- [полтора](https://ru.wiktionary.org/wiki/полтора)
+
+# Vihdoin...
+
+[Tehtävä](../tehtavat/luento6.pdf)
+
+# Adjektiiveihin liittyviä ilmiöitä 1
+
+<article class='incremental' style='float:left;margin-right:2em; font-size:150%;'>
+>- железный
+>- московский
+>- государственный
+</article>
+
+<article class='incremental' style='float:left;margin-right:2em; font-size:150%;'>
+>- красивый
+>- интересный
+>- плохой
+</article>
+
+# Adjektiiveihin liittyviä ilmiöitä 2: lyhyet muodot
+
+>- Muodostus: [katso kotona](../index.html#lyhyet-ja-pitkät-muodot) (vrt. myös edellinen dia)
+>- Funktionaalisen morfologian kannalta?
+>- [Minkälaisissa konteksteissa?](http://search2.ruscorpora.ru/syntax.xml?env=alpha&mycorp=&mysent=&mysize=&mysentsize=&dpp=&spp=&spd=&text=lexgramm&mode=syntax&notag=1&simple=1&lang=ru&parent1=0&level1=0&lex1=&gramm1=A%2C%CA%D0&flags1=&parent2=1&level2=1&min2=&max2=&link2=on&type2=&lex2=&gramm2=&flags2=)
+
+>- Ваше упорство печально
+>- Фантастика хороша тогда, конда зритель не сразу понимает, как сделан трюк
+>- Ты сам замечаешь, что молоко тебе полезно.
+>- Молоко полезное / полезно
+>- Он был холодным 
+
+# Adjektiiveihin liittyviä ilmiöitä 3: Possessiiviadjektiivit
+
+<article class='incremental' style='float:left;margin-right:2em; font-size:150%;'>
+>- бабушкины туфли
+>- мамина куртка
+>- Лёшин ноутбук
+</article>
+
+<article class='incremental' style='float:left;margin-right:2em; font-size:150%;'>
+>- вольчая шкура
+>- собачье сердце
+>- девичья фамилия
+</article>
+
+# Adjektiiveihin liittyviä ilmiöitä 4: vertailuaste
+

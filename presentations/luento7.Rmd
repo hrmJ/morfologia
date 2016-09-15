@@ -1,0 +1,26 @@
+% Morfologia, luento 7
+% Juho Härme
+% Pinni B 5004, juho.harme@uta.fi
+
+
+# Sijat funktionaalisen morfologian kannalta 1
+
+# Genetiivi
+
+Tehtävä: 
+
+1. Etsi tekstistä / esimerkkilauseista genetiivin eri merkityksiä (mitä eri asioita genetiivillä venäjässä ilmaistaan)
+2. Pohdi, millä sijalla / tavalla sama asia ilmaistaan suomessa
+
+Tehtävä:
+
+- Täytä oikea substantiivilauseke genetiivimuodossa
+
+Kotiin
+
+- korpustehtävä?
+
+# Partitiivisia merkityksiä
+
+<!--  pandoc -f markdown -s luento7.rmd -t slideous -o luento7.html --self-contained --include-in-header=fontheader.html --smart -->
+
