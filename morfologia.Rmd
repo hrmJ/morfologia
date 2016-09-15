@@ -106,7 +106,7 @@ Sanaluokan käsite esitellään meille jo ala-asteikäisenä. Sanat muodostavat
 kielessä enemmän tai vähemmän selviä ryhmiä: esimerkiksi lekseemeillä *книга*,
 *стол* ja *разрушение* on jotain yhteistä ja ne eroavat lekseemeistä *играть*,
 *слушать* ja *читать*, joilla puolestaan on keskenään jotakin yhteistä.
-Sanaluokkien määrittely ei kuitenkaan ole yksiselitteistä. Mihin sanaluokkaan
+# Sanaluokkien määrittely ei kuitenkaan ole yksiselitteistä. Mihin sanaluokkaan
 mielestäsi esimerkiksi aktiivin partisiipin preesensin muoto "позволяющий"
 kuuluu? Entä onko sanalla *тысяча* enemmän yhteistä sanojen *пять*, *десять* ja
 *семь* kanssa kuin edellä mainittujen kolmen substantiivin kanssa? Ahti
@@ -2609,8 +2609,174 @@ Poikkeus tästä rajoituksesta ovat verbit хотеть ja просить:
 
 ### Genetiivi verbin täydennyksenä
 
+Syntaksin (синтаксис) eli lauseopin kannalta oleellisia käsitteitä ovat verbin
+*täydennykset* (*дополнения* tai tarkemmin *актанты*) ja *määritteet*
+(*обстоятельства* tai tarkemmin *сиркостанты*). Täydennyksillä tarkoitetaan
+elementtejä, joita ilman verbi ei voi esiintyä. Ajatele seuraavaa esimerkkiä:
+
+(@ee_pisma) Завтра я починю свой компьютер  
+            'Korjaan huomenna tietokoneeni'
+
+Verbin починить objekti компьютер on sen täydennyksenä lauseessa @ee_pisma. Sen
+sijaan *завтра* on saman verbin määrite, jota ilmankin lause olisi mahdollinen.
+
+Lauseessa @ee_pisma verbin täydennys on (nominatiivin kaltaisessa)
+akkusatiivissa. Akkusatiivimuotoinen täydennys on tavallisin, muttei ainoa
+vaihtoehto. Pohdi täydennystä seuraavassa esimerkissä:
+
+(@ee_zavid) Нужно признать, что я вам очень завидую.
+
+Esimerkin @ee_zavid признать-verbin täydennys on datiivimuotoinen. 
+
+Genetiivi on täydennyksen saamana sijana venäjässä erittäin yleinen.
+Ongelmallisen genetiivitäydennyksen käytöstä tekee se, että on monia tilanteita,
+joissa sekä genetiivi että akkusatiivi ovat kontekstista riippuen mahdollisia.
+Genetiivitäydennyksen saavat verbit voikin karkeasti jakaa niihin, joilla
+täydennys on aina genetiivissä sekä niihin, joilla täydennys on joko
+genetiivissä tai akkusatiivissa.
+
+**Yleispiirteenä** häilyvissä tapauksissa (kun mietit, tulisiko täydennyksen
+olla genetiivissä vai ei) voidaan todeta seuraavaa:
+
+1. Genetiivillä on taipumus olla yleisempi (geneerisempi), akkusatiivilla
+   spesifimpi ja yksilöivämpi[^muistis]. 
+2. Abstraktit sanat ovat oletettavammin genetiivissä kuin konkreettiset tai
+   varsinkaan henkilöihin viittaavat.
+
+[^muistis]: Tästä voi johtaa muistisäännön: gen=gen -- genetiivi on
+geneerisempi.
+
+#### Kysymistä, etsimistä ja saavuttamista tarkoittavat verbit
+
+Genetiivitäydennyksen saavat verbit voi ryhmitellä väljästi merkityksen
+perusteella. Tähän ensimmäiseen ryhmään kuuluu sellaisia verbejä kuin
+добиваться, достигать, желать ja заслуживать. Näiden täydennykset ovat
+käytännössä aina genetiivissä:
+
+(@ee_dobi) Если работа нравится, человек легко с ней справляется, **добивается
+хороших результатов**, тогда и люди вокруг кажутся добрыми и милыми.
+
+(@ee_zasluzhivat) Карелия вообще **заслуживает отдельного путешествия**. В Валаамо
+стоит осмотреть Нововалаамский православный монастырь. 
+
+Akkusatiivin ja genetiivin välillä puolestaan horjuvat tähän ryhmään kuuluvat
+verbit *ждать/ожидать/дожидаться*, *искать*, *просить/хотеть* ja требовать.
+Näiden suhteen pätevät edellä todetut taipumukset genetiivin yleisluontoisuudesta ja abstraktiudesta.
+Tutki ensin seuraavia esimerkkejä genetiivitäydennyksistä:
+
+(@ee_trebovat_gen) Такой способ требует *опыта работы*.
+(@ee_trebovat_gen2)  Это *требует готовности* клиентов.
+(@ee_zhdat1) Теперь заинтересованные стороны *ждут решения* московской экологической экспертизы
+
+Seuraavissa esimerkeissä puolestaan on akkusatiivitäydennys:
+
+(@ee_trebovat_akk)  У него, естественно, *требуют пропуск*. 
+(@ee_tbovat_akk) Но немец оставался при своём и *требовал ведро*
+(@ee_zhdat_akk) Мы с Анкой обернулись довольно быстро, но потом долго *ждали Таню*
+
+#### Pelkäämistä ja välttelyä  tarkoittavat verbit
+
+Tähän ryhmään kuuluvat verbit ovat yleensä vahvasti genetiiviä puoltavia.
+Kuitenkin nykyisin [ks. @genlahde] on ilmeisesti yleistynyt myös akkusatiivin
+käyttö lauseissa tyyppiä *боюсь бабушку*. Ei siis pidä täysin paikkaansa, että
+ся-postfiksiin päättyvät verbit eivät voisi koskaan saada
+akkusatiivitäydennystä.
+
+Бояться-verbin lisäksi tähän ryhmään voidaan lukea muun muassa verbit опасаться,
+пугаться, стесняться, стыдиться, сторониться ja избегать.
+
+(@ee_alesha) Алёша, как сказал я уже выше, сначала *стыдился похвал*.
+(@ee_storoni) Катя все время переживала из-за того, что сын нелюдим (ihmisiä karttava) и *сторонится общества*.
+
+Etenkin henkilöviittauksissa akkusatiivi on mahdollinen.
+
+(@ee_papa) Мои дети не избегают меня, как я *избегал папу*.
+
+#### Muita merkitysryppäitä
+
+Myös menettämistä tai poistamista tarkoittavat verbit 
 
 ### Genetiivi ja kieltomuodot
+
+Edellä käsiteltiin konkreettisia sanoja, joiden täydennykset ovat usein tai aina
+genetiivissä. Kokonaa oma teemansa ovat kieltolauseet ja genetiivin esiintyminen
+niissä. Venäjän niin kutsuttu *kieltogenetiivi* (genetive of negation,
+родительный падеж в отрицательных конструкциях) on saanut
+osakseen mittavaa tutkimustyötä ja huomiota [ks. esim. @partee2006genitive].
+
+#### Subjekti genetiivissä
+
+Jos lähdetään liikkeelle tutusta ja yksinkertaisesta, voidaan todeta, että
+venäjässä on joukko kieltorakenteita, joihin liittyy aina genetiivi. Nämä
+voidaan jakaa esimerkiksi seuraaviin kategorioihin [@wade2010: 111].
+
+1. Olemassaolon tai saatavuuden kieltäminen нет-partikkelilla: еды нет. Нет
+   денег. Не было времени. Войны не будет.
+2. Olemassaolon tai saatavuuden kieltäminen verbeillä: денег не осталось/не
+   имеется. Ни одного живого *существа не попадалось*.  Такого не существует.
+   Tässäkin kuitenkin pätee edellä esitetty huomio spesifistä ja geneerisestä
+   merkityksestä. Jos kyse on tietystä konkreettisesta viittauskohteesta,
+   on subjektin sija nominatiivi: *документы, о которых мы говорили, не
+   сохранились*  mutta  *документов не сорханилось*[^dokhuom]
+3. Aistihavainnon puuttumista ilmaisevat predikatiiviadverbit слыдно/видно:
+     *в таком шуме даже собственных мыслей не слышно*
+4. Ajanilmaukset: *мне уже двадцать минут не отвечают*[^aikpart].
+   
+[^aikpart]:(Huomaa kuitenkin, että tarkkaan ottaen nämä tapaukset voidaan laskea
+johtuvan ennemmin partitiivisuudesta kuin kieltomuodosta [@king1995])
+
+[^dokhuom]: huomaa, että genetiivitapauksissa verbi taipuu oletussuvussa ja
+-sijassa (yksikön neutri).
+
+Kannattaa myös panna merkille, että tietyissä passiivirakenteissa kieliopillisen
+subjektin sijaksi tulee genetiivi:
+
+(@ee_passneg1) на данном этапе *никаких денежных реформ* не предусмотрено.
+(@ee_passneg2) изменения химического состава не установлено
+(@ee_passneg3) Но пока среди продавцов дисков на улицах Москвы *паники* не
+наблюдается.
+
+#### Objekti genetiivissä
+
+Eniten epäselvyyttä genetiivi--akkusatiivi-opposition suhteen aiheuttavat
+tapaukset, joissa kieltolauseen verbillä on objektitäydennys. Objektin
+sisältävissä kieltolauseissa genetiiviä voi pitää jopa todennäköisempänä  kuin
+akkusatiivia. Edellä mainittu geneerisyys vs spesifisyys -tendenssi antaa
+joitakin suuntaviivoja, samoin seuraavat huomiot [-@wade2010: 113].
+
+Genetiivi tulee oletuksena, jos lauseessa on kaksoiskielto tai ни-partikkeli:
+
+(@ee_2neg) Люди, которые *никогда не учили иностранных языков* просто являются
+носителем нереализованной способности
+(@ee_nipart) Он ни на секунду не потерял *достоинства*
+
+Samoin genetiiviä puoltaa gerundin käyttö:
+
+(@ee_neggerund)  Не имея специального образования, защититься без адвоката совсем непросто
+
+Ymmärtämiseen ja aistihavaintoon viittaavat verbit saavat todennäköisesti
+genetiivitäydennyksen kieltolauseissa:
+
+(@ee_nepon) Честно говоря, я сам *не знаю ответа* на поставленный вопрос,
+(@ee_nepon2)  Почему ты всё-таки дал деньги на оркестр, ты же не понимал *классической музыки*?
+
+Myös abstraktit substantiivit yhdistyvät, kuten edellä todettiin, genetiiviin.
+Esimerkkeinä Wade [-@wade2010: 113] mainitsee sanat *раздражание*, *роль*,
+*понятие*, *внимание*, *впетчатление*, *время*. 
+
+Seuraavassa on joitakin esimerkkejä spesifiin objektiin tai konkreettiseen
+henkilöön viittaavista, akkusatiivin valintaa puoltavista tapauksista:
+
+(@ee_akk)
+
+Lisäksi on hyvä huomata, että akkusatiiviin tulevat esimerkin @ee_falseneg kaltaiset lauseet, joissa
+kielto on tavalla tai toisela lievempi:
+
+(@ee_)
+
+Samoin akkusatiivi on todennäköinen, jos kiellon kohteena ei ole varsinaisesti
+verbin ilmaisema toiminta vaan esimerkiksi sen aste.
+
 
 ### Genetiivi ja prepositiot
 
