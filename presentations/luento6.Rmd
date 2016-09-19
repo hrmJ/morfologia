@@ -3,27 +3,72 @@
 % Pinni B 5004, juho.harme@uta.fi
 
 
-# Adjektiiveista, pronomineista, lukusanoista
-
+# Kertausta painotyypeistä
 
 <!--  pandoc -f markdown -s luento6.Rmd -t slideous -o luento6.html --self-contained --include-in-header=fontheader.html --smart -->
 
-
-# Kertausta painotyypeistä
-
->- I deklinaatio?
->- II deklinaatio?
->- III deklinaatio?
->- IV deklinaatio?
-
+- Ryhmittäin (läppäri per ryhmä)
+- Lisätkää sanan painotyyppi [taulukkoon](https://docs.google.com/spreadsheets/d/1n4WqBONRjtiLKoFl87xQpMH8qGzxT6h7b2oViWuws8k/edit?usp=sharing)
 
 <!-- Parin kanssa / ryhmässä läpi vastauksia painotyyppeihin-->
 
+# Adjektiivit
+
+>- Pohdittavaksi: minkälaiset sanat taipuvat, kuten (pitkät) adjektiivit?
+>- Adjektiivi- ja pronominideklinaatio
+
+# Pronominideklinaatio
+
+
+<article class='incremental' style='margin-bottom:2em;'>
+
+Sija    | Maskuliini             | Feminiini       | Neutri                 | Monikko
+------- | ---------------------- | --------------- | ---------------------- | ----------
+Nom.    | мой                    | моя             | моё                    | мои
+Gen.    | моего                  | моей            | моего                  | моих
+Dat.    | моему                  | моей            | моему                  | моим
+Akk.    | мой ~ моего            | мою             | моё ~ моего            | мои ~ моих
+Instr.  | моим                   | моей            | моим                   | моими
+Prep.   | моём                   | моей            | моём                   | моих
+
+</article>
+
+<article class='incremental' style='margin-bottom:2em;'>
+
+Sija    | Maskuliini             | Feminiini       | Neutri                 | Monikko
+------- | ---------------------- | --------------- | ---------------------- | ----------
+Nom.    | третий                 | третья          | третье                 | третьи
+Gen.    | третьего               | третьей         | третьего               | третьих
+Dat.    | третьему               | третьей         | третьему               | третьим
+Akk.    | третий ~ третьего      | третью          | третье ~ третьего      | третьи ~ третьих
+Instr.  | третьим                | третьей         | третьим                | третьими
+Prep.   | третьём                | третьей         | третьем                | третьих
+
+</article>
+
+<article class='incremental'>
+
+| Sija    | Maskuliini       | Feminiini     | Neutri         | Monikko
+| ------- | ---------------- | ------------- | -------------- | ---------
+| Nom.    | /ø/              | /а/           | /о/            | /и/
+| Gen.    | /ово/            | /оj/ ~ /эj/   | /ово/          | /их/
+| Dat.    | /ому/            | /оj/ ~ /эj/   | /ому/          | /им/
+| Akk.    | /ø/ ~ /ово/      | /у/           | /о/ ~ /ово/    | /и/ ~ /их/
+| Instr.  | /им/             | /оj/ ~ /эj/   | /им/           | /им'и/
+| Prep.   | /ом/             | /оj/ ~ /эj/   | /ом/           | /их/
+
+</article>
+
+
+>- Pronomineja, kuten этот, мой/твой/наш
+>- Один, третий
+>- Possessiiviadjektiivit
+
+
 # Adjektiivideklinaatio
 
->- Tehtävä: muodostakaa yksi ainoa deklinaatio, johon olisi mahdollista sovittaa kaikki adjektiivit.
+>- Tehtävä (yksilöllisesti): muodostakaa yksi ainoa deklinaatio, johon olisi mahdollista sovittaa kaikki (loput) adjektiivit.
     - sija, suku, luku
->- Minkälaisia sanoja tähän deklinaatioon kuuluu?
 
 <table>
 <thead>
@@ -86,36 +131,6 @@
 >- Partisiippien pitkät muodot
 >- Pronomineja (который ym.)
 
-# Pronominideklinaatio
-
-
-| Sija    | Maskuliini       | Feminiini     | Neutri         | Monikko
-| ------- | ---------------- | ------------- | -------------- | ---------
-| Nom.    | /ø/              | /а/           | /о/            | /и/
-| Gen.    | /ово/            | /оj/ ~ /эj/   | /ово/          | /их/
-| Dat.    | /ому/            | /оj/ ~ /эj/   | /ому/          | /им/
-| Akk.    | /ø/ ~ /ово/      | /у/           | /о/ ~ /ово/    | /и/ ~ /их/
-| Instr.  | /им/             | /оj/ ~ /эj/   | /им/           | /им'и/
-| Prep.   | /ом/             | /оj/ ~ /эj/   | /ом/           | /их/
-
-
->- Pronomineja, kuten этот, мой/твой/наш
->- Один, третий
->- Possessiiviadjektiivit
-
-<article class='incremental'>
-
-Sija    | Maskuliini             | Feminiini       | Neutri                 | Monikko
-------- | ---------------------- | --------------- | ---------------------- | ----------
-Nom.    | мой                    | моя             | моё                    | мои
-Gen.    | моего                  | моей            | моего                  | моих
-Dat.    | моему                  | моей            | моему                  | моим
-Akk.    | мой ~ моего            | мою             | моё ~ моего            | мои ~ моих
-Instr.  | моим                   | моей            | моим                   | моими
-Prep.   | моём                   | моей            | моём                   | моих
-
-</article>
-
 # Lukusanojen taivutus
 
 <article class='incremental'>
@@ -128,7 +143,7 @@ Nom.    | /ø/     | пять        | пятьдесЯть  |
 Gen.    | /и/     | пятИ        | пятИдесяти  |
 Dat.    | /и/     | пятИ        | пятИдесяти  |
 Akk.    | /ø/     | пять        | пятьдесЯть  |
-Instr.  | /ju/    | пятьЮ       | пятьЮдесяти |
+Instr.  | /ju/    | пятьЮ       | пятьЮдесятю |
 Prep.   | /и/     | пятИ        | пятИдесяти  |
 
 </article>

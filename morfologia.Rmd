@@ -2100,6 +2100,8 @@ Luento 6: Adjektiiveista, pronomineista ja lukusanoista
 - [Tutki luentokalvoja](http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento6.html)
 - [Tutki tuntitehtäviä](http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento6.pdf)
 
+[Painotyyppitehtävä](https://docs.google.com/spreadsheets/d/1n4WqBONRjtiLKoFl87xQpMH8qGzxT6h7b2oViWuws8k/edit?usp=sharing)
+
 Tähän asti olemme tutustuneet sijakategoriaan vasta taivutusopin kannalta ja
 vain substantiivien osalta. Tällä luennolla mietitään muiden nominien taivutusta
 ja lisäksi laajemmin eräitä adjektiiveihin liittyviä ilmiöitä. Koska kurssin
@@ -2545,7 +2547,6 @@ kohteena että toiminnan suorittajana:
 (@ee_tstenije) чтение газеты
 (@ee_keksija) изобретатель самолёта
 
-
 Jos asiaa pohtii, huomaa, että suomen ja venäjän genetiiveillä on monia hyvin
 samanlaisia funktioita -- ajattele edellisten esimerkkien valossa ilmaisuja
 *pojan pyörä, komitean jäsen, Venäjän kansalainen, talon katto, lehden
@@ -2743,6 +2744,10 @@ tapaukset, joissa kieltolauseen verbillä on objektitäydennys. Objektin
 sisältävissä kieltolauseissa genetiiviä voi pitää jopa todennäköisempänä  kuin
 akkusatiivia. Edellä mainittu geneerisyys vs spesifisyys -tendenssi antaa
 joitakin suuntaviivoja, samoin seuraavat huomiot [-@wade2010: 113].
+Mielenkiintoisena faktana todettakoon, että eräissä muissa slaavilaisissa
+kielissä (puola, slovakki) genetiivi on kieltomuodoissa välttämätön 
+[@king1995: 31].
+
 
 Genetiivi tulee oletuksena, jos lauseessa on kaksoiskielto tai ни-partikkeli:
 
@@ -2767,29 +2772,30 @@ Esimerkkeinä Wade [-@wade2010: 113] mainitsee sanat *раздражание*, *
 Seuraavassa on joitakin esimerkkejä spesifiin objektiin tai konkreettiseen
 henkilöön viittaavista, akkusatiivin valintaa puoltavista tapauksista:
 
-(@ee_akk)
+(@ee_akk1) Если кто-то по тем или иным причинам не получил денежную выплату за январь 2005 года...
+(@ee_akk2) Сергей больше не увидел Таню живой.
+(@ee_akk3) Вы не знаете Асю. Она на такое не способна.
 
 Lisäksi on hyvä huomata, että akkusatiiviin tulevat esimerkin @ee_falseneg kaltaiset lauseet, joissa
 kielto on tavalla tai toisela lievempi:
 
-(@ee_)
+(@ee_akk4) Мы с ним вместе гастролировали в Японии, где чуть не убили японку
 
 Samoin akkusatiivi on todennäköinen, jos kiellon kohteena ei ole varsinaisesti
-verbin ilmaisema toiminta vaan esimerkiksi sen aste.
+verbin ilmaisema toiminta vaan esimerkiksi sen aste kuten seuraavassa Waden [-@wade2010: 113] esimerkissä:
+
+(@ee_aste)  Он не вполне усвоил урок.
 
 
 ### Genetiivi ja prepositiot
 
-Genetiivi ilmaisee prepositioiden yhteydessä esimerkiksi syytä (от
-стыда) ja päämäärää (ради обшего блага).
+Genetiivi ilmaisee prepositioiden yhteydessä usein samoja asioita kuin
+itsenäisestikin käytettynä. Mahdollisia merkityksiä ovat esimerkiksi 
 
-
-
-
-Mielenkiintoisena faktana todettakoon, että eräissä muissa slaavilaisissa
-kielissä (puola, slovakki) genetiivi on kieltomuodoissa välttämätön 
-[@king1995: 31].
-
+- syy tai päämäärä: для, от, ради, из-за
+- paikka: до, из, из-за, с, от, вдоль, поперёк, вглубь, возле, около, среди
+- aika: до, после, из, с, от,  около
+- muita: без
 
 
 luento 8: sijat funktionaalisen morfologian kannalta 2. Elollisuuskategoria.
