@@ -2293,7 +2293,7 @@ Adjektiivien luokan sisällä voidaan tehdä osittain merkitykseen perustuva jak
 Jaottelulla on eräitä käytännössä hyödyllisiä sovellutuksia, joten käsitellään
 sitä lyhyesti myös tässä.
 
-Laatuadjektiivit (качественные прилагательны) voivat nimittäin ilmaista ominaisuuden
+Laatuadjektiivit (качественные прилагательные) voivat nimittäin ilmaista ominaisuuden
 asteittaisena: niihin voidaan luontevasti liittää määreeksi sellaisia adverbeja kuin *очень*
 tai *довольно*. 
 
@@ -2366,9 +2366,20 @@ lyhyttä adjektiivia voidaan käyttää ainoastaan predikatiivin (именная
 välttämätön, ei riittävä ehto lyhyen adjektiivin käytölle. Toisin sanoen ei ole
 myöskään niin, että predikatiivin funktiosta aina seuraisi lyhyt muoto.
 
+Wade [-@wade2010: 188] mainitsee seuraavat varmasti jo vanhastaan tutut käyttöerot/-säännöt:
+
+- Lyhyet adjektiivit saattavat tietyillä sanoilla ilmaista tilan väliaikaisuutta (Он болен / больной)
+- Kontekstin kapeus saattaa suosia lyhyttä muotoa (Микко прав).
+- Lyhyt muoto voi olla tyyliltään kirjallisempi
+- lyhyt muoto voi ilmaista, että ominaisuutta on liikaa: Ботинки малы, брюки узки
+- Jos adjektiivilla on oma määreensä, käytetään lyhyttä muotoa:
+    - Аудитория полна народу
+    - Они нами довольны
+    - Сибирь богата лесами
+
 Zolotova ym. [-@zolotova: 90] huomauttavat, että joissakin tapauksissa lyhyen
 adjektiivin käyttö on "в контексте свободного авторского выбора" --
-puhujan tai kirjoittajan oma ratkaisu, joka ei ole kieliopillisesti pakotettu --
+puhujan tai kirjoittajan oma ratkaisu (он умный / умён), joka ei ole kieliopillisesti pakotettu --
 joissain taas joko mahdotonta tai ainoa mahdollisuus. Zolotova ym. antavat
 seuraavanlaisia esimerkkejä tilanteista, joissa lyhyt adjektiivi on ainoa
 mahdollisuus:
@@ -2387,7 +2398,7 @@ kontekstissa sekä lyhyet että pitkät adjektiivit olisivat mahdollisia
 
 (@zolotova_moloko2) Молоко полезное / полезно
 
-Toisaalta lyhyiden adjektiivien käyttö on rajattua, kun kyseessä ei ole
+Toisaalta pitkien adjektiivien käyttö on rajattua, kun kyseessä ei ole
 henkilösubjekti:
 
 (@zolotova_holodnyj)  Он был холодным / холоден. **MUTTA** Дом был холоден.
@@ -2461,8 +2472,6 @@ muutoksia [ks. @wade2010: 197]:
 | ----- | ---------- | ---------      | -----    |
 | г     | ж          | дорогой-дороже |          |
 | д     | ж          | молодой-моложе |          |
-| д     | ж          | молодой-моложе |          |
-| з     | ж          | близкий-ближе  |          |
 | з     | ж          | близкий-ближе  |          |
 | к     | ч          | жаркий-жарче   |          |
 | с     | ш          | высокий-выше   |          |
@@ -2779,7 +2788,7 @@ henkilöön viittaavista, akkusatiivin valintaa puoltavista tapauksista:
 Lisäksi on hyvä huomata, että akkusatiiviin tulevat esimerkin @ee_falseneg kaltaiset lauseet, joissa
 kielto on tavalla tai toisela lievempi:
 
-(@ee_akk4) Мы с ним вместе гастролировали в Японии, где чуть не убили японку
+(@ee_falseneg) Мы с ним вместе гастролировали в Японии, где чуть не убили японку
 
 Samoin akkusatiivi on todennäköinen, jos kiellon kohteena ei ole varsinaisesti
 verbin ilmaisema toiminta vaan esimerkiksi sen aste kuten seuraavassa Waden [-@wade2010: 113] esimerkissä:
@@ -2795,7 +2804,7 @@ itsenäisestikin käytettynä. Mahdollisia merkityksiä ovat esimerkiksi
 - syy tai päämäärä: для, от, ради, из-за
 - paikka: до, из, из-за, с, от, вдоль, поперёк, вглубь, возле, около, среди
 - aika: до, после, из, с, от,  около
-- muita: без
+- muita: без, вместо
 
 
 luento 8: sijat funktionaalisen morfologian kannalta 2. Elollisuuskategoria.

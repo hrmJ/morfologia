@@ -210,6 +210,12 @@ Prep.   | двух                   |
 >- Funktionaalisen morfologian kannalta?
 >- [Minkälaisissa konteksteissa?](http://search2.ruscorpora.ru/syntax.xml?env=alpha&mycorp=&mysent=&mysize=&mysentsize=&dpp=&spp=&spd=&text=lexgramm&mode=syntax&notag=1&simple=1&lang=ru&parent1=0&level1=0&lex1=&gramm1=A%2C%CA%D0&flags1=&parent2=1&level2=1&min2=&max2=&link2=on&type2=&lex2=&gramm2=&flags2=)
 
+>- Он болен / больной
+>- Микко прав.
+>- Ботинки малы, брюки узки
+>- Аудитория полна народу
+>- Они нами довольны
+>- Сибирь богата лесами
 >- Ваше упорство печально
 >- Фантастика хороша тогда, конда зритель не сразу понимает, как сделан трюк
 >- Ты сам замечаешь, что молоко тебе полезно.
@@ -231,4 +237,28 @@ Prep.   | двух                   |
 </article>
 
 # Adjektiiveihin liittyviä ilmiöitä 4: vertailuaste
+
+>- Kieliopillinen kategoria
+>- простая / сложная сравнительная (превосходная) степень
+>- Yksinkertaisilla muodoilla ei sukua/lukua/sijaa
+>- /э/, /шэ/, /эjэ/ (tai /эj/)
+>- Äänteenmuutoksia!
+
+# Esimerkkejä
+
+- дорогой
+- молодой
+- близкий
+- жаркий 
+- высокий
+- плоский
+- чистый 
+- богатый
+- тихий  
+- дешёвый
+
+
+
+
+
 

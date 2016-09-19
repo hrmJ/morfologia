@@ -9,8 +9,38 @@
 
 Tehtävä: 
 
-1. Etsi tekstistä / esimerkkilauseista genetiivin eri merkityksiä (mitä eri asioita genetiivillä venäjässä ilmaistaan)
-2. Pohdi, millä sijalla / tavalla sama asia ilmaistaan suomessa
+>1. Etsi tekstistä / esimerkkilauseista genetiivin eri merkityksiä (mitä eri asioita genetiivillä venäjässä ilmaistaan)
+>2. Pohdi, millä sijalla / tavalla sama asia ilmaistaan suomessa
+
+# Kootusti
+
+>- Велосипед мальчика  (omistaja)
+>- член комитета (rooli)
+>- мало/много/сколько/столько/достаточно интересных людей (määrä)
+>- Маша моложе Миши (vertailu)
+>- часть страны (osa)
+>- крыша дома (osa)
+>- женщина высокого роста  (ominaisuus)
+>- литр воды (mitta)
+>- человек твёрдых убеждений (ominaisuus)
+>- чтение газеты (objekti)
+>- изобретатель самолёта (subjekti)
+
+# Lisää
+
+>- Никита, наевшийся вкусного борща с помидорами, чувствовал невероятную усталость.
+>- Дедушка уже нарубил дров.
+>- Маша привезла овощей
+>- Если ребёнок просит конфет, надо ему сначала дать, а потом...
+>- Ты хочешь мороженого?
+
+# Rajoituksia / tendenssejä
+
+>- vrt. \*на столе есть яблок
+>- наесться.. нарубить... привезти
+>- просить / хотеть
+
+#
 
 Tehtävä:
 
