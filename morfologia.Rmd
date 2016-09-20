@@ -2503,7 +2503,7 @@ tai sijaa, vaan niitä käytetään käytännössä aina predikatiivisesti, kute
 (@ee_des) Но те были **дешевле**, **функциональнее** и в конечном счёте победили 
 
 
-luento 7: sijat funktionaalisen morfologian kannalta 
+luento 7: Sijat funktionaalisen morfologian kannalta 
 ======================================================
 
 Nyt siirrymme taivutusopista kohti funktionaalista morfologiaa ja ryhdymme
