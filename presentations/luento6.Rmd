@@ -111,7 +111,7 @@ Prep.   | третьём                | третьей         | третье�
 </tr>
 <tr class="incremental odd">
 <td align="left">Instr.</td>
-<td align="left">/ом/</td>
+<td align="left">/им/</td>
 <td align="left">/оj/</td>
 <td align="left">/ом/</td>
 <td align="left">/им’и/</td>

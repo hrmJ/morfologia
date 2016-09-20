@@ -29,6 +29,7 @@ Tehtävä:
 # Lisää
 
 >- Никита, наевшийся вкусного борща с помидорами, чувствовал невероятную усталость.
+>- Давайте лучше выпьем кваса и будем танцевать. 
 >- Дедушка уже нарубил дров.
 >- Маша привезла овощей
 >- Если ребёнок просит конфет, надо ему сначала дать, а потом...
@@ -40,17 +41,65 @@ Tehtävä:
 >- наесться.. нарубить... привезти
 >- просить / хотеть
 
-#
+# Genetiivi verbin täydennyksenä
 
-Tehtävä:
+>- дополнение/обстоятельство -- täydennys/määrite
 
-- Täytä oikea substantiivilauseke genetiivimuodossa
+<!-- Pari esimerkkilausetta, joista kysytään, mikä tässä täydennys, mikä määrite  -->
 
-Kotiin
+>- добиваться, достигать, желать ja заслуживать.
+>- ждать/ожидать/дожидаться, искать, просить, хотеть, требовать.
+>- бояться, опасаться, пугаться, стесняться, стыдиться, сторониться,  избегать
 
-- korpustehtävä? (milloin akkusatiivi, milloin genetiivi?)
+<!-- Etsitään läppäreillä korpuksesta verbitapauksia ryhmittäin ... valittavana kans.korp ja araneum. Mustikka? -->
 
-# Partitiivisia merkityksiä
+# Milloin akkusatiivi?
+
+<article class='incremental' style='float:left;'>
+>- Gen = Gen
+>- Henkilöt, tarkat viittauskohteet = Akk.
+>- ждать, искать, хотеть, просить, требовать
+</article>
+
+<article class='incremental nobul' style='float:left;margin-left:2em;font-size:110%;'>
+>- Такой способ требует *опыта работы*.
+>- Это *требует готовности* клиентов.
+>- Теперь заинтересованные стороны *ждут решения* московской экологической экспертизы
+>- Жду 23-й автобус
+>- Ждем ваши ответы по адресу...
+>- Жду вашей реакции 
+>- Я с нетерпением ждал Ваше письмо и наконец получил.
+>- Крепко тебя целую и давно жду твоего письма
+>- Он хочет власти, но не знает верную дорогу к ней.
+>- Сказку, сказку, хочу сказку! ― обрадовалась девочка
+>- Хочешь папироску?
+>- Но она ищет выхода
+>- Кто-то страдал от одиночества, кто-то искал взаимопонимания
+>- Теперь мы не ищем работу, работа находит нас
+>- В каждом приборе, аппарате я прежде всего ищу кнопку "стоп"!
+>- Начальство требует конкретику
+>- Азакуан требует лошадь, а не Куклу…
+>- Излечение действительно требует усилий и времени
+>- Общие угрозы требуют объединения усилий России с США
+</article>
+
+
+# Genetiivi + kieltomuoto
+
+>- Tutkittu, huomiota herättänyt ilmiö kielitieteessä (genetive of negation)
+>- Useammin kuin luuletkaan -- vertaa esim. *puola*
+>- Subjektina & objektina
+    - нет + не пападалось, не встречалось, не сохранилось  + muita
+    - abstraktius, gen=gen-sääntö
+>- [Tehtävä]()
+
+
+# Suuntaviivoja?
+
+
+
+<!-- Käännöslaus!-->
+
 
 <!--  pandoc -f markdown -s luento7.rmd -t slideous -o luento7.html --self-contained --include-in-header=fontheader.html --smart -->
 

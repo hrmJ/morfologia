@@ -29,6 +29,7 @@ työkaluja.
 Linkkejä
 ========
 
+- Kurssikartat [1](https://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/kurssikartta1.pdf) ja [2](https://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/kurssikartta2.pdf)
 - [Kurssin termilista](termit.html)
 - [Kurssin Moodle-alue](https://learning2.uta.fi/course/view.php?id=8679)
 - [Kansalliskorpus](http://www.ruscorpora.ru)
@@ -61,8 +62,8 @@ no  | Pvm        | Aihe
 4   | ti 13.9.   | Sija kieliopillisena kategoriana 
 5   | ke 14.9.   | Sija kieliopillisena kategoriana 2
 6   | ti 20.9.   | Adjektiiveista, pronomineista ja lukusanoista
-7   | ke 21.9.   | Sijat funktionaalisen morfologian kannalta: gen + dat + instr
-8   | ti 27.9.   | Sijat funktionaalisen morfologian kannalta: nominatiivi + akkusatiivi (elollisuuskategoria)
+7   | ke 21.9.   | Sijat funktionaalisen morfologian kannalta: gen 
+8   | ti 27.9.   | Sijat funktionaalisen morfologian kannalta: dat + instr + nom + akk (elollisuuskategoria)
 9   | ke 28.9.   | Yleistä verbeistä
 10  | ti 4.10.   | Persoona kieliopillisena kategoriana + Partisiippien muodostus
 11  | ke 5.10.   | Pääluokka kieliopillisena kategoriana
@@ -2127,7 +2128,7 @@ Nom.   | /оj/ ~ /иj/      | /аja          | /оje/          | /иjэ/
 Gen.   | /ово/            | /оj/          | /ово/          | /их/
 Dat.   | /ому/            | /оj/          | /ому/          | /им/
 Akk.   | /ой/ ~ /ово/     | /уjу          | /ой/ ~ /ово/   | /иjэ/ ~ /их/
-Instr. | /ом/             | /оj/          | /ом/           | /им'и/
+Instr. | /им/             | /оj/          | /ом/           | /им'и/
 Prep.  | /ом/             | /оj/          | /ом/           | /их/
 
 Taulukkoa katsoessa on hyvä muistaa, että muodot on, jälleen kerran, esitetty 
@@ -2617,7 +2618,8 @@ Poikkeus tästä rajoituksesta ovat verbit хотеть ja просить:
 (@ee_hotpart) Если ребёнок просит конфет, надо ему сначала дать, а потом...
 (@ee_prospart) Ты хочешь мороженого?
 
-### Genetiivi verbin täydennyksenä
+Genetiivi verbin täydennyksenä
+------------------------------
 
 Syntaksin (синтаксис) eli lauseopin kannalta oleellisia käsitteitä ovat verbin
 *täydennykset* (*дополнения* tai tarkemmin *актанты*) ja *määritteet*
@@ -2656,7 +2658,7 @@ olla genetiivissä vai ei) voidaan todeta seuraavaa:
 [^muistis]: Tästä voi johtaa muistisäännön: gen=gen -- genetiivi on
 geneerisempi.
 
-#### Kysymistä, etsimistä ja saavuttamista tarkoittavat verbit
+### Kysymistä, etsimistä ja saavuttamista tarkoittavat verbit
 
 Genetiivitäydennyksen saavat verbit voi ryhmitellä väljästi merkityksen
 perusteella. Tähän ensimmäiseen ryhmään kuuluu sellaisia verbejä kuin
@@ -2684,7 +2686,7 @@ Seuraavissa esimerkeissä puolestaan on akkusatiivitäydennys:
 (@ee_tbovat_akk) Но немец оставался при своём и *требовал ведро*
 (@ee_zhdat_akk) Мы с Анкой обернулись довольно быстро, но потом долго *ждали Таню*
 
-#### Pelkäämistä ja välttelyä  tarkoittavat verbit
+### Pelkäämistä ja välttelyä  tarkoittavat verbit
 
 Tähän ryhmään kuuluvat verbit ovat yleensä vahvasti genetiiviä puoltavia.
 Kuitenkin nykyisin [ks. @genlahde] on ilmeisesti yleistynyt myös akkusatiivin
@@ -2702,19 +2704,22 @@ Etenkin henkilöviittauksissa akkusatiivi on mahdollinen.
 
 (@ee_papa) Мои дети не избегают меня, как я *избегал папу*.
 
-#### Muita merkitysryppäitä
+### Muita merkitysryppäitä
 
-Myös menettämistä tai poistamista tarkoittavat verbit 
+Myös menettämistä tai poistamista tarkoittavat verbit kuten *лишиться* saavat tavallisesti genetiivitäydennyksen:
 
-### Genetiivi ja kieltomuodot
+(@ee_lishi) Спустя два года *работы* лишился еще один чиновник.
+
+Genetiivi ja kieltomuodot
+-------------------------
 
 Edellä käsiteltiin konkreettisia sanoja, joiden täydennykset ovat usein tai aina
-genetiivissä. Kokonaa oma teemansa ovat kieltolauseet ja genetiivin esiintyminen
+genetiivissä. Kokonaan oma teemansa ovat kieltolauseet ja genetiivin esiintyminen
 niissä. Venäjän niin kutsuttu *kieltogenetiivi* (genetive of negation,
 родительный падеж в отрицательных конструкциях) on saanut
 osakseen mittavaa tutkimustyötä ja huomiota [ks. esim. @partee2006genitive].
 
-#### Subjekti genetiivissä
+### Subjekti genetiivissä
 
 Jos lähdetään liikkeelle tutusta ja yksinkertaisesta, voidaan todeta, että
 venäjässä on joukko kieltorakenteita, joihin liittyy aina genetiivi. Nämä
@@ -2728,7 +2733,7 @@ voidaan jakaa esimerkiksi seuraaviin kategorioihin [@wade2010: 111].
    merkityksestä. Jos kyse on tietystä konkreettisesta viittauskohteesta,
    on subjektin sija nominatiivi: *документы, о которых мы говорили, не
    сохранились*  mutta  *документов не сорханилось*[^dokhuom]
-3. Aistihavainnon puuttumista ilmaisevat predikatiiviadverbit слыдно/видно:
+3. Aistihavainnon puuttumista ilmaisevat predikatiiviadverbit слышно/видно:
      *в таком шуме даже собственных мыслей не слышно*
 4. Ajanilmaukset: *мне уже двадцать минут не отвечают*[^aikpart].
    
@@ -2746,7 +2751,7 @@ subjektin sijaksi tulee genetiivi:
 (@ee_passneg3) Но пока среди продавцов дисков на улицах Москвы *паники* не
 наблюдается.
 
-#### Objekti genetiivissä
+### Objekti genetiivissä
 
 Eniten epäselvyyttä genetiivi--akkusatiivi-opposition suhteen aiheuttavat
 tapaukset, joissa kieltolauseen verbillä on objektitäydennys. Objektin
@@ -2788,7 +2793,7 @@ henkilöön viittaavista, akkusatiivin valintaa puoltavista tapauksista:
 Lisäksi on hyvä huomata, että akkusatiiviin tulevat esimerkin @ee_falseneg kaltaiset lauseet, joissa
 kielto on tavalla tai toisela lievempi:
 
-(@ee_falseneg) Мы с ним вместе гастролировали в Японии, где чуть не убили японку
+(@ee_falseneg) Мы с ним вместе гастролировали в Японии, где чуть не убили японку.
 
 Samoin akkusatiivi on todennäköinen, jos kiellon kohteena ei ole varsinaisesti
 verbin ilmaisema toiminta vaan esimerkiksi sen aste kuten seuraavassa Waden [-@wade2010: 113] esimerkissä:
@@ -2796,15 +2801,16 @@ verbin ilmaisema toiminta vaan esimerkiksi sen aste kuten seuraavassa Waden [-@w
 (@ee_aste)  Он не вполне усвоил урок.
 
 
-### Genetiivi ja prepositiot
+Genetiivi ja prepositiot
+------------------------
 
 Genetiivi ilmaisee prepositioiden yhteydessä usein samoja asioita kuin
 itsenäisestikin käytettynä. Mahdollisia merkityksiä ovat esimerkiksi 
 
-- syy tai päämäärä: для, от, ради, из-за
+- syy tai päämäärä: для, от, ради, из-за, вследствие
 - paikka: до, из, из-за, с, от, вдоль, поперёк, вглубь, возле, около, среди
 - aika: до, после, из, с, от,  около
-- muita: без, вместо
+- muita: без, вместо,
 
 
 luento 8: sijat funktionaalisen morfologian kannalta 2. Elollisuuskategoria.
