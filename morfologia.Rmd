@@ -2217,11 +2217,11 @@ taivutuksesta on paikallaan huomauttaa eräitä erityispiirteitä [vrt. @wade201
 
 Sija    | Pääte   | Esimerkki 1 | Esimerkki 2 |
 ------- | ------- | ------------|-------------|
-Nom.    | /ø/     | пять        | пятьдесЯть  |
+Nom.    | /ø/     | пять        | пятьдесЯт  |
 Gen.    | /и/     | пятИ        | пятИдесяти  |
 Dat.    | /и/     | пятИ        | пятИдесяти  |
-Akk.    | /ø/     | пять        | пятьдесЯть  |
-Instr.  | /ju/    | пятьЮ       | пятьЮдесяти |
+Akk.    | /ø/     | пять        | пятьдесЯт  |
+Instr.  | /ju/    | пятьЮ       | пятьЮдесятью |
 Prep.   | /и/     | пятИ        | пятИдесяти  |
 
 Lukusanojen 3--4 neljä sijataivutus on puolestaan seuraavanlainen:
