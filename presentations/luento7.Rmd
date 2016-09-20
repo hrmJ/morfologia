@@ -91,10 +91,24 @@ Tehtävä:
 >- Subjektina & objektina
     - нет + не пападалось, не встречалось, не сохранилось  + muita
     - abstraktius, gen=gen-sääntö
->- [Tehtävä]()
+>- [Tehtävä](../tehtavat/luento7.pdf)
 
 
 # Suuntaviivoja?
+
+>- Kieliopillisia apuja:
+    - gerundi + gen
+    - kaksoiskielto / ни-partikkeli + gen
+    - kiellon kohde?
+>- Ymmärtäminen, aistihavainto
+>- Gen=gen + abstraktit
+
+# Genetiivi + prepositiot
+
+>- syy tai päämäärä: для, от, ради, из-за, вследствие
+>- paikka: до, из, из-за, с, от, вдоль, поперёк, вглубь, возле, около, среди
+>- aika: до, после, из, с, от,  около
+>- muita: без, вместо,
 
 
 
