@@ -2412,7 +2412,7 @@ esineen, asian tai ominaisuuden kuulumista jollekin (elolliselle) subjektille.
 Šeljakinin mukaan [-@sheljakin: 72] possessiiviadjektiivit jakautuvat kahteen
 ryhmään: a) niihin, jotka ilmaisevat kuulumista jollekin konkreettiselle
 yksilölle (папин, мамин ym.) b) niihin, jotka ilmaisevat kuulumista jollekin
-ryhmälle tai joukolle. (вольчя шкура ym.)
+ryhmälle tai joukolle. (волчья шкура ym.)
 
 Ensimmäisen kategorian possessiiviadjektiivit muodostetaan liittämällä jokin
 suffikseista -ин, -нин ja -ов [@wade2010: 175]. Esimerkiksi:
@@ -2505,6 +2505,11 @@ tai sijaa, vaan niitä käytetään käytännössä aina predikatiivisesti, kute
 
 luento 7: Sijat funktionaalisen morfologian kannalta 
 ======================================================
+
+- [Takaisin sivun ylälaitaan](https://mustikka.uta.fi/~juho_harme/morfologia/#tästä-kurssista)
+- [Lataa PDF](http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento7.pdf)
+- [Tutki luentokalvoja](http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento7.html)
+- [Tutki tuntitehtäviä](http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento7.pdf)
 
 Nyt siirrymme taivutusopista kohti funktionaalista morfologiaa ja ryhdymme
 tarkastelemaan, miten eri merkityksiä ja käyttöyhteyksiä eri sijoilla (sijakategorian
@@ -2813,8 +2818,53 @@ itsenäisestikin käytettynä. Mahdollisia merkityksiä ovat esimerkiksi
 - muita: без, вместо,
 
 
-luento 8: sijat funktionaalisen morfologian kannalta 2. Elollisuuskategoria.
+luento 8: sijat funktionaalisen morfologian kannalta 2. 
 ============================================================================
+
+Datiivin merkityksiä ja käyttöä
+-------------------------
+
+<!-- huomautus suomen datiivista -->
+
+### Datiivi vastaanottajana
+
+
+### Datiivi semanttisena subjektina
+
+Datiivi on merkittävä sija venäjässä erityisesti siitä syystä, että sillä on
+tiettyjä syntaksin kannalta tärkeitä tehtäviä: ennen muuta kyky toimia lauseen
+*semanttisena subjektina* (*субъект* erotuksena syntaktisesta termistä
+*подлежащее*). Semanttinen subjekti voi merkityksen puolesta olla esimerkiksi
+*kokija* (ks. esim. @ee_hol) tai *agentti* (esim. @ee_delat) [kattava katsaus
+erilaisten lauseiden erilaisista subjekteista: @mlein: 14--15]:
+
+(@ee_hol) Мне холодно/весело/жарко/хорошо/неважно.
+(@ee_delat) Что нам делать?
+(@ee_zhal) Дедушке жаль студентов.
+
+### Datiivi verbin täydennyksenä
+
+### Datiivi adjektiivien täydennyksenä
+
+Ikä
+
+
+
+
+
+
+
+Instrumentaalin perusmerkityksiä
+--------------------------------
+
+Akkusatiivin perusmerkityksiä
+-----------------------------
+
+о-prepositio!
+
+Elollisuuskategoria
+-------------------
+
 
 [ks. @sheljakin: 43]
 

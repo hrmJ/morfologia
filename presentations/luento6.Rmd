@@ -231,7 +231,7 @@ Prep.   | двух                   |
 </article>
 
 <article class='incremental' style='float:left;margin-right:2em; font-size:150%;'>
->- вольчая шкура
+>- волчья шкура
 >- собачье сердце
 >- девичья фамилия
 </article>
