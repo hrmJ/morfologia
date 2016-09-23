@@ -63,8 +63,8 @@ no  | Pvm        | Aihe
 5   | ke 14.9.   | Sija kieliopillisena kategoriana 2
 6   | ti 20.9.   | Adjektiiveista, pronomineista ja lukusanoista
 7   | ke 21.9.   | Sijat funktionaalisen morfologian kannalta: gen 
-8   | ti 27.9.   | Sijat funktionaalisen morfologian kannalta: dat + instr + nom + akk (elollisuuskategoria)
-9   | ke 28.9.   | Yleistä verbeistä
+8   | ti 27.9.   | Sijat funktionaalisen morfologian kannalta: gen + dat
+9   | ke 28.9.   | Sijat funktionaalisen morfologian kannalta: instr + nom + akk (elollisuuskategoria)
 10  | ti 4.10.   | Persoona kieliopillisena kategoriana + Partisiippien muodostus
 11  | ke 5.10.   | Pääluokka kieliopillisena kategoriana
 12  | ti 11.10.  | Pääluokka + partisiipit funktionaalisen morfologian kannalta
@@ -2826,28 +2826,163 @@ Datiivin merkityksiä ja käyttöä
 
 <!-- huomautus suomen datiivista -->
 
-### Datiivi vastaanottajana
+Vaikka genetiivi on venäjän sijoista ehkä monikäyttöisin, myös
+datiivilla on erityisesti *prepositioiden yhteydessä* koko joukko merkityksiä. 
+Šeljakin [-@sheljakin: 63--65] erottaa itse asiassa kaikkiaan yhdeksän eri
+merkitysrypästä, joista seuraavassa tarkastellaan huomionarvoisimpia ja vähemmän
+itsestäänselviä.
 
+### Tuttuja merkityksiä
+
+Ensinnäkin voidaan todeta, että niin kuin käytännössä kaikilla venäjän sijoilla,
+myös datiivilla on koko joukko paikallismerkityksiä, jotka suomessa
+ilmaistaisiin varsinaisilla paikallissijoilla (inessiivillä, elatiivilla,
+adessiivilla ym.). Pohdi vaikkapa seuraavia esimerkkejä:
+
+(@ee_regionu) Зоопарк  находится *к югу от* центра.
+(@ee_oknu) ... в ярости поднимается и идёт *к окну*.
+(@ee_krovatke) Сенька снова подошёл к кроватке, погладил мальчику по голове.
+
+Perusmerkitys paikassa on siis к-preposition avulla ilmaistava lähestyminen
+jotakin kohti. Kuitenkin esimerkki @ee_krovatke esittää myös toisen paikkaan
+liittyvän merkityksen: *liike pintaa pitkin*. Tämä toteutetaan по-prepositiolla
+
+(@ee_polju) Ползут *по полю* два бойца, вдруг рядом взрыв
+(@ee_trasse) Люди как муравьи *бегают по трассе* склад-магазин-склад, вывозя всё, что ещё не стоит на полках
+
+Toinen varmasti tuttu merkitys on vastaanottajan ilmaiseminen:
+
+(@ee_vastot) Возможно также, что менее образованные родители изо всех сил стремятся дать *детям* высшее образование 
+(@ee_rutshku) Ручку всё-таки благополучно вернули хозяйке
+
+Myös ajan ilmaiseminen on funktio, jonka ilmaisuun suurin osa sijoista osallistuu,
+eikä datiivi tee poikkeusta. Ensimmäinen ajallinen merkitys suomentuu usein
+mennessä-ilmauksilla:
+
+(@ee_seredine) *К середине следующей недели* карточки были аккуратно распределены на шесть стопок.
+(@ee_ukompa) Я по работе тоже практически весь день у компа, так *к вечеру* у меня голова кружиться начинает.
+(@ee_blizhekvetsheru) *Ближе к вечеру* мы снова отправились в лагерь
+
+Kannattaa kuitenkin muistaa, ettei venäjässä ole samalla tavalla käytössä
+ilmauksia "iltapäivällä" ja "aamupäivällä" kuin suomessa. К-prepositio ja
+datiivi ovat usein avuksi ilmaistaessa vastaavia ajankohtia, kuten seuraavista
+kaunokirjallisista käännösesimerkeistä käy ilmi[^parkorp]:
+
+(@ee_konkka1) Iltapäivällä en enää muista aamun uutisia  
+              Обычно к вечеру я уже забываю утренние известия
+(@ee_lehtolainen1) Oli jättänyt lapun, että palaa iltapäivällä, mutta ei sitä ole näkynyt.  
+                Оставил записку, что вернется к вечеру, но больше не появлялся. 
+
+[^parkorp]: Esimerkit peräisin Tampereen yliopiston ParFin-korpuksesta,
+teoksista Konkka: Hullun taivas ja Lehtolainen: Kuparisydän.
+
+Toinen ajallinen perusmerkitys on suomen instruktiivia vastaava:
+
+(@ee_po) По понедельникам и четвергам приходила домработница убирать его дом
+
+**Huom** По-prepositio merkityksessä 'johonkin aikarajaan asti se mukaanlukien'
+saa viereensä datiivin sijasta *akkusatiivin*: магазин работает с понедельника
+по пятницу.
 
 ### Datiivi semanttisena subjektina
 
-Datiivi on merkittävä sija venäjässä erityisesti siitä syystä, että sillä on
+Datiivi on merkittävä sija venäjässä myös siitä syystä, että sillä on
 tiettyjä syntaksin kannalta tärkeitä tehtäviä: ennen muuta kyky toimia lauseen
 *semanttisena subjektina* (*субъект* erotuksena syntaktisesta termistä
 *подлежащее*). Semanttinen subjekti voi merkityksen puolesta olla esimerkiksi
 *kokija* (ks. esim. @ee_hol) tai *agentti* (esim. @ee_delat) [kattava katsaus
-erilaisten lauseiden erilaisista subjekteista: @mlein: 14--15]:
+erilaisten lauseiden erilaisista subjekteista suomessa ja venäjässä: @mlein: 14--15]:
 
 (@ee_hol) Мне холодно/весело/жарко/хорошо/неважно.
 (@ee_delat) Что нам делать?
 (@ee_zhal) Дедушке жаль студентов.
+(@ee_pokaz) Мне показалось, что ситуация уже прошла.
+(@ee_dumatetsa) Мне думается, что вы ошибаетесь.
+
+Usein näissä tapauksissa suomen kokija ilmaistaisiin adessiivilla (lla) tai
+ehkä hivenen vanhahtavasti genetiivillä: Minulla/minun on
+kylmä/jano/nälkä/sääli. On kuitenkin tapauksia, jotka suomenkieliselle eivät
+tule yhtä intuitiivisesti, kuten присниться-verbi ('nähdä unta jostakin'):
+
+(@ee_prisnitsa) Однажды *ей приснился сон*, что Антон Иванович говорит ей какую-то простую обыденную фразу.
+(@ee_kinomehanik) Когда, поужинав, я лёг в постель, *мне приснилось, что я киномеханик*.
 
 ### Datiivi verbin täydennyksenä
 
+On joukko verbejä, joiden täydennyksen sija on datiivi. Verrattuna genetiiviä
+täydennyksekseen ottaviin verbeihin datiiviverbien käyttö on selkeämpää:
+vastaavaa horjuntaa akkusatiivin ja datiivin välillä ei ole kuin akkusatiivin ja
+genetiivin välillä. Kieltolauseissa datiivitäydennys *ei* myöskään muutu
+genetiiviksi -- ei voida sanoa "он не помогал Анны".
+
+Šeljakinia [-@sheljakin: 64] mukaillen voidaan erottella muun muassa seuraavia
+datiivin kanssa yhdistyviä verbejä:
+
+- vastaavuutta tai suhdetta johonkin ilmaisevat: завидовать, противоречить, ответствовать, соответствовать
+- samanaikaista toimintaa: аккомпанировать, подпевать
+- kuuluminen / alistuminen / vastustaminen: сдаваться, подчиниться, сопротивляться
+
+(@ee_ekolog) В первую очередь придётся *подчиниться принципу экологичности*.
+(@ee_rojal) Потом, когда я подросла и стала учиться в музыкальной школе, то *аккомпанировала ей* на рояле на наших домашних концертах.
+(@ee_sopr)  Власти этих стран долго *сопротивлялись упоминанию* правозащитной проблематики.
+
+Näihin voidaan lisätä ainakin ryhmä *edistämistä* tai *positiivista
+vaikuttamista johonkin* merkitsevät verbit: способствовать,  содействовать
+
+(@ee_sodeist) "Содействовать политическому развитию и политической организации рабочего класса ― наша главная и основная задача"
+(@ee_sposo) Скорейшее преодоление данного барьера будет способствовать развитию бизнеса
+
+Kiinnitä huomiota datiivin rooliin  verbeissä запрешать / разрешать (kieltää / sallia):
+
+(@ee_razr) Иногда я и разрешаю себе подобные надежды
+(@ee_zapr) Впоследствии в этот закон были включены поправки, запрещающие американцам усыновление российских детей
+
+Kiellon/sallimisen kohteena oleva asia tai esine on siis akkusatiivissa ja se,
+jolla oikeus asiaan on tai jolta se viedään, on datiivissa.
+
 ### Datiivi adjektiivien täydennyksenä
 
-Ikä
+Paitsi verbit, myös adjektiivit voivat saada datiivimuotoisen täydennyksen.
+Huomaa, kuten edellä mainittiin, että tällöin käytetään yleensä lyhyttä muotoa.
 
+(@ee_vredn) Такие интеллигенты попросту *вредны государству*
+(@ee_mjortmore) Твоя душа *подобна Мёртвому морю*
+(@ee_ravn) Гёте писал в "Фаусте": "Ты *равен тому*, кого понимаешь".
+
+### Lisää merkityksiä
+
+Seuraavaan on koottu joukko tapauksia, joissa datiivin käyttö ei välttämättä ole
+yhtä tuttua kuin  edellä mainituissa tapauksissa.
+
+Yksi Šeljakinin [-@sheljakin: 65] käyttämistä merkitysryhmistä voitaisiin ilmaista termillä
+*toiminnan kohteen omistaja*. Näissä tapauksissa verbillä on akkusatiiviobjekti,
+mutta tämän lisäksi datiivilla ilmaistaan tämän objektin haltija tai isompi
+kokonaisuus, johon se kuuluu:
+
+(@ee_pozhavruku) В четвёртый, может быть, раз пожав хозяину руку, гость ступил за порог
+(@ee_pozhruk2) Такое благородство восхитило меня, и я ещё сильней пожал ему руку. 
+
+Omistettava asia voi olla abstarktikin, kuten *elämä* esimerkin @ee_spasti
+jälkimmäisessä lauseessa.
+
+(@ee_spasti) Его *другу* убийца повредил левый бок, но врачи спасли *мужчине* жизнь
+
+Huomaa myös konkreettisempi omistettava, ruumiinosa, esimerkin @ee_spasti
+ensimmäisessä lauseessa.
+
+Katsotaan vielä eräitä po-preposition ilmaisemia merkityksiä. Yksi
+tavallisimmista on ilmaista jonkun tai jonkin toiminta-alaa tai määritettävää
+ominaisuutta: чемпион мира по фигурному катанию, исследование по лингвистике,
+отличный по качеству. Toinen tavallinen merkitys puolestaan ilmaisee *syytä tai
+perustetta*: судить по внешности, ценить по уму, уйти по болезни  [näistä
+tarkemmin ks. @sheljakin: 65].
+
+По-preposition erityisempiin merkityksiin kuuluu niin kutsuttu
+*distributiivinen* (распределительный) merkitys, jossa jokaiselle antamisen
+kohteelle annetaan yksi kappale annettavaa esinettä:
+
+(@ee_pirog) А потом в гости пришли друзья, и мама посадила всех за стол и дала каждому *по куску *очень красивого и вкусного пирога с вишнями. 
+(@ee_gvozdik) Ритуал «посвящения» первокурсников. Дипломники раздают каждому *по гвоздике*. 
 
 
 

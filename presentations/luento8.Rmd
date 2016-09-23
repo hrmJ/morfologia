@@ -1,0 +1,64 @@
+% Morfologia, luento 8
+% Juho Härme
+% Pinni B 5004, juho.harme@uta.fi
+
+
+# Sijat funktionaalisen morfologian kannalta 2
+
+# Datiivi
+
+[Tehtäviä](../tehtavat/luento8.pdf)
+
+# Merkityksiä 1
+
+<article class='vinx' style='color:darkblue;'>
+>- Зоопарк  находится *к югу от* центра.
+>- Ползут *по полю* два бойца, вдруг рядом взрыв
+>- <span style='font-size:150%;'>Сенька снова подошёл к кроватке, погладил мальчику *по голове*.</span>
+</article>
+
+<article class='vinx' style='color:green;'>
+>- Ручку всё-таки благополучно вернули хозяйке
+>- Возможно также, что менее образованные родители изо всех сил стремятся дать *детям* высшее образование 
+</article>
+
+<article class='vinx' style='color:#a54b15;'>
+>- Оставил записку, что вернется к вечеру, но больше не появлялся. 
+>- По понедельникам и четвергам приходила домработница убирать его дом
+>- <span style='font-size:150%;'>MUTTA: с понедельника по пятницу</span>
+</article>
+
+<!-- Ehkä pyydä merkitsemään näitä merkityksiä käännöslausepaperiin?  -->
+
+# Merkityksiä 2
+
+<article class='vinx' style='color:darkblue;'>
+>- Мне холодно/весело/жарко/хорошо/неважно.
+>- Дедушке жаль студентов.
+>- Мне думается, что вы ошибаетесь.
+</article>
+
+<article class='vinx' style='color:green;'>
+>- <span style='font-size:150%;'>Когда, поужинав, я лёг в постель, *мне приснилось, что я киномеханик*.</span>
+>- Что нам делать?
+</article>
+
+<article class='vinx' style='color:#a54b15;'>
+>- Такие интеллигенты попросту *вредны государству*
+>- Твоя душа *подобна Мёртвому морю*
+>- Гёте писал в "Фаусте": "Ты *равен тому*, кого понимаешь".
+>- <span style='font-size:150%;'>мама посадила всех за стол и дала каждому *по куску* очень красивого и вкусного пирога с вишнями</span>
+>- Ритуал «посвящения» первокурсников. Дипломники раздают каждому *по гвоздике*. 
+</article>
+
+# Verbejä
+
+>- завидовать, противоречить, ответствовать, соответствовать
+>- аккомпанировать, подпевать
+>- <span style='font-size:150%;'>содействовать, способствовать</span>
+>- сдаваться, подчиниться, сопротивляться
+
+
+
+<!--  pandoc -f markdown -s luento8.Rmd -t slideous -o luento8.html --self-contained --include-in-header=fontheader.html --smart -->
+
