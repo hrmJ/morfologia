@@ -2821,6 +2821,11 @@ itsenäisestikin käytettynä. Mahdollisia merkityksiä ovat esimerkiksi
 luento 8: Sijat funktionaalisen morfologian kannalta 2. 
 ============================================================================
 
+- [Takaisin sivun ylälaitaan](https://mustikka.uta.fi/~juho_harme/morfologia/#tästä-kurssista)
+- [Lataa PDF](http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento8.pdf)
+- [Tutki luentokalvoja](http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento8.html)
+- [Tutki tuntitehtäviä](http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento8.pdf)
+
 Datiivin merkityksiä ja käyttöä
 -------------------------
 
