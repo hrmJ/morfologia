@@ -2818,7 +2818,7 @@ itsenäisestikin käytettynä. Mahdollisia merkityksiä ovat esimerkiksi
 - muita: без, вместо,
 
 
-luento 8: sijat funktionaalisen morfologian kannalta 2. 
+luento 8: Sijat funktionaalisen morfologian kannalta 2. 
 ============================================================================
 
 Datiivin merkityksiä ja käyttöä
@@ -2929,7 +2929,7 @@ datiivin kanssa yhdistyviä verbejä:
 Näihin voidaan lisätä ainakin ryhmä *edistämistä* tai *positiivista
 vaikuttamista johonkin* merkitsevät verbit: способствовать,  содействовать
 
-(@ee_sodeist) "Содействовать политическому развитию и политической организации рабочего класса ― наша главная и основная задача"
+(@ee_sodeist) "Содействовать политическому развитию и политической организации рабочего класса -- наша главная и основная задача"
 (@ee_sposo) Скорейшее преодоление данного барьера будет способствовать развитию бизнеса
 
 Kiinnitä huomiota datiivin rooliin  verbeissä запрешать / разрешать (kieltää / sallia):
@@ -2985,9 +2985,8 @@ kohteelle annetaan yksi kappale annettavaa esinettä:
 (@ee_gvozdik) Ритуал «посвящения» первокурсников. Дипломники раздают каждому *по гвоздике*. 
 
 
-
-
-
+Luento 9: sijat funktionaalisen morfologian kannalta 3
+======================================================
 
 Instrumentaalin perusmerkityksiä
 --------------------------------
@@ -3015,7 +3014,7 @@ Kirjallisuutta
 ==============
 
 
-<!--  !pandoc -t latex --bibliography=lahteet.bib --template=textemp.tex -o a/luento1.tex -->
+<!--  !pandoc -t latex --bibliography=lahteet.bib --template=textemp.tex -o materiaalit/luento1.tex -->
 <!--  !pandoc morfologia.Rmd -f markdown -t html --bibliography=lahteet.bib --standalone -o index.html -css github-pandoc.css --toc --toc-depth=1 --include-after-body=scripts.js --smart -->
 
 
