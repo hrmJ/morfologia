@@ -2993,24 +2993,293 @@ kohteelle annetaan yksi kappale annettavaa esinettä:
 Luento 9: sijat funktionaalisen morfologian kannalta 3
 ======================================================
 
-Instrumentaalin perusmerkityksiä
---------------------------------
-
-Akkusatiivin perusmerkityksiä
------------------------------
-
-о-prepositio!
+- [Takaisin sivun ylälaitaan](https://mustikka.uta.fi/~juho_harme/morfologia/#tästä-kurssista)
+- [Tutki luentokalvoja](http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento9.html)
 
 Elollisuuskategoria
--------------------
+===================
+
+Elollisuus (одушевлённость) on aspektin ohella yksi niistä venäjän
+kieliopillisista kategorioista, jotka suomessa eivät ole kieliopillisen
+kategorian asemassa. Kuten suku, myös elollisuus on ominaisuus, joka määräytyy
+substantiivin vartalon mukaan, mutta ilmenee ennen kaikkea kongruoivien sanojen
+muotojen kautta [@nikunl: 152].
+
+Miten elollisuuskategoria ilmenee?
+----------------------------------
+
+Elollisuuskategoria ja akkusatiivin sija liittyvät venäjässä kiinteästi yhteen.
+Substantiivin elollisuus näkyy siten, **että elollisilla substantiivella
+akkusatiivi on tietyissa tapauksissa genetiivin kaltainen**. Tarkemmin
+sanottuna:
+
+1. Jos substantiivi kuuluu I deklinaatioon ja on yksikössä
+2. Riippumatta deklinaatiosta, jos substantiivi on monikossa
+
+Jos taas substantiivi kuuluu II deklinaatioon, akkusatiivilla on **suvusta
+riippumatta** oma päätteensä:
+
+(@ee_kazhdyjmuzh) Иными словами, *на каждого мужчину* "от 35 и выше" приходится почти две женщины соответствующего возраста.
+(@ee_vanja) Ты случайно *Ваню Воронкова* не знаешь?
+(@ee_poljubila) Одна молодая красивая американская девушка полюбила одного русского мужчину.
+
+Elollisuuskategorian ilmaiseminen on siis morfologisesti yksinkertaista. Hieman
+mutkikkaampi on kysymys siitä, *milloin* sana on elollinen.
+
+Milloin elollisuuskategoria ilmenee?
+----------------------------------
+
+Šeljakin [-@sheljakin: 43] huomauttaa, että *elollisuus* ja *elottomuus* eivät
+kieliopillisena kategoriana lankea yhteen sen kanssa, mitä esimerkiksi
+biologiassa pidetään elävänä. Katso vertailun vuoksi vaikkapa seuraavaa
+Wikipedian määritelmää, jonka mukaan elolliset organismit:
+
+*maintain homeostasis, are composed of cells, undergo metabolism, can
+grow, adapt to their environment, respond to stimuli, and reproduce.*
+
+Jos mietitään venäjän elollisuuskategoriaa, selvin esitetyn biologisen
+määritelmän ulkopuolelle jäävä joukko ovat kasvien nimet: я видел берёзы, Миша
+купил невесте незабытки. Hieman epämääräisempi joukko ovat erilaiset
+alkeellisemmat organismit, joita ei pidetä elollisena: *в этой лаборатории изучают
+микробы/вирусы/эмбрионы/бактерии.* Myöskään joukkoihin viittaavat kollektiivisubstantiivit
+eivät ole elollisia -- näistä Nikunlassi [-@nikunl: 152] mainitsee muun muassa sanat
+*народ* ja *стадо*. Šeljakin puolestaan liittää vielä erikseen kiinteät,
+*tiettyyn joukkoon pyrkimistä* tarkoittavat ilmaisut, kuten seuraavissa
+kansalliskorpuksen esimerkkilauseissa:
+
+(@ee_mvedi) Прежде всего: должно быть трудно «поступить в музыковеды».
+(@ee_skauti) Должно быть, тем же летом 1916 года *я поступила в скауты.*
+
+**Lukusanoista:** perustilanne on, etteivät lukusanat taivu elollisuuskategorian
+mukaisesti:
+
+(@ee_lukus) Мы видели пять генералов.
+
+Tähän on kuitenkin kaksi poikkeusta: lukusanat 1--4 sekä kollektiivilukusanat,
+kuten seuraavissa esimerkeissä:
+
+(@ee_stiral) Едва взглянул в её глаза, как уже имел *пятерых* детей, стиральную машину "Индезит" и смерть в семидесятисемилетнем возрасте от анемии.
+(@ee_dekabristi) Тринадцатого июля вершилась казнь. Вешали *четверых* декабристов. 
+
+### Erityistapauksia
+
+Nikunlassin [-@nikunl: 153] perusteella voidaan luetella seuraavat
+elollisuuskategorian ilmenemiseen liittyvät erikoistapaukset:
+
+1. Esimerkiksi sanat *снеговик* ja *кукла* voivat tulla kohdelluiksi elollisina,
+jos niihin viitataan ikään kuin ne olisivat eläviä henkilöitä. Samoin myös
+normaalisti puhtaasti esinettä tarkoittavat, kuten esimerkin @ee_zvezda
+*звезда*,
+voivat henkilöön viitatessaan saada elollisen tulkinnan
+Tähän joukkoon voidaan liittää myös esimerkiksi sana *лицо*, joka henkilöä
+tarkoittessaan käyttäytyy elollisen substantiivin tavoin.
+
+2. Kalat ja äyriäiset tulkitaan elottomiksi, jos puhutaan niiden syömisestä
+   (esimerkit @ee_krevetki1 ja @ee_krevetki2).
+
+3. Pelikorttien ja shakkinappuloiden nimet (король, дама, ym.) ovat elollisia.
+
+(@ee_zvezda) Кстати, мне за Клевченю очень обидно: в команде он вынужден работать не на себя, а на *голландских звёзд*.
+(@ee_krevetki1) Она обычно заказывает *креветки* ('katkarapu'), свежую клубнику и...
+(@ee_krevetki2) Рыбаки ловят *креветок*, готовятся к завтрашней рыбалке.
 
 
-[ks. @sheljakin: 43]
+Akkusatiivin merkityksistä
+-----------------------------
 
-painoasioita: на пол vs. на пол
+Akkusatiivin perusmerkitys on selkeä: kyseessä on suoran objektin sija,
+joka ilmaisee toiminnan kohdetta. Venäjässä akkusatiivilla on kuitenkin myös
+muita merkityksiä. Myös tässä voidaan erottaa omaksi joukokseen paikan ja ajan
+merkitykset.
+
+Paikkaan tai tilassa tapahtuvaan liikkeeseen liittyvät merkitykset ilmaistaan
+prepositiolla на, в, за, под ja о. Suurin osa näistä on tuttuja ja koko lailla
+selkeitä: akkusatiivi ilmaisee liikettä *johonkin suuntaan* ennemmin kuin
+*jossakin suunnassa*:
+
+(@ee_narabotu) Пришли *на работу*, а потом пошли пообедать
+(@ee_Stambul) Российская делегация прибыла *в Стамбул* с намерением способствовать дальнейшему укреплению связей с Организацией Исламская конференция
+(@ee_vyskotshit) Дурно пахнущие юноши из "группы поддержки", стоявшие возле меня, поспешно выскочили за дверь в коридор. 
+(@ee_podokno) К вечеру Сергей пришёл под окно с саксофоном
+
+**О-preposition** tulee usein mieltäneeksi vain prepositionaaliin liittyväksi.
+Kuitenkin sillä on akkusatiivin yhteydessä käytettäessä tärkeä paikan
+ilmaisemiseen liittyvä merkitys, törmääminen/osuminen johonkin. 
+
+(@ee_lob2) Если не помогает этот приём, попробуйте стукнуть лбом о клавиатуру.
+(@ee_ozemlju) Как будто разбиться *о землю* хуже, чем сгореть в танке?
+(@ee_otravu) Я долго вытирал ботинки *о траву* и промочил их насквозь
+
+
+Ajan ilmaisemisessa akkusatiivilla voidaan sanoa olevan venäjän sijoista tärkein
+rooli. Erityisesti niin kutsutussa *lokalisoivassa*  tai *ajankohtaa
+ilmaisevassa* funktiossa  (временные локализаторы) -- kun ilmaistaan *milloin*
+tai minä ajankohtana jotakin tapahtui --  akkusatiivi on (eräiden
+prepositionaalitapausten ohella) tavallisin sija. Näissä tapauksissa
+akkusatiivia käytetään в-preposition yhteydessä (esimerkki @ee_lokakk). *Kestoa*
+(продолжительность) eli ajallista ekstensiota ilmaistaessa akkusatiivia
+käytetään ilman prepositioita (esimerkki @ee_kestakk). Ajallista päämäärää
+ilmaistaessa prepositio on на (esimerkki @ee_ajallp). Myös под+akkusatiivi on
+mahdollinen (esimerkki @ee_podakk) ja usein rinnastettavissa
+к+datiivi-tapauksiin:
+
+(@ee_lokakk) *В вечер* моего дебюта в ложе дирекции находился Михаил Иванович Чулаки
+(@ee_kestakk) Премьер Яценюк вместе с министрами *всю неделю* ходил по парламентским фракциям.
+(@ee_ajallp) он приглашает меня на месяц в Ялту
+(@ee_podakk) Зато *под утро* я заснул как убитый и пробудился в половине
+двенадцатого.
+
+Kun mietitään на-prepositiota seuraavaa akkusatiivia, on usein kiinnitettävä
+huomiota siihen, että etenkin puhekielessä paino saattaa osua substantiivin
+sijasta на-prepositiolle. Usein tällöin on kyse idiomeista, joista tavallisin
+lienee *нА ночь гладя*.  Katso pidempi lista esimerkiksi
+[täältä](http://fonetica.philol.msu.ru/akcent/bezud_slaboud/ud_na_pr.html).
+
+Viimeisenä hajanaisena akkusatiivihuomiona kehotan
+muistamaan myös seuraavat akkusatiivin käyttötilanteet: *за какую цену / ни за что,
+учиться на кого*.
+
+
+Instrumentaalin merkityksiä
+--------------------------------
+
+Aloitetaan myös instrumentaalin perusmerkitysten käsittely paikkaan ja aikaan
+liittyvistä merkityksistä, joista suurin osa toteutuu prepositioiden avulla.
+Šeljakin [@sheljakin: 67] ryhmittelee instrumentaalin paikalliset perusmerkitykset
+merkityksiksi, jotka kuvaavat jonkin objektin sijaintia suhteessa toiseen
+objektiin. Tässä merkityksessä oleellisia ovat prepositiot над, под, перед, за,
+с ja между.
+
+(@ee_ugljami) жарить над раскалёнными углями.
+(@ee_kartinoi)  ...встанете *перед картиной* и будете думать: "Так… вот она, это же она…"
+(@ee_pidzhakom) Под пиджаком у него была только рваная сетчатая майка
+
+Tiettyjä paikallisia merkityksiä voidaan ilmaista ilman prepositioita,
+kuten ilmauksissa tyyppiä *metsän läpi*, *rantaa myöten* ym.
+
+(@ee_skver) Почему-то я вспомнил, как мы шли сквером ('aukio') и спорили
+(@ee_ghetto) Кругом золотились осенние поля, мы шли дорогой, по которой...
+(@ee_lesom) Он шёл лесом, и ему представлялось: вот уж нет его...
+
+Myös ajalliset merkitykset ovat varmasti tuttuja, sekä prepositioiden kanssa
+että ilman:
+
+- перед сном / рассветом / тем, как...
+- утром, вечером, днём, летом, зимой, целыми вечерами
+
+Huomaa, että käytännössä sanat утром, вечером ym. ovat nykyvenäjässä adverbejä,
+morfologisesti siis muotoa /утром/ ennemmin kuin /утр/ом/.
+
+Ajallisesta merkityksestä on kyse myös silloin, kun kuvataan jotain toimintaa
+alkavaksi suhteessa johonkin tapahtumaan: *встать с солнцем, уехать с рассветом*
+[@sheljakin: 68].
+
+### Agentti
+
+Kuten tunnettua, eräs instrumentaalin tehtävistä on ilmaista
+passiivilauseiden tekijää:
+
+(@ee_kanal) Мы видели канал, покрытый льдом.
+(@ee_profilaktika) Таким образом, профилактика экстремизма, проводимая государством, нарушает права человека и должна быть признана неконституционной
+(@ee_kvartiry) Квартиры, которые у нас строятся *компанией* «Стройметресурс»,
+отличаются хорошей планировкой.
+
+Erikseen tämän merkityksen sisältä on syytä mainita myös lauseet, joita
+Šeljakin [-@sheljakin: 69] nimittää termillä *значение стихийного носителя
+действия*, luonnonvoiman aiheuttaman toiminnan merkitys. Tarkempi katsaus
+aiheeseen on saatavilla
+[tästä](http://www.helsinki.fi/~mustajok/pdf/Lodku_uneslo_vetrom.pdf) A.
+Mustajoen ja M. Kopotevin [-@mustajoki2005] artikkelista.
+
+(@ee_vetrom) Ветром унесло лодку
+(@ee_trotuar) Тротуар залило водой
+
+### Predikatiivinen instrumentaali
+
+Instrumentaali on usein syntaksin kannalta...
+
+
+### Prepositio + instrumentaali verbin täydennyksenä
+
+Monet verbit saavat täydennyksekseen prepositiolausekkeen, jonka
+substantiivijäsen on instrumentaalissa. Näitä voidaan Šeljakinin [-@sheljakin: 67]
+esityksen pohjalta jaotella esimerkiksi seuraavanlaisiin ryhmiin:
+
+- Alistaminen jollekin:
+  властвовать/начальствовать над кем-то
+- Mielentila suhteessa johonkin:
+  задуматься/работать/смеяться/шутить над чем-либо
+- Alisteinen toiminta suhteessa johonkuhun: преклоняться/извиниться
+  перед кем-либо
+- seuraaminen/välittäminen: следить за политикой, ухаживать за детьми
+- päämäärä: сходить за молоком, приехать за дочкой
+
+### Instrumentaali verbin täydennyksenä
+
+Waden [-@wade2010] perusteella voidaan suoran instrumentaalitäydennyksen saavat verbit
+jaotella seuraaviin ryhmiin:
+
+1. Hallinta. Esimerkiksi *владеть, править, управлять, ползоваться, распологать,
+   распоряжаться, руководит, заведовать.*
+2. Asenne. Esimerkiksi *восхищаться, гордиться, хвастаться, интересоваться,
+   увлекаться, наслаждаться, обходиться.*
+3. Vastavuoroinen toiminta. Esimerkiksi делиться, обмениваться.
+4. Muut, kuten (usein merkitykseltään negatiiviset) *болеть, страдать,
+   жертвовать, рисковать* tai positiivisemmat/neutraalit *торговать,
+   прославляться*.
+
+(@ee_vizental) Визенталь утверждал, что располагает *длинным списком* с
+фамилиями бывших нацистов.
+(@ee_ran) Профессор, академик РАЕН Евгений Николаевич Панов заведует
+*лабораторией* сравнительной этологии и биокоммуникации Института проблем экологии
+и эволюции РАН. 
+(@ee_hvastalis) Хвастались друг перед другом своей ловкостью, умением
+смухлевать, переторговать, махнуться не глядя.
+(@ee_delitsa) Немецкий зоолог Рюдигер Ферхассельт делится *своими наблюдениями*:
+"У меня в аквариуме был розово-красный самец..."
+(@ee_proslavl) Новая столица Японии прославлялась всеми средствами массовой информации.
+
+### Kontrastiivisia huomioita
+
+Vertaillaan vielä suomea ja venäjää ja pohditaan, miten suomessa ilmaistaan
+asioita, joita venäjässä ilmaistaan instrumentaalilla.
+
+Instrumentaalia käytetään ensinnäkin usein suomen
+essiiviin: 
+
+(@ee_umerla)  Она умерла молодой / героем
+(@ee_uehali)  Они уехали семьей
+(@ee_zdor)  Если приду здоровым…
+
+Vertaa myös:
+
+(@ee_sidel) Он сидел плечом к пленному, а спиной к дереву 
+
+Toisaalta suomessa on usein suora objekti siinä, missä venäjässä on
+instrumentaalisijainen sana. Luonnollisesti monet näistä tapauksista liittyvät
+edellä esitettyivin instrumentaalitäydennyksen saaviin verbeihin (заниматься,
+управлять ym.) Lisäksi kannattaa kiinnittää huomiota esimerkiksi ruumiinosien
+liikuttamiseen:
+
+(@ee_dvigat) Я молча махнул рукой и пошёл прочь.
+(@ee_migat) Принюхиваясь, очень смешно двигают носом и мигают глазами.
+
+Wade [-@wade2010: 122] huomauttaa, eettä näissä tapauksissa paitsi ruumiinosa
+myös *ruumiinosalla* (kädellä) tapahtuva liike tulkitaan samoin:
+
+(@ee_kasiliik) На одной из них стоят два гражданина и размахивают чемоданами.
+
+
+
+Luento 10: persoona kieliopillisena kategoriana
+===============================================
+
+[Tähän alkuun vielä lyhyesti prepositionaalista?]
+
 
 luento 12 : pääluokka kieliopillisena kategoriana
 =================================================
+
 
 ks. vanhala-aniszewski 1992!
 

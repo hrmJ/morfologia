@@ -1,0 +1,67 @@
+% Morfologia, luento 9
+% Juho Härme
+% Pinni B 5004, juho.harme@uta.fi
+
+
+# Sijat funktionaalisen morfologian kannalta 3
+
+Tehtävä: Miten (ei milloin) elollisuuskategoria ilmenee / mihin vaikuttaa?
+
+<!-- Kootaan taululle -->
+
+# Milloin elollisuuskategoria ilmenee?
+
+>- Mikä on elollista?
+>- *living organisms...*
+>- *maintain homeostasis, are composed of cells, undergo metabolism, can
+grow, adapt to their environment, respond to stimuli, and reproduce.*
+
+<article class='imgcont'>
+
+<img src='http://www.livescience.com/images/i/000/037/160/i02/bacteria-generic-130823.jpg' class='incremental'>
+<img src='http://www.colady.ru/wp-content/uploads/2013/05/polikistoz.jpg' class='incremental'>
+<img src='http://szaopressa.ru/wp-content/uploads/2016/03/7676678.jpg' class='incremental'>
+<img src='http://www.clipartkid.com/images/21/numbers-clip-art-royalty-free-numbers-clipart-illustration-225959-jpg-o9dbNe-clipart.jpg' class='incremental'>
+<img src='http://www.clipartbest.com/cliparts/MTL/LzG/MTLLzGp6c.jpeg' class='incremental'>
+
+</article>
+
+<!-- aukkoTEHTÄVÄ elollisuudesta -->
+
+# Muuta akkusatiivista
+
+>- Paikka + aika -- miten?
+
+# Paikka ja aika
+
+<article class='vinx' style='color:darkblue;'>
+>- Пришли *на работу*, а потом пошли пообедать
+>- Российская делегация прибыла *в Стамбул* с намерением способствовать дальнейшему укреплению связей с Организацией Исламская конференция
+>- Дурно пахнущие юноши из "группы поддержки", стоявшие возле меня, поспешно выскочили за дверь в коридор. 
+>- К вечеру Сергей пришёл под окно с саксофоном
+</article>
+
+<article class='vinx' style='color:green;'>
+>- *В вечер* моего дебюта в ложе дирекции находился Михаил Иванович Чулаки.
+>- Премьер Яценюк вместе с министрами *всю неделю* ходил по парламентским фракциям.
+>- он приглашает меня *на месяц* в Ялту.
+>- Зато *под утро* я заснул как убитый и пробудился в половине двенадцатого.
+</article>
+
+
+# Törmätä, osua
+
+>- Если не помогает этот приём, попробуйте стукнуть лбом ___________?
+>- Как будто разбиться *о землю* хуже, чем сгореть в танке?
+>- Я долго вытирал ботинки *о траву* и промочил их насквозь?
+
+# Instrumentaali
+
+
+<!-- TEKSTI INSTRUmentaalista -->
+
+
+
+<!--  pandoc -f markdown -s luento9.Rmd -t slideous -o luento9.html --self-contained --include-in-header=fontheader.html --smart -->
+
+
