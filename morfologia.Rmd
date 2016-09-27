@@ -83,9 +83,9 @@ no  | Pvm        | Aihe
 23  | ti 22.11.  | Verbimuotoja: Gerundit
 24  | ke 23.11.  | Verbimuotoja: Infinitiivi
 25  | ti 29.11.  | Adverbien erityispiirteitä
-    | ke 30.11.  | Kertausta
-    | ti 6.12.   | EI LUENTOA (itsenäisyyspäivä)
-    | ke 7.12.   | KOE
+-   | ke 30.11.  | Kertausta
+-   | ti 6.12.   | EI LUENTOA (itsenäisyyspäivä)
+-   | ke 7.12.   | KOE
 
 
 Luento 1: Mikä ihmeen morfologia?
@@ -2997,7 +2997,9 @@ Luento 9: sijat funktionaalisen morfologian kannalta 3
 ======================================================
 
 - [Takaisin sivun ylälaitaan](https://mustikka.uta.fi/~juho_harme/morfologia/#tästä-kurssista)
+- [Lataa PDF](http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento9.pdf)
 - [Tutki luentokalvoja](http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento9.html)
+- [Tutki tuntitehtäviä](http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento9.pdf)
 
 Elollisuuskategoria
 -------------------
