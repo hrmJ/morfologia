@@ -5,6 +5,8 @@
 
 # Sijat funktionaalisen morfologian kannalta 2
 
+[Iltapäivä/aamupäivä](https://mustikka.uta.fi/~juho_harme/sky2016.html)
+
 # Datiivi
 
 [Tehtäviä](../tehtavat/luento8.pdf)

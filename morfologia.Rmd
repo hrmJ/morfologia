@@ -64,27 +64,28 @@ no  | Pvm        | Aihe
 6   | ti 20.9.   | Adjektiiveista, pronomineista ja lukusanoista
 7   | ke 21.9.   | Sijat funktionaalisen morfologian kannalta: gen 
 8   | ti 27.9.   | Sijat funktionaalisen morfologian kannalta: gen + dat
-9   | ke 28.9.   | Sijat funktionaalisen morfologian kannalta: instr + nom + akk (elollisuuskategoria)
-10  | ti 4.10.   | Persoona kieliopillisena kategoriana + Partisiippien muodostus
-11  | ke 5.10.   | Pääluokka kieliopillisena kategoriana
-12  | ti 11.10.  | Pääluokka + partisiipit funktionaalisen morfologian kannalta
+9   | ke 28.9.   | Sijat funktionaalisen morfologian kannalta: dat + akk (elollisuuskategoria)
+10  | ti 4.10.   | Sijat funktionaalisen morfologian kannalta: instr + prep
+11  | ke 5.10.   | Persoona kieliopillisena kategoriana 
+12  | ti 11.10.  | Partisiippien muodostus + pääluoka
+13  | ke 12.10.  | Pääluokka  + partisiippien käyttöä
 -   | ti 18.10   | PERIODITAUKO
 -   | ke 19.10   | PERIODITAUKO
-13  | ke 19.10   | Aspekti kieliopillisena kategoriana
-14  | ti 25.10.  | Aspektin muodostus ja aspektiparin käsite
-15  | ke 26.10.  | Aspekti funktionaalisen morfologian kannalta 1
-16  | ti 1.11.   | Aspekti funktionaalisen morfologian kannalta 2
-17  | ke 2.11.   | Aika kieliopillisena kategoriana
-18  | ti 8.11.   | Tapaluokka kieliopillisena kategoriana 1
-19  | ke 9.11.   | Tapaluokka kieliopillisena kategoriana 2
-20  | ti 15.11.  | Liikeverbit 1
-21  | ke 16.11.  | Liikeverbit 2
-22  | ti 22.11.  | Verbimuotoja: Gerundit
-23  | ke 23.11.  | Verbimuotoja: Infinitiivi
-24  | ti 29.11.  | Adverbien erityispiirteitä
-25  | ke 30.11.  | Kertausta
-26  | ti 6.12.   | EI LUENTOA (itsenäisyyspäivä)
-26  | ke 7.12.   | KOE
+14  | ke 19.10   | Aspekti kieliopillisena kategoriana
+15  | ti 25.10.  | Aspektin muodostus ja aspektiparin käsite
+16  | ke 26.10.  | Aspekti funktionaalisen morfologian kannalta 1
+17  | ti 1.11.   | Aspekti funktionaalisen morfologian kannalta 2
+18  | ke 2.11.   | Aika kieliopillisena kategoriana
+19  | ti 8.11.   | Tapaluokka kieliopillisena kategoriana 1
+20  | ke 9.11.   | Tapaluokka kieliopillisena kategoriana 2
+21  | ti 15.11.  | Liikeverbit 1
+22  | ke 16.11.  | Liikeverbit 2
+23  | ti 22.11.  | Verbimuotoja: Gerundit
+24  | ke 23.11.  | Verbimuotoja: Infinitiivi
+25  | ti 29.11.  | Adverbien erityispiirteitä
+    | ke 30.11.  | Kertausta
+    | ti 6.12.   | EI LUENTOA (itsenäisyyspäivä)
+    | ke 7.12.   | KOE
 
 
 Luento 1: Mikä ihmeen morfologia?
@@ -2643,7 +2644,9 @@ vaihtoehto. Pohdi täydennystä seuraavassa esimerkissä:
 
 (@ee_zavid) Нужно признать, что я вам очень завидую.
 
-Esimerkin @ee_zavid признать-verbin täydennys on datiivimuotoinen. 
+Esimerkin @ee_zavid завидовать-verbin täydennys on datiivimuotoinen. Edelleen
+voidaan sanoa, että признать-verbin täydennyksenä on kokonainen sivulause (что я
+вам очень завидую).
 
 Genetiivi on täydennyksen saamana sijana venäjässä erittäin yleinen.
 Ongelmallisen genetiivitäydennyksen käytöstä tekee se, että on monia tilanteita,
@@ -2720,7 +2723,7 @@ Genetiivi ja kieltomuodot
 
 Edellä käsiteltiin konkreettisia sanoja, joiden täydennykset ovat usein tai aina
 genetiivissä. Kokonaan oma teemansa ovat kieltolauseet ja genetiivin esiintyminen
-niissä. Venäjän niin kutsuttu *kieltogenetiivi* (genetive of negation,
+niissä. Venäjän niin kutsuttu *kieltogenetiivi* (genitive of negation,
 родительный падеж в отрицательных конструкциях) on saanut
 osakseen mittavaa tutkimustyötä ja huomiota [ks. esim. @partee2006genitive].
 
@@ -2762,7 +2765,7 @@ Eniten epäselvyyttä genetiivi--akkusatiivi-opposition suhteen aiheuttavat
 tapaukset, joissa kieltolauseen verbillä on objektitäydennys. Objektin
 sisältävissä kieltolauseissa genetiiviä voi pitää jopa todennäköisempänä  kuin
 akkusatiivia. Edellä mainittu geneerisyys vs spesifisyys -tendenssi antaa
-joitakin suuntaviivoja, samoin seuraavat huomiot [-@wade2010: 113].
+joitakin suuntaviivoja, samoin seuraavat huomiot [@wade2010: 113].
 Mielenkiintoisena faktana todettakoon, että eräissä muissa slaavilaisissa
 kielissä (puola, slovakki) genetiivi on kieltomuodoissa välttämätön 
 [@king1995: 31].
@@ -2914,7 +2917,7 @@ tule yhtä intuitiivisesti, kuten присниться-verbi ('nähdä unta jost
 
 ### Datiivi verbin täydennyksenä
 
-On joukko verbejä, joiden täydennyksen sija on datiivi. Verrattuna genetiiviä
+On joukko verbejä, joiden täydennyksen sija on datiivi. Verrattuna genetiivin
 täydennyksekseen ottaviin verbeihin datiiviverbien käyttö on selkeämpää:
 vastaavaa horjuntaa akkusatiivin ja datiivin välillä ei ole kuin akkusatiivin ja
 genetiivin välillä. Kieltolauseissa datiivitäydennys *ei* myöskään muutu
@@ -2932,7 +2935,7 @@ datiivin kanssa yhdistyviä verbejä:
 (@ee_sopr)  Власти этих стран долго *сопротивлялись упоминанию* правозащитной проблематики.
 
 Näihin voidaan lisätä ainakin ryhmä *edistämistä* tai *positiivista
-vaikuttamista johonkin* merkitsevät verbit: способствовать,  содействовать
+vaikuttamista johonkin* merkitseviä verbejä: способствовать,  содействовать
 
 (@ee_sodeist) "Содействовать политическому развитию и политической организации рабочего класса -- наша главная и основная задача"
 (@ee_sposo) Скорейшее преодоление данного барьера будет способствовать развитию бизнеса
@@ -3196,7 +3199,28 @@ Mustajoen ja M. Kopotevin [-@mustajoki2005] artikkelista.
 
 ### Predikatiivinen instrumentaali
 
-Instrumentaali on usein syntaksin kannalta...
+Instrumentaali on usein syntaksin kannalta erityisasemassa sen vuoksi, että,
+kuten nominatiivi, se voi toimia predikatiivin roolissa (predikatiivinen
+instrumentaali, творительный предикативный), eli ilmoittaa ominaisuuden
+tai tilan, joka jostakin subjektista lauseessa kerrotaan. Katso seuraavia
+esimerkkejä:
+
+(@ee_litsozh) Лицо женщины было *испуганным*
+(@ee_kapitan) Или сам, не дай Бог, будешь *капитаном*, и самому придётся всех мучить.
+(@ee_mastera) Те, кто тогда были *мастерами*, уже стали классиками.
+(@ee_vzaimodeist) И, конечно, мы очень надеемся на то, что наше взаимодействие будет *эффективным*
+(@ee_strekoza) Например, я когда-то была *стрекозой* ('sudenkorento'), но, увидев Паки, влюбилась без ума и превратилась в колибри
+
+Etenkin menneessä ajassa ero instrumentaalin ja nominatiivin välillä on usein
+siinä, että instrumentaalilla ilmaistava ominaisuus tai tila on väliaikaisempi
+[@wade2010: 126]. Tämä näkyy esimerkiksi lauseissa @ee_litsozh ja
+@ee_strekoza, mutta on ainoastaan tendenssi, ei itsestäänselvyys.
+Predikatiivin kaltainen on myös käyttö eräiden verbien kuten стать, называть, остаться, работать, служить:
+
+(@ee_testo) Тесто месить до тех пор, пока оно не станет блестящим
+(@ee_ostanutsa) Стратегические планы Oracle в новом финансовом году останутся прежними
+(@ee_katkusy) Эти медленно растущие и особенно ценимые кактусы иногда называют
+*каменными розами*.
 
 
 ### Prepositio + instrumentaali verbin täydennyksenä

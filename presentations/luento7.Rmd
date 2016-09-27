@@ -46,12 +46,17 @@ Tehtävä:
 # Genetiivi verbin täydennyksenä
 
 >- дополнение/обстоятельство -- täydennys/määrite
+>- [Moodle](https://learning2.uta.fi/course/view.php?id=8679)
 
-<!-- Pari esimerkkilausetta, joista kysytään, mikä tässä täydennys, mikä määrite  -->
+<!-- Pari esimerkkilausetta, joista kysytään, mikä tässä täydennys, mikä määrite  
+
+Nämä ryhmät:
 
 >- добиваться, достигать, желать ja заслуживать.
 >- ждать/ожидать/дожидаться, искать, просить, хотеть, требовать.
 >- бояться, опасаться, пугаться, стесняться, стыдиться, сторониться,  избегать
+
+-->
 
 <!-- Etsitään läppäreillä korpuksesta verbitapauksia ryhmittäin ... valittavana kans.korp ja araneum. Mustikka? -->
 
@@ -88,7 +93,7 @@ Tehtävä:
 
 # Genetiivi + kieltomuoto
 
->- Tutkittu, huomiota herättänyt ilmiö kielitieteessä (genetive of negation)
+>- Tutkittu, huomiota herättänyt ilmiö kielitieteessä (genitive of negation)
 >- Useammin kuin luuletkaan -- vertaa esim. *puola*
 >- Subjektina & objektina
     - нет + не пападалось, не встречалось, не сохранилось  + muita
@@ -99,10 +104,12 @@ Tehtävä:
 # Suuntaviivoja?
 
 >- Kieliopillisia apuja:
-    - gerundi + gen
-    - kaksoiskielto / ни-partikkeli + gen
-    - kiellon kohde?
+    - Не имея специального образования, защититься без адвоката совсем непросто
+    - Он ни на секунду не потерял *достоинства*
+    - Он не вполне усвоил урок.
 >- Ymmärtäminen, aistihavainto
+    - Честно говоря, я сам *не знаю ответа* на поставленный вопрос
+    - Почему ты всё-таки дал деньги на оркестр, ты же не понимал *классической музыки*?
 >- Gen=gen + abstraktit
 
 # Genetiivi + prepositiot
@@ -110,7 +117,8 @@ Tehtävä:
 >- syy tai päämäärä: для, от, ради, из-за, вследствие
 >- paikka: до, из, из-за, с, от, вдоль, поперёк, вглубь, возле, около, среди
 >- aika: до, после, из, с, от,  около
->- muita: без, вместо,
+    - muista: с утра, с вечера
+>- muita: без, вместо
 
 
 
