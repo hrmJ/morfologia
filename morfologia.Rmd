@@ -3000,7 +3000,7 @@ Luento 9: sijat funktionaalisen morfologian kannalta 3
 - [Tutki luentokalvoja](http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento9.html)
 
 Elollisuuskategoria
-===================
+-------------------
 
 Elollisuus (одушевлённость) on aspektin ohella yksi niistä venäjän
 kieliopillisista kategorioista, jotka suomessa eivät ole kieliopillisen
