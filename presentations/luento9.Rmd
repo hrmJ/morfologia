@@ -60,9 +60,9 @@ grow, adapt to their environment, respond to stimuli, and reproduce.*
 
 <!-- TEKSTI INSTRUmentaalista -->
 
-<article class='vinx' style='color:aliceblue;'>
+<article class='vinx' style='color:blue;'>
 >- жарить над раскалёнными углями.
->-  ...встанете *перед картиной* и будете думать: "Так… вот она, это же она…"
+>- встанете *перед картиной* и будете думать: "Так… вот она, это же она…"
 >- Под пиджаком у него была только рваная сетчатая майка
 </article>
 
@@ -72,10 +72,10 @@ grow, adapt to their environment, respond to stimuli, and reproduce.*
 >- Он шёл лесом, и ему представлялось: вот уж нет его...
 </article>
 
-<article class='vinx' style='color:purple;'>
-- перед сном / рассветом / тем, как...
-- утром, вечером, днём, летом, зимой, целыми вечерами
-- прошлой ночью, следующей ночью, прошлой осенью..
+<article class='vinx' style='color:darkred;'>
+>- перед сном / рассветом / тем, как...
+>- утром, вечером, днём, летом, зимой, целыми вечерами
+>- прошлой ночью, следующей ночью, прошлой осенью..
 </article>
 
 # Mikä merkitys?

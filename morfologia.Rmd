@@ -3295,6 +3295,28 @@ myös *ruumiinosalla* (kädellä) tapahtuva liike tulkitaan samoin:
 
 (@ee_kasiliik) На одной из них стоят два гражданина и размахивают чемоданами.
 
+Prepositionaalin merkityksiä
+----------------------------
+
+Nimensä mukaisesti prepositionaali on **sija, jota käytetään vain prepositioiden
+yhteydessä**. Se ei siis ole suoraan esimerkiksi verbin täydennyksenä olevan
+sanan suku. Prepositionaalin yhteydessä paikallismerkityksistä tuskin tarvitsee
+erikseen mainita: в-prepositio + prepositionaali merkityksessä 'jossakin
+paikassa' on ensimmäisiä rakenteita, jonka venäjää vieraana kielenä opiskeleva
+omaksuu. Tämä rakenne vastaa suuressa määrin suomen inessiiviä, mikä tekee
+omaksumisesta suomalaiselle usein helppoa, mutta toisaalta aiheuttaa myös
+hankaluuksia. Tavalliset ajan ja paikan merkitykset on listattu seuraavassa:
+
+1. Sijainti jossakin konkreettisessa tai abstraktissa tilassa: в здании, в
+   зоопарке, в метро, в школе -- в обществе, в мире, в таком состоянии, в моем
+   понимании, в жизни...
+2. Ajallisen sijainnin (kysymys *milloin*) ilmaiseminen tietyillä
+   substantiiveilla: в этом году, на прошлой неделе, в этом месяце...
+3. 
+
+- Sekoittaminen monikon genetiiviin
+- kontrastiivisia huomiota на- / в- prepositioista
+    в сфере,
 
 
 Luento 10: persoona kieliopillisena kategoriana
