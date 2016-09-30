@@ -3312,7 +3312,41 @@ hankaluuksia. Tavalliset ajan ja paikan merkitykset on listattu seuraavassa:
    понимании, в жизни...
 2. Ajallisen sijainnin (kysymys *milloin*) ilmaiseminen tietyillä
    substantiiveilla: в этом году, на прошлой неделе, в этом месяце...
-3. 
+3. Sijainti jonkin liepeillä (при-prepositio): При школе, при дороге.
+   Tämäkin merkitys  toteutuu myös abstraktimmassa mielessä ('yhteydessä'): при
+   жарении, при решении, при создании ym.
+4. Harvinaisempi ajallinen merkitys on по-preposition kanssa muodostettava, peräkkäisyyttä ilmaiseva merkitys [ks. @sheljakin: 69]: по окончании университета, по приезде домой.
+
+Aika- ja paikkamerkitysten lisäksi on luonnollisesti muistettava о-prepositioon
+liittyvä merkitys, joka kuvaa jonkin: говорит о погоде, рассказывать о поездке,
+вопрос о необходимости принятых мер, мнение о внешней политики ym.
+
+На vai в?
+---------
+
+Šeljakin [-@sheljakin: 70] toteaa в- ja на-prepositioiden peruserosta seuraavaa:
+
+*[...] предлог в указывает на внутренние пределы предмета, предлог на -- на внешние
+пределы.*
+
+Ilmaistaessa objektin A sijaintia suhteessa objektiin B prepositioiden välinen
+työnjako onkin myös kielenoppijalle helppo. Ilmaisujen *на столе* ja *в коробке*
+ero on helppo omaksua ja vastaa suomen sisä- ja ulkopaikallissijojen välistä
+eroa. Ongelmia ilmenee kuitenkin, kun siirrytään abstraktimpiin paikan
+kuvauksiin: venäjäksi sijaitaan *на работе*, suomessa taas sisäpaikallisesti
+*töissä*. Toisaalta suomeksi ollaan *vieraisilla*, venäjässä *в гостях*.
+Seuraavaan
+
+Kannattaa myös muistaa, että в- ja из-prepositioita sekä на- ja с-prepositioita
+käytetään yleensä johdonmukaisesti omina ryhminään (на работе/с работы, в
+школе/из школы)[^poik]. 
+
+[^poik]: tästäkin on eräitä poikkeuksia [ks. @wade2010: 423].
+
+
+
+
+verbejä: разбираться в чем-либо
 
 - Sekoittaminen monikon genetiiviin
 - kontrastiivisia huomiota на- / в- prepositioista
