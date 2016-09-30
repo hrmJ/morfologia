@@ -3349,7 +3349,8 @@ käytetään yleensä johdonmukaisesti omina ryhminään (на работе/с �
 
 ```{r, echo=FALSE}
 
-collocates <- read.csv('data/collocates_na.txt', sep='\t')
+collocates <- read.csv('lemmatized_collocates.txt', sep='\t')
+collocates <- collocates[collocates$pos1=='N',]
 
 
 ```

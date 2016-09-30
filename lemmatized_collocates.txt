@@ -1,3 +1,4 @@
+tokenid	token	lemma	pos1	pos2	feat	headid	deprel	other1	other2
 1	сайт	сайт	N	N	Ncmsnn	3	вспом	_	_
 2	территория	территория	N	N	Ncfsnn	1	аппоз	_	_
 3	рынок	рынок	N	N	Ncmsan	36	1-компл	_	_
