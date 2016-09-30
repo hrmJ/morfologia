@@ -3341,6 +3341,22 @@ Kannattaa myös muistaa, että в- ja из-prepositioita sekä на- ja с-prepo
 käytetään yleensä johdonmukaisesti omina ryhminään (на работе/с работы, в
 школе/из школы)[^poik]. 
 
+
+
+
+<!--.*fold-begin -->
+
+
+```{r, echo=FALSE}
+
+collocates <- read.csv('data/collocates_na.txt', sep='\t')
+
+
+```
+
+<!--.*fold-end -->
+
+
 [^poik]: tästäkin on eräitä poikkeuksia [ks. @wade2010: 423].
 
 
