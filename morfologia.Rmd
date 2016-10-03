@@ -3351,6 +3351,7 @@ käytetään yleensä johdonmukaisesti omina ryhminään (на работе/с �
 
 collocates <- read.csv('lemmatized_collocates.txt', sep='\t')
 collocates <- collocates[collocates$pos1=='N',]
+cwords <- collocates$token
 
 
 ```
