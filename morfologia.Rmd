@@ -3144,6 +3144,13 @@ Viimeisenä hajanaisena akkusatiivihuomiona kehotan
 muistamaan myös seuraavat akkusatiivin käyttötilanteet: *за какую цену / ни за что,
 учиться на кого*.
 
+Luento 10: Sijat funktionaalisen morfologian kannalta 4
+=======================================================
+
+- [Takaisin sivun ylälaitaan](https://mustikka.uta.fi/~juho_harme/morfologia/#tästä-kurssista)
+- [Lataa PDF](http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento10.pdf)
+- [Tutki luentokalvoja](http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento10.html)
+- [Tutki tuntitehtäviä](http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento10.pdf)
 
 Instrumentaalin merkityksiä
 --------------------------------
@@ -3217,7 +3224,8 @@ Etenkin menneessä ajassa ero instrumentaalin ja nominatiivin välillä on usein
 siinä, että instrumentaalilla ilmaistava ominaisuus tai tila on väliaikaisempi
 [@wade2010: 126]. Tämä näkyy esimerkiksi lauseissa @ee_litsozh ja
 @ee_strekoza, mutta on ainoastaan tendenssi, ei itsestäänselvyys.
-Predikatiivin kaltainen on myös käyttö eräiden verbien kuten стать, называть, остаться, работать, служить:
+Predikatiivin kaltainen on myös käyttö eräiden verbien kuten стать, называть,
+остаться, работать, служить kanssa:
 
 (@ee_testo) Тесто месить до тех пор, пока оно не станет блестящим
 (@ee_ostanutsa) Стратегические планы Oracle в новом финансовом году останутся прежними
@@ -3290,7 +3298,7 @@ liikuttamiseen:
 (@ee_dvigat) Я молча махнул рукой и пошёл прочь.
 (@ee_migat) Принюхиваясь, очень смешно двигают носом и мигают глазами.
 
-Wade [-@wade2010: 122] huomauttaa, eettä näissä tapauksissa paitsi ruumiinosa
+Wade [-@wade2010: 122] huomauttaa, että näissä tapauksissa paitsi ruumiinosa
 myös *ruumiinosalla* (kädellä) tapahtuva liike tulkitaan samoin:
 
 (@ee_kasiliik) На одной из них стоят два гражданина и размахивают чемоданами.
@@ -3335,46 +3343,197 @@ ero on helppo omaksua ja vastaa suomen sisä- ja ulkopaikallissijojen välistä
 eroa. Ongelmia ilmenee kuitenkin, kun siirrytään abstraktimpiin paikan
 kuvauksiin: venäjäksi sijaitaan *на работе*, suomessa taas sisäpaikallisesti
 *töissä*. Toisaalta suomeksi ollaan *vieraisilla*, venäjässä *в гостях*.
-Seuraavaan
-
 Kannattaa myös muistaa, että в- ja из-prepositioita sekä на- ja с-prepositioita
 käytetään yleensä johdonmukaisesti omina ryhminään (на работе/с работы, в
 школе/из школы)[^poik]. 
 
-
-
-
-<!--.*fold-begin -->
-
-
-```{r, echo=FALSE}
-
-collocates <- read.csv('lemmatized_collocates.txt', sep='\t')
-collocates <- collocates[collocates$pos1=='N',]
-cwords <- collocates$token
-
-
-```
-
-<!--.*fold-end -->
-
+Seuraaviin taulukoihin on koottu tapauksia, joissa suomen jaottelu sisä- ja
+ulkopaikallissijoihin ei osu yksiin venäjän v- ja na-prepositioiden käytön
+kanssa. Monissa tapauksissa sekä v- että na-prepositio ovat mahdollisia, mutta
+näissäkin käyttöä rajaa usein konteksti sillä tavalla, että prepositioilla on
+enemmän tai vähemmän selvä työnjako.
 
 [^poik]: tästäkin on eräitä poikkeuksia [ks. @wade2010: 423].
 
+<!--
+
+### На-prepositio venäjässä
+ 
+Ensiksi keskitytään tapauksiin, joissa suomessa on sisäpaikallissija, mutta venäjässä ainakin tietyissä konteksteissa na.
+
+| sana           | в/на  | suomi         | huom.                                                                 | ks. esimerkit                                                                        |
+| :---           | :---- | :------------ | :-------------------------------------------------------------------- | :---                                                                                 |
+| работа         | на    | ssa           |                                                                       |                                                                                      |
+| земля          | на    | ssa           | maassa (maapallolla)                                                  | @ee_zemlja1.                                                                         |
+| рука           | на    | ssa/lla       | riippuen kontekstista: tietyissä tapauksissa (erit. mon.) venäjässä н | @ee_ruka1                                                                            |
+| практика       | на    | ssa           | käytännössä                                                           | @ee_ruka2                                                                            |
+| предприятие    | на    | ssa           | jonkin verran riippuvaisuuttaa kontekstista                           | @ee_predprijatije1, @ee_predprijatije2, @ee_predprijatije3, MUTTA @ee_predprijatije4 |
+| свет (maailma) | на    | ssa           | mutta: maapallolla                                                    |                                                                                      |
+| объект         | на    | ssa           | kohteessa                                                             | @ee_objektah                                                                         |
+| вода           | на    | ssa           | tietyissä tapauksissa venäjässä на (vrt. kelluminen / veden pinta)   | @ee_voda1, @ee_voda2                                                                 |
+| кухня          | на    | ssa           | erit. puhekielessä joskus myös в                                      | @ee_kuhnja                                                                           |
+| остров         | на    | ssa/lla       | suomessakin joskus saarella, muttei aina                              | @ee_ostrov                                                                           |
+| выборы         | на    | ssa           |                                                                       |                                                                                      |
+| юг             | на    | ssa           |                                                                       |                                                                                      |
+| Украина        | на    | ssa           | Prepositio ainakin jossain määrin poliittinen valinta                 |                                                                                      |
+| выставка       | на    | ssa           |                                                                       | @ee_vystavka                                                                         |
+| север          | на    | ssa           |                                                                       |                                                                                      |
+| заседание      | на    | ssa           | kokouksessa. ”В заседании” mahdollinen, muttei yleinen                | @ee_zasedanije1, @ee_zasedanije2                                                     |
+| фотография     | на    | ssa           | valokuvassa                                                           | @ee_foto1                                                                            |
+| этап           | на    | ssa           | vaiheessa                                                             | @ee_etap                                                                             |
+| стадия         | на    | ssa           | vaiheessa                                                             | @ee_stadija                                                                          |
+| свадьба        | на    | ssa           | häissä                                                                |                                                                                      |
+| природа        | на    | ssa           | Kun merkityksessä 'viettää aikaa luonnossa'                           | @ee_priroda1, @ee_priroda1b, @ee_priroda1c MUTTA @ee_prirode2                                                     |
+| дело           | на    | ssa           | на самом деле                                                         |                                                                                      |
+| площадь        | на    | ssa           |                                                                       | @ee_ploshadi                                                                         |
+| встреча        | на    | ssa           | tapaamisessa                                                          | @ee_vstretsha                                                                        |
+| почта          | на    | ssa           |                                                                       | @ee_potshta                                                                          |
+| праздник       | на    | ssa           | juhlissa                                                              | @ee_prazdnike                                                                        |
+| восток         | на    | ssa           |                                                                       |                                                                                      |
+| Запад          | на    | ssa           |                                                                       |                                                                                      |
+| небо           | на    | ssa*          | ”maan päällä niin kuin...”                                            | @ee_nebe                                                                             |
+| родина         | на    | ssa           | kotimaassa, synnyinmaassa, isänmaassa                                 |                                                                                      |
+| служба         | на    | ssa           | vrt. на работе                                                        | @ee_sluzhba                                                                          |
+| семинар        | на    | ssa           |                                                                       |                                                                                      |
+| конференция    | на    | ssa           | konferenssissa, symposiumissa, seminaarissa..                         | @ee_konferentsija                                                                    |
+| картина        | на    | ssa           | kuvassa, taulussa..                                                   | @ee_kartina                                                                          |
+| мероприятие    | на    | ssa           | tapahtumassa                                                          | @ee_meropr                                                                           |
+| война          | на    | ssa           | | @ee_voina, @ee_voina1b MUTTA @ee_voina2                                                          |
+| шея            | на    | ssa           | kaulassa (kaulalla)                                                   | @ee_sheja                                                                            |
+
+(@ee_zemlja1) Нельзя сливать на землю масло, бензин и прочую гадость
+(@ee_ruka1) У нас на руках есть медсправки
+(@ee_ruka2) На руке не было обручального кольца
+(@ee_praktika1) Однако на практике речь идёт о том, кто будет "принимать" приходящие в Россию крупные инвестиции
+(@ee_praktika2) В практике Совета Безопасности ООН не было случаев, чтобы..
+(@ee_predprijatije1) Но у нас на предприятии работают больше ста тысяч человек
+(@ee_predprijatije2) В течение зимних каникул дети обычно посещали несколько ёлок (в детском саду или в школе, на предприятиях и учреждениях);
+(@ee_predprijatije3) Забастовки на предприятиях и в организациях Российской Федерации в 1990― 1995 годы
+(@ee_predprijatije4) Запреты не распространяются на торговлю алкоголем в предприятиях общественного питания.
+(@ee_objektah) Как всегда, в ночное время на объектах шли работы
+(@ee_voda1) Листья на воде
+(@ee_voda2) Она развивает скорость на воде до 80, а по снегу ― до 100 км/ч
+(@ee_kuhnja) Мы сидели на кухне и пили чай
+(@ee_ostrov) Хотя на острове всё же росли деревья и кусты. У Хонма-сан на острове Хоккайдо десять отелей.
+(@ee_vystavka) Прототип устройства был продемонстрирован на выставке офисного оборудования в Японии в 1964 году.
+(@ee_zasedanije1) На заседании был заслушан вопрос о проведении Конгресса бухгалтеров и аудиторов России
+(@ee_zasedanije2) На заседании комитета также было решено обратиться к правительству
+(@ee_foto1) А на фотографии нам было шесть лет
+(@ee_etap) Ещё на этапе планировки сразу надо решить - сколько времени вы будете уделять будущему саду.
+(@ee_stadija) находиться в стадии: Наш институт находится в стадии завершения...
+(@ee_priroda1) Вместе мы очень любим отдыхать на природе
+(@ee_proroda1b) Находясь на природе, не нужно забывать, что после вас сюда придут другие люди
+(@ee_priroda1c) Отдыхать детям лучше на природе, а не в городе.
+(@ee_prirode2) В 1783 г. Дж. Митчелл предположил, что в природе должны существовать тёмные звёзды;  Вообще в природе встречаются и другие виды игольчатых кристаллов.
+(@ee_ploshadi) Тысячи людей собрались на Трафальгарской площади
+(@ee_vstretsha) Российскую делегацию на встрече возглавлял заместитель министра иностранных дел В. И. Калюжный.
+(@ee_potshta) Он тут же поехал на почту и отбил Павлу Алексеевичу телеграмму.
+(@ee_prazdnike) На празднике мы были вместе с Титовым,
+(@ee_nebe) Как на небе, так и на земле
+(@ee_sluzhba) В квартире тихо: мама на службе, Варя и Зоя― в школе.
+(@ee_konferentsija) В прошлом году у нас на конференции выступал замечательный финский экономист Пекка Сутела
+(@ee_kartina) Его можно увидеть на картине Саврасова "Грачи прилетели".
+(@ee_meropr) Предполагается, что на мероприятии, которое состоится в конце марта, будут обсуждаться все предложения
+(@ee_voina) "Я чувствую себя здесь как на войне"
+(@ee_voina1b) Отец был военным и пропал на войне без вести
+(@ee_voina2) Почти все верили, что добро победит в войне
+(@ee_sheja) А на шее у него висел амулет
+
+### В-prepositio venäjässä
+
+Siirrytään tarkastelemaan  tapauksia, joissa suomessa on ulkopaikallissija,
+mutta venäjässä ainakin tietyissä konteksteissa v.
+
+| sana        | в/на  | suomi         | huom.                                                                                                                  | ks. esimerkit                        |
+| :---        | :---- | :------------ | :--------------------------------------------------------------------                                                  | :---                                 |
+| область     | в     | ssa/lla       | jollakin alueella, mutta hallinollisesti läänissä, maakunnassa, oblastissa                                             |                                      |
+| сфера       | в     | lla           | Alalla / alueella                                                                                                      | @ee_sfera                            |
+| регион      | в     | lla           | Alueella                                                                                                               | @ee_region                           |
+| зона        | в     | lla           | alueella, vyöhykkeellä                                                                                                 |                                      |
+| университет | в     | ssa/lla       | Suomessa usein ainakin arkipuheessa: töissä ylipoistolla, opiskelee yliopistolla + ulkopaikallissija kun 'kampuksella' | @ee_univer                           |
+| край        | в     | lla           | vrt. suomen seudulla                                                                                                   | @ee_krai1, MUTTA tietysti @ee_krai2  |
+| сезон       | в     | lla           | kaudella                                                                                                               | @ee_sezon1, @ee_sezon2, @ee_sezon3   |
+| аэропорт    | в     | lla           | lentokentällä (vrt. kuitenkin НА аеродроме, esim. @ee_aerodrom)                                                        |                                      |
+| Крым        | в     | lla           | Krimillä (Krimin niemimaalla)                                                                                          |                                      |
+| сектор      | в     | lla           | sektorilla                                                                                                             | @ee_sektor, @ee_sektor2, @ee_sektor3 |
+| эпоха       | в     | lla           | aikakaudella                                                                                                           | @ee_epoha                            |
+| лагерь      | в     | lla           | leirillä                                                                                                               | @ee_lager1, @ee_lager2               |
+| отпуск      | в     | lla           | vrt. kuitenkin на каникулях, на отдыхе                                                                                 | @ee_otpusk                           |
 
 
+(@ee_sfera) В том числе будем говорить и о развитии нашего взаимодействия в сфере экономики.
+(@ee_region) Мы разделяем мнение о том, что достижение стабильности в регионе служит вкладом в установление мира во всём мире,
+(@ee_univer) Я понял, что случай в университете ему не известен.
+(@ee_krai1) Дело происходило в краях довольно южных; Исключение ― только для тех, у кого в крае живут родственники
+(@ee_krai2) А он сидел на крае стула
+(@ee_sezon1) В последнем матче с "Сатурном" в Раменском подопечные Никонова впервые в сезоне забили больше двух мячей
+(@ee_sezon2) В сезоне 1994/ 95 гг., отмечая 40-летие своей творческой деятельности
+(@ee_sezon3) Эта победа стала для пилота «Ред Булл» седьмой в сезоне
+(@ee_aeroport) Наверное, думали, что кто-то будет встречать не в аэропорту, а у дверей дома.
+(@ee_aerodrom) Большой скандал разразился нынешней зимой в Магадане, когда на аэродроме были заморожены полторы сотни солдат-пограничников
+(@ee_sektor) В секторе обрабатывающей промышленности;
+(@ee_sektor2) Я в секторе переработкиi
+(@ee_sektor3) Легкоатлет в секторе для прыжков в длину.
+(@ee_epoha) Именно поэтому в эпохе Киевской Руси ищут сегодня истоки специфически украинских феноменов
+(@ee_lager1) Ольга у нас до 8 июня в лагере работает.
+(@ee_lager2) В лагере Анатолий Андреевич очень болел
+(@ee_otpusk) В отпуске мы и на каникулах.
 
-verbejä: разбираться в чем-либо
 
-- Sekoittaminen monikon genetiiviin
-- kontrastiivisia huomiota на- / в- prepositioista
-    в сфере,
+### Kokoavasti
 
 
-Luento 10: persoona kieliopillisena kategoriana
+Tehdään vielä joitakin kokoavia huomioita edellä olevista taulukoista. Ensinnäkin, venäjässä 
+tapahtumaa tai kokoontumista tarkoittavia sanoja käytetään usein na-preposition
+kanssa, vaikka suomessa olisi sisäpaikallissija: *kokouksessa* mutta *на заседании*,
+*tapaamisessa* mutta *на встрече*. Toiseksi, suomessa aluetta, vyöhykettä tai
+kaistaletta tarkoittavat sanat taipuvat ulkopaikallissijoissa, mutta venäjässä
+prepositio on tavallisesti v. Lisäksi venäjä tuntuu erottelevan monesti
+tarkemmin pinnan ja sisällön: suomeksi jotakin on taulussa, venäjäksi на
+картине. Tämä näkyy siinäkin, että vettä käsitellään osittain eri tavalla:
+esimerkiksi lehtiä on suomeksi vedessä, mutta venäjäsä на воде. Oma selkeä eriävä luokkansa ovat ilmansuunnat, jotka
+venäjässä liitetään aina на-prepositioon, suomessa sisäpaikallissijoihin.
+
+Kontrastiiviselta kannalta mainittakoon myös, että kannattaa kiinnittää huomiota
+prepositionaalin ja genetiivin monikkomuotojen samanlaisuuteen. Kielenoppijana
+tulee usein sekoittaneeksi ilmaisut tyyppiä *после шумных мест* ja *в шумных
+местах*.
+
+--!>
+
+Prepositionaali täydennyksen sijana
+------------------------------------------
+
+Kuten mainittu, prepositionaali ei suoraan toimi verbin nominitäydennyksen
+sijana. On kuitenkin koko joukko verbejä ja adjektiiveja, joiden täydennys on muodossa v/na +
+nomini prepositionaalissa. Waden [-@wade2010: 482] mukaan yksi tällainen joukko
+ovat varmuutta / epäilystä / syyllisyyttä ilmaisevat sanat:
+обвинять/подозревать/признаться в чем. Tässä yhteydessä kannattaa erityisesti
+muistaa lyhyt adjektiivimuoto уверен/уверена, jonka yhteyteen ei liity
+prepositio о vaan prepositio в:
+
+(@ee_uveren1) Более того, предприниматель уверен в большом будущем этой машины на немецких и западноевропейских дорогах
+(@ee_uveren2) И тем не менее я был совершенно уверен в своей правоте.
+
+*Участвовать* lienee kaikille tuttu prepositionaalitäydennyksen saava verbi.
+Oman mainintansa ansaitsee kuitenkin myös verbi *разбираться в чем-либо*. Ilmaisu on etenkin
+puhekielessä monikäyttöinen ('osata jotakin', 'pärjätä jonkin kanssa',
+'ymmärtää jonkin päälle')  kuten
+alla olevista esimerkeistä käy ilmi. Esimerkissä @ee_razb_instr on lisäksi
+instrumentaalitäydennyksen saava versio merkityksessä 'hoidella jokin' (pois
+päiväjärjestyksestä).
+
+(@ee_vzhizni) Можно сказать что он ещё не *разбирается в жизни*, на неи табачная компания деньги делает, на его здоровье, а он не понимает..
+(@ee_printsipah) Для этого достаточно *разобраться в причинах того*, почему Россия в последние четыре года заметно упрочила свою репутацию ответственного игрока на международной арене.
+(@ee_vmuzike) И зачем *разбираться в музыке*, когда можно просто петь.
+(@ee_razb_instr) Тогда Хлопонин пообещал "разобраться" с ними в том случае, если они будут вести себя "неконструктивно".
+
+
+Luento 11: persoona kieliopillisena kategoriana
 ===============================================
 
-[Tähän alkuun vielä lyhyesti prepositionaalista?]
+Persoonakategoria (категория лица)
+
 
 
 luento 12 : pääluokka kieliopillisena kategoriana
@@ -3390,5 +3549,6 @@ Kirjallisuutta
 
 <!--  !pandoc -t latex --bibliography=lahteet.bib --template=textemp.tex -o materiaalit/luento1.tex -->
 <!--  !pandoc morfologia.Rmd -f markdown -t html --bibliography=lahteet.bib --standalone -o index.html -css github-pandoc.css --toc --toc-depth=1 --include-after-body=scripts.js --smart -->
+
 
 
