@@ -2,5 +2,210 @@
 % Juho Härme
 % Pinni B 5004, juho.harme@uta.fi
 
+# Kohti verbejä!
+
 
 <!-- Aluksi harjoituksia na + v -->
+<!-- katsaus kurssikarttoihin, siiryminen uuteen -->
+
+[Kurssikartta](../materiaalit/kurssikartta2.pdf)
+
+# Kaksi eri verbivartaloa
+
+>- Mitä tarkoittaa vartalo?
+
+<article class='incremental' style='font-size:200%;'>
+>- покраснеть
+>- покраснеют
+>- писать
+>- пишут
+</article>
+
+
+#  Tehtävä 1
+
+Muodosta infinitiivi- ja preesensvartalot seuraavista verbeistä:
+
+>- проиграть
+>- видеть
+>- говорить
+>- молчать
+>- плыть
+>- смотреть
+>- строить
+>- скучать
+>- учить
+>- толкнуть
+>- брить
+>- возместить
+
+# Lisäksi
+
+>- беречь: берег-ут
+>- нести: нес-ут
+
+
+# Mikä konjugaatio?
+
+>- спряжение глаголов
+>- Venäjässä...
+>- ... 2 + epäsäännöllisiä
+
+# Tehtävä
+
+<article class='incremental' style='font-size:200%;'>
+>- успокоить
+>- успокаивать
+>- учить
+>- уйти
+</article>
+
+# 1. konjugaatio
+
+<table style="visibility: visible;">
+<thead>
+<tr class="header incremental">
+<th align="left">persoona</th>
+<th align="left">verbi 1</th>
+<th align="left">verbi2</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd incremental">
+<td align="left">y. 1.</td>
+<td align="left">успокаива/ю/</td>
+<td align="left">уйд/у/</td>
+</tr>
+<tr class="even incremental">
+<td align="left">y. 2.</td>
+<td align="left">успокаива/ешь/</td>
+<td align="left">уйд/ёшь/</td>
+</tr>
+<tr class="odd incremental">
+<td align="left">y. 3.</td>
+<td align="left">успокаива/ет/</td>
+<td align="left">уйд/ёт/</td>
+</tr>
+<tr class="even incremental">
+<td align="left">m. 1.</td>
+<td align="left">успокаива/ем/</td>
+<td align="left">уйд/ём/</td>
+</tr>
+<tr class="odd incremental">
+<td align="left">m. 2.</td>
+<td align="left">успокаива/ете/</td>
+<td align="left">уйд/ёте/</td>
+</tr>
+<tr class="even incremental">
+<td align="left">m. 3.</td>
+<td align="left">успокаива/ют/</td>
+<td align="left">уйд/ут/</td>
+</tr>
+</tbody>
+</table>
+
+
+# Pilkotaan
+
+
+<article class='incremental nobul' style='font-size:200%;'>
+>- успокаивают 
+>- /успокаиваj/
+>- /у/
+>- /ош/
+>- уйдут
+>- уйд
+>- /у/
+>- /ош/ (уйд')
+</article>
+
+
+#
+
+persoona     | pääte       | esimerkki1  | esimerkki2
+-------------|-------------|-------------|-----------
+y. 1.        | /у/         | /уйд/у/     | /успокаиваj/у/
+y. 2.        | /ош/        | /уйд'/ош/   | /успокаиваj/ош/
+y. 3.        | /от/        | /уйд'/от/   | /успокаиваj/от/
+m. 1.        | /ом/        | /уйд'/ом/   | /успокаиваj/ом/
+m. 2.        | /от'э/      | /уйд'/от'э/ | /успокаиваj/от'э/
+m. 3.        | /ут/        | /уйд/ут/    | /успокаиваj/ут/
+
+
+
+# 2. konjugaatio
+
+<table>
+<thead>
+<tr class="incremental header">
+<th align="left">Persoona</th>
+<th align="left">verbi1</th>
+<th align="left">verbi2</th>
+</tr>
+</thead>
+<tbody>
+<tr class="incremental odd">
+<td align="left">y. 1.</td>
+<td align="left">уч/у/</td>
+<td align="left">успоко/ю/</td>
+</tr>
+<tr class="incremental even">
+<td align="left">y. 2.</td>
+<td align="left">уч/ишь/</td>
+<td align="left">успоко/ишь/</td>
+</tr>
+<tr class="incremental odd">
+<td align="left">y. 3.</td>
+<td align="left">уч/ит/</td>
+<td align="left">успоко/ит/</td>
+</tr>
+<tr class="incremental even">
+<td align="left">m. 1.</td>
+<td align="left">уч/им/</td>
+<td align="left">успоко/им/</td>
+</tr>
+<tr class="incremental odd">
+<td align="left">m. 2.</td>
+<td align="left">уч/ите/</td>
+<td align="left">успоко/ите/</td>
+</tr>
+<tr class="incremental even">
+<td align="left">m. 3.</td>
+<td align="left">уч/ат/</td>
+<td align="left">успоко/ят/</td>
+</tr>
+</tbody>
+</table>
+
+
+
+#
+
+<article class='incremental nobul' style='font-size:200%;'>
+>- учат
+>- /уч/
+>- /У/
+>- /иш/
+>- успокоят
+>- /успокоj/
+>- /у/
+>- /иш/ 
+</article>
+
+
+# 2. konjugaatio taivutettuna
+
+persoona     | pääte       | esimerkki1| esimerkki2
+-------------|-------------|-----------|-----------
+y. 1.        | /у/         | /уч/у/   | /успокоj/у/
+y. 2.        | /иш/        | /уч/иш/  | /успокоj/иш/
+y. 3.        | /ит/        | /уч/ит/  | /успокоj/ит/
+m. 1.        | /им/        | /уч/им/  | /успокоj/им/
+m. 2.        | /ит'э/      | /уч/ит'э/| /успокоj/ит'э/
+m. 3.        | /ат/        | /уч/ат/  | /успокоj/ат/
+
+
+
+# Tehtävä
+
+

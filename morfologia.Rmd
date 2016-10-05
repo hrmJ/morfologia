@@ -66,9 +66,9 @@ no  | Pvm        | Aihe
 8   | ti 27.9.   | Sijat funktionaalisen morfologian kannalta: gen + dat
 9   | ke 28.9.   | Sijat funktionaalisen morfologian kannalta: dat + akk (elollisuuskategoria)
 10  | ti 4.10.   | Sijat funktionaalisen morfologian kannalta: instr + prep
-11  | ke 5.10.   | Persoona kieliopillisena kategoriana 
-12  | ti 11.10.  | Partisiippien muodostus + pääluoka
-13  | ke 12.10.  | Pääluokka  + partisiippien käyttöä
+11  | ke 5.10.   | Persoona kieliopillisena kategoriana  1
+12  | ti 11.10.  | Persoona kieliopillisena kategoriana  2 + partisiippien muodostus
+13  | ke 12.10.  | Partisiippien muodostus + pääluokka
 -   | ti 18.10   | PERIODITAUKO
 -   | ke 19.10   | PERIODITAUKO
 14  | ke 19.10   | Aspekti kieliopillisena kategoriana
@@ -3355,7 +3355,6 @@ enemmän tai vähemmän selvä työnjako.
 
 [^poik]: tästäkin on eräitä poikkeuksia [ks. @wade2010: 423].
 
-<!--
 
 ### На-prepositio venäjässä
  
@@ -3365,12 +3364,12 @@ Ensiksi keskitytään tapauksiin, joissa suomessa on sisäpaikallissija, mutta v
 | :---           | :---- | :------------ | :-------------------------------------------------------------------- | :---                                                                                 |
 | работа         | на    | ssa           |                                                                       |                                                                                      |
 | земля          | на    | ssa           | maassa (maapallolla)                                                  | @ee_zemlja1.                                                                         |
-| рука           | на    | ssa/lla       | riippuen kontekstista: tietyissä tapauksissa (erit. mon.) venäjässä н | @ee_ruka1                                                                            |
-| практика       | на    | ssa           | käytännössä                                                           | @ee_ruka2                                                                            |
+| рука           | на    | ssa/lla       | riippuen kontekstista: tietyissä tapauksissa (erit. mon.) venäjässä на| @ee_ruka1, @ee_ruka2, MUTTA @ee_ruka3, @ee_ruka4                                                                            |
+| практика       | на    | ssa           | käytännössä                                                           | @ee_praktika1, @ee_praktika2                                                                            |
 | предприятие    | на    | ssa           | jonkin verran riippuvaisuuttaa kontekstista                           | @ee_predprijatije1, @ee_predprijatije2, @ee_predprijatije3, MUTTA @ee_predprijatije4 |
 | свет (maailma) | на    | ssa           | mutta: maapallolla                                                    |                                                                                      |
 | объект         | на    | ssa           | kohteessa                                                             | @ee_objektah                                                                         |
-| вода           | на    | ssa           | tietyissä tapauksissa venäjässä на (vrt. kelluminen / veden pinta)   | @ee_voda1, @ee_voda2                                                                 |
+| вода           | на    | ssa           | tietyissä tapauksissa venäjässä на (vrt. kelluminen / veden pinta)    | @ee_voda1, @ee_voda2                                                                 |
 | кухня          | на    | ssa           | erit. puhekielessä joskus myös в                                      | @ee_kuhnja                                                                           |
 | остров         | на    | ssa/lla       | suomessakin joskus saarella, muttei aina                              | @ee_ostrov                                                                           |
 | выборы         | на    | ssa           |                                                                       |                                                                                      |
@@ -3404,6 +3403,8 @@ Ensiksi keskitytään tapauksiin, joissa suomessa on sisäpaikallissija, mutta v
 (@ee_zemlja1) Нельзя сливать на землю масло, бензин и прочую гадость
 (@ee_ruka1) У нас на руках есть медсправки
 (@ee_ruka2) На руке не было обручального кольца
+(@ee_ruka3) Постоянно по дому ходит с мобилкой в руках
+(@ee_ruka4) Люди в руках закона и сопротивления не оказывают
 (@ee_praktika1) Однако на практике речь идёт о том, кто будет "принимать" приходящие в Россию крупные инвестиции
 (@ee_praktika2) В практике Совета Безопасности ООН не было случаев, чтобы..
 (@ee_predprijatije1) Но у нас на предприятии работают больше ста тысяч человек
@@ -3422,7 +3423,7 @@ Ensiksi keskitytään tapauksiin, joissa suomessa on sisäpaikallissija, mutta v
 (@ee_etap) Ещё на этапе планировки сразу надо решить - сколько времени вы будете уделять будущему саду.
 (@ee_stadija) находиться в стадии: Наш институт находится в стадии завершения...
 (@ee_priroda1) Вместе мы очень любим отдыхать на природе
-(@ee_proroda1b) Находясь на природе, не нужно забывать, что после вас сюда придут другие люди
+(@ee_priroda1b) Находясь на природе, не нужно забывать, что после вас сюда придут другие люди
 (@ee_priroda1c) Отдыхать детям лучше на природе, а не в городе.
 (@ee_prirode2) В 1783 г. Дж. Митчелл предположил, что в природе должны существовать тёмные звёзды;  Вообще в природе встречаются и другие виды игольчатых кристаллов.
 (@ee_ploshadi) Тысячи людей собрались на Трафальгарской площади
@@ -3499,7 +3500,6 @@ prepositionaalin ja genetiivin monikkomuotojen samanlaisuuteen. Kielenoppijana
 tulee usein sekoittaneeksi ilmaisut tyyppiä *после шумных мест* ja *в шумных
 местах*.
 
---!>
 
 Prepositionaali täydennyksen sijana
 ------------------------------------------
@@ -3532,8 +3532,219 @@ päiväjärjestyksestä).
 Luento 11: persoona kieliopillisena kategoriana
 ===============================================
 
-Persoonakategoria (категория лица)
+Siirrämme nyt kurssin painopistettä substantiiveista ja muista nomineista kohti
+verbejä. Aloitamme tutkimalla *persoonaa* kieliopillisena kategoriana.
 
+Persoonakategoria (категория лица) on ennen kaikkea verbien mutta myös persoona-
+ja possessiivipronominien ilmaisema kieliopillinen kategoria. Siinä missä
+pronomineilla persoona ilmaistaan sanan vartalossa (vrt. muotoja
+мы,я,он,наш,его), käytetään verbeillä taivutuspäätteitä. Keskitymme tässä
+yhteydessä persoonaan nimenomaan verbien ominaisuutena.
+
+Nikunlassi [-@nikunl: 154] huomauttaa, että verbien persoonapäätteet ilmaisevat
+itse asiassa melko monta eri asiaa: paitsi persoonaa, myös tapaluokkaa,
+aikamuotoa ja lukua. Kun siirrytään tarkastelemaan verbien persoonataivutusta,
+tutkitaan siis loppujen lopuksi laajempaa ilmiötä kuin pelkkää persoonaa.
+
+Persoona- ja infinitiivivartalo
+-------------------------------
+
+Venäjän verbeistä puhuttaessa on tapana erottaa kaksi eri vartaloa [perusteluita tälle ks. @isachenko2003: 27].
+Muistanet aiemmilta luennoilta, että *vartalolla* (основа) tarkoitetaan sitä osaa
+sanasta, joka jää jäljelle, kun otetaan pois taivutuspäätteet. 
+
+Ensimmäinen verbin vartaloista saadaan, kun poistetaan infinitiivimuodosta
+infinitiivin tunnus. Näin ollen esimerkiksi verbin смотреть infinitiivivartalo
+(основа инфинитива) on *смотре*, verbin играть infinitiivivartalo *игра*, verbin
+взять taas *взя* ja niin edelleen.
+
+Ajattele verbiä /смотр/е/ть/. Persoonamuodoissa е-suffiksia ei ole näkyvissä, vaan
+esimerkiksi ensimmäisen persoonan muoto kuuluu /смотр/ю/. Verbin toinen vartalo, *preesensvartalo*
+(основа настоящего времени), saadaankin poistamalla persoonapääte. Tapana on, että
+muodostamiseen käytetään monikon kolmannen persoonan muotoa. Näin ollen
+смотреть-verbistä preesensvartalo on /смотр/ят/ -- /смотр'/, пугать-verbistä
+/пуга/ют/-- /пугаj/, вести-verbistä /вед/ут/ -- /вед/. **Huomaa**, että
+вести-verbin kaltaisilla verbeillä sekä ч-konsonanttiin infinitiivissä päättyvillä
+verbeillä infinitiivi- ja preesensvartalot ovat samoja: вести -- вед & вед, печь
+-- пек & пек jne. Nämä ovat siis infinitiivivartalon muodostamisen osalta
+poikkeuksellisia [@nikunl: 137].
+
+Infinitiivivartaloista voidaan mainita vielä Šeljakinin [-@sheljakin: 122] huomautus siitä, että
+yleensä preteritimuodon vartalo on sama kuin infinitiivivartalo: игра/ла/,
+смотре/ла/ jne.
+
+Konjugaatiot
+------------
+
+Venäjässä verbit jaetaan persoonataivutuksen osalta kahteen taivutustyyppiin eli
+*konjugaatioon* (спряжение), joiden lisäksi on joukko epäsäännöllisesti taipuvia
+verbejä. Taivutettaessa ся-postfiksin sisätäviä verbejä kannattaa muistaa, että
+vokaalin jälkeen posfiksi on muodossa *сь* (учусь, занимаюсь jne) [@sheljakin:
+124].
+
+
+### 1. konjugaatio
+
+Tutkitaan ensin kahta 1. konjugaatioon kuuluvaa verbiä ja tarkastellaan
+taivutuspäätteitä kirjoitusasussaan:
+
+persoona    | verbi 1   | verbi2
+------------|-----------|-------
+y. 1.       | игра/ю/   | жив/у/
+y. 2.       | игра/ешь/ | жив/ёшь/
+y. 3.       | игра/ет/  | жив/ёт/
+m. 1.       | игра/ем/  | жив/ём/
+m. 2.       | игра/ете/ | жив/ёте/
+m. 3.       | игра/ют/  | жив/ут/
+
+Kirjoitusasun perusteella voidaan todeta, että verbit edustavat ensimmäisen
+konjugaation kahta eri sanatyyppiä. Asia kuitenkin yksinkertaistuu, jos tutkitaan
+-- kuten edellä substantiivien deklinaatioiden yhteydessä -- sanojen *foneettista*
+asua [ks. @nikunl: 155].
+
+Muodostetaan ensin kummastakin verbistä preesensvartalot. Играть-verbillä tämä
+tapahtuu ottamalla играют-muodosta pois persoonapääte. Preesensvartalo on tällöin
+/играj/. Samaa muotoa käytetään kaikissa persoonissa. Жить-verbillä
+preesensvartalo muodostetaan живут -- /жив/. On huomattava, että vartalo ei ole
+identtinen joka muodossa, vaan siinä tapahtuu äänteenmuutos liudentumattoman ja
+liudentuneen в-konsonantin välillä. Yksikön 1. ja monikon 3. persoona saavat
+vartalon /жив/, mutta muut persoonat vartalon /жив'/.
+
+Muistatko, miten /о/-vokaali käyttäytyy painottomana ja painollisena? Edellä
+olemme todenneet, että sananmuodoissa *врачом*, *местом* ja *жителем* on
+foneettisesti sama /ом/-pääte, joka painottoman tavun jälkeisessä asemassa ääntyy
+redusoituneessa muodossa ja painollisena redusoimattomassa muodossa[^liudvaik] .
+Sama ilmiö tapahtuu verbitaivutuksessa. Voimme itse asiassa tiivistää edellä
+esitetyt 1. konjugaation päätteet seuraavasti:
+
+persoona     | pääte       | esimerkki1  | esimerkki2
+-------------|-------------|-------------|-----------
+y. 1.        | /у/         | /жив/у/     | /играj/у/
+y. 2.        | /ош/        | /жив'/ош/   | /играj/ош/
+y. 3.        | /от/        | /жив'/от/   | /играj/от/
+m. 1.        | /ом/        | /жив'/ом/   | /играj/ом/
+m. 2.        | /от'э/      | /жив'/от'э/ | /играj/от'э/
+m. 3.        | /ут/        | /жив/ут/    | /играj/ут/
+
+[^liudvaik]: Lisäksi vokaaliäänteeseen vaikuttaa jonkin verran edellisen konsonantin liudentuneisuus.
+
+
+### 2. konjugaatio
+
+
+Siirrytään sitten tarkastelemaan toista varsinaista konjugaatiotyyppiä. Tähän
+konjugaatioon kuuluvat esimerkiksi sanat включить ja усвоить ('omaksua').
+
+Persoona      | verbi1    | verbi2
+--------------|-----------|-----------
+y. 1.         | включ/у/   | усво/ю/
+y. 2.         | включ/ишь/ | усво/ишь/
+y. 3.         | включ/ит/  | усво/ит/
+m. 1.         | включ/им/  | усво/им/
+m. 2.         | включ/ите/ | усво/ите/
+m. 3.         | включ/ат/  | усво/ят/
+
+Pohditaan jälleen, miten näistä sanoista muodostetaan preesensvartalot.
+Включить-verbin monikon kolmas persoona on включат, josta persoonapäätteen jälkeen
+jää jäljelle /включ/. Усвоить-verbillä muodostus tapahtuu усвоят -- /усвоj/.
+Foneettisesti ilmaistuna päätemorfeemit ovat siis seuraavat:
+
+persoona     | pääte       | esimerkki1  | esimerkki2
+-------------|-------------|-------------|-----------
+y. 1.        | /у/         | /включ/у/   | /усвоj/у/
+y. 2.        | /иш/        | /включ/иш/  | /усвоj/иш/
+y. 3.        | /ит/        | /включ/ит/  | /усвоj/ит/
+m. 1.        | /им/        | /включ/им/  | /усвоj/им/
+m. 2.        | /ит'э/      | /включ/ит'э/| /усвоj/ит'э/
+m. 3.        | /ат/        | /включ/ат/  | /усвоj/ат/
+
+Ensimmäisen ja toisen konjugaation päätteitä tarkasteltaessa huomataan, että
+yksikön ensimmäisen persoonan muoto on kummassakin konjugaatiossa sama, muuten
+konjugaatiot ovat erilaisia.
+
+
+### Äänteenmuutoksia 1. konjugaatiolla
+
+
+Nikunlassin [-@nikunl: 155] mukaan ensimmäisestä konjugaatiosta voidaan
+äänteenmuutosten näkökulmasta erottaa omaksi ryhmäkseen kaikki /о/-foneemilla
+alkavat muodot. Näissä tapahtuu äänteenmuutoksia, joista eräs kohdatiin jo
+жить-verbiä tarkasteltaessa. Listataan ensin kirjoitusasussaan kaikki жить-verbin
+persoonamuodot, jotka alkavat /о/-foneemilla:
+
+- живёшь
+- живёт
+- живём
+- живёте
+
+Жить-verbillä äänteenmuutos tarkottaa, että liudentumaton konsonantti vaihtuu
+liudentuneeseen. Preesensvartalo жить-verbillä on /жив/. Näin ollen foneettisessa
+asussaan luetellut muodot ovat:
+
+- /жив'/ош/
+- /жив'/от/
+- /жив'/ом/
+- /жив'/от'э/
+
+Selkeämmin havaittava äänteenmuutos koskee konsonantteja /к/ ja /г/, jotka
+vaihtuvat konsonanteiksi /ч/ ja /ж/. Otetaan tästä esimerkiksi verbi *лечь* ('panna
+maaten'). Preesensvartalo tällä verbillä saadaan: *лягут* -- *ляг*. Näin ollen
+/о/-foneemilla alkavat muodot ovat (konsonanttimuutoksen jälkeen):
+
+- ляжешь = /ляж/ош/
+- ляжет = /ляж/от/
+- ляжем = /ляж/ом/
+- ляжете = /ляж/от'э/
+
+Печь-verbillä preesensvartalo muodostetaan *пекут -- /пек/*. Näin ollen
+äänteenmuutoksen jälkeen saadaan:
+
+- печёшь = /печ'/ош/
+- печёт = /печ'/от/
+- печём = /печ'/ом/
+- печёте = /печ'/от'э/
+
+
+### Äänteenmuutoksia 2. konjugaatiolla
+
+Kun mietitään toista konjugaatiota, voidaan todeta, että äänteenmuutoksen
+kohteeksi joutuvia muotoja on vähemmän. Siinä, missä 1. konjugaatiolla neljä
+kuudesta muodosta muuttuu, 2. konjugaatiolla ainoastaan **yksikön ensimmäisen
+persoonan muoto** muuttuu konsonanttivaihtelujen seurauksena [@nikunl: 155].
+Muutos sinänsä on kuitenkin 1. konjugaatiota monimutkaisempi. Nikunlassin
+[-@nikunl: 83] ja Isachenkon [-@isachenko2003: 35] antamien listojen perusteella
+voidaan esittää ainakin seuraavat äänteenvaihteluparit:
+
+
+| muutos   | verbin infinitiivi     | verbin preesensvartalo   | yks. 1. pers.
+| -------- | ---------------------- | ------------------------ | -----------
+| т'-ч     | платить                | /плат'/                  | /плач/У/
+| т'-щ     | обратить               | /обрат'/                 | /обраш/У/
+| д'-ж     | садить                 | /сад'/                   | /саж/У/
+| з'-ж     | изобразить             | /изобраз'/               | /изображ/у/
+| зд'-зж   | ездить                 | /езд'/                   | /Езж/у/
+| с'-ш     | просить                | /прос'/                  | /прош/у/
+| ст'-щ    | пустить                | /пуст'/                  | /пущ/У/
+| п'-пл    | накопить               | /накоп/                  | /накопл'/у
+| б'-бл    | любить                 | /люб'/                   | /любл'/у/
+| ф'-фл'   | разграфить             | /разграф'/               | /разграфл'/У/
+| в'-вл'   | ловить                 | /лов'/                   | /ловл'/у/
+| м'-мл    | кормить                | /корм'/                  | /кормл'/у/
+
+
+
+### Milloin mikäkin konjugaatio?
+
+
+Infinitiivi- ja preesensvartaloiden suhteista
+---------------------------------------------
+
+
+
+Epäsäännöllisesti taipuvia verbejä
+-----------------------------------
+
+<!-- хотеть, бежать, дасть, есть -->
 
 
 luento 12 : pääluokka kieliopillisena kategoriana
@@ -3541,6 +3752,8 @@ luento 12 : pääluokka kieliopillisena kategoriana
 
 
 ks. vanhala-aniszewski 1992!
+
+обобщённо-личные + неопределенно-личные
 
 
 Kirjallisuutta
