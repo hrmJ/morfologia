@@ -1120,6 +1120,37 @@ sheljakin
 						в январе, прошлом году, 
 					sama laajemmassa mielessä
 						это случилось в полете, мы встречались
+	konjugaatiot (s.124)
+		1. konjugaatio enemmän erilaisia infinitiivivartaloita kuin 2.
+		2. konjugaatio 4 päätyyppiä (jotka tosin myös 1.konj)
+			- ить просить, звонить, бросить
+				1. konjugaatio, jos:
+					- и kuuluu juurimorfiin 
+						(ja vaihtelee j:n kanssa (=false?)) 
+							лить, пить, вить, шить, бить
+						ja vaihtelee e:n / и:n kanssa
+							брить, гнить
+			- ать (suhuäänteen jälk.): молчать, держать, дрожать
+				- pienehkö ryhmä, suhuäänteen jälkeen
+					держать, дрожать, дышать, слышать, стучать, торчать, трещать, урчать
+				- 2 poikkeusta
+					спать, гнать
+			- vokaali + j  + /ать/: стоять, бояться VAIN NÄMÄ + johdokset!!
+			- еть (s. 126)
+				- pieni ryhmä
+				- болеть, велеть, вертеть, видеть, гореть, греметь, гудеть, зависеть, кипеть, кишеть, лететь, ненавидеть, сидеть, храпеть, шуметь
+					- monet äänen emittoimista
+		Miten erottaa 2. ja 1.?
+	slovoizmenitelnyje klassy
+		1. читать
+			а -- а + j
+			e -- e + j
+			i -- i + j
+			u -- u + j: дуть
+			i -- j: бить
+			i -- e + j: брить
+			i -- o + j: крыть
+			e -- o + j
 rozental
 	suku (s.182)
 		leksikaalis-semanttiset ominaisuudet määrääjänä
@@ -1321,375 +1352,403 @@ wade2010
 				4. muita
 					болеть, жертвовать, заниматься, ограничиваться, пахнуть, прославляться, рисковать, торговать,страдать
 Isachenko
-	1. delkinaation painotyyppejä
-		1. завОд-tyyppi.
-			- paino aina vartalolla
-				| sija    | yks.     | mon.       |
-				| ------- | -------- | ---------  |
-				| nom.    | завОд    | завОды     |
-				| gen.    | завОда   | завОдов    |
-				| dat.    | завОду   | завОдам    |
-				| akk.    | завОд    | завОды     |
-				| instr.  | завОдом  | завОдами   |
-				| prep.   | завОде   | завОдах    |
-			- suurin osa maskuliineista
-				johtamattomia
-					барАн, стул, нарОд, соЮз, закОн
-				suuri osa johdetuista
-					начАльник, грОхот, зАработок, отдЕл, подокОнник
-				hiljattaisia lainoja
-					чемодАн, билЕт, магазИн, трамвАй
-				erisnimet
-					ИвАн, НиколАй, БетхОвен, ДунАй
-		2. Стол-tyyppi (s.130)
-			- yksikön nominatiivissa vartalolla, kaikissa muissa päättelle
-				| sija    | yks.     | mon.       |
-				| ------- | -------- | ---------  |
-				| nom.    | стОл     | столЫ      |
-				| gen.    | столА    | столОв     |
-				| dat.    | столУ    | столАм     |
-				| akk.    | стол     | столЫ      |
-				| instr.  | столОм   | столАми    |
-				| prep.   | столЕ    | столАх     |
-			- sanaryhmiä
-				- paljon johtamattomia
-					бык, вол, вождь, врач,гриб,гроб,двор,дождь,ёж,карандаш,пирог,рубль,чердак
-				- tietyt suffiksit tai tiettyihin äänneyhdistelmiin loppuvat vartalot (s.131)
-					suffiksit
-						ец
-							певец, купец, глупец 
-							MYÖS sanat, joissa ец ei enää nykykielen kannalta suffiksi
-								отец, конец, песец
-						ик
-							ученик, грузовик, Большевик, старик, двойник
-						ак
-							рыбак,дурак,казак
-						як
-							земляк,поляк,коньяк
-						ок
-							воротничОк, белОк + песОк, потолОк
-						ун
-							хвастун,бегун
-						ух
-							петух,пастух
-						ач
-							скрипАч, силАч, трубАч
-						ич
-							ИльИч, кирпИч
-					johtamattomat, mutta...
-						ык
-							язык,ярлЫк,
-						ук
-							паУк
-						ыш
-							малЫш
-						OSITTAIN lainatut аж-päätteiset
-							этаж, багаж,фураж, гарАж
-		3. Нос-tyyppi
-			- paino yksikössä aina vartalolla, monikossa aina päätteellä
-				| sija    | yks.    | mon.       |
-				| ------- | --------| ---------  |
-				| nom.    | нОс     | носЫ      |
-				| gen.    | нОсА    | носОв     |
-				| dat.    | нОсУ    | носАм     |
-				| akk.    | нОс     | носЫ      |
-				| instr.  | нОсОм   | носАми    |
-				| prep.   | нОсЕ    | носАх     |
-				нос, нОса,Носу,нОсом .... носЫ, носОв, носАм, носАми
-			- ryhmä1:
-				- lista 
-					альт, бал, бас, борт, бунт,вал,верх,воз,год,гроб,долг,жир,круг,лад,мозг,мост,низ,нос,пан,пар,пир,плуг,раз,ряд,сад,суп,сыр,шаг,шкаф, угол,торг,чай
-				- Huom!
-					melkein kaikilla näistä lokatiivimuoto (s.133)
-			- ryhmä2:
-				- sanat, joilla monikon nom painollinen /a/
-				- lista
-					- берег,глаз,голос,холож,друг,князь
-		4. Волк-tyyppi
-			- paino vartalolla yksikössä sekä monikon nominatiivissa/akkusatiivissa, kaikissa muissa muodoissa päätteellä
-			    |sija   | yks.   | mon.    |
-				|-------|--------|---------|
-				|nom.   | вОлк   | вОлки   |
-				|gen.   | вОлка  | волкОв  |
-				|dat.   | вОлку  | волкАм  |
-				|akk.   | вОлка  | волкОв  |
-				|instr. | вОлком | волкАми |
-				|prep.  | вОлке  | волкАх  |
-			- ryhmä1
-				huom
-					vanhoja kantavenäläisiä sanoja
-				lista
-					бог,ветер,вОлос,вор,гость,гОлубь,гром,гусь,зверь,зуб,камень,кОрень,лЕбедь,лОсось,лОкоть, медведь,Окунь,хлеб,чёрт,уголь
-		5. Конь-tyyppi
-			- paino liikkuu
-				|sija   | yks.   | mon.    |
-				|-------|--------|---------|
-				|nom.   | конь   | кОни   |
-				|gen.   | конЯ   | конЕй  |
-				|dat.   | конЮ   | конЯм  |
-				|akk.   | конЯ   | конЕй  |
-				|instr. | конЁм  | конЯми |
-				|prep.  | конЕ   | конЯх  |
-			- sanoja
-				гвоздь
-		Preposition paino
-			- venäjässä sääntönä, että prepositio vailla omaa painoa (от БрАта, до утрА)
-			- joitain poikkeuksia, joissa paino prepositiolla
-				Из лесу, зА руку
-				vaikutus substantiivin merkitykseen
-					нА дом
-					испугался дО смерти
-						до смЕрти остался...
-					зА городом
-			- tähän liittyen nykyään yhtenäisiä sanoja, adverboituminen
-				дОверху, зАмуж,
-			- epäproduktiivista: noin 20 substantiivia käyttäytyy näin (135)
-				берег
-					выйти нА берег
-				бок
-					пОд боком
-					ложится нА бок
-					сражаться бок О бок с кем-либо
-				борт
-					О борт
-				ветер
-					бросать слова нА ветер
-				вечер
-					пОд вечер
-				волос
-					таскать зА волосы
-				год
-					уехать нА год
-					выучился зА год
-					Из году в год
-				город
-					зА городом
-				двор
-					бегать пО двору
-				дом
-					добраться дО дому, выйти Из дому, ходить пО дому, брать работу нА дом
-				зуб
-					зуб нА зуб
-				конь
-				мир
-				мост
-				нос
-					водить зА нос, ударить пО носу, кровь идёт Из носу
-				пол
-					нА пол, дО полу, пО полу
-				пояс
-					держать зА пояс
-				смех
-					это курам нА смех
-				стол
-					ударить кулаком пО столу
-				час
-					час От часу
-			- lisäksi
-				господь, Христос
-	2. deklinaation painotyyppejä
-		1. шкОла-tyyppi
-			paino aina vartalolla
-				| sija    | yks.     | mon.      |
-				| ------- | -------- | --------- |
-				| nom.    | шкОла    | шкОлы     |
-				| gen.    | шкОлы    | шкОл      |
-				| dat.    | шкОле    | шкОлам    |
-				| akk.    | шкОлу    | шкОлы    |
-				| instr.  | шкОлой   | шкОлами   |
-				| prep.   | шкОле    | шкОлах    |
-			produktiivinen tyyppi
-			mitä sanoja?
-				paljon johtamattomia
-					кОжа, мУха, вОля, лИпа, рЕпа, вЕра, лопАта, недЕля
-				nykykielessä käytännössä johtamattomia
-					лОжка, свАдьба, пЕчка, нОжка
-				lainasanoja:
-					фабрика, кАфедра, культУра, газЕта, систЕма, полЕмика
-		2. TAPAUKSET, JOISSA YKSIKÖN KAIKKI PAINOT PÄÄTTEELLÄ
-			Huom: ё
-				ветлА, деснА, женА,слезА,
-			Ei ё:ta
-				бедА,змеЯ, семья
-		2. a) травА-tyyppi
-			paino päätteellä yksikössä, vartalolla monikossa
-				| sija    | yks.     | mon.      |
-				| ------- | -------- | --------- |
-				| nom.    | травА    | трАвы     |
-				| gen.    | травЫ    | трАв      |
-				| dat.    | травЕ    | трАвам    |
-				| akk.    | травУ    | трАвы     |
-				| instr.  | травОй   | трАвами   |
-				| prep.   | травЕ    | трАвах    |
-			Mitä sanoja?
-				mm. seuraavat kaksitavuiset
-					:бедА, вдовА, веснА, ветлА, винА, войнА, главА, грядА,
-					:дырА, женА, звездА, змеЯ, иглА, игрА, икрА, козА. лунА,
-					:норА, нуждА, овцА, осА, пилА,пчелА,рудА, свиньЯ,
-					:семьЯ,скалА,сестрА,смолА,совА,соснА,стрелА,струнА,странА,трубА
-				Kolmitavuiset ота-päätteiset:
-					:кислотА, красотА, высотА, сиротА, колбасА
-		2. b) свечА-tyyppi
-			paino aina päätteellä paitsi M.NOM
-				| sija    | yks.     | mon.      |
-				| ------- | -------- | --------- |
-				| nom.    | свечА    | свЕчы     |
-				| gen.    | свечЫ    | свеч      |
-				| dat.    | свечЕ    | свечАм    |
-				| akk.    | свечУ    | свЕчи     |
-				| instr.  | свечОй   | свечАми   |
-				| prep.   | свечЕ    | свечАх    |
-			Mitä sanoja?
-				ainakin seuraavat:
-					:железА, сковородА (скОвороды), строкА, простынЯ
-		2. c) волнА-tyyppi
-			paino yksikössä pääteellä, monikon obliikvisijoissa sallii variaatiota
-				| sija    | yks.     | mon.              |
-				| ------- | -------- | ---------         |
-				| nom.    | волнА    | вОлны             |
-				| gen.    | волнЫ    | вОлн              |
-				| dat.    | волнЕ    | вОлнам ~ волнАм   |
-				| akk.    | волнУ    | вОлны             |
-				| instr.  | волнОй   | вОлнами ~ волнАми |
-				| prep.   | волнЕ    | вОлнах  ~  волнАх |
-			Mitä sanoja?
-				mm. seuraavia:
-					:дугА, судьбА, судьЯ
-		3a. рукА-tyyppi (2-tav)
-			paino päätteellä paitsi AKK, M.NOM
-				| sija    | yks.     | mon.      |
-				| ------- | -------- | --------- |
-				| nom.    | рукА     | рУки      |
-				| gen.    | руки     | рук       |
-				| dat.    | рукЕ     | рукАм     |
-				| akk.    | рУку     | рУки      |
-				| instr.  | рукОй    | рукАми    |
-				| prep.   | рукЕ     | рукАх     |
-			Mitä sanoja? (joillakin variaation mahdollisuutta)
-				вода, гора,доскА,душА,зимА,крохА,косА,рекА,рукА,зимА,спинА,средА,стенА,стопА,щекА,ногА
-		3b. головА-tyyppi (3-tav)
-			paino päätteellä paitsi AKK, M.NOM
-				| sija    | yks.       | mon.        |
-				| ------- | --------   | ---------   |
-				| nom.    | головА     | гОловы      |
-				| gen.    | головЫ     | голОв       |
-				| dat.    | головЕ     | головАм     |
-				| akk.    | гОлову     | гОловы      |
-				| instr.  | головОй    | головАми    |
-				| prep.   | головЕ     | головАх     |
-			Mitä sanoja?
-				борода, бороздА,боронА, полосА, сторонА
-		3c. ценА-tyyppi
-			Monikossa paino genetiiviä lukuun ottamatta ensimmäisellä tavulla
-				| sija    | yks.     | mon.      |
-				| ------- | -------- | --------- |
-				| nom.    | землЯ    | зЕмли     |
-				| gen.    | землИ    | земЕль    |
-				| dat.    | землЕ    | зЕмлям    |
-				| akk.    | зЕмлу    | зЕмли     |
-				| instr.  | землЁй   | зЕмлями   |
-				| prep.   | землЕ    | зЕмлях    |
-			Mitä sanoja?
-				землЯ, ценА, избА
-		4. Poikkeuksia:
-			дерЕвня, дОля
-	3. deklinaation painotyyppejä
-		1. тетрАдь-tyyppi (ainoa produktiivinen)
-			Paino aina vartalolla
-				| sija    | yks.       | mon.        |
-				| ------- | --------   | ---------   |
-				| nom.    | тетрАдь    | тетрАди     |
-				| gen.    | тетрАди    | тетрАдей    |
-				| dat.    | тетрАди    | тетрАдям    |
-				| akk.    | тетрАдь    | тетрАди     |
-				| instr.  | тетрАдью   | тетрАдями   |
-				| prep.   | тетрАди    | тетрАдях    |
-			Mitä sanoja?
-				yksitavuisia
-					жизнь, жесть, сталь, шерсть, нефть,
-				kaksitavuisia
-					ладОнь, кровАть,постЕль,прЕлесть,пАмять,пОмощь
-				suurin osa ость-päätteisistä (usein ei mon.)
-					рАдость, глУпость, неожИданность
-				vierasperäiset
-					морАль, медАль, форЕль, панЕль 
-		2. вещь-tyyppi
-			Monikon obliikvisijoissa paino päätteellä
-				| sija    | yks.     | mon.      |
-				| ------- | -------- | --------- |
-				| nom.    | вЕщь     | вЕщи      |
-				| gen.    | вЕщи     | вещЕй     |
-				| dat.    | вЕщи     | вещАм     |
-				| akk.    | вЕщь     | вЕщи      |
-				| instr.  | вЕщью    | вещАми    |
-				| prep.   | вЕщи     | вещАх     |
-			Mitä sanoja?
-				Yksitavuisia johtamattomia
-					весть, власть, ночь, речь, рояль, сельдь, сеть, смерть, снасть,соль,страсть,часть
-				Useampitavuisia, pääosin johdettuja
-					вЕдомость, лОпасть, лОшадь,мЕлочь,нОвость,Область,скОрость,стЕпень,плОщадь,пОвесть,цЕрковь,чЕтверть
-		3. печь-tyyppi
-			- Lokatiivimuodoissa paino päätteellä, muuten kuten edellinen
-		Prepositioista ja painoista
-			нА ночь, дО смерти 
-	4. deklinaation painotyyppejä
-		huom:
-			Isachenkon mukaan vain yksi produktiivinen tyyppi (s. 141)
-		1. богатство-tyyppi
-			paino pysyy aina paikallaan
-				| sija    | yks.       | mon.        |
-				| ------- | --------   | ---------   |
-				| nom.    | богАтство  | богАтства   |
-				| gen.    | богАтства  | богАтств    |
-				| dat.    | богАтству  | богАтствам  |
-				| instr.  | богАтством | богАтствами |
-				| prep.   | богАтстве  | богАтствах  |
-			Mitä sanoja? (linkki obratnyj slovariin?)
-				-ще-suffiksi
-					жилИще
-				- painoton -ство-suffiksi
-					богатство, Общество, кАчество, лекАрство
-				- suurin osa painollisista ство-suffikseista
-					веществО, божествО
-				- ние-suffiksi, тие-suffiksi
-					наслаждение, объявление, старАние, понЯтие, предприЯтие
-				- ичко-deminutiivit:
-					сердЕчко, окОшечко
-		2. слово-tyyppi
-			paino yksikössä vartalolla, monikossa päätteellä 
-				| sija    | yks.     | mon.      |
-				| ------- | -------- | --------- |
-				| nom.    | слОво    | словА     |
-				| gen.    | слОва    | слов      |
-				| dat.    | слОву    | словАм    |
-				| instr.  | слОвом   | словАми   |
-				| prep.   | слОве    | словАх    |
-			Mitä sanoja?
-				kaksitavuisia johtamattomia
-					вОйско, дЕло, лЕто, мАсло, мЕсто, мОре, мЫло, пОле, прАво, сЕрдце, слОво, стАдо, тЕло
-				kolmetavuisissa paino siirtyy ensimmäiseltä tavulta viimeiselle
-					зЕркало, Облако
-				poikkeustapauksia
-					дЕрево - дерЕвья, Озеро, озЁра
-		3. письмО-tyyppi (s. 143)
-			paino yksikössä päätteellä, monikossa YKSI TAVU AIEMMIN
-				| sija    | yks.      | mon.       |
-				| ------- | --------  | ---------  |
-				| nom.    | письмО    | пИсьмА     |
-				| gen.    | письмА    | пИсем      |
-				| dat.    | письмУ    | пИсьмам    |
-				| instr.  | письмОм   | пИсьмами   |
-				| prep.   | письмЕ    | пИсьмах    |
-			kaksitavuisia johtamattomia
-				:бедрО, бельмО, бревнО, ведрО, веслО, винО, гнездО, звенО
-				:(звЕнья), зернО, кольцО, крылО (крЫлья), лицО, окнО, перО
-				:(пЕрья), плечО, стеклО, числО, ядрО, яйцО, 
-			kolmitavuisia
-				веретенО - веретЁна, колесо - колЁса, ремесло - ремЁсла
-			eräitä ство-johdettuja:
-				меньшинствО - меньшИнства
+	painotyypit
+		1. delkinaation painotyyppejä
+			1. завОд-tyyppi.
+				- paino aina vartalolla
+					| sija    | yks.     | mon.       |
+					| ------- | -------- | ---------  |
+					| nom.    | завОд    | завОды     |
+					| gen.    | завОда   | завОдов    |
+					| dat.    | завОду   | завОдам    |
+					| akk.    | завОд    | завОды     |
+					| instr.  | завОдом  | завОдами   |
+					| prep.   | завОде   | завОдах    |
+				- suurin osa maskuliineista
+					johtamattomia
+						барАн, стул, нарОд, соЮз, закОн
+					suuri osa johdetuista
+						начАльник, грОхот, зАработок, отдЕл, подокОнник
+					hiljattaisia lainoja
+						чемодАн, билЕт, магазИн, трамвАй
+					erisnimet
+						ИвАн, НиколАй, БетхОвен, ДунАй
+			2. Стол-tyyppi (s.130)
+				- yksikön nominatiivissa vartalolla, kaikissa muissa päättelle
+					| sija    | yks.     | mon.       |
+					| ------- | -------- | ---------  |
+					| nom.    | стОл     | столЫ      |
+					| gen.    | столА    | столОв     |
+					| dat.    | столУ    | столАм     |
+					| akk.    | стол     | столЫ      |
+					| instr.  | столОм   | столАми    |
+					| prep.   | столЕ    | столАх     |
+				- sanaryhmiä
+					- paljon johtamattomia
+						бык, вол, вождь, врач,гриб,гроб,двор,дождь,ёж,карандаш,пирог,рубль,чердак
+					- tietyt suffiksit tai tiettyihin äänneyhdistelmiin loppuvat vartalot (s.131)
+						suffiksit
+							ец
+								певец, купец, глупец 
+								MYÖS sanat, joissa ец ei enää nykykielen kannalta suffiksi
+									отец, конец, песец
+							ик
+								ученик, грузовик, Большевик, старик, двойник
+							ак
+								рыбак,дурак,казак
+							як
+								земляк,поляк,коньяк
+							ок
+								воротничОк, белОк + песОк, потолОк
+							ун
+								хвастун,бегун
+							ух
+								петух,пастух
+							ач
+								скрипАч, силАч, трубАч
+							ич
+								ИльИч, кирпИч
+						johtamattomat, mutta...
+							ык
+								язык,ярлЫк,
+							ук
+								паУк
+							ыш
+								малЫш
+							OSITTAIN lainatut аж-päätteiset
+								этаж, багаж,фураж, гарАж
+			3. Нос-tyyppi
+				- paino yksikössä aina vartalolla, monikossa aina päätteellä
+					| sija    | yks.    | mon.       |
+					| ------- | --------| ---------  |
+					| nom.    | нОс     | носЫ      |
+					| gen.    | нОсА    | носОв     |
+					| dat.    | нОсУ    | носАм     |
+					| akk.    | нОс     | носЫ      |
+					| instr.  | нОсОм   | носАми    |
+					| prep.   | нОсЕ    | носАх     |
+					нос, нОса,Носу,нОсом .... носЫ, носОв, носАм, носАми
+				- ryhmä1:
+					- lista 
+						альт, бал, бас, борт, бунт,вал,верх,воз,год,гроб,долг,жир,круг,лад,мозг,мост,низ,нос,пан,пар,пир,плуг,раз,ряд,сад,суп,сыр,шаг,шкаф, угол,торг,чай
+					- Huom!
+						melkein kaikilla näistä lokatiivimuoto (s.133)
+				- ryhmä2:
+					- sanat, joilla monikon nom painollinen /a/
+					- lista
+						- берег,глаз,голос,холож,друг,князь
+			4. Волк-tyyppi
+				- paino vartalolla yksikössä sekä monikon nominatiivissa/akkusatiivissa, kaikissa muissa muodoissa päätteellä
+					|sija   | yks.   | mon.    |
+					|-------|--------|---------|
+					|nom.   | вОлк   | вОлки   |
+					|gen.   | вОлка  | волкОв  |
+					|dat.   | вОлку  | волкАм  |
+					|akk.   | вОлка  | волкОв  |
+					|instr. | вОлком | волкАми |
+					|prep.  | вОлке  | волкАх  |
+				- ryhmä1
+					huom
+						vanhoja kantavenäläisiä sanoja
+					lista
+						бог,ветер,вОлос,вор,гость,гОлубь,гром,гусь,зверь,зуб,камень,кОрень,лЕбедь,лОсось,лОкоть, медведь,Окунь,хлеб,чёрт,уголь
+			5. Конь-tyyppi
+				- paino liikkuu
+					|sija   | yks.   | mon.    |
+					|-------|--------|---------|
+					|nom.   | конь   | кОни   |
+					|gen.   | конЯ   | конЕй  |
+					|dat.   | конЮ   | конЯм  |
+					|akk.   | конЯ   | конЕй  |
+					|instr. | конЁм  | конЯми |
+					|prep.  | конЕ   | конЯх  |
+				- sanoja
+					гвоздь
+			Preposition paino
+				- venäjässä sääntönä, että prepositio vailla omaa painoa (от БрАта, до утрА)
+				- joitain poikkeuksia, joissa paino prepositiolla
+					Из лесу, зА руку
+					vaikutus substantiivin merkitykseen
+						нА дом
+						испугался дО смерти
+							до смЕрти остался...
+						зА городом
+				- tähän liittyen nykyään yhtenäisiä sanoja, adverboituminen
+					дОверху, зАмуж,
+				- epäproduktiivista: noin 20 substantiivia käyttäytyy näin (135)
+					берег
+						выйти нА берег
+					бок
+						пОд боком
+						ложится нА бок
+						сражаться бок О бок с кем-либо
+					борт
+						О борт
+					ветер
+						бросать слова нА ветер
+					вечер
+						пОд вечер
+					волос
+						таскать зА волосы
+					год
+						уехать нА год
+						выучился зА год
+						Из году в год
+					город
+						зА городом
+					двор
+						бегать пО двору
+					дом
+						добраться дО дому, выйти Из дому, ходить пО дому, брать работу нА дом
+					зуб
+						зуб нА зуб
+					конь
+					мир
+					мост
+					нос
+						водить зА нос, ударить пО носу, кровь идёт Из носу
+					пол
+						нА пол, дО полу, пО полу
+					пояс
+						держать зА пояс
+					смех
+						это курам нА смех
+					стол
+						ударить кулаком пО столу
+					час
+						час От часу
+				- lisäksi
+					господь, Христос
+		2. deklinaation painotyyppejä
+			1. шкОла-tyyppi
+				paino aina vartalolla
+					| sija    | yks.     | mon.      |
+					| ------- | -------- | --------- |
+					| nom.    | шкОла    | шкОлы     |
+					| gen.    | шкОлы    | шкОл      |
+					| dat.    | шкОле    | шкОлам    |
+					| akk.    | шкОлу    | шкОлы    |
+					| instr.  | шкОлой   | шкОлами   |
+					| prep.   | шкОле    | шкОлах    |
+				produktiivinen tyyppi
+				mitä sanoja?
+					paljon johtamattomia
+						кОжа, мУха, вОля, лИпа, рЕпа, вЕра, лопАта, недЕля
+					nykykielessä käytännössä johtamattomia
+						лОжка, свАдьба, пЕчка, нОжка
+					lainasanoja:
+						фабрика, кАфедра, культУра, газЕта, систЕма, полЕмика
+			2. TAPAUKSET, JOISSA YKSIKÖN KAIKKI PAINOT PÄÄTTEELLÄ
+				Huom: ё
+					ветлА, деснА, женА,слезА,
+				Ei ё:ta
+					бедА,змеЯ, семья
+			2. a) травА-tyyppi
+				paino päätteellä yksikössä, vartalolla monikossa
+					| sija    | yks.     | mon.      |
+					| ------- | -------- | --------- |
+					| nom.    | травА    | трАвы     |
+					| gen.    | травЫ    | трАв      |
+					| dat.    | травЕ    | трАвам    |
+					| akk.    | травУ    | трАвы     |
+					| instr.  | травОй   | трАвами   |
+					| prep.   | травЕ    | трАвах    |
+				Mitä sanoja?
+					mm. seuraavat kaksitavuiset
+						:бедА, вдовА, веснА, ветлА, винА, войнА, главА, грядА,
+						:дырА, женА, звездА, змеЯ, иглА, игрА, икрА, козА. лунА,
+						:норА, нуждА, овцА, осА, пилА,пчелА,рудА, свиньЯ,
+						:семьЯ,скалА,сестрА,смолА,совА,соснА,стрелА,струнА,странА,трубА
+					Kolmitavuiset ота-päätteiset:
+						:кислотА, красотА, высотА, сиротА, колбасА
+			2. b) свечА-tyyppi
+				paino aina päätteellä paitsi M.NOM
+					| sija    | yks.     | mon.      |
+					| ------- | -------- | --------- |
+					| nom.    | свечА    | свЕчы     |
+					| gen.    | свечЫ    | свеч      |
+					| dat.    | свечЕ    | свечАм    |
+					| akk.    | свечУ    | свЕчи     |
+					| instr.  | свечОй   | свечАми   |
+					| prep.   | свечЕ    | свечАх    |
+				Mitä sanoja?
+					ainakin seuraavat:
+						:железА, сковородА (скОвороды), строкА, простынЯ
+			2. c) волнА-tyyppi
+				paino yksikössä pääteellä, monikon obliikvisijoissa sallii variaatiota
+					| sija    | yks.     | mon.              |
+					| ------- | -------- | ---------         |
+					| nom.    | волнА    | вОлны             |
+					| gen.    | волнЫ    | вОлн              |
+					| dat.    | волнЕ    | вОлнам ~ волнАм   |
+					| akk.    | волнУ    | вОлны             |
+					| instr.  | волнОй   | вОлнами ~ волнАми |
+					| prep.   | волнЕ    | вОлнах  ~  волнАх |
+				Mitä sanoja?
+					mm. seuraavia:
+						:дугА, судьбА, судьЯ
+			3a. рукА-tyyppi (2-tav)
+				paino päätteellä paitsi AKK, M.NOM
+					| sija    | yks.     | mon.      |
+					| ------- | -------- | --------- |
+					| nom.    | рукА     | рУки      |
+					| gen.    | руки     | рук       |
+					| dat.    | рукЕ     | рукАм     |
+					| akk.    | рУку     | рУки      |
+					| instr.  | рукОй    | рукАми    |
+					| prep.   | рукЕ     | рукАх     |
+				Mitä sanoja? (joillakin variaation mahdollisuutta)
+					вода, гора,доскА,душА,зимА,крохА,косА,рекА,рукА,зимА,спинА,средА,стенА,стопА,щекА,ногА
+			3b. головА-tyyppi (3-tav)
+				paino päätteellä paitsi AKK, M.NOM
+					| sija    | yks.       | mon.        |
+					| ------- | --------   | ---------   |
+					| nom.    | головА     | гОловы      |
+					| gen.    | головЫ     | голОв       |
+					| dat.    | головЕ     | головАм     |
+					| akk.    | гОлову     | гОловы      |
+					| instr.  | головОй    | головАми    |
+					| prep.   | головЕ     | головАх     |
+				Mitä sanoja?
+					борода, бороздА,боронА, полосА, сторонА
+			3c. ценА-tyyppi
+				Monikossa paino genetiiviä lukuun ottamatta ensimmäisellä tavulla
+					| sija    | yks.     | mon.      |
+					| ------- | -------- | --------- |
+					| nom.    | землЯ    | зЕмли     |
+					| gen.    | землИ    | земЕль    |
+					| dat.    | землЕ    | зЕмлям    |
+					| akk.    | зЕмлу    | зЕмли     |
+					| instr.  | землЁй   | зЕмлями   |
+					| prep.   | землЕ    | зЕмлях    |
+				Mitä sanoja?
+					землЯ, ценА, избА
+			4. Poikkeuksia:
+				дерЕвня, дОля
+		3. deklinaation painotyyppejä
+			1. тетрАдь-tyyppi (ainoa produktiivinen)
+				Paino aina vartalolla
+					| sija    | yks.       | mon.        |
+					| ------- | --------   | ---------   |
+					| nom.    | тетрАдь    | тетрАди     |
+					| gen.    | тетрАди    | тетрАдей    |
+					| dat.    | тетрАди    | тетрАдям    |
+					| akk.    | тетрАдь    | тетрАди     |
+					| instr.  | тетрАдью   | тетрАдями   |
+					| prep.   | тетрАди    | тетрАдях    |
+				Mitä sanoja?
+					yksitavuisia
+						жизнь, жесть, сталь, шерсть, нефть,
+					kaksitavuisia
+						ладОнь, кровАть,постЕль,прЕлесть,пАмять,пОмощь
+					suurin osa ость-päätteisistä (usein ei mon.)
+						рАдость, глУпость, неожИданность
+					vierasperäiset
+						морАль, медАль, форЕль, панЕль 
+			2. вещь-tyyppi
+				Monikon obliikvisijoissa paino päätteellä
+					| sija    | yks.     | mon.      |
+					| ------- | -------- | --------- |
+					| nom.    | вЕщь     | вЕщи      |
+					| gen.    | вЕщи     | вещЕй     |
+					| dat.    | вЕщи     | вещАм     |
+					| akk.    | вЕщь     | вЕщи      |
+					| instr.  | вЕщью    | вещАми    |
+					| prep.   | вЕщи     | вещАх     |
+				Mitä sanoja?
+					Yksitavuisia johtamattomia
+						весть, власть, ночь, речь, рояль, сельдь, сеть, смерть, снасть,соль,страсть,часть
+					Useampitavuisia, pääosin johdettuja
+						вЕдомость, лОпасть, лОшадь,мЕлочь,нОвость,Область,скОрость,стЕпень,плОщадь,пОвесть,цЕрковь,чЕтверть
+			3. печь-tyyppi
+				- Lokatiivimuodoissa paino päätteellä, muuten kuten edellinen
+			Prepositioista ja painoista
+				нА ночь, дО смерти 
+		4. deklinaation painotyyppejä
 			huom:
-				яйцо, плечо, кольцо - колЕц
+				Isachenkon mukaan vain yksi produktiivinen tyyppi (s. 141)
+			1. богатство-tyyppi
+				paino pysyy aina paikallaan
+					| sija    | yks.       | mon.        |
+					| ------- | --------   | ---------   |
+					| nom.    | богАтство  | богАтства   |
+					| gen.    | богАтства  | богАтств    |
+					| dat.    | богАтству  | богАтствам  |
+					| instr.  | богАтством | богАтствами |
+					| prep.   | богАтстве  | богАтствах  |
+				Mitä sanoja? (linkki obratnyj slovariin?)
+					-ще-suffiksi
+						жилИще
+					- painoton -ство-suffiksi
+						богатство, Общество, кАчество, лекАрство
+					- suurin osa painollisista ство-suffikseista
+						веществО, божествО
+					- ние-suffiksi, тие-suffiksi
+						наслаждение, объявление, старАние, понЯтие, предприЯтие
+					- ичко-deminutiivit:
+						сердЕчко, окОшечко
+			2. слово-tyyppi
+				paino yksikössä vartalolla, monikossa päätteellä 
+					| sija    | yks.     | mon.      |
+					| ------- | -------- | --------- |
+					| nom.    | слОво    | словА     |
+					| gen.    | слОва    | слов      |
+					| dat.    | слОву    | словАм    |
+					| instr.  | слОвом   | словАми   |
+					| prep.   | слОве    | словАх    |
+				Mitä sanoja?
+					kaksitavuisia johtamattomia
+						вОйско, дЕло, лЕто, мАсло, мЕсто, мОре, мЫло, пОле, прАво, сЕрдце, слОво, стАдо, тЕло
+					kolmetavuisissa paino siirtyy ensimmäiseltä tavulta viimeiselle
+						зЕркало, Облако
+					poikkeustapauksia
+						дЕрево - дерЕвья, Озеро, озЁра
+			3. письмО-tyyppi (s. 143)
+				paino yksikössä päätteellä, monikossa YKSI TAVU AIEMMIN
+					| sija    | yks.      | mon.       |
+					| ------- | --------  | ---------  |
+					| nom.    | письмО    | пИсьмА     |
+					| gen.    | письмА    | пИсем      |
+					| dat.    | письмУ    | пИсьмам    |
+					| instr.  | письмОм   | пИсьмами   |
+					| prep.   | письмЕ    | пИсьмах    |
+				kaksitavuisia johtamattomia
+					:бедрО, бельмО, бревнО, ведрО, веслО, винО, гнездО, звенО
+					:(звЕнья), зернО, кольцО, крылО (крЫлья), лицО, окнО, перО
+					:(пЕрья), плечО, стеклО, числО, ядрО, яйцО, 
+				kolmitavuisia
+					веретенО - веретЁна, колесо - колЁса, ремесло - ремЁсла
+				eräitä ство-johdettuja:
+					меньшинствО - меньшИнства
+				huom:
+					яйцо, плечо, кольцо - колЕц
+	konjugaatioista (osa2, s.35)
+		äänteenmuutokset II konjugaation verbeillä: 
+			д´/ж
+			т´/ч
+			т´/щ
+			ст´/щ
+			зд´/зж
+			з´/ж
+			с´/ш
+			б´/бл´
+			п´/пл´
+			м´/мл´
+			в´/вл´
+			ф´/фл´
+		produktiiviset ja epäpro (s.48)
+			produkt
+				1. читать : ать аю ает
+				   - kaikkein produktiivisin
+				2. краснеть
+				3. овать
+				4. нуть
+			epäprodukt
+				1. писать
+				2. лежать
+				3. видеть
+				4. мёрзнуть
+				5. нести
 king
 	kieltogenetiivi (genetive of negation)
 		esim. puolassa välttämätön (s. 31)
