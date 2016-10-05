@@ -67,11 +67,11 @@ no  | Pvm        | Aihe
 9   | ke 28.9.   | Sijat funktionaalisen morfologian kannalta: dat + akk (elollisuuskategoria)
 10  | ti 4.10.   | Sijat funktionaalisen morfologian kannalta: instr + prep
 11  | ke 5.10.   | Persoona kieliopillisena kategoriana  1
-12  | ti 11.10.  | Persoona kieliopillisena kategoriana  2 + partisiippien muodostus
-13  | ke 12.10.  | Partisiippien muodostus + pääluokka
+12  | ti 11.10.  | Persoona kieliopillisena kategoriana  2 
+13  | ke 12.10.  | Persoona kieliopillisena kategoriana + partisiippien muodostus
 -   | ti 18.10   | PERIODITAUKO
 -   | ke 19.10   | PERIODITAUKO
-14  | ke 19.10   | Aspekti kieliopillisena kategoriana
+14  | ke 19.10   | Pääluokka
 15  | ti 25.10.  | Aspektin muodostus ja aspektiparin käsite
 16  | ke 26.10.  | Aspekti funktionaalisen morfologian kannalta 1
 17  | ti 1.11.   | Aspekti funktionaalisen morfologian kannalta 2
@@ -311,220 +311,6 @@ Luento 2: morfeemityypeistä ja sanaluokista
 - [Lataa PDF](http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento2.pdf)
 - [Tutki luentokalvoja](http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento2.html)
 - [Tutki tuntitehtäviä](http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento2.pdf)
-
-Morfeemien alalajeista tarkemmin
------------------------------
-
-Palataan toisen luennon aluksi tarkemmin eri morfeemityyppeihin. Edellä
-todettiin, että kieliopillisia morfeemeja voidaan luokitella juurimorfeemeiksi, prefikseiksi, suffikseiksi,
-postfikseiksi[^fikshuom], taivutuspäätteiksi ja interfikseiksi. Nämä voidaan jo
-lähtökohtaisesti jakaa kahteen ryhmään: juurimorfeemeihin ja
-*affikseihin* (аффиксы).
-Tutkitaan kumpaakin ryhmää seuraavassa tarkemmin. Kun mietit yksittäisen sanan
-jakautumista morfeihin, [wikisanakirja](http://ru.wiktionary.org) on kätevä ja
-helppolukuinen paikka lähteä liikkeelle, josta löydät myös viitteet
-'vakavampiin' kirjallisiin lähteisiin. Samoin internetissä on vapaasti käytettävissä E.A. Zaliznjakin sanakirjaan perustuva [morfologija.ru](http://www.morfologija.ru/), joka ei kuitenkaan niinkään jaa sanoja morfeiksi kuin esittelee eri taivutusparadigmoja. Wikisanakirjan lähteenä paljon käytetty [Tihonovin sanakirja](http://old.kpfu.ru/infres/slovar1) on myös vapaasti selattavissa oleva hyvä lähde. Kannattaa joka tapauksessa pitää mielessä,
-ettei sanan jakaminen morfeiksi ole sekään millään lailla objektiivista,
-itsenäistä todellisuutta vaan käytettävistä teoreettisista lähtökohdista
-riippuvaisen tulkinnan tulos.
-
-[^fikshuom]: Jos ihmettelet, miksi kaikki nämä nimitykset päättyvät
-"fiksi/фикс", sanojen etymologia juontaa latinan *figere*-verbiin, jonka
-merkitys on 'liittää, kiinnittää'.
-
-### Juurimorfeemit
-
-Juurimorfeemin käsitteeseen olemmekin jo törmänneet. Kuten Musatov
-[-@musatov2016: 28] huomauttaa, venäjässä ei ole sanoja, joissa ei olisi
-juurimorfia. Toisin sanoen jokaikisestä venäläisestä sanasta voidaan erottaa
-*vähintään* juurimorfeemi. Juurimorfeemi ilmaisee sanan lähtökohtaisen
-leksikaalisen merkityksen, jota muut morfeemit, esimerkiksi prefiksit, voivat
-muokata. Joskus juurimorfi on ainoa morfi koko sanassa:
-
-(@ee_avtor) /автор/
-
-On kuitenkin huomattava, että vaikka juurimorfeemi on ainoa morfeemityyppi, joka
-voi jo itsessään muodostaa sanan, aina näin ei kuitenkaan käy. Mieti esimerkiksi
-sanoja одеть ja надеть. Missä niissä on juurimorfi ja voisiko se esiintyä
-itsenäisenä sanana?
-
-Sanojen одеть ja надеть juurimorfeiksi voidaan erottaa /де/. Tällaisia
-ei-itsenäisinä esiintyvä morfeemeja nimitetään sidotuiksi (связанные) erotuksena
-vapaista (свободные) juurimorfeemeista.
-
-### Affiksit
-
-#### Prefiksit ja  suffiksit
-
-Prefiksejä (префиксы)[^pristavka] ja suffikseja (суффиксы) käytetään muodostettaessa uusia
-sanoja. Ne eivät siis liity taivuttamiseen, vaan ennen kaikkea *johtamiseen* ja
-*sananmuodostukseen* (vrt. päätteet alla). Tarkastellaan aluksi erityisen selkeää tapausta:
-
-[^pristavka]: Venäläisperäisempi termi olisi приставка. Tieteellisessä
-diskurssissa on kuitenkin parempi käyttää префикс-termiä. Vrt. myös ero suomen
-*prefiksi*- ja *etuliite*-sanojen välillä.
-
-(@ee_soavtor) /со/автор/
-
-Esimerkissä @ee_soavtor on prefiksi /со/, joka muuttaa автор-sanan merkitystä ja
-muodostaa kokonaan uuden sanan, jonka merkitys ('toinen mukana ollut
-kirjoittaja', 'kanssakirjoittaja') tässä tapauksessa on helppo ymmärtää
-ikään kuin muokatuksi juurimorfeemin merkitykseksi. Myös edellä mainituissa
-надеть- ja одеть-sanoissa juurimorfia /де/ edeltävää ainesta voidaan nimittää
-prefiksiksi (morfit /на/ ja /о/). Ne muokkaavat juuresta uuden sanan, vaikka
-tässä tapauksessa itse juuri ei sanana esiinnykään.
-Tavallisia prefiksejä ovat esimerkiksi *пере-*,*за-*,*от-*,*с-* jne.
-
-Suffiksit eroavat prefikseistä siten, että siinä missä prefiksit sijoittuvat
-*ennen* juurimorfeemia, sijoittuvat suffiksit juurimorfeemin *jälkeen*. Myös
-suffiksit ovat etupäässä sananmuodostuksellisia morfeemeja. Suffikseista voisi
-todeta, että muun muassa äänteenmuutosten takia niitä on välillä vaikea erottaa,
-niin että suffikseja on usein sielläkin, missä ensi katsomalta ei siltä näyttäisi.
-Helposti havaittavissa on esimerkiksi adjektiivista /хитр/- juurimorfiin
-liitetty ость-suffiksi esimerkissä @ee_hitrost:
-
-(@ee_hitrost) /хитр/ость/
-
-Vaikeammin havaittavia ovat esimerkiksi verbinmuodostussuffiksit /и/ ja /а/:
-
-(@ee_utshitel) уч/и/ть
-(@ee_igrat2) игр/а/ть
-
-Muita tyypillisiä suffikseja ovat esimerkiksi /ик/,/ец/,/тель/ jne.
-
-Sekä prefikseistä että suffikseista on huomattava, että niitä voi sanassa olla
-useita. Mitä prefiksejä ja suffikseja voit erottaa seuraavista sanoista?
-
-(@ee_pereodevat) переодеваю
-(@ee_osnovatelnitsa) основательницу
-
-Prefiksejä ja suffikseja ei ole ääretöntä määrää, vaan halutessaan
-tavallisimmat voi opetella vaikka ulkoa. Erilaisia substantiiveiin liitettäviä
-suffikseja on listannut muun muassa Šeljakin [-@sheljakin: 32--37].
-
-#### Taivutuspäätteet
-
-Taivutuspäätteillä ei muodosteta uusia sanoja vaan ilmaistaan eri kieliopillisia
-kategorioita ja niiden arvoja (vrt. prefiksit ja suffiksit yllä).
-Taivutuspäätteet sijaitsevat sanassa prefiksian, juurien ja suffiksien jälkeen. Tutki
-esimerkiksi seuraavaa худой-adjektiivin sananmuotoa:
-
-(@ee_huduju) /худ/ую/
-
-/ую/ on taivutuspääte (окончание), joka ilmaisee useampaakin kieliopillista kategoriaa:
-lukua (arvona tässä yksikkö), sukua (feminiini, женский род) ja sijaa (akkusatiivi, винительный падеж).
-Osin toisenlaisista taivutuspäätteistä on kyse seuraavissa esimerkeissä:
-
-(@ee_guljala) /гул/я/л/а/
-(@ee_kniga) /книг/а/
-(@ee_obed) /обед/ø/
-
-Esimerkissä @ee_guljala on itse asiassa kaksi päätettä, /л/, joka ilmaisee
-aikamuotoa (mennyt aika, продщее время) ja /а/ joka ilmaisee lukua ja sukua (yksikkö,
-feminiini). Esimerkki @ee_obed on merkittävä siinä mielessä, että se esittelee
-*nollamorfin* (нулевой морф) käsitteen. Voidaan nimittäin katsoa, että
-обед-sanassakin on -- kuten книга-sanassa -- sukua ilmaiseva pääte. Tämä vain ei
-edustu jonakin sarjana foneemeja vaan nimenomaan äänteiden puuttumisena.
-Nollamorfia merkitän symbolilla ø. Käsitteeseen palataan vielä kurssin edetessä,
-joten ei kannata pelästyä, vaikka sen merkitys jäisi jonkin verran avoimeksi.
-
-Taivutuspäätteistä käytetään joskus pääte/окончание-nimitysten lisäksi termiä
-fleksio (флексия).
-
-
-#### Postfiksit ja interfiksit
-
-Prefiksit ja suffiksit ovat erittäin yleisiä morfeemityyppejä. Sen sijaan sekä
-*postfikseja* (постфиксы) että etenkin *interfiksejä* (интерфиксы) esiintyy
-huomattavasti harvemmin. Postfiksit ovat periaatteessa sananmuodostuksen
-palveluksessa olevia morfeemeja, jotka sijoittuvat prefiksien, juuren,
-suffiksien ja taivutuspäätteiden jälkeen, siis nimensä mukaisesti viimeiselle
-mahdolliselle paikalle sanassa. Venäjän tavallisimpia postfiksejä ovat -нибудь,
--то, -либо sekä ehkä tavallisimmin vastaan tuleva verbeillä esiintyvä -cя.
-Interfiksit puolestaan ovat -- nekin nimensä mukaisesti -- sanojen välissä
-olevia liitosmorfeemeja, joiden avulla muodostetaan yhdyssanoja:
-
-(@ee_thsernobelyj) /чёрн/о/бел/ый/
-
-### Vartalo
-
-Vartalon (основа) käsitteeseen palataan tarkemmin käsiteltäessä kieliopillisten
-kategorioiden konkreettisia arvoja. Jo tässä vaiheessa on paikallaan todeta,
-että vartalon käsitettä ei kannata sekoittaa juurimorfeemin käsitteeseen. Itse
-asiassa vartalo ei useinkaan koostu vain yhdestä, vaan itse asiassa useammasta
-morfeemista. Vartaloksi nimittäin sanotaan sitä osaa sanasta, joka jää jäljelle,
-kun postetaan taivutuspäätteet, esimerkiksi (vartalo erotettu kursiivilla):
-
-(@ee_prepodovatelja) */преподава/тел*/я/
-
-
-Morfofonologisista vaihteluista
--------------------------------
-
-Edellisellä luennolla mainittiin, että yksi morfologian alalajeista on nimeltään
-morfofonologia (морфонология). Morfofonologialla on kielenkäyttäjän kannalta
-paljon käytännön merkitystä. Tämä johtuu siitä, että morfofonologia tutkii muun
-muassa *äänteenmuutoksia* (чередования). Juuri äänteenmuutokset saavat usein
-aikaan vaikutelman siitä, että esimerkiksi verbien persoonataivutuksessa on "pelkkiä
-poikkeuksia" tai muotoja, joita ei voi ennustaa. Tosiassa nämä muodot ovat usein
-täysin säännnmukaisia, mutta niissä vain tapahtuu yhtälailla säännönmukaisia
-konsonanttien tai vokaalien vaihteluita. Katsomme tässä yhteydessä vain lyhyesti
-yhtä esimerkkiä ja palaamme morfofonologisiin vaihteluihin muun muassa
-substantiivien sija- ja verbien persoonakategorian käsittelyn yhteydessä.
-
-Ehkäpä kaikkein tavallisin äänteenmuutos on liudentuneiden ja liudentumattomien
-konsonanttien vaihtelu. Vain kirjoitettua sanaa katsoessa ei ehkä tulisi
-ajatelleeksikaan, että seuraavat äänneparit [@musatov2016: 148-149] eivät itse
-asiassa edusta saman äänteen kahta eri versiota vaan kahta eri äännettä -- kahta
-eri foneemia:
-
-- р -- р'
-- м -- м'
-- д -- д'
-- т -- т'
-- н -- н'
-- с -- с'
-- б -- б'
-- л -- л'
-- ф -- ф'
-- г -- г'
-- х -- х'
-- к -- к'
-- в -- в'
-- з -- з'
-- п -- п'
-
-
-Ajattele tässä valossa esimerkkiä @ee_kotik. Lisättäessä juurimorfiin /кот/
-suffiksi /ик/ morfin viimeinen foneemi vaihtuu eli äänne [т] muuttuu äänteeksi
-[т'] -- tämä ero vain ei näy ortografian tasolla, kirjoituksessa.
-
-(@ee_kotik) кот -- котик
-
-Tietyissä tapauksissa ero voidaan havaita ortografiankin tasolla:
-
-(@ee_putnik) путь -- путник
-
-esimerkissä @ee_putnik liudentunut [т']-äänne vaihtelee liudentumattoman
-[т]-äänteen kanssa, mikä näkyy pehmeän merkin puuttumisena путник-sanan
-kirjoitusasusta.
-
-Paljon näitä sananmuodostukseen liittyviä esimerkkejä konkreettisemmin
-äänteenmuutokset näyttäytyvät, kuten mainittua, taivutuksessa. Tavallisimpia
-tapauksia [ks. @musatov2016: 158] ovat esimerkiksi [з']/[ж]-vaihtelu
-(@ee_morozit), [т']/[ч]-vaihtelu (@ee_platit) ja [с']/[ш]-vaihtelu (@ee_kosit):
-
-(@ee_morozit) морозить -- морожу
-(@ee_platit) платить -- плачу
-(@ee_kosit) косить -- кошу
-
-Listaa tavallisista äänteenmuutoksista voi tutkia esimerkiksi [@sheljakin:
-21-22].
-
-Tällä kurssilla morfit merkitään aina kun mahdollista tavallisen kirjoitusasun
-mukaisesti. Jos huomio kuitenkin on esimerkiksi äänteenmuutoksissa, saatetaan
-käyttää foneettista merkintätapaa.
-
 
 Substantiivit, adjektiivit, pronominit, lukusanat
 -------------------------------------------------
@@ -3418,7 +3204,7 @@ Ensiksi keskitytään tapauksiin, joissa suomessa on sisäpaikallissija, mutta v
 (@ee_vystavka) Прототип устройства был продемонстрирован на выставке офисного оборудования в Японии в 1964 году.
 (@ee_zasedanije1) На заседании был заслушан вопрос о проведении Конгресса бухгалтеров и аудиторов России
 (@ee_zasedanije2) На заседании комитета также было решено обратиться к правительству
-(@ee_foto1) А на фотографии нам было шесть лет
+(@ee_foto1) А на фотографии нам было шесть лет
 (@ee_etap) Ещё на этапе планировки сразу надо решить - сколько времени вы будете уделять будущему саду.
 (@ee_stadija) находиться в стадии: Наш институт находится в стадии завершения...
 (@ee_priroda1) Вместе мы очень любим отдыхать на природе
@@ -3428,8 +3214,8 @@ Ensiksi keskitytään tapauksiin, joissa suomessa on sisäpaikallissija, mutta v
 (@ee_vstretsha) Российскую делегацию на встрече возглавлял заместитель министра иностранных дел В. И. Калюжный.
 (@ee_potshta) Он тут же поехал на почту и отбил Павлу Алексеевичу телеграмму.
 (@ee_prazdnike) На празднике мы были вместе с Титовым,
-(@ee_nebe) Как на небе, так и на земле
-(@ee_sluzhba) В квартире тихо: мама на службе, Варя и Зоя-- в школе.
+(@ee_nebe) Как на небе, так и на земле
+(@ee_sluzhba) В квартире тихо: мама на службе, Варя и Зоя-- в школе.
 (@ee_konferentsija) В прошлом году у нас на конференции выступал замечательный финский экономист Пекка Сутела
 (@ee_kartina) Его можно увидеть на картине Саврасова "Грачи прилетели".
 (@ee_meropr) Предполагается, что на мероприятии, которое состоится в конце марта, будут обсуждаться все предложения
@@ -3462,18 +3248,18 @@ mutta venäjässä ainakin tietyissä konteksteissa v.
 
 (@ee_sfera) В том числе будем говорить и о развитии нашего взаимодействия в сфере экономики.
 (@ee_region) Мы разделяем мнение о том, что достижение стабильности в регионе служит вкладом в установление мира во всём мире,
-(@ee_univer) Я понял, что случай в университете ему не известен.
+(@ee_univer) Я понял, что случай в университете ему не известен.
 (@ee_krai1) Дело происходило в краях довольно южных; Исключение -- только для тех, у кого в крае живут родственники
-(@ee_krai2) А он сидел на крае стула
-(@ee_sezon1) В последнем матче с "Сатурном" в Раменском подопечные Никонова впервые в сезоне забили больше двух мячей
+(@ee_krai2) А он сидел на крае стула
+(@ee_sezon1) В последнем матче с "Сатурном" в Раменском подопечные Никонова впервые в сезоне забили больше двух мячей
 (@ee_sezon2) В сезоне 1994/ 95 гг., отмечая 40-летие своей творческой деятельности
 (@ee_sezon3) Эта победа стала для пилота «Ред Булл» седьмой в сезоне
 (@ee_aeroport) Наверное, думали, что кто-то будет встречать не в аэропорту, а у дверей дома.
-(@ee_aerodrom) Большой скандал разразился нынешней зимой в Магадане, когда на аэродроме были заморожены полторы сотни солдат-пограничников
+(@ee_aerodrom) Большой скандал разразился нынешней зимой в Магадане, когда на аэродроме были заморожены полторы сотни солдат-пограничников
 (@ee_sektor) В секторе обрабатывающей промышленности;
 (@ee_sektor2) Я в секторе переработкиi
 (@ee_sektor3) Легкоатлет в секторе для прыжков в длину.
-(@ee_epoha) Именно поэтому в эпохе Киевской Руси ищут сегодня истоки специфически украинских феноменов
+(@ee_epoha) Именно поэтому в эпохе Киевской Руси ищут сегодня истоки специфически украинских феноменов
 (@ee_lager1) Ольга у нас до 8 июня в лагере работает.
 (@ee_lager2) В лагере Анатолий Андреевич очень болел
 (@ee_otpusk) В отпуске мы и на каникулах.
@@ -3730,8 +3516,26 @@ voidaan esittää ainakin seuraavat äänteenvaihteluparit:
 | м'-мл    | кормить                | /корм'/                  | /кормл'/у/
 
 
+Luento 12: persoona kieliopillisena kategoriana 2
+=================================================
+
+Jatketaan konjugaatioiden tutkimista. Tällä luennolla perehdytään siihen, *mistä
+voi tietää jonkin verbin kuuluvan ensimmäiseen tai toiseen konjugaatioon* ja
+toisaalta siihen, minkälaisia verbejä jää mainittujen kahden konjugaation
+ulkopuolelle.
 
 ### Milloin mikäkin konjugaatio?
+
+Ensimmäinen konjugaatio on venäjässä ylivoimaisesti toista yleisempi. Asia on
+intutiivisestikin selvä, mutta katsotaan kokeeksi vähän tilastoja wikisanakirjan
+datan avulla[^wikilink]. 
+
+[^wikilink]:Data on vapaasti käytettävissä ja ladattavissa [täältä](https://dumps.wikimedia.org/ruwiktionary).
+
+Tämän
+sisällä esimerkiksi Isachenkon [-@isachenko2003: 48] mukaan produktiivisin
+verbityyppi on 
+
 
 
 Infinitiivi- ja preesensvartaloiden suhteista
@@ -3745,7 +3549,8 @@ Epäsäännöllisesti taipuvia verbejä
 <!-- хотеть, бежать, дасть, есть -->
 
 
-luento 12 : pääluokka kieliopillisena kategoriana
+
+luento 13 : pääluokka kieliopillisena kategoriana
 =================================================
 
 
