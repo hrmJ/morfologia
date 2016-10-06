@@ -3488,6 +3488,10 @@ maaten'). Preesensvartalo tällä verbillä saadaan: *лягут* -- *ляг*. N
 - печём = /печ'/ом/
 - печёте = /печ'/от'э/
 
+Huomaa, että verbejä tyyppiä *писать* ei tässä lasketa kuuluvaksi
+äänteenmuutosten piiriin, sillä preesensvartalo on kaikissa tapauksissa /пиш/
+eikä siis vaihtele muuten kuin suhteessa infinitiivivartaloon /писа/.
+
 
 ### Äänteenmuutoksia 2. konjugaatiolla
 
@@ -3559,17 +3563,64 @@ tietylle verbille (esim. напариться) mutta konjugaatio löytyi verbin 
 (johtamattomalle) versiolle  (париться) tai postfiksittomalle versiolle, määriteltiin 
 johdetun verbimuodon konjugaatioksi johtamattoman (tai postfiksittoman) verbin
 konjugaatio. Prosessi ei ole virheetön, mutta vähentää määrittelemättömien tapausten
-määrää merkittävästi.
+määrää merkittävästi. Tarkka kuvaus tehdystä analyysista saatavilla [täältä](https://github.com/hrmJ/morfologia/blob/master/wikianalysis.Rmd)
+
+Koska toinen konjugaatio on huomattavasti harvinaisempi, se on hyvä paikka
+aloittaa, kun yrittää miettiä, mistä minkäkin taivutustyypin tunnistaa. Šeljakin
+[-@sheljakin: 125--126] esittää, että infinitiivivartalon perusteella voidaan
+päätellä verbi 2. konjugaatioon kuuluvaksi, jos
+
+1. infinitiivivartalo päättyy /и/-äänteeseen *eikä ole osa juurimorfia*. Tästä
+   seuraa, että verbit tyyppiä женить, учить, звонить, просить ovat toisen
+   konjugaation verbejä, mutta verbit пить, шить, бить ensimmäisen, samoin kuin
+   verbit брить ('ajaa (partaa)') ja гнить ('pilaantua'). Tämä on ylivoimaisesti
+   suurin ryhmä: Wikisanakirjadatan 2. konjugaation sanoista peräti 5086 päättyy
+   infinitiivissä *ить*.
+2. infinitiivivartalo päättyy /а/-vokaaliin, jota edeltää suhuäänne, eikä
+   /а/-vokaali säily preesensvartalossa. Tämä
+   tarkoittaa verbejä tyyppiä слышать, держать, прозвучать, лежать. Lisäksi
+   a:han ilman suhuäännettä päättyvät спать ja гнать. Jos /a/ säilyy
+   preesensvartalossa, kyseessä on 1. konjugaation sana (обещать ym.).
+   Wikisanakirjan aineistossa tämän ryhmän sanoja on 243. 
+3. infinitiivivartalo  päättyy /а/-vokaaliin ja sitä edeltää vokaali j-äänne: стоять,
+   бояться. Wikisanakirjadatassa näitä tapauksia on 27 ja kaikki ovat johdoksia
+   edellä mainituista kahdesta verbistä (esimerkiksi простоять,  достояться, побояться ym.)
+4. infinitiivimuoto päättyy -еть, eikä е säily preesensvartalossa. Tällaisia
+   sanoja on Wikisanakirja-aineistossa 373, esimerkiksi прозвенеть, оглядеть,
+   смотреться, захрапеть ym -- usein kyseessä on jokin äänen lähettämiseen
+   liittyvä verbi kuten храпеть, звенеть. Jos е säilyy preesensvartalossa,
+   verbi kuuluu 1. konjugaatioon kuten esimerkiksi покраснеть.
 
 
-Tämän
-sisällä esimerkiksi Isachenkon [-@isachenko2003: 48] mukaan produktiivisin
-verbityyppi on 
+Infinitiivi- ja preesensvartaloiden suhteista ensimmäisessä deklinaatiossa
+--------------------------------------------------------------------------
+
+Tarkastellaan vielä ensimmäisen deklinaation sisäisiä sanaryhmiä.
+
+1. Produktiivisin ja ylivoimaisesti suurin ryhmä ovat verbit tyyppiä *читать*,
+joissa infinitiivivartalon lopussa on jokin vokaaleista а, е, и/ы tai у
+[@sheljakin: 127]. Yhteistä tälle ryhmälle on, että preesensvartalo loppuu
+/j/-äänteeseen: читать - читаj-, покраснеть - покраснеj, дуть - дуj. Tämän
+lisäksi infinitiivivartalon viimeinen vokaali on preesensvartalossa joskus eri:
+открыть
+- откроj, брить - брej sekä и--j-vaihtelu sanoissa tyyppiä /бить/--/бью/т
+  (foneettisesti: /би/т'/--/бj/ут/). 
+2. Toisen 1. konjugaation sisäisen ryhmän muodostavat ne tutut verbit, joiden infinitiivivartalo
+   päättyy /ова/ (tai /ева/) ja preesensvartalo /уj/: /интрес/ова/ --
+   /интерес/уj/, /жева/ -- /жуj/ (жевать, 'purra').
+3. Kolmanneksi ryhmäksi voidaan erottaa verbit tyyppiä *писать*. Näissä
+   infinitiivivartalo päättyy /а/-vokaaliin, ja preesensvartalo eroaa
+   infinitiivivartalosta juurimorfin viimeisen konsonantin
+   osalta: /писа/ -- /пиш/, /плака/ -- /плач/.[^sekvar] 
+   
+   
+[^sekvar]:Huomaa, ettei näitä verbejä pidä sekoittaa niihin ensimmäisen
+konjugaation verbeihin, joilla tapahtuu preesensvartalon sisällä äänteenmuutos
+/о/-alkuisissa muodoissa (ks. жить edellä).
 
 
 
-Infinitiivi- ja preesensvartaloiden suhteista
----------------------------------------------
+
 
 
 
@@ -3577,6 +3628,10 @@ Epäsäännöllisesti taipuvia verbejä
 -----------------------------------
 
 <!-- хотеть, бежать, дасть, есть -->
+
+
+Muutama sana painoista
+----------------------
 
 
 

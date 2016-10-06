@@ -5,22 +5,6 @@ datan avulla[^wikilink].
 
 [^wikilink]:Data on vapaasti käytettävissä ja ladattavissa [täältä](https://dumps.wikimedia.org/ruwiktionary).
 
-
-<!--.*fold-begin -->
-
-
-
-<!--.*fold-end -->
-
-<!--
-         1konj   2konj   poik nodata
-ORIG     12659   4080     85  10483
-NA       12790   4159     86  10272
-ALLPREP  14411   5070    111   7715
-ALLPREP2 16744   5782    122   4659
--->
-
-
 Venäjän wikisanakirjan 5.10.2016 saatavilla olleessa versiossa on listattuna  
 yhteensä 27307 verbiä. Näistä 22648 verbille on
 määritetty  tai melko helposti määriteltävissä[^mitenmaar] konjugaatio. Wikisanakirja
@@ -32,16 +16,7 @@ kuvatulla tavalla määritettävissä konjugaatio, voidaan eri konjugaation ylei
 seuraavasti:
 
 
-
-
-
-<!--.*fold-begin -->
-
-
 ![Konjugaatioiden yleisyydet Wikisanakirjassa](figure/wikidata-1.svg)
-
-<!--.*fold-end -->
-
 
 Kuvio osoittaa, että ensimmäiseen konjugaatioon kuuluvien verbien määrä on huomattavan
 suuri verrattuna toisen konjugaation verbeihin: tarkkaan ottaen 16744 

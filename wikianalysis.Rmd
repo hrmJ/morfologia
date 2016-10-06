@@ -146,3 +146,56 @@ johdetun verbimuodon konjugaatioksi johtamattoman (tai postfiksittoman) verbin
 konjugaatio. Prosessi ei ole virheetön, mutta vähentää määrittelemättömien tapausten
 määrää merkittävästi. Tarkka kuvaus tehdystä analyysista saatavilla osoitteesta
 
+
+# Toisen konjugaation tunnistamisesta
+
+
+<!--.*fold-begin -->
+
+
+```{r, echo=FALSE}
+
+TunnistaK2 <- function(x){
+    if(grepl('(ш|щ|ж|ч|ц)ать',x)==TRUE){
+        return('tapa 2')
+    }
+    else if(grepl('(о|а|е|у|и|э|ы)ять',x)==TRUE){
+        return('tapa 3')
+    }
+    else if(grepl('еть',x)==TRUE){
+        return('tapa 4')
+    }
+    else if(grepl('ить',x)==TRUE){
+        return('tapa 1')
+    }
+    else{
+        return("ei mitään")
+    }
+}
+
+TunnistaK1 <- function(x){
+    if(grepl('(о|е)вать',x)==TRUE){
+        return('2. ryhmä')
+    }
+    else if(grepl('(к|ск|с|г|х|т|ст|з|зг|д|м|п|б)ать',x)==TRUE){
+        return('3. ryhmä')
+    }
+    else if(grepl('(а|е|ы|и|у)ть',x)==TRUE){
+        return('1. ryhmä')
+    }
+    else{
+        return("ei määritelty")
+    }
+}
+
+v1<-verbs[verbs$konj=='1konj',]
+v2<-verbs[verbs$konj=='2konj',]
+v2["tunnistus"] <- sapply(v2$verb,TunnistaK2)
+v1["tyyppi"] <- sapply(v1$verb,TunnistaK1)
+
+
+```
+
+<!--.*fold-end -->
+
+
