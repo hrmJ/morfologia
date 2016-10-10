@@ -1,0 +1,23 @@
+% Morfologia, luento 12
+% Juho Härme
+% Pinni B 5004, juho.harme@uta.fi
+
+
+# Mistä tietää, kumpi konjugaatio?
+
+<img src="../figure/wikidata-1.svg" width="85%">
+
+<!-- !pandoc -f markdown -s luento12.Rmd -t slideous -o luento12.html --self-contained --include-in-header=fontheader.html --smart --> 
+
+# 2. konjugaatio, jos...
+
+>- просить, учить, звонить (5086)
+    - vrt. шить, бить, пить
+>- звенеть, смотреть, храпеть (373)
+    - vrt. краснеть
+>- держать, слышать, звучать (243)
+    - vrt. слушать, писать
+>- стоять, бояться (27)
+
+
+[TEHTÄVÄ: Milloin 2. konjugaatio?]
