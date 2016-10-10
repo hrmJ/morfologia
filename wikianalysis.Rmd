@@ -147,7 +147,7 @@ konjugaatio. Prosessi ei ole virheetön, mutta vähentää määrittelemättömi
 määrää merkittävästi. Tarkka kuvaus tehdystä analyysista saatavilla osoitteesta
 
 
-# Toisen konjugaation tunnistamisesta
+# Toisen ja ensimmäisen konjugaation tunnistamisesta
 
 
 <!--.*fold-begin -->
@@ -174,11 +174,23 @@ TunnistaK2 <- function(x){
 }
 
 TunnistaK1 <- function(x){
+    if(grepl('нуть',x)==TRUE){
+        return('1')
+    }
     if(grepl('(о|е)вать',x)==TRUE){
-        return('2. ryhmä')
+        return('2')
+    }
+    else if(grepl('авать',x)==TRUE){
+        return('3')
+    }
+    else if(grepl('сть',x)==TRUE){
+        return('5')
     }
     else if(grepl('(к|ск|с|г|х|т|ст|з|зг|д|м|п|б)ать',x)==TRUE){
-        return('3. ryhmä')
+        return('h. ryhmä')
+    }
+    else if(grepl('(ива|ыва|ва|нича|ича)ть',x)==TRUE){
+        return('1. ryhmä')
     }
     else if(grepl('(а|е|ы|и|у)ть',x)==TRUE){
         return('1. ryhmä')

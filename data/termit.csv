@@ -80,3 +80,5 @@ distributiivinen merkitys;распределительное значение;da
 infinitiivivartalo;основа инфинитива;verbin vartalo, joka muodostetaan poistamalla infinitiivimuodosta infinitiivin tunnus
 preesensvartalo;основа настоящего времени;verbin vartalo, joka muodostetaan poistamalla persoonapääte, tavallisesti oletuksena monikon kolmannesta persoonasta
 konjugaatio;спряжение;verbien taivutustyyppi
+nominaalimuoto;неспрягаемая форма глагола;verbimuotoja, jotka eivät taivu persoonissa vaan nominien tavoin. Esimerkiksi partisiipit.
+infiniittimuoto;неспрягаемая форма глагола;ks. nominaalimuoto
