@@ -1,0 +1,173 @@
+% Morfologia, luento 13
+% Juho Härme
+% Pinni B 5004, juho.harme@uta.fi
+
+#1. Konjugaation sisällä
+
+>- краснеть, играть
+>- интересовать, жевать
+>- признавать
+>- писать
+>- махнуть, остынуть
+>- обнять
+>- вести, упасть, умереть
+
+# Lyhyesti painoista
+
+<article class='incremental'>
+>- Paino aina vartalolla
+    - обЕдать, лАять, Ехать
+    - Pääosin koko 1. konjugaation 1. ryhmä (vrt. бить, петь)
+>- Paino aina päätteellä
+    - идти, нести, красть, попасть, жить, плыть
+    - Pääosin 1. konjugaation 7. alaryhmä
+    - kaikki ава-verbit
+    - жевать, клевать, онсовать
+>- Paino aina vartalolla paitsi yksikön ensimmäisessä persoonassa
+    - писать-tyyppi
+    - водить, купить, ловить, кормить, ступить ym. (~20)
+</article>
+
+
+# Muita verbimuotoja
+
+>- [Kurssikartalla](https://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/kurssikartta2.pdf)
+>- Nominaalimuodot (неспрягаемые формы) vs. finiittimuodot (спрягаемые формы)
+>- Partisiipit nominaalimuotoina
+>- Pääluokka + aikamuoto
+
+<table>
+<thead>
+<tr class="incremental header">
+<th align="left">&nbsp;</th>
+<th align="left">Preesens</th>
+<th align="left">Preteriti</th>
+</tr>
+</thead>
+<tbody>
+<tr class="incremental odd">
+<td align="left">Aktiivi</td>
+<td align="left">празднующий</td>
+<td align="left">праздновавший</td>
+</tr>
+<tr class="incremental even">
+<td align="left">Passiivi</td>
+<td align="left">празднуемый</td>
+<td align="left">отпразднованный</td>
+</tr>
+</tbody>
+</table>
+
+>- Болельщики же, **празднующие** ныне уход Семенова, уверены, что не задержится на этом посту и 42-летний Пятанов.
+>- Московский государственный университет имени М.В. Ломоносова, **праздновавший** в 1955 году свое двухсотлетие. 
+>- Под обычным названием «ай» понимаются вообще все пиршества, **празднуемые** папуасами время от времени
+>- Либо же во время гонки он был слишком возбужден по случаю только что **отпразднованного** дня рождения
+>- VRT.:
+>- Интерес для них представляют территории, удовлетворяющие определенным (хотя и не всегда однозначно **понимаемым**) принципам
+>- ― Деньги, ― продолжал артист, ― должны храниться в госбанке, в специальных сухих и хорошо **охраняемых** помещениях, 
+
+
+
+# Nimityksiä
+ 
+>- действительное причастие настоящего времени
+>- действительное причастие прошедшего времени
+>- старательное причастие настоящего времени
+>- старательное причастие прошедшего времени
+>- полная и краткая форма: отпразднованный -- отпразднован
+
+
+# Rajoitteita
+
+<table>
+<thead>
+<tr class="incremental header">
+<th align="left">&nbsp;</th>
+<th align="left">Preesens</th>
+<th align="left">Preteriti</th>
+</tr>
+</thead>
+<tbody>
+<tr class="incremental odd">
+<td align="left">Aktiivi</td>
+<td align="left">NSV</td>
+<td align="left">NSV/SV</td>
+</tr>
+<tr class="incremental even">
+<td align="left">Passiivi</td>
+<td align="left">NSV</td>
+<td align="left">SV</td>
+</tr>
+</tbody>
+</table>
+
+>- Passiivimuodot pääosin transitiiviverbeistä
+    - MUTTA руководить ym.
+>- Passiivin preesens harvinaisin, rajoittunein
+    - päättyy -чь, -уть, -ереть, -зть, -сть
+    - yksitavuiset (бить, шить ym.)
+    - Monet 2. konjugaation verbit: портить, благодарить, чистить
+
+
+[Tehtävä 1](../tehtavat/luento13.pdf)
+
+# Muodostus
+
+<!--
+
+Selitetään:
+>- Preesens: preesensvartalot
+>- Preteriti: preteritivartalot
+
+Kerätään suffiksit tehtävässä olleista esimerkeistä
+
+-->
+
+<article class='incremental' style='float:left;margin-right:3em;'>
+
+### Preesenspartisiipit
+
+#### Aktiivi
+
+>- 1. konjugaatio: /ущ/
+>- 2. konjugaatio: /ащ/
+
+#### Passiivi
+
+>- 1. konjugaatio: /ом/
+>- 2. konjugaatio: /им/
+>- Poikkeus: давать, признавать ym.
+
+</article>
+
+<article class='incremental' style='float:left;'>
+
+### Preteritipartisiipit
+
+#### Aktiivi
+
+>- infinitiivivartalo päättyy vokaaliin: /вш/
+>- infinitiivivartalo päättyy konsonanttiin: /ш/
+>- печь, стрич
+>- нести, идти
+>- упасть, сесть
+
+#### Passiivi
+
+>- /нн/
+    - infinitiivivartalo päättyy а-suffiksiin
+    - прочитать, проиграть, призвать ym.
+>- /т/
+    - juuri päättyy а-vokaaliin
+    - 1. konjugaation 6. ryhmä: начать, нажать, принять
+    - infinitiivivartalo päättyy /ну/, /ере/, /о/: вытереть, затянуть
+>- /онн/
+    - infinitiivivartalo päättyy konsonanttiin: провести
+    - infinitiivivartalo päättyy /и/, /е/: исказить, просмотреть
+    - äänteenmuutokset vrt. 2. konjugaatio 1.pers
+        искажённый, оплаченный, влюблЁнный
+
+</article>
+
+[Tehtävä 2](../tehtavat/luento13.pdf)
+
