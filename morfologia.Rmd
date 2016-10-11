@@ -3316,6 +3316,11 @@ päiväjärjestyksestä).
 Luento 11: persoona kieliopillisena kategoriana
 ===============================================
 
+- [Takaisin sivun ylälaitaan](https://mustikka.uta.fi/~juho_harme/morfologia/#tästä-kurssista)
+- [Lataa PDF](http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento11.pdf)
+- [Tutki luentokalvoja](http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento11.html)
+- [Tutki tuntitehtäviä](http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento11.pdf)
+
 Siirrämme nyt kurssin painopistettä substantiiveista ja muista nomineista kohti
 verbejä. Aloitamme tutkimalla *persoonaa* kieliopillisena kategoriana.
 
@@ -3522,6 +3527,11 @@ voidaan esittää ainakin seuraavat äänteenvaihteluparit:
 
 Luennot 12--13: persoona kieliopillisena kategoriana 2 ja partisiippien muodostus
 ===============================================================================
+
+- [Takaisin sivun ylälaitaan](https://mustikka.uta.fi/~juho_harme/morfologia/#tästä-kurssista)
+- [Lataa PDF](http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento12.pdf)
+- [Tutki luentokalvoja](http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento12.html)
+- [Tutki tuntitehtäviä](http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento12.pdf)
 
 Jatketaan konjugaatioiden tutkimista. Tällä luennolla perehdytään siihen, *mistä
 voi tietää jonkin verbin kuuluvan ensimmäiseen tai toiseen konjugaatioon* ja

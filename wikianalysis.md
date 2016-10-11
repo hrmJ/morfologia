@@ -9,10 +9,6 @@ datan avulla[^wikilink].
 <!--.*fold-begin -->
 
 
-```
-## Want to understand how all the pieces fit together? Buy the
-## ggplot2 book: http://ggplot2.org/book/
-```
 
 <!--.*fold-end -->
 
@@ -64,7 +60,7 @@ konjugaatio. Prosessi ei ole virheetön, mutta vähentää määrittelemättömi
 määrää merkittävästi. Tarkka kuvaus tehdystä analyysista saatavilla osoitteesta
 
 
-# Toisen konjugaation tunnistamisesta
+# Toisen ja ensimmäisen konjugaation tunnistamisesta
 
 
 <!--.*fold-begin -->

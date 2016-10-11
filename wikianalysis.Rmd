@@ -87,7 +87,7 @@ if(!file.exists('data/conjugation_data.json')){
 }
 
 PrintToWeb <- function() {
-    knit('wikianalysis.Rmd',encoding='UTF-8');pandoc('wikianalysis.md',format='html',encoding='UTF-8', conf='data/knitr.conf') 
+    knit('wikianalysis.Rmd',encoding='UTF-8');pandoc('wikianalysis.md',format='latex',encoding='UTF-8', conf='data/knitr.conf') 
 } 
 
 ```
