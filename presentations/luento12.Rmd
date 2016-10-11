@@ -2,6 +2,54 @@
 % Juho Härme
 % Pinni B 5004, juho.harme@uta.fi
 
+# Äänteenmuutoksista
+
+<article class="incremental">
+### 1. konjugaatio
+
+>- ПЕЧЬ
+>- ЖИТЬ
+>- о-alkuiset (о,е) muodot
+
+</article>
+
+<article class="incremental">
+
+### 2. konjugaatio
+
+>- Vain yksikön 1. persoona!
+
+
+</article>
+
+
+# Taulukko
+
+
+| verbin infinitiivi     | verbin preesensvartalo   | yks. 1. pers. | muutos
+| ---------------------- | ------------------------ | ----------    | --------
+| платить                | /плат'/                  | /плач/У/      | т'-ч
+| обратить               | /обрат'/                 | /обраш/У/     | т'-щ
+| садить                 | /сад'/                   | /саж/У/       | д'-ж
+| изобразить             | /изобраз'/               | /изображ/у    | з'-ж
+| ездить                 | /езд'/                   | /Езж/у/       | зд'-зж
+| просить                | /прос'/                  | /прош/у/      | с'-ш
+| пустить                | /пуст'/                  | /пущ/У/       | ст'-щ
+| накопить               | /накоп/                  | /накопл'/у    | п'-пл
+| любить                 | /люб'/                   | /любл'/у/     | б'-бл
+| разграфить             | /разграф'/               | /разграфл'    | ф'-фл'
+| ловить                 | /лов'/                   | /ловл'/у/     | в'-вл'
+| кормить                | /корм'/                  | /кормл'/у/    | м'-мл
+
+
+# Konjugaatioiden ulkopuolella
+
+
+>- [хотеть](http://ru.wiktionary.org/wiki/хотеть),
+>- [бежать](http://ru.wiktionary.org/wiki/бежать),
+>- [дасть](http://ru.wiktionary.org/wiki/дасть)
+>- [есть](http://ru.wiktionary.org/wiki/есть) 
+
 
 # Mistä tietää, kumpi konjugaatio?
 
@@ -25,3 +73,11 @@
 <!-- Merkitse kaikkiin verbeihin konjugaatio. Käydään läpi poimimalla 2. konj. verbit ja kysymällä, miksi 2. konj. -->
 
 #1. Konjugaation sisällä
+
+>- краснеть, играть
+>- интересовать, жевать
+>- признавать
+>- писать
+>- махнуть, остынуть
+>- обнять
+>- вести, упасть, умереть

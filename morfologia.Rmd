@@ -3512,7 +3512,7 @@ voidaan esittää ainakin seuraavat äänteenvaihteluparit:
 | muutos   | verbin infinitiivi     | verbin preesensvartalo   | yks. 1. pers.
 | -------- | ---------------------- | ------------------------ | -----------
 | т'-ч     | платить                | /плат'/                  | /плач/У/
-| т'-щ     | обратить               | /обрат'/                 | /обраш/У/
+| т'-щ     | обратить               | /обрат'/                 | /обращ/У/
 | д'-ж     | садить                 | /сад'/                   | /саж/У/
 | з'-ж     | изобразить             | /изобраз'/               | /изображ/у/
 | зд'-зж   | ездить                 | /езд'/                   | /Езж/у/
@@ -3621,7 +3621,7 @@ ltyyppiä /бить/--/бью/т (foneettisesti: /би/т'/--/бj/ут/).
 ### 2. ryhmä
 
 Toisen 1. konjugaation sisäisen ryhmän muodostavat ne tutut verbit, joiden infinitiivivartalo
-päättyy /ова/ (tai /ева/) ja preesensvartalo /уj/: /интрес/ова/ --
+päättyy /ова/ (tai /ева/) ja preesensvartalo /уj/: /интерес/ова/ --
 /интерес/уj/, /жева/ -- /жуj/ (жевать, 'purra').
 
 ### 3. ryhmä
