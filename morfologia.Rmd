@@ -3765,8 +3765,10 @@ todeta, että verbit jakautuvat painon puolesta kolmeen pääryhmään:
     *ать*-tavuun (писать, махать). Lisäksi tähän kuuluu parikymmentä 2.
     konjugaation painolliseen *ить*-tavuun infinitiivissä päättyvä verbiä kuten
     [водить](http://ru.wiktionary.org/wiki/водить),
-    [купить](http://ru.wiktionary.org/wiki/купить) ja
-    [ловить](http://ru.wiktionary.org/wiki/ловить).
+    [купить](http://ru.wiktionary.org/wiki/купить),
+    [ловить](http://ru.wiktionary.org/wiki/ловить),
+    [кормить](http://ru.wiktionary.org/wiki/кормить),
+    [ступить](http://ru.wiktionary.org/wiki/ступить) ym. 
 
 
 Partisiippien muodostus
@@ -3800,13 +3802,17 @@ ja *pääluokasta* (molemmat verbien ilmaisemia kieliopillisia kategorioita).
     человек, *нёсший* ящик (laatikkoa *kantanut* henkilö)
 2. Passiivin partisiipit
     - passiivin partisiipin preesensmuoto ilmaisee jonkun agentin jollekin
-    kohteelle suorittamaa tai suoritettavissa olevaa toimintaa: ящик, несомый
-    человеком (ihmisen kantama laatikko). Tätä vastaa usein suomen
-    agenttipartisiippi mutta toisaalta, jos agenttia ei ilmaista, myös suomen
-    VA-partisiipin passiivimuoto: vrt. *допустимый* / *hyväksyttävä*.
-    - passiivin partisiipin preteriti ilmaisee menneisyydessä suoritetun toiminnan
-    ja mahdollisesti toiminnan suorittaneen agentin. Sitä vastaa suomen
-    suomen TU-partisiippi: унесённый -- (pois) kannettu.
+      kohteelle suorittamaa tai suoritettavissa olevaa toimintaa: ящик, несомый
+      человеком (ihmisen kantama laatikko). Tätä vastaa usein suomen
+      agenttipartisiippi. Toisaalta suomen agenttipartisiippi on nimensä
+      mukaisesti sidottu tekijään: asiat ovat aina jonkun \emph{tekemiä}, joten
+      kun tekijää ei ilmaista, joudutaan suomessa turvautumaan muihin
+      muotoihin. Vertaa esimerkiksi muotoa \emph{понимаемый} virkkeessä
+      *Интерес для них представляют территории, удовлетворяющие определенным (хотя и не всегда однозначно понимаемым) принципам*, jossa
+      partisiippi ilmaistaisiin suomeksi pikemminkin 'ymmärrettävissä oleva'. Toisaalta lauseessa 
+      *Деньги должны храниться в хорошо охраняемых помещениях* agentittoman
+      passiivin partisiipin preesensmuodon vastineena on
+      puhtaasti vain suomen TU-partisiippi (hyvin vartioiduissa).
 
 
 ### Miten partisiipit muodostetaan?
@@ -3985,15 +3991,15 @@ partisiippeja hankalampaa myös siinä mielessä, että siihen liittyy
 2. Hankaluutena edellisen kohdan osalta on, että verbien infinitiivivartalon
    vokaali voi olla /а/, vaikka kyseessä ei olisikaan verbinmuodostussuffiksi --
    /а/ voi nimittäin olla osa verbin juurimorfeemia, kuten sanoissa /нача/ть.
-   Tällaisia ovat itse asiassa kaikki edellä 1. konjugaation 6. ryhämksi
+   Tällaisia ovat itse asiassa kaikki edellä 1. konjugaation 6. ryhmäksi
    luetellut verbit: нажать, понять, принять jne. Näissä tapauksissa partisiippi
    muodostetaan /т/-suffiksilla: /нажа/т/ый, /нача/т/ый jne. lukuun ottamatta
     eräitä poikkeuksia: дать -- данный.
 3. /т/-suffiksia puolestaan käytetään myös, jos infinitiivivartalo päättyy /ну/,
    /ере/ tai -/о/. Esimerkiksi /вытереть/-verbin infinitiifivartalo on /вытере/.
    Tästä muodostetaan passiivin partisiipin preteriti poistamalla viimeinen
-    vokaali ja lisäämällä /т/-suffiksi: /вытер/т/ый. /Тянуть/-verbin
-    vartalo on puolestaan /тяну/ ja partisiippimuoto /тЯнутый/.
+    vokaali ja lisäämällä /т/-suffiksi: /вытер/т/ый. /Затянуть/-verbin
+    vartalo on puolestaan /затяну/ ja partisiippimuoto /затЯнутый/.
 4. Jos verbin infinitiivivartalo päättyy konsonanttiin, partisiippi muodostetaan
    suffiksilla /онн/. Esimerkiksi провести-verbillä preesens- ja
    infinitiivivartalo ovat yhtenevät, joten infinitiivivartalokin muodostetaan
