@@ -3657,7 +3657,7 @@ esimerkiksi  подвинуть, шагнуть, замёрзнуть (preteriti
 ### 6. ryhmä
 
 Šeljakin [-@sheljakin: 133] laskee perustellusti omaksi ryhmäkseen verbit
-tyyppiä начать/обнять('halata')/понять/нажать('painaa'), joissa preesensvartalo
+tyyppiä начать/обнять ('halata') / понять/нажать ('painaa'), joissa preesensvartalo
 eroaa melko selkeästi infinitiivivartalosta. Muodostus noudattaa mallia
 /нача/ -- /начн/, /обня/ -- /обним/, /поня/ -- /пойм/, /нажа/ -- /нажм/.
 Kaikissa tapauksissa siis preesensvartaloon ilmestyy nasaali /м/ tai /н/ sekä
