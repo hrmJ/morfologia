@@ -25,7 +25,9 @@
     - жевать, клевать, онсовать
 >- Paino aina vartalolla paitsi yksikön ensimmäisessä persoonassa
     - писать-tyyppi
-    - водить, купить, ловить, кормить, ступить ym. (~20)
+    - учИть, водИть, просИть, купИть, ловить, кормить, ступить, платить ym. (rajattu joukko)
+    - vrt. огранИчить
+    - vrt. звонить, творить, дорожить, трубить, объяснить, отвратить, казнить, угодить, родить, заместить
 </article>
 
 
@@ -72,8 +74,8 @@
  
 >- действительное причастие настоящего времени
 >- действительное причастие прошедшего времени
->- старательное причастие настоящего времени
->- старательное причастие прошедшего времени
+>- страдательное причастие настоящего времени
+>- страдательное причастие прошедшего времени
 >- полная и краткая форма: отпразднованный -- отпразднован
 
 
@@ -109,7 +111,7 @@
     - Monet 2. konjugaation verbit: портить, благодарить, чистить
 
 
-[Tehtävä 1](../tehtavat/luento13.pdf)
+>- [Tehtävä 1](../tehtavat/luento13.pdf)
 
 # Muodostus
 
@@ -126,6 +128,8 @@ Kerätään suffiksit tehtävässä olleista esimerkeistä
 <article class='incremental' style='float:left;margin-right:3em;'>
 
 ### Preesenspartisiipit
+
+>- Preesensvartalo!
 
 #### Aktiivi
 
@@ -144,6 +148,8 @@ Kerätään suffiksit tehtävässä olleista esimerkeistä
 
 ### Preteritipartisiipit
 
+>- Infinitiivivartalo!
+
 #### Aktiivi
 
 >- infinitiivivartalo päättyy vokaaliin: /вш/
@@ -159,7 +165,9 @@ Kerätään suffiksit tehtävässä olleista esimerkeistä
     - прочитать, проиграть, призвать ym.
 >- /т/
     - juuri päättyy а-vokaaliin
-    - 1. konjugaation 6. ryhmä: начать, нажать, принять
+        - 1. konjugaation 6. ryhmä: начать, нажать, принять
+    - Muut tapaukset, joissa juuri päättyy vokaaliin
+        взять, взбить
     - infinitiivivartalo päättyy /ну/, /ере/, /о/: вытереть, затянуть
 >- /онн/
     - infinitiivivartalo päättyy konsonanttiin: провести
@@ -169,5 +177,5 @@ Kerätään suffiksit tehtävässä olleista esimerkeistä
 
 </article>
 
-[Tehtävä 2](../tehtavat/luento13.pdf)
+>- [Tehtävä 2](../tehtavat/luento13.pdf)
 

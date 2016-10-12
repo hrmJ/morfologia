@@ -71,19 +71,18 @@ no  | Pvm        | Aihe
 13  | ke 12.10.  | Persoona kieliopillisena kategoriana + partisiippien muodostus
 -   | ti 18.10   | PERIODITAUKO
 -   | ke 19.10   | PERIODITAUKO
-14  | ke 19.10   | Pääluokka
-15  | ti 25.10.  | Aspektin muodostus ja aspektiparin käsite
-16  | ke 26.10.  | Aspekti funktionaalisen morfologian kannalta 1
-17  | ti 1.11.   | Aspekti funktionaalisen morfologian kannalta 2
-18  | ke 2.11.   | Aika kieliopillisena kategoriana
-19  | ti 8.11.   | Tapaluokka kieliopillisena kategoriana 1
-20  | ke 9.11.   | Tapaluokka kieliopillisena kategoriana 2
-21  | ti 15.11.  | Liikeverbit 1
-22  | ke 16.11.  | Liikeverbit 2
-23  | ti 22.11.  | Verbimuotoja: Gerundit
-24  | ke 23.11.  | Verbimuotoja: Infinitiivi
-25  | ti 29.11.  | Adverbien erityispiirteitä
--   | ke 30.11.  | Kertausta
+14  | ti 25.10.  | Pääluokka
+15  | ke 26.10.  | Aspekti kieliopillisena kategoriana
+16  | ti 1.11.   | Aspekti funktionaalisen morfologian kannalta 
+17  | ke 2.11.   | Aspekti + aika kieliopillisena kategoriana
+18  | ti 8.11.   | Tapaluokka kieliopillisena kategoriana 1
+19  | ke 9.11.   | Tapaluokka kieliopillisena kategoriana 2
+20  | ti 15.11.  | Liikeverbit 1
+21  | ke 16.11.  | Liikeverbit 2
+22  | ti 22.11.  | Verbimuotoja: Gerundit
+23  | ke 23.11.  | Verbimuotoja: Infinitiivi
+24  | ti 29.11.  | Adverbien erityispiirteitä
+25  | ke 30.11.  | Kertausta
 -   | ti 6.12.   | EI LUENTOA (itsenäisyyspäivä)
 -   | ke 7.12.   | KOE
 
@@ -3530,15 +3529,18 @@ Luennot 12--13: persoona kieliopillisena kategoriana 2 ja partisiippien muodostu
 
 - [Takaisin sivun ylälaitaan](https://mustikka.uta.fi/~juho_harme/morfologia/#tästä-kurssista)
 - [Lataa PDF](http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento12.pdf)
-- [Tutki luentokalvoja](http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento12.html)
-- [Tutki tuntitehtäviä](http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento12.pdf)
+- [Tutki luentokalvoja luennolle 12](http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento12.html)
+- [Tutki luentokalvoja luennolle 13](http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento13.html)
+- [Tutki tuntitehtäviä luennolle 12](http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento12.pdf)
+- [Tutki tuntitehtäviä luennolle 13](http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento13.pdf)
 
 Jatketaan konjugaatioiden tutkimista. Tällä luennolla perehdytään siihen, *mistä
 voi tietää jonkin verbin kuuluvan ensimmäiseen tai toiseen konjugaatioon* ja
 toisaalta siihen, minkälaisia verbejä jää mainittujen kahden konjugaation
 ulkopuolelle.
 
-### Milloin mikäkin konjugaatio?
+Milloin mikäkin konjugaatio?
+----------------------------
 
 
 Ensimmäinen konjugaatio on venäjässä ylivoimaisesti toista yleisempi. Asia on
