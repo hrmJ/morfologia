@@ -72,9 +72,9 @@ no  | Pvm        | Aihe
 -   | ti 18.10   | PERIODITAUKO
 -   | ke 19.10   | PERIODITAUKO
 14  | ti 25.10.  | Pääluokka
-15  | ke 26.10.  | Aspekti kieliopillisena kategoriana
-16  | ti 1.11.   | Aspekti funktionaalisen morfologian kannalta 
-17  | ke 2.11.   | Aspekti + aika kieliopillisena kategoriana
+15  | ke 26.10.  | Aspekti kieliopillisena kategoriana 1
+16  | ti 1.11.   | Aspekti kieliopillisena kategoriana 2
+17  | ke 2.11.   | Aspekti 3 + aika kieliopillisena kategoriana
 18  | ti 8.11.   | Tapaluokka kieliopillisena kategoriana 1
 19  | ke 9.11.   | Tapaluokka kieliopillisena kategoriana 2
 20  | ti 15.11.  | Liikeverbit 1
@@ -303,7 +303,7 @@ Morfologian osa-alueita
   Funktionaalinen morfologia (функциональная морфология)
 
 
-Luento 2: morfeemityypeistä ja sanaluokista
+Luento 2: Morfeemityypeistä ja sanaluokista
 =============================================
 
 - [Takaisin sivun ylälaitaan](https://mustikka.uta.fi/~juho_harme/morfologia/#tästä-kurssista)
@@ -410,7 +410,7 @@ eli eivät tee eroa yksikön ja monikon välillä.
 
 
 
-Luento 3: luku ja suku kieliopillisina kategorioina
+Luento 3: Luku ja suku kieliopillisina kategorioina
 ========================================================
 
 - [Takaisin sivun ylälaitaan](https://mustikka.uta.fi/~juho_harme/morfologia/#tästä-kurssista)
@@ -594,7 +594,7 @@ erikseen feminiiniversio, muista ei.
 <!-- https://ru.wiktionary.org/wiki/%D0%9F%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5:%D0%9E%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D1%8B%D0%B9_%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0-1  -->
 
 
-Luento 4: sija kieliopillisena kategoriana
+Luento 4: Sija kieliopillisena kategoriana
 ====================================================
 
 - [Takaisin sivun ylälaitaan](https://mustikka.uta.fi/~juho_harme/morfologia/#tästä-kurssista)
@@ -949,7 +949,7 @@ Instr. | /ами/      | временами | гнездами
 Prep.  | /ах/       | временах  | гнездах 
 
 
-Luento 5: sija kieliopillisena kategoriana 2
+Luento 5: Sija kieliopillisena kategoriana 2
 ====================================================
 
 - [Takaisin sivun ylälaitaan](https://mustikka.uta.fi/~juho_harme/morfologia/#tästä-kurssista)
@@ -2778,7 +2778,7 @@ kohteelle annetaan yksi kappale annettavaa esinettä:
 (@ee_gvozdik) Ритуал «посвящения» первокурсников. Дипломники раздают каждому *по гвоздике*. 
 
 
-Luento 9: sijat funktionaalisen morfologian kannalta 3
+Luento 9: Sijat funktionaalisen morfologian kannalta 3
 ======================================================
 
 - [Takaisin sivun ylälaitaan](https://mustikka.uta.fi/~juho_harme/morfologia/#tästä-kurssista)
@@ -3312,7 +3312,7 @@ päiväjärjestyksestä).
 (@ee_razb_instr) Тогда Хлопонин пообещал "разобраться" с ними в том случае, если они будут вести себя "неконструктивно".
 
 
-Luento 11: persoona kieliopillisena kategoriana
+Luento 11: Persoona kieliopillisena kategoriana
 ===============================================
 
 - [Takaisin sivun ylälaitaan](https://mustikka.uta.fi/~juho_harme/morfologia/#tästä-kurssista)
@@ -3524,7 +3524,7 @@ voidaan esittää ainakin seuraavat äänteenvaihteluparit:
 | м'-мл    | кормить                | /корм'/                  | /кормл'/у/
 
 
-Luennot 12--13: persoona kieliopillisena kategoriana 2 ja partisiippien muodostus
+Luennot 12--13: Persoona kieliopillisena kategoriana 2 ja partisiippien muodostus
 ===============================================================================
 
 - [Takaisin sivun ylälaitaan](https://mustikka.uta.fi/~juho_harme/morfologia/#tästä-kurssista)
@@ -4021,12 +4021,170 @@ partisiippeja hankalampaa myös siinä mielessä, että siihen liittyy
 
 
 
-luento 14 : pääluokka kieliopillisena kategoriana
+Luento 14 : Pääluokka kieliopillisena kategoriana
 =================================================
 
-ks. vanhala-aniszewski 1992!
+*Pääluokka* (залог) on kieliopillinen kategoria, joka on yksinomaan verbien
+ominaisuus. Kategorialla on kaksi arvoa: aktiivi (действительный залог) ja
+passiivi (страдательный залог).
 
-обобщённо-личные + неопределенно-личные
+Pääluokkakategorian oletusarvona voi hyvin pitää aktiivia: verbit ovat
+*useimmiten* aktiivissa, ja passiivinen käyttö on niin suomessa kuin
+venäjässäkin aina jonkinasteinen poikkeus. Tässä yhteydessä onkin kysyttävä
+funktionaalisen morfologian kannalta tärkeä kysymys: Milloin ja mihin passiivia
+tarvitaan?
+
+Marjatta Vanhala-Aniszewskin [-@vanhala92: 242] mukaan passiivin tärkein funktio
+niin suomessa kuin venäjässä on huomion vieminen pois toiminnan varsinaisesta
+suorittajasta (дефокусировка реального производителя действия). Vertaa tähän
+liittyen seuraavia lauseita:
+
+(@ee_pass1) Я написал книгу как для современников, так и для потомков
+(@ee_pass2) Книга написана как для современников, так и для потомков
+
+Yksinkertaisimmillaan aktiivin ja passiivin erossa on kyse lauseiden @ee_pass1
+ja @ee_pass2 välisestä erosta: lauseessa  @ee_pass1 on selvästi ilmaistu, kuka
+on vastuussa suoritetusta toiminnasta, kun taas lause @ee_pass2 jättää tämän
+auki. Monimutkaisemmaksi ero muuttuu, kun ajatellaan passiivilauseita, joissa
+tekijä ilmaistaan agenttitäydennyksen avulla:
+
+(@ee_pass3) Книга написана Достоекским.
+
+Kuitenkin myös lauseesta @ee_pass3 voidaan todeta, ettei päähuomio ole tekijässä
+vaan tekemisen kohteessa: tekijän ilmaiseminen on ainoataan täydentävää
+informaatiota.
+
+Passiivirakenteet venäjässä
+---------------------------
+
+Venäjästä erotetaan tavallisesti kaksi erityyppistä passiivirakennetta ja näiden
+lisäksi kolmas rakenne, jota käytetään passiivin funktiossa. Varsinaisia
+(morfologisessa ja syntaktisessa mielessä) passiivirakenteita ovat
+*morfologinen* (ся-passiivi)  ja *perifrastinen* passiivi (морфологический / перифрастический
+пассив) [@vanhala92: 60]. Kaikkiin passiivirakenteisiin liittyy olennaisena
+vaatimuksena verbin transitiivisuus.
+
+### Morfologinen passiivi
+
+Morfologinen passiivi muodostetaan nimensä mukaisesti morfologisin keinoin,
+lisäämällä postfiksi /ся/ *imperfektiivistä aspektia edustavaan* verbiin. Koska
+se muodostetaan imperfektiivisen aspektin verbeistä, seurauksena on, että
+morfologisella passiivilla kuvattava toiminta on aina *prosessuaalista*
+(процессный), se ei koskaan saavuta suoritetun toiminnan rajaa tai voi kertoa
+loppuun saatetusta prosessista. Morfologinen passiivi voidaan muodostaa niin
+menneen (esimerkit @ee_detali, @ee_samolot) kuin ei-menneen ajan muodoista
+(esimerkit @ee_morfp1, @ee_obsuzhdatsa, @ee_morfp2), mukaan lukien futuurimuodot.
+
+(@ee_morfp1) Завод *строится* на новой промышленной площадке
+(@ee_obsuzhdatsa) Тема *будет обсуждаться* и на проводимой Высшей школой экономики Четвёртой ежегодной конференции
+(@ee_morfp2) Узбекский хлеб *печётся* в традиционных глиняных печах ― тандырах.
+(@ee_detali) Все детали будущего дома *изготавливались* для вас на домостроительных комбинатах
+(@ee_samolot) Выяснилось, самолет *проектировался* еще в начале пятидесятых специалистами фирмы «Локхид эркрафт корпорейшен»
+
+### Perifrastinen passiivi
+
+Perifrastisella passiivilla tarkoitetaan partisiippien  ja
+быть-verbin avulla muodostettavaa passiivirakennetta. Tarkkaan ottaen rakenne
+muodostetaan passiivin partisiipin preteritin lyhyistä muodoista. Kuten
+edelliseltä luennolta muistat, passiivin partisiipin preteritimuotoja tehdään
+*ainoastaan perfektiivisen aspektin verbeistä*, joten perifrastinen passiivi
+heijastelee perfektiivisen aspektin ominaisuuksia siinä missä morfologinen
+passiivi imperfektiivisen aspektin. Myös tätä passiivimuotoa on mahdollista
+käyttää niin menneen (esimerkit @ee_matematika, @ee_vertolet) kuin ei-menneen
+ajan toiminnasta (esimerkki @ee_osobvnim).
+
+(@ee_matematika) Данная технология *была использована* для подготовки входных тестов по математике
+(@ee_vertolet) Вертолёт *был обнаружен* 6 сентября в Ингушетии
+(@ee_osobvnim) Особое внимание будет уделено наращиванию международного партнерского сотрудничества
+
+Perifrastista passiivia voidaan käyttää myös ilman быть-verbiä. Tällöin on
+Vanhala-Aniszewskin [-@vanhala92: 66] mukaan kyse niin kutsutusta passiivin
+perfektimerkityksestä (перфект пассива). Keskeisintä tässä merkityksessä on
+ajatus siitä, että toiminnan tulos on puhehetkellä voimassa. Näin ollen
+esimerkissä @ee_hodork Hodorkovski on puhehetkellä pidätettynä (merkitys on
+staattinen), kun taas быть-verbin sisältävässä esimerkissä @ee_hodork2 pidätys
+kuvataan menneisyydessä tapahtuneena toimintana, jonka tuloksen ei oleteta
+olevan enää voimassa:
+
+(@ee_hodork) Ходорковский арестован
+(@ee_hodork2) Ходорковский был арестован (после чего его повезли в Москву для допросов)
+
+### Indefiniittis-persoonainen rakenne
+
+Indefiniittis-persoonaiset (неопределенно-личные) rakenteet eivät ole
+morfologian tai syntaksin kannalta varsinaisia passiivimuotoja, mutta niitä yhtä
+kaikki käytetään samaan tarkoitukseen kuin passiivia: ennen kaikkea varsinaisen
+tekijän häivyttämiseen tai identifioimatta jättämiseen. Kiinnostavaa kyllä,
+juuri indefiniittis-persoonaiset rakenteet vastaavat esimerkiksi Nikunlassin
+[-@nikunl: 162, 203] mukaan kaikkein lähimmin suomen passiivirakenteita.
+
+Indefiniittis-persoonaiset rakenteet muodostetaan venäjässä tavallisimmin jättämällä lauseesta
+pois subjekti ja käyttämällä verbin monikon kolmannen persoonan muotoa tai
+monikon preteritimuotoa. Lisäksi on mahdollista käyttää быть-verbiä ja lyhyttä
+adjektiivia tai passiivin partisiipin preteritin lyhyttä neutrimuotoa, jota
+usein (muttei aina) seuraa infinitiivi.  Šeljakin [-@sheljakin: 261] antaa
+kustakin indefiniittis-persoonaisesta lausetyypistä seuraavat esimerkit.
+Esimerkissä @ee_nlp1 muodostuksen pohjana on monikon kolmas persoona,
+esimerkissä @ee_nlp2 preteritin monikkomuoto, esimerkissä @ee_nlp3
+partisiippimuoto infinitiivin kanssa ja esimerkissä @ee_nlp4 partisiippimuoto
+ilman infinitiiviä.
+
+(@ee_nlp1) По радио передают последние известия
+(@ee_nlp2) Выставку открыли вчера
+(@ee_nlp3) В школе были довольны его работой
+(@ee_nlp4) Нам рекомендовано отменить поход в горы
+(@ee_nlp5) В городе построено много домов
+
+Tässä yhteydessä on hyvä mainita, että indefiniittis-persoonaista rakennetta
+muistuttavat myös *geneeris-persoonaiset* (обобщенно-личные) rakenteet. En
+tarkastele niitä kuitenkaan yhtenä passiivin ilmaisun keinona, vaan kyseessä on
+ennemminkin, nimensä mukaisesti, pyrkimys yleistää jokin ilmiö yhden
+esimerkkitapauksen perusteella tarkoittamaan ketä tahansa ihmistä tai jonkin
+konkreettisen ryhmän (lapset, opiskelijat ym.) edustajaa. Tässä merkityksessä
+tavallinen on etenkin yksikön toinen persoona: *если ты знаешь иностранные
+языки, найти работу будет нетрудно*.
+
+### Passiivilauseen agentti
+
+Toisin kuin suomessa, venäjässä passiivilauseenkin tekijä voidaan erikseen
+mainita. Tähän käytetään niin kutsuttua *agenttitäydennystä* (агентивное
+дополнение), joka ilmaistaan instrumentaalilla. Esimerkiksi virkkeeseen @ee_hodork2
+voitaisiin liittää tekijä, jolloin saataisiin virke @ee_hodork3. Tekijä voidaan
+lisätä myös morfologisesti muodostettuun passiivirakenteeseen, jolloin
+esimerkistä @ee_morfp1 saadaan @ee_morfp1b:
+
+(@ee_hodork3) Ходорковский был арестован полицией
+(@ee_morfp1b) Завод строится компанией "NCC".
+
+Huomaa kuitenkin, että vaikka tekijän ilmaisu on mahdollista, se ei ole yleistä.
+Vanhala-Aniszewskin [-@vanhala92: 244--245] mukaan agenttimuotoja käytetään
+lähinnä virallisessa asiatyylissä ja tieteellisessä tyylissä. Nikunlassi
+[-@nikunl: 200] puolestaan esittää jopa tarkan luvun: vain 20%:ssa
+passiivimuodoista on ilmaistu agentti.
+
+
+Luento 15: Aika ja aspekti kieliopillisina kategorioina
+================================================
+
+- Venäjän aikamuodot
+    - preteritin ja futuurin muodostus
+    - Aikamuotojen erityismerkityksistä nopeasti (Bondarko 265)
+- yleiset määritelmät, kontrastiivinen näkökulma
+- Mitkä tekijät vaikuttavat aspektin valintaan?
+- perusmerkitykset ja erityismerkitykset
+
+
+Luento 16: Aspekti kieliopillisena kategoriana 2
+================================================
+
+- Lisää perus- ja erityismerkityksistä
+- teonlaadut kevyesti
+
+
+Luento 17: Aspekti kieliopillisena kategoriana 3
+================================================
+
+
 
 
 Kirjallisuutta

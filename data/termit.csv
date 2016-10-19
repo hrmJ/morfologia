@@ -24,6 +24,8 @@ lukukategoria;категория числа;venäjässä tällä kategorialla ka
 sijakategoria;категория падежа;tärkein venäjän nominien keiliopillisista kategorioista, jolla erotetaan lukuisia erilaisia merkityksiä
 elollisuuskategoria;категория одушевлённости;erityisesti akkusatiivin osalta oleellinen kategoria, joka liittyy sanan referentin statukseen elollisena/elottomana olentona
 pääluokkakategoria;категория залога;verbien ilmaisema kategoria, jonka arvot ovat aktiivi (действительный залог) ja passiivi (старательный залог)
+aktiivi;действительный залог;Pääluokkakategorian toinen arvo
+passiivi;страдательный залог;Pääluokkakategorian toinen arvo
 persoonakategoria;категория лица;tavallisimmin verbeillä, mutta joissain tapauksissa myös pronomineilla ilmaistu kieliopillinen kategoria
 aspektikategoria;категория вида;koko venäjän verbijärjestelmän läpäisevä kategoria, jolla perinteisesti nähty kaksi arvoa, imperfektiivinen ja perfektiivinen
 tapaluokkakategoria;категория наклонения;verbien ilmaisema kieliopillinen kategoria, jonka arvoja mm. indikatiivi ja konditionaali
@@ -82,3 +84,4 @@ preesensvartalo;основа настоящего времени;verbin vartalo,
 konjugaatio;спряжение;verbien taivutustyyppi
 nominaalimuoto;неспрягаемая форма глагола;verbimuotoja, jotka eivät taivu persoonissa vaan nominien tavoin. Esimerkiksi partisiipit.
 infiniittimuoto;неспрягаемая форма глагола;ks. nominaalimuoto
+agenttitäydennys;агентивное дополение;instrumentaalimuotoinen nomini, joka ilmaisee passiivilauseen tekijän
