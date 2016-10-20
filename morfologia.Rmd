@@ -179,13 +179,13 @@ Kummassakin yllä olevista esimerkeistä on kaksi morfia. Olet varmasti kuullut
 myös sanan *morfeemi* (морфема). Siinä missä morfi on konkreettinen, yksittäinen
 esiintymä, morfeemi on abstrakti yksikkö, joka voi esiintyä useampana erilaisena
 morfina. Esimerkeissä @ee_peku ja @ee_pechesh on kummassakin morfeemi, jota
-voitaisiin merkitä esimerkiksi {пек} tai {LEIPOA}[^morfmerk].
+voitaisiin merkitä esimerkiksi {пек} tai[^morfmerk] {LEIPOA}.
 Tämän morfeemin konkreettisia esiintymiä ovat morfit /пек/ ja /печ/. Kyseessä
 on siis yhden ja saman morfeemin kaksi konkreettista esiintymää, vähän niin kuin
 jalkapallojoukkueessa {maalivahti}-"morfeemia" voivat edustaa "morfit" /Joe
 Hart/ ja /Manuel Neuer/.
 
-[^morfmerk] Kuten huomasit, morfeemeja merkitään asettamalla ne aaltosulkujen
+[^morfmerk]: Kuten huomasit, morfeemeja merkitään asettamalla ne aaltosulkujen
 sisään. Jos morfeemiin viitataan sen merkityksellä, se on tapana kirjoittaa
 isolla.
 
@@ -4024,6 +4024,11 @@ partisiippeja hankalampaa myös siinä mielessä, että siihen liittyy
 Luento 14 : Pääluokka kieliopillisena kategoriana
 =================================================
 
+- [Takaisin sivun ylälaitaan](https://mustikka.uta.fi/~juho_harme/morfologia/#tästä-kurssista)
+- [Lataa PDF](http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento14.pdf)
+- [Tutki luentokalvoja](http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento14.html)
+- [Tutki tuntitehtäviä](http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento14.pdf)
+
 *Pääluokka* (залог) on kieliopillinen kategoria, joka on yksinomaan verbien
 ominaisuus. Kategorialla on kaksi arvoa: aktiivi (действительный залог) ja
 passiivi (страдательный залог).
@@ -4166,25 +4171,360 @@ passiivimuodoista on ilmaistu agentti.
 Luento 15: Aika ja aspekti kieliopillisina kategorioina
 ================================================
 
-- Venäjän aikamuodot
-    - preteritin ja futuurin muodostus
-    - Aikamuotojen erityismerkityksistä nopeasti (Bondarko 265)
-- yleiset määritelmät, kontrastiivinen näkökulma
-- Mitkä tekijät vaikuttavat aspektin valintaan?
-- perusmerkitykset ja erityismerkitykset
+- [Takaisin sivun ylälaitaan](https://mustikka.uta.fi/~juho_harme/morfologia/#tästä-kurssista)
+- [Lataa PDF](http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento15.pdf)
+- [Tutki luentokalvoja](http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento15.html)
+- [Tutki tuntitehtäviä](http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento15.pdf)
+
+Aika on varsin poikkitieteellinen käsite. Se on merkittävä niin filosofisessa,
+psykologisessa, lingvistisessä kuin fysikaalisessakin mielessä. On luonnollista,
+että ajan ilmaiseminen kielessä on yksi keskeisimmistä ja tärkeimmistä
+kysymyksistä, joita niin kielenoppija kuin -tutkija joutuu pohtimaan. Menemättä
+sen syvempiin filosofisiin pohdintoihin, todettakoon käytännön
+tasolla, että ajan ja ajallisten suhteiden ilmaisuun voidaan luonnollisissa
+kielissä käyttää ainakin *verbien aikamuotoja*, *aspektia*, *adverbeja* sekä
+esimerkiksi kiinan kielessä olevia *temporaalipartikkeleita* [@klein1999, 143].
+Tällä ja seuraavilla kahdella luennollolla keskitymme kahteen ensiksi mainittuun
+kieliopilliseen kategoriaan: aikamuotoihin eli tempukseen (категория времени)
+sekä aspektiin (категория вида).
+
+Aikamuodot venäjässä
+--------------------
+
+Aikaa ja aspektuaalisuutta paljon tutkineen kielitieteilijän A.V. Bondarkon
+[-@bondarko2005: 261]
+mukaan venäjässä käytössä olevat aikamuodot (aikakategorian arvot) on
+perinteisimmän tulkinnan mukaisesti jaettu seuraavan taulukon kuvaamalla
+tavalla:
+
+
+Aika                 | muoto1                  | muoto 2
+---------------------|-------------------------|----------------------
+Mennyt (preteriti)   | прошедшее несовершенное | прошедшее совершенное
+Nykyhetki (preesens) | настоящее несовершенное | -
+Tuleva (futuuri)     | будущее несовершенное   | будущее совершенное
+
+Taulukko kiinnittää huomion siihen, että aikaa ilmaistaessa aikamuotokategoria
+ja aspektikategoria toimivat venäjässä yhteistyössä: ei oikeastaan ole
+mahdollista puhua aikamuodoista puhumatta myös aspektista. On tähdennettävä,
+että esitetyt muodot koskevat ainoastaan *indikatiivin* tapaluokkaa
+(изъявительное наклонение). Tutkitaan vielä toista versiota taulukosta, jossa
+käsitteiden nimet on korvattu konkreettisilla esimerkeillä, verbien открыть ja
+открывать indikatiivimuodoilla:
+
+Aika                  | muoto1                    | muoto 2
+--------------------- | ------------------------- | ----------------------
+Mennyt (preteriti)    | открывал                  | открыл
+Nykyhetki (preesens)  | открываю                  | -
+Tuleva (futuuri)      | буду открывать            | открою
+
+Kummassakin esitetyistä taulukoista on silmiinpistävää, että yksi solu on
+tyhjänä. Menneestä ja tulevasta ajasta on esitetty aspektien (perfektiivinen
+aspekti, совершенный вид; imperfektiivinen aspekti, несовершенный вид) mukaiset
+muodot: прошедшее несовершенное/совершенное (imperfektiivinen/perfektiivinen
+preteriti), будущее несовершенное/совершенное (imperfektiivinen/perfektiivinen
+futuuri). Nykyhetkestä ei ole kuitenkaan erotettu muotoa "настоящее совершенное"
+(perfektiivinen preesens). Pohditaan tätä  hieman tarkemmin.
+
+
+Yksi perfektiivisen aspektin tärkeimmistä ominaisuuksista on, että se ilmaisee
+toiminnan yhtenä ehjänä kokonaisuutena: se on ikään kuin molemmista päistään rajattu
+jana, jota ei voi paloitella pienempiin osiin:  
+
+|---------------|
+
+Tehdään tähän liittyen ajatusleikki.
+Kuvittele *avaamista* toimintana. Ajattele vaikka itsesi avaamassa kirjaa:
+
+![](figure/open-book-o.gif)
+
+Ajattele edelleen, että sillä hetkellä, kun kätesi on jo ottanut kirjan
+etukannesta kiinni ja nostanut sitä muutaman sentin, joku kysyy sinulta, mitä
+teet. Vastaat tietenkin "Avaan kirjaa." (huomaa suomen objektin partitiivi). Jos
+kirjan avaaminen kuvattaisiin nyt edellisen kaltaisella janalla...
+
+Avaaminen alkaa |---------------| Avaaminen päättyy
+
+...olisi sinut puhehetkellä (H) sijoitettava janalle jotakuinkin seuraavalla
+tavalla:
+
+Avaaminen alkaa |----H---------| Avaaminen päättyy
+
+Mitä kaikki tämä kertoo tekemästäsi kirjan avaamisesta toimintana? Sen, *ettei
+toimintaa esitetä yhtenä ehjänä, suljettuna kokonaisuutena* (целостное действие).
+Voisi sanoa, että sinä puhujana ikään kuin "astut toiminnan keskelle", sen
+sisään. Venäjässä tällainen sisälle astuminen on mahdollista imperfektiivisen
+aspektin verbeillä, *muttei perfektiivisen aspektin verbeillä*. 
+Nikunlassin [-@nikunl: 176] mukaan juuri tästä seuraa, että perfektiivisen
+aspektin verbit eivät voi samalla tavoin ilmasta nykyhetkeä kuin
+imperfektiivisen aspektin verbit. Mieti edellistä ajatusleikkiä ja siinä
+annettua vastausta venäjäksi. Kysymykseen "Что ты делаешь?" on mahdollista
+vastata ainoastaan "Открываю книгу". Jos vastaus olisi "Открою книгу",
+sijoittuisi toiminta tulevaan siitä syystä, että perfektiivinen aspekti ei annan
+mahdollisuutta hypätä keskelle verbin kuvaamaa toimintaa vaan pakottaa kuulijan
+kuvittelemaan toiminnan yhtenä kokonaisuutena.
+
+Aikamuotojen muodostaminen
+--------------------------
+
+Siirrytään nyt tarkastelemaan venäjän aikamuotoja sananmuodostusopin kannalta.
+Preesensin muodostaminen oikeastaan kävi ilmi jo edellisestä: se tehdään
+imperfektiivisen aspektin verbeistä taivuttamalla niitä
+persoonamuodoissa[^aikamhuom]. Enemmän huomiota on sen sijaan kiinnitettävä menneen ajan
+muotoihin.
+
+[^aikamhuom]: Tässä esittämäni kuvaus on tarkoituksellisen yksinkertaistettu.
+Todellisuudessa [ks. esim. @bondarko2005: 262--265] myös perfektiivisen
+aspektin muodot pystyvät ilmaisemaan merkityksiä, jotka on tulkittavissa
+preesensmerkityksiksi. 
+
+### Preteriti
+
+Jos palautetaan mieleen edellä esitetty verbivartaloiden jakaminen preesens- ja
+infinitiivivartaloihin, on perussääntö preteritin muodostamiseen yksinkertainen:
+verbin *infinitiivivartaloon* lisätään taivutuspääte /л/. Lisäksi preteriti
+ilmaisee venäjässä sukua ja lukua, joten /л/-päätteen perään lisätään vielä
+lyhyistä adjektiiveista tutut /ø/ (maskuliinin nollapääte), /а/, /о/ tai /и/. Monikkoa ilmaisevan
+/и/-päätteen edellä preteritin tunnus muuttuu liudentuneeksi: /л'/.
+Esimerkiksi verbistä открывать saadaan infinitiivivartalo /открыва/, johon
+liitetään preteritin pääte: /открыва/л/. Verbillä /открыть/ infinitiivivartalo
+on /откры/, joten preteritimuoto ennen suku-/lukupäätteitä on /откры/л/.
+
+On olemassa joukko tapauksia, joissa preteritin /л/-päätettä ei ilmaista
+maskuliinimuodoissa ja joihin liittyy myös muutoksia inifinitiivivartalossa.
+Nikunlassi [-@nikunl: 157] luettelee tähän liittyen seuraavat ryhmät:
+
+1. Jos infinitiivivartalo päättyy *ере*, kuten verbeillä *умереть* ja
+   *вытереть*. Näillä verbeillä *ере* putuoaa pois menneen ajan muodoissa, niin
+   että verbillä вытереть ('pyyhkiä') preteritimuodot ovat /вытер/ø, /вытер/л/а,
+   /вытер/л/о ja /вытер/л/и. Jos ollaan aivan tarkkoja, maskuliinimuodossa on
+   kaksi nollapäättettä, sillä sekä preteriti että suku on ilmaistu
+   nollapäätteellä: /вытер/ø/ø/
+2. Jos verbi kuuluu edellä ensimmäisen konjugaation viidenneksi alaryhmäksi määriteltyyn 
+   verbien joukkoon eikä ole momentaaninen verbi (kuten толкнуть, махнуть) vaan 
+   ilmaisee olotilan muutosta kuten *погИбнуть* tai *ослАбнуть*. Tällöin *ну*
+   putoaa pois vartalosta kaikissa preteritimuodoissa: /ослаб/ø/ø/, /ослаб/л/а/,
+   /ослаб/л/о/, /ослаб/л/и/.
+3. Jos verbin infinitiivivartalo on sama kuin preesensvartalo ja päättyy
+   konsonanttin (печь, нести, мочь ym.). Tällöin vartalosta ei kuitenkaan häviä mitään,
+   vaan ainoa poikkeus on /л/-päätteen puuttuminen maskuliinimuodosta: /пёк/ø/ø,
+   /пек/л/а jne. Poikkeuksen tästä muodostavat verbit tyyppiä *попасть* ja
+   *вести*. Näillä infinitiivivartalo päättyy konsonanttiin (попад, вед), mutta
+   preteriti muodostetaan siten, että vartalon viimeinen konsonantti häviää, ja
+   myös maskuliinimuodossa on /л/-pääte: /попа/л/ø, /вё/л/ø ym.
+
+
+### Futuuri
+
+Jo edellä oli puhetta siitä, että jos perfektiivisen aspektin verbejä käytetään
+ei-menneen ajan muodossa (indikatiivin persoonamuodoissa), viitataan tällöin
+toiminnan sisäisestä rajattuudesta johtuen väistämättä johonkin, mikä tapahtuu
+tulevaisuudessa. Perfektiivisen aspektin indikatiivin persoonamuotoja
+nimitetäänkin usein *yksinkertaiseksi futuuriksi* (простое будущее время) erotukseksi
+liittofutuurista (сложное будущее время), joka puolestaan muodostetaan imperfektiivisen aspektin
+verbistä ja sen yhteyteen liitettävästä быть-verbistä.
+
+Huomaa, että liittofutuuri ja yksinkertainen futuuri eivät ole kaksi eri tapaa
+ilmaista sama asia, vaan (kuten taulukot edellä antavat ymmärtää) kaksi
+erillistä muotoa, joilla kummallakin on oma merkityksensä. Lauseet *я буду
+открывать* ja *я открою* eivät ole merkitykseltään samoja. Seuraavilla
+luennoilla pureudutaan tarkemmin siihen, miten imperfektiivisen ja
+perfektiivisen aspektin futuurimuodot eroavat toisistaan.
+
+
+Aspektikategoria ja sen arvot
+-----------------------------
+
+Nyt siirrymme käsittelemään tarkemmin itse aspektikategoriaa. Kuten esimerkiksi
+*persoona-* tai *sijakategorian* kohdalta muistat, kieliopillisilla
+kategorioilla on aina tietty määrä mahdollisia arvoja -- persoonakategorialla
+arvot ovat 1., 2. ja 3. persoona, sijakategorialla nominatiivi, genetiivi,
+datiivi, akkusatiivi, instrumentaali ja prepositionaali. Aspektikategorian
+arvoina voidaan pitää *imperfektiivistä aspektia* (несовершенный вид) ja
+*perfektiivistä aspektia* (совершенный вид). Mutta mitä aspektilla ylipäätään
+tarkoitetaan?
+
+Jos halutaan antaa lavea määritelmä aspektille, sanotaan yleensä esimerkiksi,
+että se muodostaa *näkökulman toimintaan tai tarkemmin sanottuna sen
+rakenteeseen* [ks. esim. @nikunl: 175; @klein1999: 16]. Tämän määritelmän
+valossa voidaan puhua ylipäätään *aspektuaalisuudesta*, joka on läsnä myös
+suomen kielessä. Suomessa aspektuaalisuutta ilmaistaan usein esimerkiksi
+objektin sijalla (söin puuroa/puuron) tai esimerkiksi sellaisilla verbimuodoilla
+kuin *kuolemaisillaan* virkkeessä *sotilas oli kuolemaisillaan, mutta hengitti
+vielä, joskin raskaasti*. Mikä tekee slaavilaisten kielten aspektista erityisen,
+on se, että kyseessä ei ole vain yleisen tason ilmaistava näkökulma, vaan
+varsinainen *kieliopillinen kategoria*.
+
+Muistatko ensimmäisiltä luennoilta, miten kieliopillisen kategorian käsite
+voitiin määritellä? Määritelmä kuului, että kieliopillinen kategoria on
+*ominaisuus, jonka suhteen eri sanat tai sananmuodot ovat oppositiossa
+keskenään*. Venäjässä jokainen verbi ilmaisee joko perfektiivistä tai
+imperfektiivistä aspektia: aivan samoin kuin substantiivi edustaa aina jotakin
+kuudesta sijasta, edustaa verbi aina jompaakumpaa kahdesta aspektikategorian
+arvosta. 
+
+Viedään opposition käsitettä nyt vähän eteenpäin. Paitsi oppositioista
+ylipäätään, kielitieteessä voidaan puhua myös *privatiiveista oppositioista*
+(приватвные оппозиции). Privatiivilla oppositiolla tarkoitetaan tilannetta,
+joissa toiselta opposition jäseneltä puuttuu jokin piirre tai ominaisuus, joka
+toisella on, ja tämä tietyn piirteen läsnäolo tai puute on se, mikä
+erottaa jäsenet toisistaan. Venäjän aspektikategorian arvot ovat juuri
+tällaisessa, privatiivissa, oppositiossa keskenään. Mutta mikä on se piirre,
+jota toinen aspekti ilmaisee ja toinen ei?
+
+Esitin luennon alussa esimerkin kirjan avaamisesta. Väitin, että perfektiivinen
+aspekti ei annan mahdollisuutta astua sisään avaamistapahtumaan, vaan esittää
+tapahtuman yhtenä rikkomattomana kokonaisuutena, jolla on alku ja loppu, toisin
+sanoen totaalisena. Juuri tämä ominaisuus, jota yleisemmin voidaan nimittää
+*toiminnan sisäiseksi rajaksi* (*внутренный предел действия*), on karkeasti
+yleistäen se piirre, **joka perfektiivisellä aspektilla on, mutta jonka suhteen
+imperfektiivine aspekti on neutraali**. Voidaan sanoa, että perfektiivinen
+aspekti on opposition *tunnusmerkillinen* (маркированный член оппозиции)
+osapuoli, imperfektiivinen taas *tunnusmerkitön* (немаркированный член
+оппозиции). Siinä, missä perfektiivinen aspekti on tarkkaan rajattu kappale
+
+![](figure/sphere.png)
+
+on imperfektiivinen aspekti enemmän kuin epämääräistä usvaa [ajatus vertaukseen
+peräisin Nikunlassilta -@nikunl: 176, joka puhuu *kaasusta tai nesteestä*]:
+
+![](figure/silver-gray-mist-background.jpg)
+
+On kuitenkin pidettävä mielessä, että aspektin kategoria on monimutkainen ja
+monitahoinen ilmiö, jota ei ole mahdollista tai järkevääkään yrittää puristaa
+yhteen virkkeeseen tai yhteen ominaisuuteen. Ajatus sisäisestä rajasta lienee
+kuitenkin toimivampi kuin tavallisessa kouluopetuksessa usein esitettävä *toiminnan
+suorittaminen loppuun vs. toiminnan keskeneräisyys*. Ajattele vaikka seuraavaa
+esimerkkilausetta:
+
+(@ee_zasme) Ковальчук о чем-то *пошутил* и басисто *засмеялся*  
+
+Kumpaakaan esimerkin @ee_zasme (perfektiivisistä) verbeistä ei erityisen hyvin
+kuvaa ajatus siitä, että puhuja korostaisi niiden suorittamista loppuun.
+*Засмеятся*-verbi merkitsee *nauramisen alkamista*, jolloin ajatus rajasta ja
+toiminnasta kokonaisuutena tuntuu selvästi järkevämmältä; *пошутить* puolestaan
+merkitsee 'vitsailemista pikkaisen / vähän aikaa', ja
+loppuun suorittaminen vaikuttaa myös tässä jonkin verran kömpelöltä tavalta
+ilmaista perfektiivisen aspektin luonnetta.
+
+Ajatus sisäisestä rajasta on kuitenkin sekin vielä sinänsä turhan pelkistävä.
+Tähän liittyen Bondarko [-@bondarko2005: 230--231] esittää, että kumpaakin
+aspektia on hedelmällistä tarkastella kokonaisen piirrejoukon valossa, ja
+vertailla, mitä piirrettä mikin aspekti ilmentää usein, mitä harvoin ja mitä ei
+lainkaan. Bondarkon esittämiä piirteitä ovat muun muassa seuraavat:
+
+- Toiminnan käsittäminen kokonaisuutena (sisäinen raja)
+- Prosessuaalisuus
+- Kesto
+- Toiminnan äkillinen alkaminen
+- Toiminnan samanaikaisuus ja peräkkäisyys
+
+Prosessuaalisuus on esimerkiksi imperfektiiviselle aspektille tyypillistä,
+sisäinen raja puolestaan perfektiiviselle. Kestoa aspektit ilmaisevat kumpikin,
+mutta eri tavoin, äkillistä alkamista, samanaikaisuutta ja peräkkäisyyttä myös,
+mutta erilaisin painotuksin. 
+
+Aspektiparin käsite
+-------------------
+
+Aspektien välinen oppositio toteutuu sanatasolla siten, että verbeistä on tapana
+muodostaa aspektikategorian suhteen pareja. Voidaan esimerkiksi ajatella, että
+verbit открыть ja открывать ovat oppositiossa keskenään, niin että открыть
+ilmaisee perfektiivisyyttä, открывать imperfektiivisyyttä. Aina ei kuitenkaan
+ole yksinkertaista määritellä, mitkä osapuolet mihinkin pariin kuuluvat. Mikä
+olisi mielestäsi aspektipari esimerkiksi niinkin tavallisen verbin kuin ехать
+aspektipari? Поехать? Доехать? Приехать?
+
+Edellisessä esimerkissä -- ja yleisemmälläkin tasolla -- aspektiparin
+määrittämisestä tekee vaikeaa se, että kukin ehdotetuista pareista tuo jotakin
+lisää verbin merkitykseen. Ехать-verbin tapauksessa verbiin liittyy ehdotetusta
+parista riippuen mielikuva joko lähtemisestä, saapumisesta, loppuun asti
+kulkemisesta tai muusta vastaavasta. Yleinen aspektiparin määritelmä nimittäin kuuluu, että
+aspektiparin *muodostavat verbit, jotka ovat merkitykseltään täysin samoja,
+mutta eroavat toisistaan aspektikategorian osalta*. Kuten Nikunlassi [-@nikunl:
+177] huomauttaa, on kuitenkin hankala määritellä, mikä merkityksessä lopulta on
+aspektikategorian mukanaan tuomaa, mikä leksikaalista eli sanan oman merkityksen
+piiriin kuuluvaa. 
+
+Aspektiparin määrittelyvaikeuksiin ei mennä tässä yhteydessä sen syvemmälle. On
+kuitenkin hyvä muistaa, että verbit voivat muodostaa selkeämpiä ja vähemmän
+selkeitä aspektipareja. Kaikkein selkeimmät aspektiparit syntyvät silloin, kun
+perfektiivisestä verbistä muodostetaan imperfektiivinen verbi suffiksin avulla:
+
+- перечит/а/ть -- перечит/ыва/ть
+- рассмотр/е/ть -- рассматр/ива/ть
+- замет/и/ть -- замеч/а/ть
+
+Prosessia, jossa perfektiivisestä aspektista muodostetaan imperfektiivisen
+aspektin verbi suffiksin avulla, kutsutaan *imperfektivaatioksi*
+(имперфективация). Kun sananmuodostus tapahtuu toiseen suuntaan -- kuten edellä
+ехать-esimerkissä -- syntyy usein vähemmän selviä aspektipareja.
+Sananmuodostusta suuntaan imperfektiivinen--perfektiivinen kutsutaan
+*perfektivaatioksi* (перфективация) ja se tapahtuu aina *prefiksien* avulla:
+
+- звонить -- позвонить
+- видеть -- увидеть
+- рисовать -- нарисовать
+- благодарить -- поблагодарить
+
+Kuten edellä mainittiin, perfektivaation tuloksena on joskus verbejä, joilla merkitys muuttuu
+selvästikin. Aina prefiksin lisäämistä imperfektiiviseen verbiin ei voi lainkaan
+ajatella aspektiparin tuottamisena. Ajattele vaikkapa imperfektiivistä играть-verbiä ja perfektiivisiä
+verbejä *выиграть* ja *проиграть*.
+
+Perfektivaatiossa käytettävien prefiksien määrä on suuri: mahdollisia ovat
+esimerkiksi до, от, по, с, из, об, пере, про, с ja monet muut.
+Imperfektivaatiossa käytettävien suffiksien määrä on rajatumpi.
+Nikunlassin [-@nikunl: 166] luettelee muun muassa seuraavat:
+
+- ива (прочитать -- прочитывать)
+- ева (заболеть -- заболевать)
+- а (обучить -- обучать, толкнуть -- толкать)
+
+Aspektin valinnasta
+----------------
+
+Olen edellä jättänyt tarkoituksellisen vähälle huomiolle sananmuodostuksellisen
+puolen aspektista. Tarkoitukseni on tällä kurssilla keskittyä enemmän aspektiin funktionaalisen
+morfologian kannalta ja pohtia, joskin vain pintapuolisesti ja melko nopeasti,
+ennen kaikkea kysymystä siitä, milloin mitäkin aspektia tulisi tai kannattaisi
+käyttää. Tähän kysymykseen paneudutaan seuraavilla kahdella luennolla.
+Pohjustuksena niille on kuitenkin hyvä käydä läpi seuraavat huomiot.
+
+1. Jommankumman aspektin käyttäminen on harvoin normatiivisessa mielessä oikein
+   tai väärin. Kyse on aina puhujan viestintätavoitteesta: usein molempi aspekti
+   on *mahdollinen*, mutta niillä on eri merkitykset.
+2. Aspektin valintaan vaikuttavat monet puhtaan kieliopilliset tekijät. Kun
+   pohdit aspektin käyttöä, mieti ainakin seuraavia seikkoja:
+    - Mikä aikamuoto on kyseessä?
+    - Onko kyseessä kielto- vai myöntölause?
+    - Onko kyse indikatiivimuodoista vai kenties infinitiivistä?
+    - Edustaako tilanteessa käytettävä verbi jotakin *teonlaatua* (tähän
+      käsitteeseen pureudutaan luennolla 17)? 
+3. Kuten jo todettua, aspektin merkitystä pohdittaessa ei kannata olla liian
+   yksipuolinen vaan muistaa, että kyse on monitahoisista ilmiöistä. Kummastakin
+   aspektista voidaan erottaa useita erilaisia merkityksiä. Voidaan ensinnäkin
+   puhua imperfektiivisen ja perfektiivisen aspektin *perusmerkityksistä* eli
+   *invarianteista merkityksistä* (общие видовые значения), jotka kuvaavat kaikkein tyyypillisintä tapaa
+   käyttää kumpaakin aspektia. Näiden lisäksi voidaan eritellä tarkempia
+   konteksteja ja käyttötilanteita, joissa kumpaakin aspektia käytetään jollain
+   perusmerkityksestä mahdollisesti poikkeavalla tavalla. Tällaisissa
+   tapauksissa puhutaan aspektin *erityismerkityksistä* (частные видовые
+   значения).
 
 
 Luento 16: Aspekti kieliopillisena kategoriana 2
 ================================================
 
 - Lisää perus- ja erityismerkityksistä
-- teonlaadut kevyesti
+- Aspekti menneessä, tulevassa, jne.
 
 
 Luento 17: Aspekti kieliopillisena kategoriana 3
 ================================================
 
-
+- aspekti kieltomuodon kanssa, aspekti infinitiivissä
+- teonlaadut kevyesti
 
 
 Kirjallisuutta

@@ -85,3 +85,10 @@ konjugaatio;спряжение;verbien taivutustyyppi
 nominaalimuoto;неспрягаемая форма глагола;verbimuotoja, jotka eivät taivu persoonissa vaan nominien tavoin. Esimerkiksi partisiipit.
 infiniittimuoto;неспрягаемая форма глагола;ks. nominaalimuoto
 agenttitäydennys;агентивное дополение;instrumentaalimuotoinen nomini, joka ilmaisee passiivilauseen tekijän
+liittofutuuri;сложное будущее время;ei-mennyt aikamuoto, joka muodostetaan быть-verbistä ja imperfektiivisen aspektin verbistä
+yksinkertainen futuuri;простое будущее время;ei-mennyt aikamuoto, joka muodostetaan perfektiivisen aspektin verbin persoonamuodoista 
+tunnusmerkillinen osapuoli;маркированный член оппозиции;se opposition osapuoli, joka ilmaisee jotakin piirrettä tai ominaisuutta
+tunnusmerkitön osapuoli;немаркированный член оппозиции;se opposition osapuoli, joka jättää jonkin piirteen tai ominaisuuden ilmaisematta tai on sen suhteen neutraali
+perusmerkitys (aspektin);общее видовое значение;aspektin tyyppillisin, lähtökohtainen merkitys
+erityismerkitys (aspektin);частное видовое значение;kontekstista riippuva erityinen tapa käyttää aspektia
+perusmerkitys (aspektin);общее видовое значение;ks. perusmerkitys
