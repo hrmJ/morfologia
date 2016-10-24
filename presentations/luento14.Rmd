@@ -4,15 +4,61 @@
 
 # Kertausta...
 
->- Tehtävä
+>- [Kotitehtävä](../tehtavat/luento13.pdf)
 
 # Pääluokka kieliopillisena kategoriana
 
->- 2 arvoa 
+>- 2 arvoa: 
+>- aktiivi / passiivi
+>- действительный / страдательный залог
+>- venäjässä 2 varsinaista muodostustapaa
+>- [Tehtävä 1](../tehtavat/luento14.pdf)
 
+# Kysymyksiä
 
-# Mihin passiivia tarvitaan?
+>- Mihin passiivia tarvitaan?
+>- Mitkä kaksi muodostustapaa?
 
-# Passiivin lajit venäjässä
+<!-- Tarkoitus siis opiskelijoiden miettiä itse auki kuvaus muodostamiselle
 
-# Passiivin muodostaminen
+- Mikä partisiippi
+- Mikä muoto partisiipista
+- Mikä postfiksi
+
+-->
+
+# Mitä eroa?
+
+>- Ходорковский арестован
+>- Ходорковский **был** арестован 
+>- Работа поддержана РГНФ, грант N 03-06-00139а
+>- Работа **была** поддержана РГНФ, грант N 03-06-00139а
+>- Российское Председательство настроено на тесное и слаженное взаимодействие с послом X
+>- Российское Председательство **было** настроено на тесное и слаженное взаимодействие с послом X
+>- [Tehtävä 2](../tehtavat/luento14.pdf)
+
+# Suomenna parillesi seuraavat lauseet
+
+<article style='float:left;'>
+>- По радио передают последние известия
+>- Выставку открыли вчера
+>- В школе были довольны его работой
+>- Нам рекомендовано отменить поход в горы
+>- В городе построено много домов
+</article>
+
+<article class='incremental' style='float:left; margin-left:2em;'>
+
+### Indefiniittis-persoonainen rakenne
+
+>- неопределенно-личная конструкция
+>- 3.pers / pret. + monikko 
+>- быть + lyhyet adjektiivit
+>- быть + partisiippi
+>- Vastaa lähimmin suomen passiivia!
+
+</article>
+
+<article class='incremental' style='clear:left;'>
+>- [Tehtävä 3](../tehtavat/luento14.pdf)
+</article>

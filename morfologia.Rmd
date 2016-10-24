@@ -3949,7 +3949,7 @@ pohjautuvia \*признаюемый/\*даюемый).
 
 Aktiivin partisiipin preteritissä on myös kaksi eri vaihtoehtoa suffiksille:
 /вш/ tai /ш/. Ensimmäistä käytetään, jos verbin infinitiivivartalo päättyy
-vokaaliin, toista muussa tapauksissa. Selkeitä sanoja tässä suhteessa ovat
+vokaaliin, toista muissa tapauksissa. Selkeitä sanoja tässä suhteessa ovat
 sanat, joilla infinitiivin tunnus on tavallinen *ть*: /прочита/вш/ий/,
 /игра/вш/ий, /рассматрива/вш/ий jne. Enemmän pohdiskelua vaativat чь-, сть ja
 сти-infinitiivit. 
@@ -4062,12 +4062,13 @@ informaatiota.
 Passiivirakenteet venäjässä
 ---------------------------
 
-Venäjästä erotetaan tavallisesti kaksi erityyppistä passiivirakennetta ja näiden
-lisäksi kolmas rakenne, jota käytetään passiivin funktiossa. Varsinaisia
+Venäjästä erotetaan tavallisesti kaksi erityyppistä passiivirakennetta ja
+näiden lisäksi kolmas rakenne, jota käytetään passiivin funktiossa. Varsinaisia
 (morfologisessa ja syntaktisessa mielessä) passiivirakenteita ovat
-*morfologinen* (ся-passiivi)  ja *perifrastinen* passiivi (морфологический / перифрастический
-пассив) [@vanhala92: 60]. Kaikkiin passiivirakenteisiin liittyy olennaisena
-vaatimuksena verbin transitiivisuus.
+*morfologinen* (ся-passiivi)  ja *perifrastinen* passiivi (морфологический /
+перифрастический пассив) [@vanhala92: 60]. Kaikkiin passiivirakenteisiin
+liittyy olennaisena vaatimuksena verbin transitiivisuus: toisin sanoen
+intransitiiviverbejä kuten бежать, расти, работать ei voi käyttää passiivissa.
 
 ### Morfologinen passiivi
 
@@ -4100,7 +4101,7 @@ ajan toiminnasta (esimerkki @ee_osobvnim).
 
 (@ee_matematika) Данная технология *была использована* для подготовки входных тестов по математике
 (@ee_vertolet) Вертолёт *был обнаружен* 6 сентября в Ингушетии
-(@ee_osobvnim) Особое внимание будет уделено наращиванию международного партнерского сотрудничества
+(@ee_osobvnim) Особое внимание *будет уделено* наращиванию международного партнерского сотрудничества
 
 Perifrastista passiivia voidaan käyttää myös ilman быть-verbiä. Tällöin on
 Vanhala-Aniszewskin [-@vanhala92: 66] mukaan kyse niin kutsutusta passiivin
@@ -4475,7 +4476,7 @@ verbejä *выиграть* ja *проиграть*.
 Perfektivaatiossa käytettävien prefiksien määrä on suuri: mahdollisia ovat
 esimerkiksi до, от, по, с, из, об, пере, про, с ja monet muut.
 Imperfektivaatiossa käytettävien suffiksien määrä on rajatumpi.
-Nikunlassin [-@nikunl: 166] luettelee muun muassa seuraavat:
+Nikunlassi [-@nikunl: 166] luettelee muun muassa seuraavat:
 
 - ива (прочитать -- прочитывать)
 - ева (заболеть -- заболевать)
