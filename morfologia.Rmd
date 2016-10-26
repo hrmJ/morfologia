@@ -4379,7 +4379,7 @@ tapahtuman yhtenä rikkomattomana kokonaisuutena, jolla on alku ja loppu, toisin
 sanoen totaalisena. Juuri tämä ominaisuus, jota yleisemmin voidaan nimittää
 *toiminnan sisäiseksi rajaksi* (*внутренный предел действия*), on karkeasti
 yleistäen se piirre, **joka perfektiivisellä aspektilla on, mutta jonka suhteen
-imperfektiivine aspekti on neutraali**. Voidaan sanoa, että perfektiivinen
+imperfektiivinen aspekti on neutraali**. Voidaan sanoa, että perfektiivinen
 aspekti on opposition *tunnusmerkillinen* (маркированный член оппозиции)
 osapuoli, imperfektiivinen taas *tunnusmerkitön* (немаркированный член
 оппозиции). Siinä, missä perfektiivinen aspekti on tarkkaan rajattu kappale
@@ -4481,6 +4481,13 @@ Nikunlassi [-@nikunl: 166] luettelee muun muassa seuraavat:
 - ива (прочитать -- прочитывать)
 - ева (заболеть -- заболевать)
 - а (обучить -- обучать, толкнуть -- толкать)
+
+On olemassa joukko tapauksia, joissa aspektiparin osapuolina olevat sanat eivät
+muistuta toisiaan lainkaan. Tällöin aspektinmuodostuksessa ei ole käytetty sen
+paremmin prefiksejä (perfektivaatio) kuin suffiksejakaan (imperfektivaatio),
+vaan sanojen juurimorfitkin ovat erilaisia. Tällaista muodostumista sanotaan
+*suppletiiviseksi* (супплетивный способ), ja esimerkkejä siitä ovat esimerkiksi
+говорить - сказать sekä класть - положить.
 
 Aspektin valinnasta
 ----------------
