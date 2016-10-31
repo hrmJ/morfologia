@@ -66,6 +66,7 @@
 </table>
 </article>
 
+>- Мы разговаривали о том о сём, и вдруг Игорь обращается ко мне:
 
 
 <!-- 
@@ -97,6 +98,11 @@ Mietitään vastausta "avaan kirjaa". Käännetään venäjäksi.
 </article>
 
 <article class='vinx' style='color:purple;font-size:200%;'>
+>- НЕСЛИ
+>- НЁС
+>- ВЕЗЛА
+>- ВЁЗ
+>- МОГ
 >- ПОГИБЛА
 >- ВЫТЕР
 >- ОСТЫЛО
@@ -128,26 +134,9 @@ Mietitään vastausta "avaan kirjaa". Käännetään venäjäksi.
 >- piirre, jonka suhteen kaksi muotoa oppositiossa
 >- Mikä piirre aspektissa?
 
-# Esimerkkejä
 
-<article class='vinx' style='color:red; font-size:130%;'>
->- Ели пиццу / съели пиццу
->- ужинали / поужинали ..
->- буду смотреть / посмотрю на улицу
->- Соседи всю ночь шумели!
->- Соседи прошумели 9 часов
->- После ужина мы посидели на траве 
->- Все засмеялись
->- Выигрывал ли зенит лигу чемпионов?
->- Выиграл ли зенит лигу чемпионов?
->- Дети, вы уже накупались?
->- Маша всегда тебе поможет!
->- Вы не брали со стола Фломастер? Он же не на том месте лежит!
->- Кто взял со стола Фломастер?
->- Ты будешь обедать?
-</article>
+>- [Tehtävä](../tehtavat/luento15.pdf)
 
-[TEHTÄVÄ](https://learning2.uta.fi/mod/resource/view.php?id=430417)
 
 # Piirteitä
 
@@ -158,17 +147,30 @@ Mietitään vastausta "avaan kirjaa". Käännetään venäjäksi.
 
 # Общие и частные видовые значения
 
-<article class='incremental vinx' style="font-size:200%;float:left;margin-left:2em;">
 
->- <span color='purple'>Конкретно-процессное значение</span>
-    - Вечером я буду смотреть телевизор
-    - Вчера мы с сыном играли с поездами 
-    - Потом бросился в кухню, где на плите варился бульон
->- <span color='aliceblue'>Конкретно-фактическое значение</span>
-    - Он повторил мне свой вопрос
-    - Наша команда победил матч с командой университета Турку 
-    - Завтра я куплю тебе пластилину.
 
+<article class='incremental' style='float:left;width:40%;'>
+
+## Конкретно-процессное значение
+
+<article class='vinx incremental' style='font-size:110%;color:purple'>
+>- Вечером я буду смотреть телевизор
+>- Вчера мы с сыном играли с поездами 
+>- Потом бросился в кухню, где на плите варился бульон
+
+</article>
+
+</article>
+
+<article class='incremental' style='float:left;width:40%;'>
+
+## Конкретно-фактическое значение
+
+<article class='vinx incremental' style='font-size:110%;color:blue'>
+>- Он повторил мне свой вопрос
+>- Наша команда победил матч с командой университета Турку 
+>- Завтра я куплю тебе пластилину.
+</article>
 </article>
 
 
@@ -178,6 +180,8 @@ Mietitään vastausta "avaan kirjaa". Käännetään venäjäksi.
 >- Miten eristää "aspektuaalisuus" muusta merkityksestä?
 >- Toiset parit selvempiä kuin toiset
 >- "Klustereita"?
+
+>- [TEHTÄVÄ](https://learning2.uta.fi/mod/resource/view.php?id=430417)
 
 # Aspektiparien muodostus
 
@@ -213,4 +217,5 @@ Mietitään vastausta "avaan kirjaa". Käännetään venäjäksi.
 >- [Tarkemmin](http://people.uta.fi/~harme.juho.k/aspekti-ja-liikeverbiteoria/aihekokonaisuudet/aspektin_muodostus_pres.html#/slide-6)
 
 
+>- [Tehtävä](../tehtavat/luento15.pdf)
 

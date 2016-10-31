@@ -1,0 +1,135 @@
+% Morfologia, luento 16
+% Juho Härme
+% Pinni B 5004, juho.harme@uta.fi
+
+# Viime tunnilta
+
+[Tehtävä aspektipareista](../tehtavat/luento15.pdf)
+
+# Konkreettis-prosessuaalinen merkitys
+
+
+<article style='color:purple;font-size:140%;' class='incremental nobullet vinx'>
+>- Когда мама пришла домой, я *играл* на фортепиано 
+>- Сижу дома на кухне и занимаюсь китайским.
+>- Он *думал*, *думал*, *думал*, и *чувствовал*, что голова у него *раздувается* точно воздушный шар.
+>- Молодая женщина *сидела* у окна вагона и *читала* 
+>- Она *сидела* и *думала* и в голову ей приходила … только пустота
+>- Я *плакала* и *обнимала* дочку.
+</article>
+
+
+# Konkreettis-prosessuaalinen merkitys
+
+<article style='flex-flow:row-wrap' class='incremental'>
+<img width="200px" src='http://previews.123rf.com/images/noam/noam0810/noam081000023/3644029-senior-man-playing-on-a-grand-piano-at-home-Stock-Photo-player.jpg'>
+<img width="300px" src='http://shiyanbin.ru/wp-content/uploads/2016/09/IMG_9984.jpg'>
+<img width="200px" src='http://russian.people.com.cn/mediafile/200912/15/F200912151439211690239429.jpg'>
+</article>
+
+# Konkreettis-faktinen merkitys
+
+<article style='color:red;font-size:140%;' class='incremental nobullet vinx'>
+>- Она *повторила* мне свой вопрос.
+>- Бухгалтер *сделал* в учете запись.
+>- *Перешлю* ссылку на эту статью знакомым учителям.
+>- Я *заполз* под диван, *лег* ничком, *вынул* нож из кармана и *прорезал* в ситце дырку, чтоб удобно было подсматривать. 
+</article>
+
+# Konkreettis-faktinen merkitys
+
+<article style='flex-flow:row-wrap' class='incremental'>
+<img width="300px" src='http://media0.giphy.com/media/BVaScAMm4UcW4/giphy.gif'>
+<img width="300px" src='https://s-media-cache-ak0.pinimg.com/originals/77/de/2e/77de2e0d4f0694765dc8d284765977d6.gif'>
+</article>
+
+# Toistoon liittyviä merkityksiä 1.
+
+<article style='font-size:200%;' class='incremental'>
+>- Я часто покупаю на рынке овощи.
+>- В Финляндии всегда играют в хоккей.
+>- В Финляндии редко играют в футбол.
+>- Сайт постоянно пополняется новыми материалами
+</article>
+
+# Toistoon liittyviä merkityksiä 2.
+
+<article style='font-size:200%;' class='incremental'>
+>- Я три раза поступал в университет.
+>- Мне это надоело. Три раза подогревал тебе суп. 
+>- В Финляндии редко играют в футбол.
+>- Сайт постоянно пополняется новыми материалами
+</article>
+
+# Toistoon liittyviä merkityksiä 3.
+
+<article style='font-size:200%;' class='incremental'>
+>- Он несколько раз перечитал записку
+>- Вчера я пять раз прочитал материал для экзамена.
+>- Он несколько раз переспросил : «Точно?» 
+</article>
+
+# Perfektiivisen aspektin erityismerkityksiä
+
+<article style='font-size:200%;' class='incremental'>
+>- Петя похудел и постарел
+>- Вы можете взять анкету. Я ее уже заполнил.
+>- Саше можно доверять. Он всегда *поможет* другу.
+>- По лицу не *поймешь*, сколько ей лет 
+>- Купил новый замок, теперь никто не *пролезет* в квартиру.
+>- Только *скажешь* ему -- он немедленно приедет.
+</article>
+
+
+# Imperfektiivisen aspektin erityismerkityksiä
+
+<article style='font-size:201%;' class='incremental'>
+>- Ты читал "Преступление и наказание"?
+    - Ты прочитал "Преступление и наказание"?
+>- Я знаю, что Ханна поступала в магистерскую программу по переводоведению 
+>- Почему в аудитории так холодно? Вы не открывали окно?
+>- Папа вчера приезжал.
+>- Река течет через город.
+>- Ты играешь на гитаре?
+</article>
+
+>- [VIHDOIN tehtävä](../tehtavat/luento16.pdf)
+
+# Aspektivalinnan koordinaatteja
+
+>- Mennyt vai tuleva?
+>- Kielto vai myöntö?
+>- Indikatiivi vai infinitiivi? Apuverbejä?
+>- Erityismerkitysten väliset oppositiot
+
+# Konkreettis--faktinen merkitys ja konkreettis-prosessuaalinen merkitys
+
+<article style='font-size:201%;' class='incremental'>
+>- <span style='color:blue'>Билеты уже продавали</span>.
+>- <span style='color:green'>Билеты уже продали</span>
+</article>
+
+# Konkreettis--faktinen merkitys ja yleisesti toteava merkitys
+
+<article style='font-size:201%;' class='incremental'>
+>- <span style='color:blue'>Ты читал книгу?</span>.
+>- <span style='color:green'>Ты прочитал книгу?</span>
+>- <span style='color:blue'>Ты открывал книгу?</span>.
+>- <span style='color:green'>Кто открыл книгу?</span>
+</article>
+
+# Perfektin merkitys ja yleisesti toteava merkitys
+
+<article style='font-size:201%;' class='incremental'>
+>- <span style='color:blue'>Я уже заполнял анкету</span>.
+>- <span style='color:green'>Я заполнил анкету, он лежит на вашем столе.</span>
+</article>
+
+# Summatiivinen merkitys ja rajoittamattoman toiston merkitys
+
+<article style='font-size:201%;' class='incremental'>
+>- <span style='color:blue'>В ходе встречи президент несколько раз повторил:"Давайте конкретику!" </span>.
+>- <span style='color:green'>В ходе встречи президент несколько раз повторял:"Давайте конкретику!" </span>
+</article>
+
+>- [tehtävä](../tehtavat/luento16.pdf)
