@@ -4524,6 +4524,11 @@ Pohjustuksena niille on kuitenkin hyvä käydä läpi seuraavat huomiot.
 Luento 16: Aspekti kieliopillisena kategoriana 2
 ================================================
 
+- [Takaisin sivun ylälaitaan](https://mustikka.uta.fi/~juho_harme/morfologia/#tästä-kurssista)
+- [Lataa PDF](http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento16.pdf)
+- [Tutki luentokalvoja](http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento16.html)
+- [Tutki tuntitehtäviä](http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento16.pdf)
+
 Edellisen luennon lopussa esiteltiin ajatus aspektuaalisten merkitysten
 jakamisesta perus- ja erityismerkityksiin (общие и частные видовые значения).
 Perusmerkityksillä tarkoitetaan sellaista imperfektiivisen tai perfektiivisen
