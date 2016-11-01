@@ -72,9 +72,9 @@ no  | Pvm        | Aihe
 -   | ti 18.10   | PERIODITAUKO
 -   | ke 19.10   | PERIODITAUKO
 14  | ti 25.10.  | Pääluokka
-15  | ke 26.10.  | Aspekti kieliopillisena kategoriana 1
+15  | ke 26.10.  | Aspekti ja aika kieliopillisena kategoriana
 16  | ti 1.11.   | Aspekti kieliopillisena kategoriana 2
-17  | ke 2.11.   | Aspekti 3 + aika kieliopillisena kategoriana
+17  | ke 2.11.   | Aspekti kieliopillisena kategoriana 3
 18  | ti 8.11.   | Tapaluokka kieliopillisena kategoriana 1
 19  | ke 9.11.   | Tapaluokka kieliopillisena kategoriana 2
 20  | ti 15.11.  | Liikeverbit 1
@@ -4821,17 +4821,20 @@ menneeseen/tulevaan aikamuotoon, kieltomuotoon tai infinitiiveihin[^rass].
 [^rass]: Hyvä teos tässä suhteessa -- ja lähtökohta tämän luennon pohdinnoille
 -- on [@rassudova1984].
 
-Aspektin valinnasta menneessä ja tulevassa ajassa
+Aspektin valinnasta menneessä ajassa
 -------------------------------------------------
 
 Kun ajatellaan aspektin valintaa menneessä ajassa, voidaan eritellä neljä
-tärkeää oppositiota, neljä merkitysparia, joiden välillä valinta on
+tärkeää oppositiota, neljä merkitysparia, joiden välillä valinta on usein
 suoritettava:
 
 1. Konkreettis--faktinen merkitys ja konkreettis-prosessuaalinen merkitys
-2. Konkreettis--faktinen merkitys ja yleisesti toteava merkitys
-3. Perfektin merkitys ja yleisesti toteava merkitys
-4. Summatiivinen merkitys ja rajoittamattoman toiston merkitys
+2. Konkreettis--faktinen merkitys ja rajoittamattoman toiston merkitys
+3. Summatiivinen merkitys ja rajoittamattoman toiston merkitys
+4. Konkreettis--faktinen merkitys ja yleisesti toteava merkitys
+5. Perfektin merkitys ja yleisesti toteava merkitys
+
+### Konkreettis-faktinen/-prosessuaalinen merkitys sekä toisto
 
 Laajin näistä merkityspareista on luonnollisesti ensimmäinen, koska kyse on
 perusmerkityksistä ja siten aspektien välisestä peruserosta. Pohditaan muutamaa
@@ -4851,10 +4854,149 @@ selvä ero siinä, mihin hetkeen puhujan huomio kohdistuu. Lauseessa @ee_mennyt1
 huomio on hetkessä, jolloin lentokone on vielä ilmassa, mutta seuraavassa
 lauseessa huomio on laskeutumisen jälkeisessä ajassa. Vastaavasti lauseessa
 @ee_mennyt3 huomio on myyntihetkessä, lauseessa @ee_mennyt4 myynnin jälkeisessä
-hetkessä.
+hetkessä. KPM- ja KFM-merkitysten välinen ero tulee erityisen hyvin ilmi, kun
+ne esiintyvät aikaa ilmaisevassa sivulauseessa. Esimerkissä @ee_mennyt5 kyse on
+selkeästi yhdestä konkreettisesta prosessista, esimerkissä @ee_mennyt6 yhdestä
+rajatusta tapahtumasta:
+
+(@ee_mennyt5) Студенты волновалиь, когда выступали c докладом
+(@ee_mennyt6) Когда студенты выступили, они neрестали волноваться
+
+Pidetään huomio edelleen perfektiivisen aspektin konkreettis-faktisessa
+merkityksessä, mutta siirrytään imperfektiivisen aspektin osalta tarkastelemaan
+rajoittamattoman toiston merkitystä. Näissä tapauksissa kysymys siis kuuluu,
+onko puhe yhdestä yksittäisestä ja rajatusta tapahtumasta vai toistuvasta
+toiminnasta. Rassudova [-@rassudova1984] esittää tähän liittyen seuraavat
+esimerkit:
+
+(@ee_mennyt_toisto_opp3) К вечеру больному стало хуже
+(@ee_mennyt_toisto_opp4) К вечеру больному становилось хуже
+(@ee_mennyt_toisto_opp5) К десяти часам утра, не выдержав неслыханной нагрузки, портились все телефоны. 
+(@ee_mennyt_toisto_opp6) К десяти часам утра, не выдержав неслыханной нагрузки, испортились все телефоны.
+
+Perfektiivinen aspekti on vastaavissa tilanteissa syytä valita, kun ei haluta
+luoda ajatusta toistuvuudesta: esimerkeissä @ee_mennyt_toisto_opp4 ja
+@ee_mennyt_toisto_opp5 kerrotaan useista tapahtumista (aina iltaisin kävi niin,
+että sairaan vointi huononi / joka kerta kello kymmeneen mennässä tapahtui niin,
+että puhelimet menivät epäkuntoon). Vastaavasti esimerkit @ee_mennyt_toisto_opp3
+ja @ee_mennyt_toisto_opp6 viittaavat yhteen konkreettiseen faktaan.
+
+Toistoon liittyen oma erityistapauksensa ovat tilanteet, joissa kerrotaan,
+*missä ajassa jokin toiminto suoritetaan*. Huomaatko eroa seuraavissa lauseissa?
+
+(@ee_mennyt_kestona3) Он читал за два часа 30 страниц
+(@ee_mennyt_kestona4) Он прочитал за два часа 30 страниц
+
+Lause @ee_menny_kestona3 on varmasti harvinaisempi, mutta mahdollinen, ja
+ilmaisee, että joskus -- nuoruudessaan, kouluaikoina tms. -- henkilön lukunopeus
+oli 30 sivua kahdessa tunnissa. Jälleen kerran, lause @ee_mennyt_kestona4
+tuottaa tulkinnan yhdestä konkreettisesta prosessista.
+
+Kuten varmasti muistat, myös perfektiivinen aspekti voi kuitenkin ilmaista
+toistoa. Tästä seuraa, että rajoitetun toiston merkitys (imperfektiivinen
+aspekti) ja summatiivinen merkitys (perfektiivinen aspekti) kilpailevat jossain
+määrin keskenään. Näissä tilanteissa auttaa, kun ajattelee, että perfektiivisen
+aspektin tapauksessa kyse on luultavasti peräkkäisistä toistoista, kun taas
+imperfektiivinen aspekti ei määrittele toistojen välistä aikaa vaan ennemmin
+toteaa vain niiden olemassaolon. Esimerkissä @ee_toist_sum1 verbi сморгнул
+('räpäyttää silmiä') selkeästi kuvaa toinen toistaan seuraavia räpäytyksiä,
+esimerkissä @ee_toist_rajt puolestaan *много раз рассматривали* vain toteaa,
+että toistoja todella on ollut useita eikä vain yksi.
+
+(@ee_toist_sum1) Стало жарко глазам, я несколько раз сморгнул, потом без раздумий налил половину фужера и тут же выпил. 
+(@ee_toist_rajt) Мы много раз рассматривали на заседании Президиума РАН вопросы, связанные с ракетной и авиационной техникой, но в первый раз в повестку нашего заседания
+поставлена тема корабельной ядерной энергетики 
+
+### Yleisesti toteavaan erityismerkitykseen liittyvä aspektinvalinta
+
+Tarkastellaan vielä imperfektiivisen aspektin yleisesti toteavaa
+erityismerkitystä. Sen käyttö on lähellä toisaalta perfektiivisen aspektin
+konkreettis-faktista merkitystä, toisalta perfektin merkitystä.  Erona
+ensimmäisessä oppositiossa on, että imperfektiivisen aspektin tapauksessa
+otetaan vähemmän kantaa, ollaan toteavia, kun taas perfektiivisen aspektin
+tapauksessa on kertovampi, selostavampi ote. Katsotaan taas Rassudovan
+[-@rassudova1984: 55]
+esimerkkejä:
+
+(@ee_mennyt_ajallinenkiinn1) 1-го Мая в Доме Дружбы собрались представители общественности
+(@ee_mennyt_ajallinenkiinn2) Собирались представители общественности 1-го Мая?
+
+Perfektiivinen aspekti selostaa tässä tapahtumia ja tuo mukanaan kertovan,
+värikkäämmän vaikutelman. Imperfektiivinen aspekti puolestaan keskittää huomion
+siihen, voidaanko todeta, että toiminta on tapahtunut vai ei.
+
+(@ee_videl) Мне кажется, что я где-то уже видел Вас
+(@ee_uvidel) Я Вас, кстати, увидел вчера в столовой.
+
+Esimerkit @ee_videl ja @ee_uvidel kuvaavat omalta osaltaan imperfektiivisen
+aspektin värittömyyttä ja kantaaottamattomuutta ja toisaalta perfektiivisen
+aspektin konkreettisuutta ja tarkkuutta.
+
+Kuten mainittu, yleisesti toteava merkitys voi sekoittua myös perfektin
+merkitykseen. Perfektin merkityksessähän kyse oli siitä, että korostetaan jonkin
+tuloksen ajankohtaisuutta puhehetkellä. Selkeimmin tämä oppositio tulee esille,
+kun puhutaan toiminnan mitätöitymisestä:
+
+(@ee_komp1) Пока меня не было, кто-то включил компьютер/взял фломастер/открыл окно 
+(@ee_komp2) Пока меня не было, кто-то явно включал компьютер/брал фломастер/открывал окно
+
+Seraava Rassudovan [-@rassudova1984: 65] esimerkkidialogi valaisee hyvin
+ajatusta tuloksen näkymisestä puhehetkellä vs. asian toteamista:
+
+(@ee_pomnite) -- Добрый день. Помните?  Мы, кажется, встречались...
+(@ee_pomnite2) -- Да, вот вспомнил. Ты изменился!
+
+Esimerkissä @ee_pomnite on yleisesti toteava verbi встречаться, kun taas
+esimerkissä @ee_pomnite2 kyse on perfektin merkityksestä ('oletpa muuttunut').
+
+
+Aspektin valinnasta tulevassa ajassa
+-------------------------------------------------
+
+Aspektin valintaan menneisyydessä liittyy usein eniten vaikeuksia, minkä takia
+sille myös omistettiin edellä melko paljon huomiota. Pohditaan kuitenkin myös
+eräitä huomioita futuurista.
+
+Kuten edellisillä luennoilla selitettiin, venäjästä voidaan *merkityksen*
+perusteella erottaa kaksi futuurimuotoa, imperfektiivinen ja perfektiivinen.
+Imperfektiivinen ja perfektiivinen aspekti asettuvat seuraavkiksi
+vastakohtapareiksi:
+
+- Prosessuaalisuus / konkreettinen, raja fakta
+- Toistoa
+- Aikomusta
+- Epävarmuutta
+
+Kaksi ensimmäistä lueteltua merkitystä liittyvät tietysti imperfektiivisen
+aspektin yleisiin ominaisuuksiin, joista on jo paljon puhuttu. Ajattele varbiä
+заниматься seuraavassa lauseessa:
+
+(@ee_futkpm_eip) Я завтра не смогу поехать с вами на стадион, буду заниматься.
+
+On selvää, että kyseessä on konkreettis-prosessuaalinen merkitys. Sen sijaan
+esimerkissä @ee_futper luetellaan rajattuja, ei-prosessuaalisia, yksittäisiä
+tapahtumia:
+
+(@ee_futper) Я поднимусь, помою посуду и пойду помогать маме.
+
+Voidaan siis sanoa, ettei aspektien välinen perusero häviä futuurissa minnekään.
+Peruseron lisäksi on kuitenkin lisäsävyjä, jotka on hyvä muistaa. Katsotaan
+ensin kahta jälkimmäistä edellä listattua imperfektiivisen aspektin
+ominaisuutta. Ajattele esimerkkejä @ee_aikomus1 ja @ee_aikomus2 (nämäkin
+Rassudovalta).
+
+(@ee_aikomus1) Если Дима будет уходить, позвоните мне 
+(@ee_aikomus2) Если Дима уйдет, позвоните мне.
+
+Esimerkissä @ee_aikomus1 soittaa pitää silloin, jos Dima ryhtyy tekemään lähtöä,
+ilmaisee aikomuksen. Esimerkki @ee_aikomus2 puolestaan ei kerro aikomuksesta,
+vaan soittaa pitää silloin, jos Dima on jo lähtenyt.
+
 
 Aspektin valinnasta kieltomuotojen yhteydessä
 ---------------------------------------------
+
+
 
 Aspektin valinnasta infinitiivimuotojen yhteydessä
 --------------------------------------------------
