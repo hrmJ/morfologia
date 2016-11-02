@@ -1,0 +1,38 @@
+% Morfologia, luento 17
+% Juho Härme
+% Pinni B 5004, juho.harme@uta.fi
+
+# Aspektinvalinnan koordinaatteja
+
+[Tehtävä viime kerralta](../tehtavat/luento16.pdf)
+
+>- 1. Konkreettis--faktinen merkitys ja konkreettis-prosessuaalinen merkitys
+>- 2. Konkreettis--faktinen merkitys ja rajoittamattoman toiston merkitys
+>- 3. Summatiivinen merkitys ja rajoittamattoman toiston merkitys
+>- 4. Konkreettis--faktinen merkitys ja yleisesti toteava merkitys
+>- 5. Perfektin merkitys ja yleisesti toteava merkitys
+>- [Tehtävä](../tehtavat/luento17.pdf)
+
+# Aspektin valinta futuurissa
+
+>- Imperfektiivinen aspekti: aikomus, epävarmuus, toisto
+>- Perfektiivinen aspekti: varmuus, päättäväisyys, yksittäinen kerta
+
+# Aspektin valinta kieltolauseissa
+
+>- Imperfektiivisen aspektin laajentunut käyttöala
+>- Kielletäänkö toiminnan alkaminen vai loppuun saattaminen?
+>- Olisiko jonkin toiminnan pitänyt tapahtua?
+>- Onko yhteys nykyhetkeen?
+>- Kielletäänkö pakko / tarve yms.?
+>- Kielletäänkö mahdollisuus?
+
+# Aspektin valinta infinitiivitapauksissa
+
+>- Vaihetta ilmaisevat verbit
+>- Aina tulosta painottavat verbit
+>- Imperfektiivinen yleensä toistoa
+>- Jos yksittäinen tapaus -> yleensä perfektiivinen aspekti
+>- Мне надо *поговорить* с ним
+>- Я хочу *прочитать* эту книгу
+
