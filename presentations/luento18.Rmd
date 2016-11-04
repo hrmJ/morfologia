@@ -1,0 +1,22 @@
+Tunnin kulku:
+    - infinitiivitehtävän tarkistus
+    - teonlaadut lyhyesti
+    - imperatiivin muodostus
+    - И ВСЁ!
+
+Tehtävänä:
+- otetaan taas jo aiemmin käytössä allut verbilista
+- Kukin ryhmä valitsee listalta X verbiä (15?)
+
+1. merkitään kustakin verbistä (taulukko!):
+    - missä paino 1. pers: vartalo vai pääte
+        - saa käyttää wikislovaria tms.!
+    - mikä preesensvartalo?
+    - päättyykö preesensvartalo J:hin
+1b Viivataan yli: есть ym.
+2. Erotellaan kaikki J:hin päättyvät
+3. Erotellaan kaikki, joissa 1. pers paino päätteellä
+4.  2 ja 3 = perustapaukset.
+5. Erotellaan ne, joissa 1. pers paino vartalolla
+    - konsonanttiyhtymä > И
+    - ei kons.yht. > Ø

@@ -4813,6 +4813,11 @@ ominaisuutena).
 Luento 17: Aspekti kieliopillisena kategoriana 3
 ================================================
 
+- [Takaisin sivun ylälaitaan](https://mustikka.uta.fi/~juho_harme/morfologia/#tästä-kurssista)
+- [Lataa PDF](http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento17.pdf)
+- [Tutki luentokalvoja](http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento17.html)
+- [Tutki tuntitehtäviä](http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento17.pdf)
+
 Kielenoppijan kannalta kiinnostavin ja tärkein kysymys aspektiin liittyen on,
 milloin kumpaakin aspektia käytetään ja mistä voisi löytää edes jonkinlaisia
 ankkuripisteitä, joiden perusteella jommankumman aspektin valintaa olisi
@@ -5231,7 +5236,7 @@ Inkoatiivisen teonlaadun lisäksi mainittakoon tässä yhteydessä seuraavat:
 4. Saturatiivinen (сатуративный) teonlaatu
     - ilmaisee jonkin asian tekemistä kyllikseen tai jopa kyllästymiseen asti
     - muodostetaan на-prefiksillä sekä ся-postfiksilla
-    - verbejä: наесться, насмеяться, накупаться, нахвастаться 
+    - verbejä: наесться, насмеяться, накупаться, насмотреться, нахвастаться 
     - esimerkkilause: Довольно *нашутились* мы, пора и за дело! 
 
 
@@ -5239,7 +5244,51 @@ Inkoatiivisen teonlaadun lisäksi mainittakoon tässä yhteydessä seuraavat:
 Luento 18: Tapaluokka kieliopillisena kategoriana 1
 ===================================================
 
+Olemme keskellä kurssin toista puoliskoa (tai oikeastaan jo sen loppupuolella),
+ja viime viikot käsittelyn kohteena ovat olleet verbit ja niihin ilmentämät
+kieliiopilliset kategoriat. Pääluokka- ja aika- ja aspektikategorioiden jälkeen
+siirrymme nyt tutkimaan *tapaluokka-* eli *moduskategoriaa* (категория
+наклонения).
+
+Tapaluokkakategorialla on venäjässä seuraavat arvot:
+
+- Indikatiivi (изъявительное наклонение)
+- Konditionaali (сослогательное наклонение)
+- Imperatiivi(повелительное наклонение)
+
+Koska tapaluokka on kielipillinen kategoria, kaikki verbimuodot ilmaisevat
+jotakin sen kolmesta arvosta -- lukuun ottamatta nominaalimuotoja. Tähän asti
+käsiteltyjen aiheiden yhteydessä lähes kaikki tutkimamme verbitapaukset ovat
+olleet indikatiivitapauksia. Se onkin tavallisin modus. Siinä missä
+konditionaali ilmaisee ehdollisuutta (условность), ja imperatiivi käskyä
+(повелительность), on indikatiivin tehtävänä ilmaista suoria väitteitä ilman
+velvoitteen tai epävarmuuden sävyjä. Indikatiivi on myös aikamuotojen suhteen
+laajimpikäyttöisin modus, sillä indikatiivimuotoja voidaan muodostaan niin
+menneen ajan, nykyhetken kuin tulevankin ajan verbimuodoista. Nopea vertailu eri
+moduksista voidaan tehdä seuraavan simppelin esimerkin avulla (esimerkki
+@ee_garm_ind indikatiivi, esimerkki @ee_garm_kond konditionaali ja esimerkki
+@ee_garm_imp imperatiivi):
+
+
+(@ee_garm_ind) Я играю на гармошке
+(@ee_garm_kond) Я играл бы на гармошке
+(@ee_garm_imp) Играй на гармошке!
+
+Indikatiivin muodostus on käyty läpi, kun pohdittiin persoona-, preteriti- ja
+futuurimuotojen rakentamista. Tällä luennolla keskitytään *imperatiivin*
+muodostamiseen ja käyttöön, ensi luennolla puolestaan konditionaaliin.
+
+Imperatiivin muodostus venäjässä
+--------------------------------
+
+Imperatiivi funktionaalisen morfologian kannalta
+------------------------------------------------
+
 Imperatiivin yhteydessä pari sanaa imperatiivista ja aspektista.
+
+
+Luento 19: Tapaluokka kieliopillisena kategoriana 2
+===================================================
 
 
 Kirjallisuutta
