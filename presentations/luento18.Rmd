@@ -1,22 +1,61 @@
-Tunnin kulku:
-    - infinitiivitehtävän tarkistus
-    - teonlaadut lyhyesti
-    - imperatiivin muodostus
-    - И ВСЁ!
+% Morfologia, luento 18
+% Juho Härme
+% Pinni B 5004, juho.harme@uta.fi
 
-Tehtävänä:
-- otetaan taas jo aiemmin käytössä allut verbilista
-- Kukin ryhmä valitsee listalta X verbiä (15?)
+# Aspektin valinta infinitiivitapauksissa
 
-1. merkitään kustakin verbistä (taulukko!):
-    - missä paino 1. pers: vartalo vai pääte
-        - saa käyttää wikislovaria tms.!
-    - mikä preesensvartalo?
-    - päättyykö preesensvartalo J:hin
-1b Viivataan yli: есть ym.
-2. Erotellaan kaikki J:hin päättyvät
-3. Erotellaan kaikki, joissa 1. pers paino päätteellä
-4.  2 ja 3 = perustapaukset.
-5. Erotellaan ne, joissa 1. pers paino vartalolla
-    - konsonanttiyhtymä > И
-    - ei kons.yht. > Ø
+>- Vaihetta ilmaisevat verbit
+>- Aina tulosta painottavat verbit 
+>- Imperfektiivinen yleensä toistoa
+>- Jos yksittäinen tapaus -> yleensä perfektiivinen aspekti
+>- Мне надо *поговорить* с ним
+>- Я хочу *прочитать* эту книгу
+
+# Teonlaadut = Способы действия
+
+<article class="vinx" style="font-size:120%;color:green;">
+>- Когда за Иваном хлопнула дверь, Ирина *заплакала*.
+>- Как будто я должен тут просто *запеть* от радости. 
+>- Только что деревья были голыми, вдруг все *зазеленело*, началось цветение деревьев
+</article>
+
+<article class="vinx" style="font-size:120%;color:brown;">
+>- Мне нужно с тобой поговорить.
+>- Покурил я, воздухом подышал, легче стало.
+>- Легко представить, как хорошо чувствует себя человек, с которым поработал талантливый массажист.
+</article>
+
+<article class="vinx" style="font-size:120%;color:purple;">
+>- Как мне потом сказали, проспал я 14 часов
+>- Чингисхан проболел всю зиму 1225—1226 гг.
+>- В этот раз без света просидели недолго, всего пару часов.
+</article>
+
+<article class="vinx" style="font-size:120%;color:red;">
+>- Вдруг кто-то кашлянул сзади него.
+>- Сын мой засмеялся, махнул рукой, и сказал: "..."
+>- Собака, не выдержав такого хамского отношения, *гавкнула* и, не исключено что случайно, *боднул* бабушку, от чего она повалилась на землю.
+</article>
+
+<article class="vinx" style="font-size:120%;color:blue;">
+>- Довольно *нашутились* мы, пора и за дело! 
+>- Бывает, что *наешься* только салатом так, что другого ничего и не хочется.
+>- Да, *насмотрелся*, *нарадовался*, весеннего речного воздуха полной грудью *надышался*.
+</article>
+
+# Imperatiivi
+
+>- Millä tavoilla venäjässä voi käskeä ja ketä?
+
+# 1. ja 3. persoonan käskymuodot
+
+>- Разве это справедливо? *Давай делиться* по-честному.
+>- *Давай выпьем* кофе, -- предложил Мартин
+>- Пожалуйста, не кричите, на нас смотрят. -- *Пускай смотрят*. Я -- за гласность.
+>- Только не говори ему об этом, *пусть остаётся* в счастливом неведении.
+>- Ну, что ж под дождем то стоять?.. *пойдем* куда-нибудь, -- сказал Сеня.
+
+# 2. persoonan imperatiivimuodot
+
+[Tehtävä 1](../tehtavat/luento18.pdf)
+

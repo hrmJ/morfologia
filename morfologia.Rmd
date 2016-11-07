@@ -5244,6 +5244,11 @@ Inkoatiivisen teonlaadun lisäksi mainittakoon tässä yhteydessä seuraavat:
 Luento 18: Tapaluokka kieliopillisena kategoriana 1
 ===================================================
 
+- [Takaisin sivun ylälaitaan](https://mustikka.uta.fi/~juho_harme/morfologia/#tästä-kurssista)
+- [Lataa PDF](http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento18.pdf)
+- [Tutki luentokalvoja](http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento18.html)
+- [Tutki tuntitehtäviä](http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento18.pdf)
+
 Olemme keskellä kurssin toista puoliskoa (tai oikeastaan jo sen loppupuolella),
 ja viime viikot käsittelyn kohteena ovat olleet verbit ja niihin ilmentämät
 kieliiopilliset kategoriat. Pääluokka- ja aika- ja aspektikategorioiden jälkeen
@@ -5399,18 +5404,22 @@ esitettyyn sääntöön:
   paino myös imperatiivissa pysyy tällöin vartalolla, joten muodot ovat:
   *кОнчи*, *прЫгни*, *чИсти*. (vrt. kuitenkin толкнуть - толкнУ - толкнИ).
 
-Toisena tarkennuksena mainittakoon sellaiset melko harvalukuisat
+Toinen vastaava tarkennus on, että painollisella вы-prefiksillä alkavilla verbeillä
+pääte on /И/ eikä nollapääte: вЫходить -- вЫходи, вЫлезти - вЫлези jne.
+
+Kolmantena tarkennuksena mainittakoon sellaiset melko harvalukuisat
 verbit kuin доить ja поить, joiden imperatiivimuodot ovat /до/И/ ja /по/И/. Näillä
 verbeillä preesensvartalot ovat /доj/ ja /поj/, mutta silti imperatiivin pääte
 /И/: доИ ja поИ.
 
-Kolmas tarkennus koskee verbejä tyyppiä *давать*, joissa muodostuksen pohjana
+Neljäs tarkennus koskee verbejä tyyppiä *давать*, joissa muodostuksen pohjana
 onkin infinitiivivartalo: *давай*, *узнавай*, *вставай*.
 
-Neljäs tarkennus koskee väistyvää vokaalia. Verbin /бить/ preesensvartalo on
+Viides tarkennus koskee väistyvää vokaalia. Verbin /бить/ preesensvartalo on
 /б'j/, mutta -- kuten ehkä muistat -- ennen nollapäätettä väistyvä vokaali
 esiintyy ilmiäänteenä ("oikeana vokaalina"), joten näillä verbeillä
 imperatiivimuodot ovat mallia /бей/, /пей/.
+
 
 Oma yksittäinen imperatiivimuotonsa on lisäksi verbillä
 [есть](http://ru.wiktionary.org/wiki/есть). Šeljakin [-@sheljakin: 163] toteaa
@@ -5454,6 +5463,19 @@ Toisaalta puhujan itsensä käsittämää joukkoa voi käskeä myös ilman да�
 (@ee_davai3) -- Ну, что ж под дождем то стоять?.. пойдем куда-нибудь, -- сказал Сеня.
 
 
+Myös infinitiivimuotoja voidaan käyttää käskemiseen, kuten seuraavassa
+Nikunlassin [-@nikunl: 199] esimerkissä:
+
+(@ee_nik43) Всем студентам собраться у главного входа!
+
+Näissä tapauksissa kyse on jyrkästä, kategorisesta kiellosta. Toisaalta
+infinitiivi on tavallinen käskymuoto esimerkiksi resepteissä:
+
+(@ee_resepti) Готовое мясо *завернуть* в фольгу, чтобы *сохранить* его горячим, а
+кости вместе с соком со сковородки, 40 мл воды и соком устриц варить в кастрюле
+20 минут, после чего *процедить* через мелкое сито, *добавить* пассерованную на
+масле муку, *смешать* всё венчиком и *варить* 5 минут, *положить* устрицы с
+шампиньонами и *греть* соус ещё несколько минут.
 
 
 Luento 19: Tapaluokka kieliopillisena kategoriana 2
