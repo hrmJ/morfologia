@@ -5276,7 +5276,7 @@ moduksista voidaan tehdä seuraavan simppelin esimerkin avulla (esimerkki
 
 Indikatiivin muodostus on käyty läpi, kun pohdittiin persoona-, preteriti- ja
 futuurimuotojen rakentamista. Tällä luennolla keskitytään *imperatiivin*
-muodostamiseen ja käyttöön, ensi luennolla puolestaan konditionaaliin.
+muodostamiseen, ensi luennolla puolestaan imperatiivin käyttöön ja konditionaaliin.
 
 Imperatiivin muodostus venäjässä
 --------------------------------
@@ -5286,17 +5286,18 @@ mallin siihen, miten imperatiivi venäjässä muodostetaan. Muodostuksen kannalt
 ongelmallinen on luonnollisesti 2. persoonan infinitiivi, joten keskitytään
 siihen seuraavassa huolellisemmin.
 
+### 2. persoonan imperatiivin päätteet
+
 Ensinnäkin, voidaan erottaa kaksi päätettä 2. persoonan imperatiiville.
 **Ensimmäinen näistä on /И/**, kuten muodossa 
 
-(@ee_smotrite) /смотр/И/те 
+(@ee_smotrite) /смотр/И/
 
-(/те/ ilmaisee monikkoa, /И/ imperatiivia). **Toinen on vanha tuttu nollapääte /ø/**, joka esiintyy
-esimerkiksi muodossa 
+**Toinen on vanha tuttu nollapääte /ø/**, joka esiintyy esimerkiksi muodossa 
 
-(@ee_dostan)*/достань/ø/*. 
+(@ee_dostan) */достань/ø/*. 
 
-**Lisäksi,**Vaikkei ensi katsomalta huomaisi, nollapääte
+**Lisäksi,** vaikkei ensi katsomalta huomaisi, nollapääte
 on myös muodossa 
 
 (@ee_nalei) */налей/* ('kaada') 
@@ -5306,18 +5307,167 @@ Ennemminkin muoto on konstruoitava näin: /налеj/ø/, niin että imperatiivi
 on /ø/. Miksi? Pohditaan tarkemmin.
 
 Nikunlassin [-@nikunl: 159; vrt @sheljakin: 162] mukaan imperatiivin
-muodostuksen pohjana on preesensvartalo. Katsotaan tässä 
+muodostuksen pohjana on preesensvartalo. Katsotaan esimerkkien @ee_smotrite, @ee_dostan ja @ee_nalei
+preesensvartaloita, jotka ovat:
 
+- смотреть - смотрят - **смотр**
+- достать - достанут - **достан**
+- налить - налеют - **налеj**
+
+Jos yllä lueteltuja preesensvartaloita vertaa esimerkkeihin @ee_smotrite,
+@ee_dostan ja @ee_nalei, voidaan todeta, että
+
+1. esimerkissä @ee_smotrite preesensvartaloon смотр on liitetty /и/
+2. esimerkissä @ee_dostan preesensvartaloon достан on liitetty /ø/
+3. esimerkissä @ee_nalei preesensvartaloon налеj on littetty /ø/
+
+Huomaa lisäksi, että esimerkeissä @ee_dostan ja @ee_smotrite tapahtuu vartalon
+viimeisen konsonantin liudentuminen, joten tarkkaan ottaen muodot ovat
+/смотр'и/ ja /достан'/ -- tämän takia esimerkissä @ee_dostan myös on
+kirjoitusasussa pehmeä merkki. Ei siis niin, että "pehmeä merkki olisi
+imperatiivin pääte", vaan niin, että imperatiivin pääte on /ø/ ja sen edellä
+konsonantti liudentuu. Paras todiste nollapäätteen olemassaolosta on esimerkki
+@ee_nalei, jossa preesensvartalolle ei tapahdu mitään (/налеj/ on
+preesensvartalo ja imperatiivi /налеj/ø.
+
+### Milloin mikäkin pääte?
+
+Päätteet ovat siis /И/ ja /ø/, mutta kielenoppijan kannalta tärkeä kysymys on, milloin mitäkin päätettä
+pitäisi käyttää. Intuition valossa vaikuttaa selvältä, että и-pääte on
+yleisempi -- nollapääte siis jonkinasteinen erityistapaus.
+
+Oleellisia asioita, joiden perusteella pääte määräytyy, ovat 
+
+1. Päättyykö preesensvartalo j-äänteeseen?
+2. Missä paino on 1. persoonan ei-menneen ajan muodossa?
+
+Katsotaan esimerkkiä @ee_smotrite edellisten kriteerien perusteella. Kysymykseen
+1 vastaus on kielteinen: preesensvartalo on /смотр'/, joten se ei pääty
+j-äänteeseen. Toiseen kysymykseen voidaan vastata, että paino on päätteellä:
+смотрЮ. **Lopputulos: /и/-pääte** .
+
+Katsotaan nyt esimerkkiä @ee_dostan. Kysymykseen 1 vastaus on jälleen kielteinen
+(/достан/ ei pääty j:hin). Vastaus kysymykseen 2 sen sijaan on erilainen kuin
+äsken. Paino ei ensimmäisen persoonan muodossa ole päätteellä vaan vartalolla:
+/достАну/. **Lopputulos: /ø/-pääte**.
+
+Siirytään vielä esimerkkiin @ee_nalei. Kysymykseen 1 vastaus on myönteinen
+(/налеj/), ja toiseen kysymykseen voidaan sanoa, että paino on vartalolla
+(налЕю). **Lopputulos: /ø/-pääte** . 
+
+Edellä olevat esimerkit antavat perusmallin imperatiivin eri päätteiden käytölle.
+
+1. Jos preesensvartalo päättyy j-äänteeseen, imperatiivin pääte on nollaäänne.
+2. Jos paino yksikön ensimmäisen persoonan muodossa on päätteellä, imperatiivin pääte on /и/
+3. Jos paino yksikön ensimmäisen persoonan muodossa on vartalolla, imperatiivin pääte on nollaäänne.
+
+
+Testataan esitettyä sääntöä esimerkiksi verbeillä
+[писать](http://ru.wiktionary.org/wiki/писать),
+[сидеть](http://ru.wiktionary.org/wiki/сидеть),
+[смотреть](http://ru.wiktionary.org/wiki/смотреть) ja
+[взять](http://ru.wiktionary.org/wiki/взять) (linkit Wiktionaryyn). Kaikilla
+näillä:
+
+1. Preesensvartalo ei pääty j:hin
+2. Yksikön 1. persoonassa paino on päätteellä
+3. Imperatiivin pääte on /И/.
+
+Toisaalta esimerkiki петь, быть, темнеть, играть saavat nollapäätteen, koska
+
+1. verbeillä петь, темнеть, играть on preesensvartalon lopussa j
+2. быть-verbillä ei ole j:tä, mutta paino 1. persoonassa vartalolla (бУду)
+3. Muodot ovat  siis /поj/ø/, /буд'/ø/ jne.
+
+### Tarkennuksia sääntöön
+
+Edellä esitettyä voidaan vähän tarkentaa. Ajattele verbejä
+[кончить](http://ru.wiktionary.org/wiki/кончить),
+[прыгнуть](http://ru.wiktionary.org/wiki/прыгнуть) ja
+[чиcтить](http://ru.wiktionary.org/wiki/чиcтить). Niissä
+
+1. preesensvartalo (/конч/, /прыгн/, /чист/) ei pääty j:hin
+2. paino on yksikön 1. persoonassa vartalolla: кОнчу, прЫгну, чИщу
+
+Edellä esitetyn säännön perusteella tuloksena pitäisi olla nollapäätteinen
+imperatiivimuoto (конч, прыгн, чист). Näin ei kuitenkaan ole, vaan mainituilla
+verbeillä imperatiivin pääte on /И/. Tästä voidaan tehdä tarkennus edellä
+esitettyyn sääntöön:
+
+- Jos paino on yksikön 1 persoonassa vartalolla **ja preesensvartalo päättyy
+  konsonanttiyhtymään** (tässä: нч, гн, ст), imperatiivin pääte on /И/. Huomaa, että
+  paino myös imperatiivissa pysyy tällöin vartalolla, joten muodot ovat:
+  *кОнчи*, *прЫгни*, *чИсти*. (vrt. kuitenkin толкнуть - толкнУ - толкнИ).
+
+Toisena tarkennuksena mainittakoon sellaiset melko harvalukuisat
+verbit kuin доить ja поить, joiden imperatiivimuodot ovat /до/И/ ja /по/И/. Näillä
+verbeillä preesensvartalot ovat /доj/ ja /поj/, mutta silti imperatiivin pääte
+/И/: доИ ja поИ.
+
+Kolmas tarkennus koskee verbejä tyyppiä *давать*, joissa muodostuksen pohjana
+onkin infinitiivivartalo: *давай*, *узнавай*, *вставай*.
+
+Neljäs tarkennus koskee väistyvää vokaalia. Verbin /бить/ preesensvartalo on
+/б'j/, mutta -- kuten ehkä muistat -- ennen nollapäätettä väistyvä vokaali
+esiintyy ilmiäänteenä ("oikeana vokaalina"), joten näillä verbeillä
+imperatiivimuodot ovat mallia /бей/, /пей/.
+
+Oma yksittäinen imperatiivimuotonsa on lisäksi verbillä
+[есть](http://ru.wiktionary.org/wiki/есть). Šeljakin [-@sheljakin: 163] toteaa
+myös, että kaikista (prefiksittömistä) verbeistä imperatiivia ei muodosteta ja
+mainitsee tässä yhteydessä verbit хотеть, видеть, мочь ja слышать.
+
+Lisäksi tietenkin on todettava, että monikkomuodot muodostetaan kaikista edellä
+käsitellyistä yksikön toisen persoonan muodoista lisäämällä lisäämällä
+imperatiivin päätteen perään pääte /те/: смотрите, пейте, станьте, будьте,
+играйте jne.
+
+Muita imperatiivimuotoja
+------------------------
+
+Edellä käsiteltiin tarkkaan yksikön toisen persoonan imperatiivin muodostamista,
+koska se tapahtuu erityisten päätteiden avulla, synteettistesti. On olemassa
+kuitenkin myös muita imperatiivimuotoja, jotka muodostetaan *analyyttisesti*,
+apusanoja käyttäen. Itse asiassa, kun lasketaan monikkomuodot, Šeljakin
+[-@sheljakin: 162] toteaa, että venäjässä on peräti kuusi eri
+imperatiivimuotoa. Edellä niistä käsiteltiin kahta (2. persoonan yksikkö ja
+monikko), mutta mitä ovat loput neljä (tai paremminkin kaksi, joista kummastakin
+yksikkö- ja monikkomuodot)?
+
+Ensiksi voidaan mainita kolmannen persoonan käskymuodot, jotka muodostetaan
+sanojen *пусть/пускай* avulla:
+
+(@ee_puskai1) -- Пожалуйста, не кричите, на нас смотрят. -- *Пускай смотрят*. Я -- за гласность.
+(@ee_puskai2) -- Только не говори ему об этом, *пусть остаётся* в счастливом неведении.
+
+Toiseksi omaksi käskymuodokseen voidaan erottaa käskyt, joita koskevan joukon
+osa pyös puhuja on (Šeljakinilla tässä termi *совместное действие*). Nämä
+muodostetaan sananmuodon *давай* avulla. Siihen voidaan yhdistää joko
+imperfektiivisen aspektin verbi infinitiivimuodossa tai perfektiivisen aspektin
+verbi indikatiivimuodossa:
+
+(@ee_davai1) -- Разве это справедливо? *Давай делиться* по-честному.
+(@ee_davai2) -- *Давай выпьем* кофе, -- предложил Мартин
+
+Toisaalta puhujan itsensä käsittämää joukkoa voi käskeä myös ilman давай-sanaa:
+
+(@ee_davai3) -- Ну, что ж под дождем то стоять?.. пойдем куда-нибудь, -- сказал Сеня.
+
+
+
+
+Luento 19: Tapaluokka kieliopillisena kategoriana 2
+===================================================
 
 
 Imperatiivi funktionaalisen morfologian kannalta
 ------------------------------------------------
 
+Edellisellä luennolla keskityttiin imperatiivin muodostamiseen. Katsotaan tämän
+luennon aluksi vielä muutamia huomioita imperatiivin käytöstä eli
+imperatiivista funktionaalisen morfologian kannalta.
+
 Imperatiivin yhteydessä pari sanaa imperatiivista ja aspektista.
-
-
-Luento 19: Tapaluokka kieliopillisena kategoriana 2
-===================================================
 
 
 Kirjallisuutta
