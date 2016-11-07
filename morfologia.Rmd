@@ -5281,6 +5281,35 @@ muodostamiseen ja käyttöön, ensi luennolla puolestaan konditionaaliin.
 Imperatiivin muodostus venäjässä
 --------------------------------
 
+Kuten monesti aiemminkin, Ahti Nikunlassi [-@nikunl: 159--160] tarjoaa koulukielioppeja syvällisemmän
+mallin siihen, miten imperatiivi venäjässä muodostetaan. Muodostuksen kannalta
+ongelmallinen on luonnollisesti 2. persoonan infinitiivi, joten keskitytään
+siihen seuraavassa huolellisemmin.
+
+Ensinnäkin, voidaan erottaa kaksi päätettä 2. persoonan imperatiiville.
+**Ensimmäinen näistä on /И/**, kuten muodossa 
+
+(@ee_smotrite) /смотр/И/те 
+
+(/те/ ilmaisee monikkoa, /И/ imperatiivia). **Toinen on vanha tuttu nollapääte /ø/**, joka esiintyy
+esimerkiksi muodossa 
+
+(@ee_dostan)*/достань/ø/*. 
+
+**Lisäksi,**Vaikkei ensi katsomalta huomaisi, nollapääte
+on myös muodossa 
+
+(@ee_nalei) */налей/* ('kaada') 
+
+Esimerkin @ee_nalei morfologinen asu ei siis ole /нале/й/, jossa /й/ olisi imperatiivin pääte.
+Ennemminkin muoto on konstruoitava näin: /налеj/ø/, niin että imperatiivin pääte
+on /ø/. Miksi? Pohditaan tarkemmin.
+
+Nikunlassin [-@nikunl: 159; vrt @sheljakin: 162] mukaan imperatiivin
+muodostuksen pohjana on preesensvartalo. Katsotaan tässä 
+
+
+
 Imperatiivi funktionaalisen morfologian kannalta
 ------------------------------------------------
 
