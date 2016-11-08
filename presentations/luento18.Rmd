@@ -4,12 +4,15 @@
 
 # Aspektin valinta infinitiivitapauksissa
 
+[Tehtävä](../tehtavat/luento17.pdf)
+
 >- Vaihetta ilmaisevat verbit
 >- Aina tulosta painottavat verbit 
 >- Imperfektiivinen yleensä toistoa
 >- Jos yksittäinen tapaus -> yleensä perfektiivinen aspekti
 >- Мне надо *поговорить* с ним
 >- Я хочу *прочитать* эту книгу
+
 
 # Teonlaadut = Способы действия
 
@@ -43,17 +46,30 @@
 >- Да, *насмотрелся*, *нарадовался*, весеннего речного воздуха полной грудью *надышался*.
 </article>
 
+# Tapaluokka kieliopillisena kategoriana
+
+>- [Kurssikartta 2](https://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/kurssikartta2.pdf)
+
+>- Я играю на гармошке
+>- Я играл бы на гармошке
+>- Играй на гармошке!
+>- Изъявительное наклонеие
+>- Повелительное наклонеие
+>- Сослагательное наклонеие
+
 # Imperatiivi
 
 >- Millä tavoilla venäjässä voi käskeä ja ketä?
 
-# 1. ja 3. persoonan käskymuodot
+# 1. ja 3. persoonan käskymuodot + muita
 
 >- Разве это справедливо? *Давай делиться* по-честному.
 >- *Давай выпьем* кофе, -- предложил Мартин
 >- Пожалуйста, не кричите, на нас смотрят. -- *Пускай смотрят*. Я -- за гласность.
 >- Только не говори ему об этом, *пусть остаётся* в счастливом неведении.
 >- Ну, что ж под дождем то стоять?.. *пойдем* куда-нибудь, -- сказал Сеня.
+>- Всем студентам *собраться* у главного входа!
+>- ...*варить* 5 минут, *положить* устрицы с шампиньонами и *греть* соус ещё несколько минут.
 
 # 2. persoonan imperatiivimuodot
 

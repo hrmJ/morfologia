@@ -5471,7 +5471,7 @@ Nikunlassin [-@nikunl: 199] esimerkissä:
 Näissä tapauksissa kyse on jyrkästä, kategorisesta kiellosta. Toisaalta
 infinitiivi on tavallinen käskymuoto esimerkiksi resepteissä:
 
-(@ee_resepti) Готовое мясо *завернуть* в фольгу, чтобы *сохранить* его горячим, а
+(@ee_resepti) Готовое мясо *завернуть* в фольгу, чтобы сохранить его горячим, а
 кости вместе с соком со сковородки, 40 мл воды и соком устриц варить в кастрюле
 20 минут, после чего *процедить* через мелкое сито, *добавить* пассерованную на
 масле муку, *смешать* всё венчиком и *варить* 5 минут, *положить* устрицы с
@@ -5489,7 +5489,122 @@ Edellisellä luennolla keskityttiin imperatiivin muodostamiseen. Katsotaan täm�
 luennon aluksi vielä muutamia huomioita imperatiivin käytöstä eli
 imperatiivista funktionaalisen morfologian kannalta.
 
-Imperatiivin yhteydessä pari sanaa imperatiivista ja aspektista.
+Edellä todettiin jo, että käskyjä voidaan ilmaista monilla muillakin muodoilla
+kuin varsinaisilla sananmuodostuksellisessa mielessä imperatiiveilla 
+(infinitiiveillä,  indikatiivimuodoilla). Asia voidaan kääntää myös toisin päin:
+*varsinaisia sananmuodostuksellisessa mielessä imperatiiveja voidaan käyttää
+myös muihin tarkoituksiin kuin käskyn tai kehotuksen ilmaisemiseen*.
+
+Yksi tällainen tapaus ovat konditionaalilauseen ehdot. Konditionaaliin
+paneudutaan tällä tunnilla tarkemmin edempänä, mutta katsotaan jo nyt seuraavia
+esimerkkiä:
+
+(@ee_impkond) *Будь* я марксистом, я бы посчитал, что эти идеи имеют классовую природу.
+(@ee_impkond2) А *останься* я тогда, всё свелось бы только к воспитанию младенцев да к ожиданию смерти.
+
+Suomennokset voisivat kuulua esimerkiksi:
+
+(@ee_impkond_s) Jos olisin marxisti, olisin sitä mieltä, että nämä ajatukset ovat luonteeltaan luokkakysymyksiä
+(@ee_impkond2_s) Jos olisin sillon jäänyt, kaikesta olisi tullut vain lasten kasvattamista ja kuoleman odottelua
+
+Kyseisissä esimerkeissä imperatiivi siis ilmaisee käskyn sijasta *ehtoa*, aivan
+kuten tavallinen konditionaali yleensä. Toinen vastaava imperatiivin ei--käskevä
+merkitys on Nikunlassin [-@nikunl: 197] mukaan niin kutsuttu konsessiivirakenne,
+kuten seuraavassa esimerkissä:
+
+(@ee_podelit) Землю приходилось как-то поделить, а как ни *подели*, все равно будет несправедливо
+(@ee_objasnjai) Этого никто не может понять, как ни *объясняй*. 
+
+
+Esimerkkien @ee_podelit ja @ee_objasnjai imperatiivit voisi suomentaa
+rakenteilla 'Miten ikinä jaatkin/selitätkin, joka
+tapauksessa/kuitenkaan...'.
+
+### Pari sanaa aspektista
+
+Jatketaan vielä aspektikategorian käsittelyä imperatiivien kannalta. Ensinnäkin,
+kuten edellä esimerkiksi futuurin osalta todettiin, aspektien välinen perusero
+säilyy myös imperatiivimuodoissa. Vertaa esimerkiksi seuraavia esimerkkejä,
+joista @ee_kfmkpm1 edustaa konkreettis-faktista merkitystä ja @ee_kfmkpm2
+konkreettis-prosessuaalista:
+
+(@ee_kfmkpm1) Поработай, а потом пойдем гулять.
+(@ee_kfmkpm2) Стойте здесь, никуда не уходите.
+
+Esimerkissä @ee_kfmkpm1 kyseessä on rajattuja ja peräkkäisiä toimintoja,
+esimerkissä @ee_kfmkpm2 puolestaan avoimia ja samanaikaisia. Myös oppositio
+toiston (rajoittamattoman toiston merkitys) ja yhden kerran
+(konkreettis-faktinen merkitys) välillä säilyy, kuten seuraavassa:
+
+(@ee_kfmrt1) Перед началом работы проветрите комнату
+(@ee_kfmrt2) Перед началом работы проветривайте комнату
+
+Esimerkki @ee_kfmrt1 ilmaisee yksittäistä konkreettista toimintaa, esimerkki
+@ee_kfmrt2 toistuvaa, joka kerta suoritettavaa.
+
+Sen lisäksi, että peruserot aspektien välillä säilyvät, voidaan kuitenkin
+erottaa myös eräitä erityispiirteitä aspektin käytölle nimenomaan
+imperatiivissa. Perusero on, että *imperfektiivinen aspekti käskee vähemmän
+radikaaleja asioita*, ikään kuin imperfektiivisellä aspektilla pyytäminen on
+vähemmän pyydetty. Huomaa, ettei tämä tarkoita, että kohteliaampi pyyntö olisi
+aina imperfektiivinen, vaan pikemminkin, että *odottamattomampi* pyyntö on
+yleensä perfektiivinen. 
+
+Vertaa seuraavia tilanteita urheilukaupassa. Ajatellaan ensin, että lähestyt
+myyjää, joka ei vielä tiedä, minkälaista asiaa sinulla on. Sinä olet tullut
+ostamaan tennismailaa. Aspektin kannalta olisi luontevaa kysyä:
+
+(@ee_tennis) -- Пожалуйста, покажите мне теннисные ракетки.
+
+Pyyntö ei ole millään lailla epäkohtelias, mutta perfektiivinen aspekti on
+läsnä, koska se ei "pelkkää retoriikkaa", myyjää pyydetään oikeasti tekemään
+jotakin. Kun myyjä vie sinut tennismailahyllylle, hän voi puolestaan todeta:
+
+(@ee_valitse) ­- Вот такие у нас есть.. Выбирайте!
+
+Kyseessä on koko lailla retorinen, tyhjempi, käsky: sinua kehotetaan tekemään
+toiminto, josta jo tiedät, että sitä sinulta odotetaan. Sama imperfektiivisen
+aspektin neutraalius tulee esille, jos puhujalla ei ole johonkin pyyntöön vahvaa
+kantaa tai häntä ei kiinnosta:
+
+(@ee_eivalia) -- Я хочу сходить сегодня к Саше. - Ну что же, <span class='r'>иди.</span>
+
+Imperfektiivisen aspektin ja odotetun toiminnan suhde imperatiivissa näkyy myös
+kehotuksen toistamisrakenteissa. Tyypillisen tilanteen voi kuvitella
+ruokapöydässä, jossa isäntä tai emäntä näkee sinun istuvan paikallasi, etkä ole
+vielä ottanut mitään lautasellesi:
+
+(@ee_ota1) -- Возьми, пожалуйста, булочку!
+
+Jos pyynnön kuultuasi alat epäröidä, etkä oikein tiedä, ottaisitko vai etkö,
+emäntä/isäntä toistaa:
+
+(@ee_ota2) Бери, бери, не стесняйся!
+
+Ensimmäisessä pyynnössä (@ee_ota1) käytössä on siis perfektiivisen aspektin
+verbi, toisessa imperfektiivisen.
+
+Toistettakoon vielä, ettei edellä mainittu odotettavuuden ero liity
+kohteliaisuuteen, vaan päinvastoin imperfektiivinen aspekti voi usein olla
+epäkohteliaampi vaihtoehto. Voisi esimerkiksi kuvitella, että vanhus pyytää
+sinulta apua kadulla perfektiivisellä aspektilla:
+
+(@ee_pomogi1) Молодой человек, помогите пожалуйста, с сумкой.
+
+Imperfektiivinen aspekti voisi olla kärsimätön, heti toimintaan patistava:
+
+(@ee_pomogi1) Ну чего же вы тут ждете, ничего не делаете, помогайте мне!
+
+
+Kieltomuodoista ja imperatiivista Šeljakin [-@sheljakin: 165] esittää, että 
+imperfektiivisen aspektin voi katsoa usein olevan jyrkempi, absoluuttinen: Не говори ему об
+этом! Не ходите туда! Perfektiivinen aspekti kantaa ennemminkin varoituksen
+luonnetta: Смотри, не скажи ему об этом! Смотри не упади! 
+
+# Konditionaali
+
+1. Perusmerkitys, muodostus
+2. Kontrastiivinen ote
 
 
 Kirjallisuutta
