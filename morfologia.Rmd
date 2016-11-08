@@ -5602,16 +5602,135 @@ Imperfektiivinen aspekti voisi olla kärsimätön, heti toimintaan patistava:
 
 (@ee_pomogi1) Ну чего же вы тут ждете, ничего не делаете, помогайте мне!
 
-
 Kieltomuodoista ja imperatiivista Šeljakin [-@sheljakin: 165] esittää, että 
 imperfektiivisen aspektin voi katsoa usein olevan jyrkempi, absoluuttinen: Не говори ему об
 этом! Не ходите туда! Perfektiivinen aspekti kantaa ennemminkin varoituksen
 luonnetta: Смотри, не скажи ему об этом! Смотри не упади! 
 
-# Konditionaali
+Konditionaali
+-------------
 
-1. Perusmerkitys, muodostus
-2. Kontrastiivinen ote
+Konditionaalia käytetään, kuten mainittua, ilmaisemaan jokin asiaintila
+ehdollisena tai mahdollisena. Venäjän konditionaalin voi ajatella usein tarkoittavan,
+että tällä hetkellä on voimassa vastakkainen asiaintila kuin hetkellä, johon
+konditionaalilause viittaa [@nikunl: 195]. Ajattele esimerkkiä @ee_hozjaika,
+jossa oletetaan, että kuulija ei näe, millä ilolla emäntä kertoi historiaa:
+
+(@ee_hozjaika) Если бы вы видели, с каким восторгом хозяйка рассказывала его 150-летнюю историю!
+
+Lause @ee_hozjaika esittää samalla konditionaalin muodostusperiaatteen
+venäjässä: konditionaali saadaan aikaan verbin menneen ajan muodolla
+yhdistettynä taipumattomaan бы-partikkeliin. Toisin kuin esimerkiksi eglannissa
+tai ruotsissa, sekä ehtolauseen että päälauseen verbit ovat
+konditionaalimuodossa:
+
+(@ee_dedmoroz)  "*Если бы* я *был* Дедом Морозом, то *заставил бы* людей верить в чудеса"
+
+Lause @ee_dedmoroz näyttää myös, että ehtolauseissa бы-konjunktion paikka on
+selkeä: se seuraa heti konjunktion jälkeen. Sen sijaan päälauseissa paikka voi
+jonkin verran vaihdella. Wade [-@wade2010: 334] toteaa, että paitsi verbin
+jäljessä (kuten esimerkissä @ee_dedmoroz), partikkeli voi sijaita myös verbin
+edessä:
+
+(@ee_dedmoroz2)  "*Если бы* я *был* Дедом Морозом, я *бы заставил* людей верить в чудеса"
+
+Šeljakin [@sheljakin: 167] tarkentaa, että tavallisin paikka on  verbin jäljessä
+ja että sijaitessaan ennen verbiä бы yleensä on koko lauseen toinen sana.
+
+### Funktionaalisen morfologian kannalta
+
+Katsotaan seuraavassa tarkemmin konkreettisia konditionaalin käyttötilanteita.
+
+Yksi tärkeä konditionaalin tehtävä on *toiveen* ilmaiseminen (vrt. suomen
+"kunpa"/"jospa"-lauseet). 
+
+(@ee_dushu) Уезжали бы уже скорей, не *рвали бы* душу!
+(@ee_bezdelnik) *Знал бы* ты, каким трудом это всё достаётся, бездельник ты такой
+
+Toiveen ilmaisemiseen liittyy eräs kielenoppijan kannalta kriittinen huomio.
+Konditionaali nimittäin on pakollinen sivulauseessa aina, kun toive kohdistuu
+johonkuhun muuhun kuin puhujaan itseensä [@wade2010: 335; @nikunl: 196].
+Tällöin бы-partikkeli yhdistyy что-konjunktioon:
+
+(@ee_komp)  Ты хочешь, чтобы я этот чёртов компьютер в окно выбросила?
+(@ee_ljubili)  Хочешь, чтобы тебя уважали и любили?
+(@ee_roditeli) Родители часто требуют, чтобы ребёнок не вставал из-за стола до тех пор, пока не приготовит все уроки.
+(@ee_sud) Он желал, чтобы суд над преступниками происходил с возможной степенью законности и гласности.
+
+Kuten esimerkeistä @ee_komp -- @ee_sud havaitaan, tavallisia tällaisissa
+tilanteissa käytettäviä lievempää tai jyrkempää toivomusta ilmaisevia verbejä
+ovat *хотеть*, *желать*, *требовать*. Joukko on kuitenkin  laajempi kuin vain
+perusajatus "toivomisesta" antaisi ymmärtää. Myös sanojen *необходимо, нужно,
+надо* kanssa käytetään konditionaalia:
+
+(@ee_neob) Необходимо, чтобы наши партийные организации включились в это дело
+(@ee_nuxhnost) Нужно, чтобы голос бизнеса звучал громче, чем он звучал раньше.
+(@ee_nadost)  Надо, чтобы ребёнок становился самостоятельным. 
+
+Wade [-@wade2010: 336] listaa myös seuraavat sanat, joiden yhteydessä käytetään
+vastavalla tavalla konditionaalia:
+
+- важно
+- желательно
+- лучше
+- против
+
+Esimerkiksi:
+
+(@ee_pro) Но они против того, чтобы иностранным гражданам продавали землю.
+(@ee_lutshe) Но лучше, чтобы ребёнок сам увидел, что мама/папа не бросают свои чашки.
+
+Huomaa myös että сказать-verbi + konditionaali -yhdistelmä voi ilmaista jonkin
+toiminnan toivottuutta tai suotavuutta / ylipäätään käskynomaista pyyntöä:
+
+(@ee_dhamal)  Я скажу, чтобы Джамал вам позвонил.
+(@ee_sprashivat) Но потом мама сказала, чтобы я о нём больше не спрашивала.
+(@ee_pomnish) Помнишь, ты мне сказала, чтобы я тебя здесь подождал?
+
+Lisäksi konditionaali voidaan yhdistää esimerkiksi verbiin предложить
+korostamaan, että kyseessä on jonkun tahdon ilmaus [@nikunl: 196]:
+
+(@ee_vernoli)  Верно ли, что на недавней коллегии Минтранса вы предложили, чтобы российские чиновники летали в командировки за рубеж только рейсами российских авиакомпаний? 
+
+### Kontrastiivisia huomioita
+
+Vaikka sekä suomessa että venäjässä, kuten useimmissa muissa kielissä, on
+tapaluokka nimeltä konditionaali, se ei tarkoita, että kyseessä olisivat täysin
+samanlaiset tapaluokat. Seuraavassa joitakin erityisesti suomalaisen
+kielenoppijan kannalta ongelmallisia eroja.
+
+Ensimmäinen silmiinpistävä ero on, että venäjän konditionaalissa ei ole
+*aikamuotoja*. Suomessa konditionaalia voidaan käyttää preesensissä ja
+perfektissä (tulisi / olisi tullut), mutta venäjässä konditionaalin aikamuoto on
+aina sama. Niinpä seuraava Waden [-@wade2010: 333] esimerkki voisi saada
+kontekstista riippuen kaksi suomennosta: 1. Menisin, jos minut kutsuttaisiin; 2.
+Olisin mennyt, jos minut olisi kutsuttu.
+
+(@ee_wadetempus) Я пошёл бы, если бы меня пригласили.
+
+Toiseksi voidaan karkeasti todeta, että suomessa konditionaalia käytetään
+ahkerammin kuin venäjässä. Tämä johtuu muun muassa siitä, että suomessa niin
+kutsutut modaaliset predikaatit [@nikunl: 196] kuten tahtoa, luulla, arvella
+ovat usein konditionaalissa, vaikka periaatteessa ne jo ilmankin ilmaisisivat
+puhujan epävarmuutta ilmaisemastaan asiasta. Venäjässä näissä tapauksissa
+käytetään kuitenkin tavallisesti indikatiivia. Vertaa seuraavia
+ParFin-rinnakkaiskorpuksen esimerkkejä. Kyseessä on siis suomenkielisiä
+alkuperäistekstejä ja niiden venäjännöksiä:
+
+| suomenkielinen lähdeteksti                                                                                               | venäjänkielinen kohdeteksti                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
+| Miten sinä pärjäät, Kaisa? *Luulisin*, että sinulla on aivan tarpeeksi paineita ilman murhajuttuihin sekaantumistakin?   | Как ты, Кайса, со всем справляешься? *Думаю*, что у тебя достаточно нагрузки и без вмешательства в дело об убийстве?   |
+| Luulisitteko kykenevänne pelaamaan sellaisella panoksella, jos tämä tapahtuma olisi kehittynyt sellaisiin mittoihin.     | Считаете ли вы себя способным поставить на нее, если дело дойдет до таких масштабов?                                   |
+| Mitä se sieltä haki? --- Mitä luulisit?                                                                                  | Что он там забыл?- Как ты думаешь?                                                                                     |
+| Esityksen päätyttyä mies kysyi haluaisinko juoda kahvit                                                                  | Закончив выступление, он спросил, не хочу ли я выпить кофе,                                                            |
+| Minä haluaisin kernaasti ostaa sen kornetin                                                                              | Я охотно куплю трубу                                                                                                   |
+| Mies ymmärtäisi hyvin sen, että vaimo haluaisi hoitaa heidän kotiaan ja puutarhaansa huolellisemmin.                     | Он хорошо понимал, что жена хочет более тщательно ухаживать за их домом и садом.                                       |
+
+Jos konditionaalilla kuitenkin ilmaistaan selvästi jonkin asiaintilan ehdollisuutta eikä vain puhujan epävarmuutta,
+venäjässäkin konditionaali on tarpeen, kuten seuraavassa  käännösesimerkissä:
+
+- Moni tyttö haluaisi pysyä sellaisen miehen luona.   
+- Многие девушки хотели бы иметь такого мужчину.  
 
 
 Kirjallisuutta

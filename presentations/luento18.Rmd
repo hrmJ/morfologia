@@ -13,7 +13,6 @@
 >- Мне надо *поговорить* с ним
 >- Я хочу *прочитать* эту книгу
 
-
 # Teonlaadut = Способы действия
 
 <article class="vinx" style="font-size:120%;color:green;">
