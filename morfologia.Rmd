@@ -5248,6 +5248,9 @@ Luento 18: Tapaluokka kieliopillisena kategoriana 1
 - [Lataa PDF](http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento18.pdf)
 - [Tutki luentokalvoja](http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento18.html)
 - [Tutki tuntitehtäviä](http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento18.pdf)
+- [Verbitehtävä Excel-muodossa](http://mustikka.uta.fi/~juho_harme/morfologia/data/verbit_imperatiivi.xls)
+  
+  
 
 Olemme keskellä kurssin toista puoliskoa (tai oikeastaan jo sen loppupuolella),
 ja viime viikot käsittelyn kohteena ovat olleet verbit ja niihin ilmentämät
@@ -5383,6 +5386,10 @@ Toisaalta esimerkiki петь, быть, темнеть, играть saavat nol
 1. verbeillä петь, темнеть, играть on preesensvartalon lopussa j
 2. быть-verbillä ei ole j:tä, mutta paino 1. persoonassa vartalolla (бУду)
 3. Muodot ovat  siis /поj/ø/, /буд'/ø/ jne.
+
+**Huomaa, että kummankin imperatiivin päätteen  edellä preesensvartalon viimeinen
+konsonantti liudentuu (jos ei jo valmiiksi sitä ollut)**. Tämän takia saamme
+muodot *будь* eikä *буд*, *достань* eikä *достан* jne.
 
 ### Tarkennuksia sääntöön
 
