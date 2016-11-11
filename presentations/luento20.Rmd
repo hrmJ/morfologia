@@ -1,0 +1,172 @@
+% Morfologia, luento 20
+% Juho Härme
+% Pinni B 5004, juho.harme@uta.fi
+
+# Huomiotita konditionaalista
+
+[Viime tunnilta](../tehtavat/luento19.pdf)
+
+<article style="font-size:200%">
+<!-- Ei aikamuotoa vv -->
+>- Я пошёл бы, если бы меня пригласили.
+>- Luulisin, että sinne voi jo mennä
+</article>
+
+#
+
+<table >
+<thead>
+<tr class="header">
+<th align="left">suomenkielinen lähdeteksti</th>
+<th align="left">venäjänkielinen kohdeteksti</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd incremental">
+<td align="left">Miten sinä pärjäät, Kaisa? <em>Luulisin</em>, että sinulla on aivan tarpeeksi paineita ilman murhajuttuihin sekaantumistakin?</td>
+<td align="left">Как ты, Кайса, со всем справляешься? <em>Думаю</em>, что у тебя достаточно нагрузки и без вмешательства в дело об убийстве?</td>
+</tr>
+<tr class="even incremental">
+<td align="left">Luulisitteko kykenevänne pelaamaan sellaisella panoksella, jos tämä tapahtuma olisi kehittynyt sellaisiin mittoihin.</td>
+<td align="left">Считаете ли вы себя способным поставить на нее, если дело дойдет до таких масштабов?</td>
+</tr>
+<tr class="odd incremental">
+<td align="left">Mitä se sieltä haki? — Mitä luulisit?</td>
+<td align="left">Что он там забыл?- Как ты думаешь?</td>
+</tr>
+<tr class="even incremental">
+<td align="left">Esityksen päätyttyä mies kysyi haluaisinko juoda kahvit</td>
+<td align="left">Закончив выступление, он спросил, не хочу ли я выпить кофе,</td>
+</tr>
+<tr class="odd incremental">
+<td align="left">Minä haluaisin kernaasti ostaa sen kornetin</td>
+<td align="left">Я охотно куплю трубу</td>
+</tr>
+<tr class="even incremental">
+<td align="left">Mies ymmärtäisi hyvin sen, että vaimo haluaisi hoitaa heidän kotiaan ja puutarhaansa huolellisemmin.</td>
+<td align="left">Он хорошо понимал, что жена хочет более тщательно ухаживать за их домом и садом.</td>
+</tr>
+</tbody>
+</table>
+
+
+# Mitä ovat liikeverbit?
+
+<article style="font-size:200%">
+>- идти
+>- ходить
+</article>
+
+<!-- ei aspektiero, ei teonlaatu, ei... -->
+
+# ИДТИ ja ХОДИТЬ
+
+>- ИДТИ Ilmaisee liikkeen yksisuuntaisena 
+>- ХОДИТЬ Ei ota kantaa kysymykseen liikkeen suunnasta
+
+<article style="font-size:200%">
+>- Маша идет по тропинке
+>- Маша ходит по комнате
+>- Маша *ходит* в школу через парк
+>- Больной уже *ходит*.
+</article>
+
+# 2. ryhmää
+
+<article style="font-size:200%">
+>- однонаправленные 
+>- ненаправленные
+</article>
+
+# Liikeverbipareja 1
+
+<table>
+<thead>
+<tr class="header">
+<th align="left">duratiivinen verbi</th>
+<th align="left">iteratiivinen verbi</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd incremental">
+<td align="left">идти</td>
+<td align="left">ходить</td>
+</tr>
+<tr class="even incremental">
+<td align="left">бежать</td>
+<td align="left">бегать</td>
+</tr>
+<tr class="odd incremental">
+<td align="left">нести</td>
+<td align="left">носить</td>
+</tr>
+<tr class="even incremental">
+<td align="left">вести</td>
+<td align="left">водить</td>
+</tr>
+<tr class="odd incremental">
+<td align="left">ехать</td>
+<td align="left">ездить</td>
+</tr>
+<tr class="even incremental">
+<td align="left">лететь</td>
+<td align="left">летать</td>
+</tr>
+<tr class="odd incremental">
+<td align="left">плыть</td>
+<td align="left">плавать</td>
+</tr>
+<tr class="even incremental">
+<td align="left">везти</td>
+<td align="left">возить</td>
+</tr>
+</tbody>
+</table>
+
+# Liikeverbipareja 2
+
+<table>
+<thead>
+<tr class="header">
+<th align="left">duratiivinen verbi</th>
+<th align="left">iteratiivinen verbi</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd incremental">
+<td align="left">идти</td>
+<td align="left">ходить</td>
+</tr>
+<tr class="even incremental">
+<td align="left">бежать</td>
+<td align="left">бегать</td>
+</tr>
+<tr class="odd incremental">
+<td align="left">нести</td>
+<td align="left">носить</td>
+</tr>
+<tr class="even incremental">
+<td align="left">вести</td>
+<td align="left">водить</td>
+</tr>
+<tr class="odd incremental">
+<td align="left">ехать</td>
+<td align="left">ездить</td>
+</tr>
+<tr class="even incremental">
+<td align="left">лететь</td>
+<td align="left">летать</td>
+</tr>
+<tr class="odd incremental">
+<td align="left">плыть</td>
+<td align="left">плавать</td>
+</tr>
+<tr class="even incremental">
+<td align="left">везти</td>
+<td align="left">возить</td>
+</tr>
+</tbody>
+</table>
+
+
+[Tehtäviä](../tehtavat/luento20.pdf)

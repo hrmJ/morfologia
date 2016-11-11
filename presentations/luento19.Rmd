@@ -1,0 +1,206 @@
+% Morfologia, luento 18
+% Juho Härme
+% Pinni B 5004, juho.harme@uta.fi
+
+# 2. persoonan imperatiivin muodostaminen: kertausta
+
+<style type="text/css">
+.hidethis1,.hidethis2,.hidethis3,.hidethis4, .pääte{
+    display:none;
+}
+</style>
+
+[Tehtävä](../tehtavat/luento18.pdf)
+
+<table>
+<thead>
+<tr class="header ">
+<th align="left">Nro</th>
+<th align="left">infinitiivi</th>
+<th align="left">preesensvartalo</th>
+<th align="left">y.1.p</th>
+<th class='hidethis1' align="left">imperatiivi</th>
+<th class='pääte' align="left">pääte</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd incremental">
+<td align="left">10</td>
+<td align="left">жить</td>
+<td align="left">жив</td>
+<td align="left">живУ</td>
+<td class="hidethis1"  align="left">живИ</td>
+<td class='pääte' align="left">/жив/И/</td>
+</tr>
+<tr class="even incremental">
+<td align="left">58</td>
+<td align="left">продолжить</td>
+<td align="left">продолж</td>
+<td align="left">продолжУ</td>
+<td class="hidethis1" align="left">продолжИ</td>
+<td class='pääte' align="left">/продолж/И/</td>
+</tr>
+<tr class="odd incremental">
+<td align="left">90</td>
+<td align="left">искать</td>
+<td align="left">ищ</td>
+<td align="left">ищУ</td>
+<td class="hidethis1" align="left">ищИ</td>
+<td class='pääte' align="left">/ищ/И/</td>
+</tr>
+</tbody>
+</table>
+
+<a href='javascript:void(0)' onClick="UnHide('hidethis1')">Näytä</a>
+
+
+<table>
+<thead>
+<tr class="header ">
+<th align="left">Nro</th>
+<th align="left">infinitiivi</th>
+<th align="left">preesensvartalo</th>
+<th align="left">y.1.p</th>
+<th class='hidethis2' align="left">imperatiivi</th>
+<th class='pääte' align="left">Pääte</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd incremental">
+<td align="left">15</td>
+<td align="left">делать</td>
+<td align="left">делаj</td>
+<td align="left">дЕлаю</td>
+<td class="hidethis2"  align="left">делай</td>
+<td class='pääte' align="left">/делаj/ø/</td>
+</tr>
+<tr class="even incremental">
+<td align="left">52</td>
+<td align="left">начинать</td>
+<td align="left">начинаj</td>
+<td align="left">начинАю</td>
+<td class="hidethis2" align="left">начинай</td>
+<td class='pääte' align="left">/начинаj/ø/</td>
+</tr>
+<tr class="odd incremental">
+<td align="left">85</td>
+<td align="left">рассказывать</td>
+<td align="left">рассказываj</td>
+<td align="left">рассказываю</td>
+<td class="hidethis2" align="left">рассказывай</td>
+<td class='pääte' align="left">/рассказываj/ø/</td>
+</tr>
+</tbody>
+</table>
+
+<a href='javascript:void(0)' onClick="UnHide('hidethis2')">Näytä</a>
+
+
+<table>
+<thead>
+<tr class="header ">
+<th align="left">Nro</th>
+<th align="left">infinitiivi</th>
+<th align="left">preesensvartalo</th>
+<th align="left">y.1.p</th>
+<th class='hidethis3' align="left">imperatiivi</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd incremental">
+<td align="left">82</td>
+<td align="left">оставить</td>
+<td align="left">остав'</td>
+<td align="left">остАвлю</td>
+<td class="hidethis3"  align="left">оставь</td>
+<td class='pääte' align="left">/остав'/ø/</td>
+</tr>
+<tr class="even incremental">
+<td align="left">59</td>
+<td align="left">забыть</td>
+<td align="left">забуд</td>
+<td align="left">забУду</td>
+<td class="hidethis3" align="left">забУдь</td>
+<td class='pääte' align="left">/забуд'/ø/</td>
+</tr>
+<tr class="odd incremental">
+<td align="left">21</td>
+<td align="left">увидеть</td>
+<td align="left">увид'</td>
+<td align="left">увИжу</td>
+<td class="hidethis3" align="left">увИдь</td>
+<td class='pääte' align="left">/увид'/ø/</td>
+</tr>
+</tbody>
+</table>
+
+<a href='javascript:void(0)' onClick="UnHide('hidethis3')">Näytä</a>
+
+<a href='javascript:void(0)' onClick="UnHide('pääte')">Päätteet</a>
+
+# Tarkennuksia sääntöön
+
+>1. Preesensvartalo päättyy konsonanttiyhtymään (конч, чист, погибн)
+>2. Painollinen вы-prefiksi (вЫходить, вЫлезти)
+>3. давать, вставать, узнавать
+>4. бить, пить
+>5. доить, поить
+
+[Tehtävä](../tehtavat/luento18.pdf)
+
+# Imperatiivi funktionaalisen morfologian kannalta
+
+>-[Tehtävä](../tehtavat/luento19.pdf)
+>- Miten suomentaisit?
+>- *Будь* я марксистом, я бы посчитал, что эти идеи имеют классовую природу.
+>- А *останься* я тогда, всё свелось бы только к воспитанию младенцев да к ожиданию смерти.
+>- Этого никто не может понять, как ни *объясняй*. 
+>- Землю приходилось как-то поделить, а как ни *подели*, все равно будет несправедливо
+>- Но, как ни тяни, пришла пора прощаться.
+>- А свобода, как ни крути, категория абстрактная
+>- *Как ни крути* ― чтобы Вы что-то смогли доказать ― ВАМ ПРИДЕТСЯ воспользоваться мнением других КОМПЕТЕНТНЫХ специалистов (врачей) так как человек без медицинского образования, наученный информацией из интернета и медицинских справочников, не является специалистом, и никто к нему прислушиваться не будет
+
+<!--  Aspektikurssilta imperatiivitehtävä? -->
+<!--  Imperatiivin käyttötehtävä -->
+<!--  Tehtävä чтобы-rakenteista? -->
+
+# Pari sanaa aspektista
+
+>- [Tehtävä](../tehtavat/luento19.pdf)
+>- Odotetaanko käskettyä toimintaa / Onko se itsestäänselvää?
+>- Поработай, а потом пойдем гулять.
+>- Стойте здесь, никуда не уходите.
+>- Перед началом работы проветрите комнату
+>- Перед началом работы проветривайте комнату
+
+# Konditionaalin muodostus
+
+>- Если бы вы видели, с каким восторгом хозяйка рассказывала его 150-летнюю историю!
+>- *Если бы* я *был* Дедом Морозом, то *заставил бы* людей верить в чудеса
+> "*Если бы* я *был* Дедом Морозом, я *бы заставил* людей верить в чудеса"
+
+# Konditionaalin käyttöä
+
+>- Уезжали бы уже скорей, не *рвали бы* душу!
+>- *Знал бы* ты, каким трудом это всё достаётся, бездельник ты такой
+>- Ты хочешь, чтобы я этот чёртов компьютер в окно выбросила?
+
+
+<script>
+function UnHide(hclass){
+    var cells = document.getElementsByClassName(hclass);
+    var shown = 0;
+    for(var cidx=0;cidx<cells.length;cidx++){
+        if (shown>0){
+            break;
+        }
+        if (cells[cidx].style.display=="block"){
+
+        }
+        else{
+            cells[cidx].style.display="block";
+            shown++;
+        }
+    }
+}
+</script>

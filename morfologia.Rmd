@@ -79,8 +79,8 @@ no  | Pvm        | Aihe
 19  | ke 9.11.   | Tapaluokka kieliopillisena kategoriana 2
 20  | ti 15.11.  | Liikeverbit 1
 21  | ke 16.11.  | Liikeverbit 2
-22  | ti 22.11.  | Verbimuotoja: Gerundit
-23  | ke 23.11.  | Verbimuotoja: Infinitiivi
+22  | ti 22.11.  | Liikeverbit 3 / Verbimuotoja: Gerundit
+23  | ke 23.11.  | Verbimuotoja: Gerundit
 24  | ti 29.11.  | Adverbien erityispiirteitä
 25  | ke 30.11.  | Kertausta
 -   | ti 6.12.   | EI LUENTOA (itsenäisyyspäivä)
@@ -5411,8 +5411,12 @@ esitettyyn sääntöön:
   paino myös imperatiivissa pysyy tällöin vartalolla, joten muodot ovat:
   *кОнчи*, *прЫгни*, *чИсти*. (vrt. kuitenkin толкнуть - толкнУ - толкнИ).
 
-Toinen vastaava tarkennus on, että painollisella вы-prefiksillä alkavilla verbeillä
-pääte on /И/ eikä nollapääte: вЫходить -- вЫходи, вЫлезти - вЫлези jne.
+Toinen vastaava tarkennus on, että painollisella вы-prefiksillä alkavilla
+verbeillä pääte on /И/ eikä nollapääte, vaikka paino 1. persoonassa ei olekaan
+päätteellä: вЫходить -- вЫходи, вЫсказать -- вЫскажи jne. Tämä pätee kuitenkin
+vain, jos prefiksittömällä verbillä on И-pääte imperatiivissa (ходИ, скажИ).
+Esimerkiksi *выбросать*-verbillä imperatiivi on siis вЫбросай, koska
+бросать-verbillä imperatiivi on бросай.
 
 Kolmantena tarkennuksena mainittakoon sellaiset melko harvalukuisat
 verbit kuin доить ja поить, joiden imperatiivimuodot ovat /до/И/ ja /по/И/. Näillä
@@ -5731,6 +5735,376 @@ venäjässäkin konditionaali on tarpeen, kuten seuraavassa  käännösesimerkis
 
 - Moni tyttö haluaisi pysyä sellaisen miehen luona.   
 - Многие девушки хотели бы иметь такого мужчину.  
+
+
+Luento 20: liikeverbit 1
+=========================
+
+Venäjän verbijärjestelmästä erottuu omaksi ryhmäkseen eräiden liikkumista
+ilmaisevien verbien joukko, jota kielenopetuksessa ja tutkimuskirjallisuudessa
+nimitetään *liikeverbeiksi* (глаголы движения). Liikeverbeiksi ei lueta kaikkia
+mahdollisia liikkumista ilmaisevia verbejä (ei esimerkiksi 'двигаться',
+'путешествовать', 'перемещаться'), vaan sellaiset verbit, jotka tuntuvat
+muodostavan tietynlaisen *parin* toisen vastaavaa liikettä tarkoittavan verbin
+kanssa. Tällaisen parin muodostavat esimerkiksi verbit *идти* ja *ходить*. Mikä
+sitten näissä verbeissä on sellaista, että ne jossain mielessä kuuluvat yhteen?
+
+A.V. Isachenko [-@isachenko2014, 310] esittää seuraavan pohdinnan 
+verbeihin *идти* ja *ходить* liittyen ja toteaa, että näistä verbeistä
+tiedetään:
+
+1. Että molemmat ovat semanttisesti hyvin lähellä toisiaan (merkitsevät muun
+   muassa liikettä kävellen).
+2. Että molemmat ovat imperfektiivisen aspektin verbejä
+3. Että kumpikaan ei edusta mitään erityistä teonlaatua
+4. Että verbit tuntuvat jollain tavalla muodostavan parin, jota vastaavia
+   voidaan löytää myös tietyillä muilla, kuitenkin tarkkaan rajatuilla
+   verbeillä.
+5. Tällaisten verbiparien ryhmä on tiukkaan rajattu ja epäproduktiivinen:
+   Kieleen ei ilmesty uusia vastaavia verbipareja, vaan päinvastoin jotkin
+   olemassaolevista pareista alkavat käytöltään hiipua.
+5. Vaikka verbit muodostavat jonkinlaisen parin, ei ole mahdollista sanoa, että
+   toinen verbi olisi johdettu toisesta niin kuin esimerkiksi perfektivaation ja
+   imperfektivaation tapauksissa.
+
+Näiden verbien välinen ero ei ole siis aspektissa, mutta verbit kuitenkin
+muodostavat jonkin ominaisuuden suhteen parin. Isachenko nimittää tätä erottavaa
+ominaisuutta termillä *характер действия* (toiminnan luonne).
+
+Mikä sitten on идти- ja ходить-verbien välinen ero? Voidaan esittää, että
+идти-tyypin verbit *ilmaisevat toiminnan yksisuuntaisena*, mutta ходить-tyypin
+verbit *eivät ota suoraan kantaa siihen, kuinka moneen suuntaan toimintaa
+suoritetaan*.  Идти-tyypin verbejä voidaan nimittää *duratiivisiki* ja
+ходить-tyypin verbejä *iteratiivisiksi* (направленные/ненаправленные глаголы
+движения).
+
+Katsotaan tähän liittyen esimerkkejä:
+
+(@ee_liikev1) Маша идет по тропинке
+
+Esimerkissä @ee_liikev1 kuvataan, kuinka Maša etenee yhteen suuntaan polkua
+pitkin. Verrataan tätä esimerkkiin @ee_liikev2:
+
+(@ee_liikev2) Маша ходит по комнате
+
+Esimerkissä @ee_liikev2 kuvataan, miten Maša kävelee sinne tänne, useisiin
+suuntiin, huoneessa. Toisaalta esimerkissä @ee_liikev3
+
+(@ee_liikev3) Маша *ходит* в школу через парк
+
+kuvataan tarkalleen kaksisuuntaista liikettä (Maša menee kouluun ja tulee
+koulusta tiettyä reittiä) ja esimerkissä @ee_liikev4 ei puhuta suunnasta sinänsä
+mitään, vaan ennemminkin kyvystä:
+
+(@ee_liikev4) Больной уже *ходит*.
+
+Voidaan siis todeta, että ходить-tyypin verbeillä kysymykseen toiminnan
+luonteesta ei oteta samalla tavalla kantaa kuin идти-tyypin verbeillä -- ne ovat
+tämän oppositioparin neutraali, tunnusmerkitön osapuoli.
+
+Liikeverbiparit
+---------------
+
+Edellä mainittiin, että liikkeen suunnan perusteella paritettavien verbien määrä
+on rajattu, eikä ryhmään enää tule uusia verbejä. Mitä pareja sitten ylipäätään
+on olemassa?
+
+Seuraavissa taulukoissa on esitetty merkittävimmät duratiiviset ja iteratiiviset
+liikeverbit. Taulukoiden kolmanteen sarakkeeseen on merkitty, onko kyseessä
+transitiivinen (suoran objektin saava) vai intransitiivinen (ilman objektia
+käytettävä) verbi. Liikeverbit on jaettu kahteen taulukkoon, niin että
+ensimmäisessä ovat (oletettavasti) tavallisimmin käytetyt verbit, toisessa
+harvinaisemmat. 
+
+
+### Tavallisimpia liikeverbipareja
+
+
+duratiivinen verbi  | iteratiivinen verbi   | transitiivisuus   |
+------------------- | --------------------- | ----------------- |
+идти                | ходить                | intransitiivinen  |
+бежать              | бегать                | intransitiivinen  |
+нести               | носить                | transitiivinen    |
+вести               | водить                | transitiivinen    |
+ехать               | ездить                | intransitiivinen  |
+лететь              | летать                | intransitiivinen  |
+плыть               | плавать               | intransitiivinen  |
+везти               | возить                | transitiivinen    |
+
+идти-ходить-, бежать-бегать-, нести-носить- ja вести-водить-verbipareja yhdistää
+kaikkia se, että ne ilmaisevat liikettä ilman kulkuneuvoa (tai itse kulkuneuvon
+liikettä, mistä jäljempänä tarkemmin), kun taas ехать-ездить-, лететь-летать-,
+плыть-плавать- ja везти-возить-verbejä yhdistää se, että niillä tavallisesti
+(joskaan esimerkiksi плыть-плавать-parilla ei toki aina) ilmaistaan liikettä
+kulkuneuvolla.
+
+
+Harvinaisempia liikeverbipareja
+-------------------------------
+
+duratiivinen verbi  | iteratiivinen verbi   | transitiivisuus   |
+------------------- | --------------------- | ----------------- |
+лезть               | ла́зить                | intransitiivinen  |
+ползти              | по́лзать               | intransitiivinen  |
+гнать               | гоня́ть                | transitiivinen    |
+катѝть              | ката́ть                | transitiivinen    |
+тащѝть              | таска́ть               | transitiivinen    |
+\*брестѝ            | бродѝть               | intransitiivinen  |
+
+
+Vaikka nämä verbit on luokiteltu harvinaisemmiksi kuin edellä mainitut, ovat ne
+silti käytössä, ja koko venäjän verbikategoriaa tarkasteltaessa kuitenkin
+verrattain yleisiä. Verbipari брести-бродить yleensä ilmoitetaan yhtenä
+liikeverbiparina, mutta Isachenko [-@isachenko2014, 313] ei pidä sitä varsinaisena
+liikeverbiparina, koska verbien merkitykset eroavat toisistaan muutenkin kuin
+vain liikkeen suunnan kuvaamisen suhteen.
+
+Huomioita käytöstä
+------------------
+
+Kieltenoppijan kannalta hankalia ovat yleensä tilanteet, joissa oma äidinkieli
+kuvaa jonkin ilmiön enemmän tai vähemmän ylimalkaisesti, mutta opiskeltava kieli
+tekee tarkempia erotteluja. Tätä ongelmaa voi kuvata ongelmaksi *tiheän* ja
+*harvan* käsiteverkon välillä.
+
+Liikeverbien suhteen suomen käsiteverkon voi hyvin todeta harvaksi verrattuna
+venäjän vastaavaan: suomessa usein pärjää pelkästään sanoilla  "mennä" tai
+"tulla", jotka eivät ota kantaa liikkeen suuntaisuuteen tai siihen, tehdäänkö se
+kulkuneuvolla vai jalan. Tämän vuoksi venäjän järjestelmä, jossa nämä asiat on
+välttämättä ratkaistava,  aiheuttaa suomenkieliselle venäjänopiskelijalle
+vaikeuksia: suomen lausetta "Milloin sinä tulit"  voisi periaatteessa vastata
+venäjäksi mikä vain esimerkiksi lauseista "Когда ты
+пришел/приехал/прилетел/приплыл".
+
+Tässä yhteydessä kannattaa huomata, että suomalainen venäjänopiskelija käyttää
+helposti  *ехать*-verbiä liian usein. Siinä missä suomessa mennään ja tullaan yhtä lailla
+laivalla, junalla kuin lentokoneella, venäjässä kulkuvälineen tyyppi otetaan
+yleensä tarkemmin huomioon. Vertaa seuraavia lauseita:
+
+(@ee_priplyt1) Для этого они с Дарьей заблаговременно *приплыли* в Нью-Йорк, но не стали останавливаться в отеле, а решили остаться на борту яхты.
+(@ee_priletet1) Президент России Владимир Путин *прилетел* в Австрию с мирными инициативами 
+(@ee_priehat1) Два месяца назад я *приехал* в Питер с мечтой о лучшей жизни.
+
+Jokainen esimerkkien @ee_priplyt1 -- @ee_priehat1 lauseista voitaisiin suomentaa
+käyttämällä tulla- tai saapua-verbejä --  suomeksi jopa olisi jokseenkin outoa, jos
+lauseisiin @ee_priplyt ja @ee_priletet1 liitettäisiin erikseen tietoa
+kulkuneuvosta, jolla ollaan tultu ("He saapuivat laivalla New
+Yorkiin" tai "Venäjän presidentti saapui lentäen itävaltaan"). Etenkin vesitse
+tapahtuvan kulkemisen kuvaaminen плыть-verbillä on usein suomenkielisen kannalta
+odottamatonta.
+
+Toinen kulkuvälineisiin liittyvä tarkennus liikeverbien käytöstä koskee
+kulkuvälineiden itsensä liikettä. Kun kuvataan maalla liikkuvien kulkuvälineiden liikettä ennemmin
+kuin ihmisten liikkumista kulkuvälineillä, käytetään tavallisesti идти-verbiä,
+kuten seuraavissa esimerkeissä:
+
+(@ee_notshnojgorod) Поезд шёл через ночной город.
+(@ee_poezdidet) Поезд идёт, останавливается, долго стоит, снова идёт
+(@ee_mashinashla) К счастью, машина шла очень медленно
+(@ee_avtobus) Автобус шел бесконечно долго, и от остановки надо было еще бесконечно долго идти пешком.
+
+
+Luento 21: Liikeverbit 2
+========================
+
+Edellisellä luennolla todettiin, että liikeverbit ovat venäjässä oma
+ryhmänsä ennen kaikkia sen perusteella, että ne ne muodostavat pareja likkeen
+suuntaisuuden eli toiminnan luonteen perusteella. Ilman prefiksejä käytettäessä
+niin duratiiviset kuin iteratiivisetkin verbit ovat imperfektiivisen aspektin
+verbejä ja kuvaavat joko yksisuuntaista liikettä (duratiiviset) tai kaksisuuntaista,
+useampisuuntaista tai suunnan suhteen määrittelemätöntä liikettä (iteratiiviset).
+
+Tällä luennolla perehdytään siihen, mitä tapahtuu, kun liikeverbit esiintyvät
+prefiksillisinä muotoina.
+
+Oikeinkirjoituksesta
+-------------------
+
+Liitettäessä prefiksejä iteratiivisten ja duratiivisten verbien vartaloihin
+kannattaa muistaa seuraavat tapaukset:
+
+1. Kun идти-verbiin (myös preteritissä) liitetään konsonanttiin päättyvä
+   prefiksi, prefiksin ja vartalon väliin lisätään о:
+    - *сойти, обойти, вошёл, подошёл* jne.
+
+2. Kun ехать-verbiin liitetään konsonanttiin päättyvä prefiksi, prefiksin ja
+   vartalon väliin lisätään Ъ:
+    - съехать, въехать jne.
+
+Prefiksillisten verbien välinen ero aspektuaalisena erona
+---------------------------------------------------------
+
+Идти- ja ходить-verbien välinen ero, kuten jo monesti todettua, on peräisin
+näiden verbien eri tavasta kuvata liikkeen suuntaa. Jos verrataan приходить- ja
+прийти-verbejä, tilanne on kuitenkin toinen: *ero muuttuu puhtaan
+aspektuaaliseksi*.
+
+Tätä huomiota on syytä ajatella tarkemmin. Verbien прийти/приходить,
+прибежать/прибегать, прилететь/прилетать välillä ei siis tämän väitteen mukaan
+olekaan edellä käsiteltyä eroa liikkeen suunnassa vaan ero on muuttunut
+aspektuaaliseksi eroksi imperfektiivisen (приходить) ja perfektiivisen (прийти)
+verbin välillä. Tutkitaan tätä vertaamalla seuraavia lauseita:
+
+
+(@ee_toimluon1) Папа ходил в магазин
+(@ee_toimluon2) Папа шёл в магазин
+(@ee_aspekt1) Папа проходил мимо магазина
+(@ee_aspekt2) Папа прошёл мимо магазина
+
+Lauseessa @ee_toimluon1 iteratiivinen verbi ilmaisee liikettä
+kahteen suuntaan, lauseessa @ee_toimluon2 duratiivinen verbi ilmaisee 
+liikkeen yksisuuntaisena. Lauseiden @ee_aspekt1 ja @ee_aspekt2 välinen ero
+kuitenkin on nimenomaan aspektuaalinen: lauseessa @ee_aspekt1 проходить kuvaa
+toiminnan sisäisesti rajaamattomana, niin että lauseen isä kuvataan kulkemassa
+juuri kaupan ohitse; lauseessa @ee_aspekt2 прошёл kuvaa toiminnan sisäisesti
+rajattuna, niin että kauppa on jo ohitettu.  Samoin esimerkissä @ee_tsastopr on
+verbi приезжать eikä verbiä приехать puhtaan aspektuaalisista syistä:
+perfektiivinen aspekti viittaisi yhteen konkreettiseen faktaan, joten
+часто-adverbin kanssa on käytettävä imperfektiivista aspektia.
+
+(@ee_tsastopr) Я часто приезжаю в университет на автобусе
+
+Ajattele tässä yhteydessä taannoista esimerkkiämme  @ee_mennyt_mitat5, jonka
+toista tässä esimerkkinä @ee_mennyt_mitat5b
+
+(@ee_mennyt_mitat5b) -- Папа вчера приезжал.
+
+Esimerkissä @ee_mennyt_mitat_5b toki on tapahtunut liike kahteen suuntaan, mutta
+ennemmin kuin liikkeen suunnasta, tässä on kyse *toiminnan mitätöitymisestä* --
+samalla tapaan kuin lauseissa "кто брал со стола фломастер", "вы не открывали
+окно" jne. Приехать-verbin käyttö toisi puolestaan tulkinnan siitä, että isä on käymässä
+tälläkin hetkellä perfektiivisyytensä vuoksi, ei niinkään liittyen liikkeen
+suuntaan.
+
+Prefiksit ja merkitykset
+------------------------
+
+Seuraavassa on  kuvattu lyhyesti eri prefiksien tavallisesti mukanaan tuomat
+merkitykset.
+
+### У
+
+- liike pois, pidemmäksi aikaa / kauemmaksi
+
+(@ee_u1) Он был единственным сыном в семье, были еще две старшие сестры, которые *уехали* из России в 1918–1919 годах 
+(@ee_u2) Брат уходит на работу через 15 минут
+
+### Вы
+
+- liikkua sisältä ulos
+- ylittää kahden tilan välinen raja ja jättää raja taakseen  
+- ilmaisee myös lähtöpistettä, etenkin lähtöajan yhteydessä
+- poistua hetkeksi
+
+(@ee_vy) Затем мы  *вылетели* из Соединенных Штатов и прибыли в Японию 
+(@ee_vy2)  Естественно, если вы впервые *выехали* за пределы Родины, то основной проблемой для вас наверняка является вопрос проживания на отдыхе 
+(@ee_vy3) *Вышел* на минуту протереть лобовое стекло и в мгновение лишился сумки, которая лежала на заднем сиденье 
+
+### При
+
+- Tulla jonnekin, ilmestyä jonnekin
+
+(@ee_pri) Олег приехал в Питер
+
+### За
+
+- Poiketa varsinaiselta reitiltä ja tulla / päätyä jonnekin vähäksi aikaa
+
+Huomaa käyttö myös puhuttaessa internetissä liikkumisesta:
+
+(@ee_za1) Уважаемый посетитель, Вы	*зашли* на сайт как незарегистрированный пользователь
+
+- Päätyä jonnekin kauas, jonkin rajan taakse
+
+(@ee_za2) Предположительно, он *заплыл* в подводную пещеру Ko Poo и не смог выбрать...
+
+- Muu negatiivinen seuraus
+
+
+### Под
+
+- lähestyä jotakin
+
+(@ee_pod)  Гарри    *подбежал*    к окну, игнорируя пораженные вопли Флитвика
+
+
+### В
+
+- liikkua/liikuttaa sisälle
+- ylittää kahden tilan välinen raja
+
+(@ee_v2) На жарком африканском солнышке сохло все это моментально. И земляная насыпь перед пирамидой, чтобы *втаскивать* туда каменные блоки, была не нужна 
+(@ee_v) Да так сильно, что бур просто *влетел* в зону аномально высокого пластового давления. 
+
+
+### Про
+
+- ohittaa / jättää taakseen
+- mennä sisään ja edetä peremmälle jossakin tilassa tai ensin edetä ja sitten astua sisälle
+- kulkea suoraviivainen reitti
+
+(@ee_pro1)  Мы *прошли* в отдел новых поступлений, и девушка принесла мне женскую сумку Gianfranco Sisti 
+(@ee_pro2) Они *прошли* в дом через большую каменную террасу 
+
+
+### Пере
+
+- liikkua jonkin puolelta toiselle
+- vaihtaa (asuin-)paikkaa
+
+(@ee_pere)   ... он и есть тот самый мостик, через который русские антикоммунисты *перебежали* из Европы в Аргентину в 1947г. 
+
+
+
+### От
+
+- loitota pieni etäisyys / vähäksi aikaa
+- Toimittaa jokin sinne, minne se kuuluu / toimittaa joksikin aikaa / (palauttaa) /
+
+(@ee_ot1) Несколько парней почти сразу  отбежали   в сторону
+(@ee_ot2) Утром мать отвела дочку в детский сад
+(@ee_ot) По просьбе Генри я отвез  рукопись ему 
+
+
+### до
+
+- saavuttaa jokin raja
+- matkan luonnehdinta
+
+(@ee_do) За 40 вас довезут до аэропорта 
+(@ee_do2) Как вы доехали?
+
+
+### о
+
+- liikkua ympäri
+- käydä useissa paikoissa
+
+(@ee_o2)  Он  *обежал*  поляну и бросился вон, а за ним - вся стая 
+(@ee_o) я *объехал* США вдоль и поперек и такого не видел 
+
+
+### с
+
+- laskeutua
+- kerääntyä yhteen paikkaan
+
+(@ee_c) Лыжник *съехал* с горы 
+(@ee_c2) В Московской консерватории 23 октября *сошлись* Восток и Запад.
+
+### Раз
+
+- hajaantua eri suuntiin
+
+(@ee_raz)  Милиция поговорила с ребятами, они   *разошлись*   и, собственно, ничего не произошло. 
+
+### Вз
+
+- nousta ylös
+
+(@ee_vz) Они уже *взошли* на вершину холма, от остальной компании их скрывала полуразрушенная стена 
+(@ee_vz) Солнце уже *взошло*.
+
 
 
 Kirjallisuutta
