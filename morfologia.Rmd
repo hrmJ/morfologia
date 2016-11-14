@@ -79,10 +79,10 @@ no  | Pvm        | Aihe
 19  | ke 9.11.   | Tapaluokka kieliopillisena kategoriana 2
 20  | ti 15.11.  | Liikeverbit 1
 21  | ke 16.11.  | Liikeverbit 2
-22  | ti 22.11.  | Liikeverbit 3 / Verbimuotoja: Gerundit
-23  | ke 23.11.  | Verbimuotoja: Gerundit
-24  | ti 29.11.  | Adverbien erityispiirteitä
-25  | ke 30.11.  | Kertausta
+22  | ti 22.11.  | Verbimuotoja: Gerundit
+23  | ke 23.11.  | Adverbien erityispiirteitä
+24  | ti 29.11.  | Kertausta substantiiveista
+25  | ke 30.11.  | Kertausta verbeistä
 -   | ti 6.12.   | EI LUENTOA (itsenäisyyspäivä)
 -   | ke 7.12.   | KOE
 
@@ -5749,7 +5749,7 @@ muodostavan tietynlaisen *parin* toisen vastaavaa liikettä tarkoittavan verbin
 kanssa. Tällaisen parin muodostavat esimerkiksi verbit *идти* ja *ходить*. Mikä
 sitten näissä verbeissä on sellaista, että ne jossain mielessä kuuluvat yhteen?
 
-A.V. Isachenko [-@isachenko2014, 310] esittää seuraavan pohdinnan 
+A.V. Isachenko [-@isachenko2003, 310] esittää seuraavan pohdinnan 
 verbeihin *идти* ja *ходить* liittyen ja toteaa, että näistä verbeistä
 tiedetään:
 
@@ -5855,7 +5855,7 @@ duratiivinen verbi  | iteratiivinen verbi   | transitiivisuus   |
 Vaikka nämä verbit on luokiteltu harvinaisemmiksi kuin edellä mainitut, ovat ne
 silti käytössä, ja koko venäjän verbikategoriaa tarkasteltaessa kuitenkin
 verrattain yleisiä. Verbipari брести-бродить yleensä ilmoitetaan yhtenä
-liikeverbiparina, mutta Isachenko [-@isachenko2014, 313] ei pidä sitä varsinaisena
+liikeverbiparina, mutta Isachenko [-@isachenko2003, 313] ei pidä sitä varsinaisena
 liikeverbiparina, koska verbien merkitykset eroavat toisistaan muutenkin kuin
 vain liikkeen suunnan kuvaamisen suhteen.
 
@@ -5887,7 +5887,7 @@ yleensä tarkemmin huomioon. Vertaa seuraavia lauseita:
 
 Jokainen esimerkkien @ee_priplyt1 -- @ee_priehat1 lauseista voitaisiin suomentaa
 käyttämällä tulla- tai saapua-verbejä --  suomeksi jopa olisi jokseenkin outoa, jos
-lauseisiin @ee_priplyt ja @ee_priletet1 liitettäisiin erikseen tietoa
+lauseisiin @ee_priplyt1 ja @ee_priletet1 liitettäisiin erikseen tietoa
 kulkuneuvosta, jolla ollaan tultu ("He saapuivat laivalla New
 Yorkiin" tai "Venäjän presidentti saapui lentäen itävaltaan"). Etenkin vesitse
 tapahtuvan kulkemisen kuvaaminen плыть-verbillä on usein suomenkielisen kannalta
@@ -5931,6 +5931,118 @@ kannattaa muistaa seuraavat tapaukset:
    vartalon väliin lisätään Ъ:
     - съехать, въехать jne.
 
+Muodostamisesta
+---------------
+
+Prefiksillisten liikeverbien muodostaminen on monimutkaisempi kysymys kuin
+miltä ensi katsomalta vaikuttaisi. Ainoa täysin selkeä osa-alue ovat duratiivisten
+(идти-tyyppi) verbien prefiksilliset johdokset (прийти ym.). Näistä voidaan
+todeta, että:
+
+1. Prefiksillinen verbi muodostetaan lisäämällä prefiksi duratiivisen verbin
+   vartalon edelle.
+2. Tuloksena on perfektiivisen aspektin verbi
+
+Toisin sanoen:
+
+- ехать-verbistä voidaan johtaa perfektiiviset muodot приехать, поехать, въехать, объехать, подъехать ym.
+- лететь-verbistä voidaan johtaa perfektiiviset muodot прилететь, полететь,
+  влететь, облететь, подлететь ym.
+- ja niin edelleen kaikkien duratiivisten verbien osalta
+
+Hankalammaksi tilanne muuttuu, kun ryhdytään tutkimaan iteratiivisten verbien
+pohjalta (ainakin näennäisesti) johdettuja muotoja. On nimittäin niin, että
+käytännössä kaikissa muissa tapauksissa prefiksin lisääminen imperfektiivisen
+aspektin verbiin tuottaa perfektiivisen aspektin verbin, mutta esimerkiksi verbi
+приносить onkin *imperfektiivinen*. Tämä häiritsevä huomio on johtanut eräät lingvistit, etupäässä
+A.V. Isachenkon [-@isachenko2003], esittämään melko poikkeuksellisen teorian prefiksillisten
+liikeverbien muodostuksesta. Laura Janda [-@janda2010] esittää oman, hyvin
+toisenlaisen ratkaisunsa ongelmaan todeten (eittämättä perustellusti) että
+perinteinen liikeverbit poikkeuksellisiksi julistava näkemys on keinotekoinen.
+Tällä kurssille pyrimme olemaan
+puuttumatta mainittuun muodostusongelmaan, ja otamme lähestymistavan, josta
+uskoisin olevan eniten käytännön hyötyä esimerkiksi opetustyössä. Se tarkoittaa
+jossain määrin pitäytymistä mainittuun "keinotekoinen poikkeus"
+-lähestymistapaan.
+
+**Oletetaan siis,** perinteisten kielioppien tapaan, että 
+
+1. Prefiksin liittäminen duratiiviseen liikeverbiin tuottaa perfektiivisen
+   aspektin verbin
+2. Prefiksin liittäminen iteratiiviseen liikeverbiin tuottaa imperfektiivisen
+   aspektin verbin.
+3. Tietyt iteratiiviset verbit käyttäytyvät poikkeuksellisella tavalla
+   prefiksillistä muotoa muodostettaessa
+
+### Selkeät tapaukset
+
+Suurin osa etenkin tavallisimmista iteratiivisista liikeverbeistä käyttäytyyy
+onneksi hyvin säännönmukaisesti, kun niihin liitetään prefiksi. Tähän
+säännönmukaiseen ryhmään kuuluvat seuraavat verbit, eikä näiden verbien
+vartalolle tapahdu mitään prefiksin liittämisen yhteydessä:
+
+
+iteratiivinen verbi   | от-prefiksi/i |
+--------------------- | ------------  |
+ходить                | отходИть      |
+носить                | относИть      |
+водить                | отводИть      |
+летать                | отлетАть      |
+возить                | отвозИть      |
+гоня́ть                | отгонЯть      |
+бродить               | \*отбродИть   |
+
+
+\* от-prefiksillinen muoto tästä verbistä on ainoastaan hypoteettinen
+
+### Painollinen a-suffiksi
+
+Kolme verbiä muodostaa poikkeuksen siinä suhteessa, että paino siirtyy
+prefiksillisessä muodossa kohti sanan loppua. Lisäksi ездить-verbillä
+tapahtuu sama äänteenmuutos kuin persoonataivutuksessa:
+
+iteratiivinen verbi   | от-prefiksi/i |
+--------------------- | ------------  |
+бЕгать                | отбегАть      |
+пОлзать               | отползАть     |
+Ездить                | отъезжАть     |
+
+### Muodostuksen pohjana prefiksillinen duratiivinen verbi
+
+Lopuksi voidaan erottaa neljä tapausta, joissa ainakin *vaikuttaisi* siltä, että
+imperfektiivisen aspektin muoto ei itse asiassa ole muodostettu 
+prefiksillä iteratiivisesta prefiksittömästä verbistä vaan ennemminkin *suffiksilla
+duratiivisesta prefiksillisestä* verbistä. 
+
+iteratiivinen verbi   | от-prefiksi/i |
+--------------------- | ------------  |
+плавать               | отплывать     |
+ката́ть                | откатывать    |
+ла́зить                | отлезАть      |
+таска́ть               | оттаскивать   |
+
+Toisin sanoen, samalla tapaa kuin verbi перечитывать on muodostettu suffiksilla
+verbistä перечитать, verbi отплывать ainakin vaikuttaa muodostetun suffiksilla
+verbistä отплыть.
+Vertailun vuoksi seuraavassa on esitetty rinnakkain prefiksilliset
+duratiivisesta liikeverbistä muodostetut muodot ja tämän ryhmän imperfektiiviset
+muodot:
+
+iteratiivinen verbi   | от-prefiksi/i |
+--------------------- | ------------  |
+отплыть               | отплывАть     |
+откатить              | откАтывать    |
+отлезть               | отлезАть      |
+оттащить              | оттаскивать   |
+
+
+### Vielä yksi
+
+Tilanne ei vieläkään ole täysin tyydyttävästi selitetty. Asiaan vaikuttavat
+vielä *liikeverbien teonlaadut*,  joita käsitellään luennon lopuksi.
+
+
+
 Prefiksillisten verbien välinen ero aspektuaalisena erona
 ---------------------------------------------------------
 
@@ -5969,7 +6081,7 @@ toista tässä esimerkkinä @ee_mennyt_mitat5b
 
 (@ee_mennyt_mitat5b) -- Папа вчера приезжал.
 
-Esimerkissä @ee_mennyt_mitat_5b toki on tapahtunut liike kahteen suuntaan, mutta
+Esimerkissä @ee_mennyt_mitat5b toki on tapahtunut liike kahteen suuntaan, mutta
 ennemmin kuin liikkeen suunnasta, tässä on kyse *toiminnan mitätöitymisestä* --
 samalla tapaan kuin lauseissa "кто брал со стола фломастер", "вы не открывали
 окно" jne. Приехать-verbin käyttö toisi puolestaan tulkinnan siitä, että isä on käymässä
@@ -6106,7 +6218,11 @@ Huomaa käyttö myös puhuttaessa internetissä liikkumisesta:
 (@ee_vz) Солнце уже *взошло*.
 
 
+Liikeverbien teonlaadut
+-----------------------
 
+Edellä aspektiaiheisten luentojen lopuksi puhuttiin nopeasti *teonlaatujen*
+(способы действия) käsitteestä.
 Kirjallisuutta
 ==============
 

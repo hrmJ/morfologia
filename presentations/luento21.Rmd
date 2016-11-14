@@ -1,0 +1,44 @@
+% Morfologia, luento 21
+% Juho Härme
+% Pinni B 5004, juho.harme@uta.fi
+
+# Mikä oppositio?
+
+>- Папа ходил в магазин
+>- Папа шёл в магазин
+>- Папа проходил мимо магазина
+>- Папа прошёл мимо магазина
+>- Я часто приезжаю в университет на автобусе
+>- Папа вчера приезжал.
+
+
+# Muodostamisesta 1.
+
+duratiivinen verbi  | prefiksillinen verbi  |
+------------------- | --------------------- |
+бежать              | отбежать              |
+нести               | отнести               |
+вести               | отвести               |
+лететь              | отлететь              |
+плыть               | отплыть               |
+везти               | отвезти               |
+лезть               | отлезть               |
+ползти              | отползти              |
+катѝть              | откатить              |
+тащИть              | оттащить              |
+брестИ              | отбродИть             |
+идти                | отойти                |
+гнать               | отогнать              |
+ехать               | отъехать              |
+
+
+# Muodostamisesta 2.
+
+
+[Tehtävä](../tehtavat/)
+
+# Merkityksistä
+
+[Prefiksikaavio](http://people.uta.fi/~harme.juho.k/aspekti-ja-liikeverbiteoria/aihekokonaisuudet/tehtavat/prefiksikaavio.pdf)
+
+[Tehtävä](../tehtavat/)

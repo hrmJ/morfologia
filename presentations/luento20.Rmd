@@ -125,6 +125,7 @@
 
 # Liikeverbipareja 2
 
+
 <table>
 <thead>
 <tr class="header">
@@ -134,36 +135,28 @@
 </thead>
 <tbody>
 <tr class="odd incremental">
-<td align="left">идти</td>
-<td align="left">ходить</td>
+<td align="left">лезть</td>
+<td align="left">ла́зить</td>
 </tr>
 <tr class="even incremental">
-<td align="left">бежать</td>
-<td align="left">бегать</td>
+<td align="left">ползти</td>
+<td align="left">по́лзать</td>
 </tr>
 <tr class="odd incremental">
-<td align="left">нести</td>
-<td align="left">носить</td>
+<td align="left">гнать</td>
+<td align="left">гоня́ть</td>
 </tr>
 <tr class="even incremental">
-<td align="left">вести</td>
-<td align="left">водить</td>
+<td align="left">катѝть</td>
+<td align="left">ката́ть</td>
 </tr>
 <tr class="odd incremental">
-<td align="left">ехать</td>
-<td align="left">ездить</td>
+<td align="left">тащѝть</td>
+<td align="left">таска́ть</td>
 </tr>
 <tr class="even incremental">
-<td align="left">лететь</td>
-<td align="left">летать</td>
-</tr>
-<tr class="odd incremental">
-<td align="left">плыть</td>
-<td align="left">плавать</td>
-</tr>
-<tr class="even incremental">
-<td align="left">везти</td>
-<td align="left">возить</td>
+<td align="left">*брестѝ</td>
+<td align="left">бродѝть</td>
 </tr>
 </tbody>
 </table>
