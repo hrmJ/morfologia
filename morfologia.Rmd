@@ -6243,7 +6243,77 @@ Liikeverbien teonlaadut
 -----------------------
 
 Edellä aspektiaiheisten luentojen lopuksi puhuttiin nopeasti *teonlaatujen*
-(способы действия) käsitteestä.
+(способы действия) käsitteestä. Teonlaadut ovat selitysvoimainen termi myös eräitä prefiksillisiä
+liikeverbejä tutkittaessa, tarkemmin sanottuna verbejä, jotka on muodostettu
+iteratiivisista (ходить-tyyppi) liikeverbeistä.
+
+Muistatko aspektiluennon yhteydestä verbejä tyyppiä *поработать, посидеть,
+покурить*? Nämähän ilmaisivat tekemistä jonkin tietyn, rajatun ajan: После обеда мы посидели в гостиной. Samalla tapaa
+iteratiivisista liikeverbeistä voidaan muodostaa tällaisia *delimitaatiivista
+teonlaatua* (ограничительный способ действия) edustavia perfektiivisen aspektin verbejä:
+
+(@ee_plavat)  И у меня еще один вопрос: если просто *поплавать* в бассейне, то это платно или бесплатно? 
+(@ee_helsinki) Приехали в Хельсинки, *поездили* по городу на автобусе, побывали в соборе в скале, а потом поехали в аквапарк.
+(@ee_prostor) Поскольку жизнь в квартире для растущих детей ограничивает их. Им нужен простор, где побегать.
+
+On tärkeä huomata että verbit *пойти* ja *походить* eivät ole aspektipareja,
+vaan походить on aspektipariton delimitatiivinen verbi, joka merkitsee 'kävellä
+vähän aikaa'. 
+
+Liikeverbeistä voidaan muodostaa myös muita teonlaatuja, kuten perduratiivinen
+(продолжительный):
+
+(@ee_perdezd) Вы можете много лет *проездить* на мощных автомобилях и ни разу в жизни не надавить педаль газа до пола.
+
+Kaikkein oleellisin liikeverbeistä muodostettava teonlaatu on kuitenkin
+momentaaninen (одноактный) teonlaatu, joka liikeverbien tapauksessa muodostetaan
+liittämällä с-prefiksi iteratiivisen verbin vartaloon. Liikeverbien tapauksessa
+merkitykseksi muodostuu 'jonnekin poikkeaminen', usein jonkin päämäärän --
+haettavan tavaran -- tähden tai 'jossain käyminen kerran'. 
+
+(@ee_tranazh) Сегодня *съездила* в треннажерку и поехала к Серёже.
+(@ee_shodit) Купил два конверта и написал Лёхе Матвееву, чтобы *сходил* к деду моему и объяснил ему всё.
+(@ee_bojeviki) Ну, я *сбегал* в видеосалон, быстренько просмотрел пару боевиков, возвращаюсь, а их нет.
+(@ee_topot) Затем *сходил* в сарай за топором и быстро нарубил щепы.
+(@ee_kefir) Однажды инженер Иванов решил *сходить* за	кефиром.
+(@ee_griby) Вокруг лес. Есть возможность *сходить* за грибами.
+
+Huomaa, että teonlaatujen muodostaminen iteratiivisista liikeverbeistä tapahtuu eri tavalla
+kuin "tavallisten" perfektiivisten liikeverbien. Teonlaatujen tapauksessa
+iteratiivisen verbin vartalolle ei tapahdu mitään -- edes paino ei liiku.
+Ajattele esimerkin @ee_tranazh verbiä *съездить*. Muodostettaessa tavallisia
+perfektiivisen aspektin liikeverbiä käytetään *езжать*-vartaloon parustuvia
+muotoja kuten *поезжать*, *отъезжать* ym. Teonlaatuja muodostettaessa
+lähtökohtana on kuitenkin muuttumaton iteratiivisen verbin vartalo. Tämän takia
+myös esimerkissä @ee_plavat verbi on *поплавать*, vaikka muuten prefiksilliset
+muodot плавать-verbin tapauksessa ovat tyyppiä *подплывать*, *отплывать* jne.
+Huomaa myös, että бЕгать-verbin teonlaaduissa paino pysyy е-vokaalilla
+(дети поБегали на улице), mutta tavallisissa prefiksillisissä muodoissa paino
+liikkuu viimeiselle tavulle (спортсмены пробегАли мимо стадиона).
+
+S-etuliitteiset momentaaniset liikeverbit ovat merkitykseltään lähellä
+etuliitteettömiä iteratiivisia liikeverbejä. Äkkiseltään esimerkiksi lauseilla
+@ee_skvorts1a ja @ee_skvorts2a ei juuri ole eroa:
+
+(@ee_skvorts1a) Я ездил в Петербург
+(@ee_skvorts2a) Я съездил в Петербург
+
+Ero voidaan kuitenkin nähdä siinä, että perfektiiviselle aspektille
+tyypillisesti esimerkki @ee_skvorts2a painottaa tuloksen voimassa oloa, eli
+tässä tapauksessa sitä, että matka onnistuttiin tekemään ja on ikään kuin
+vähemmän neutraali, kun taas esimerkki @ee_skvorts1a ainoastaan toteaa, että
+tällainen matka tuli tehtyä. G.K. Skvortsova [-@skvortsova2003] kuvaa eroa
+liikeverbiharjoituskirjassaan seuraavilla selittävillä lauseilla:
+
+(@ee_skvorts1) Я ездил в Петербург = Я был в Петербурге
+(@ee_skvorts2) Я съездил в Петербург = Мне удалось побывать в Петербурге
+
+Huomaa vielä, että koska с-prefiksi tuottaa myös merkityksen 'liikkua jostakin
+alas', syntyy edellä ensimmäiseen muodostysryhmään lueteltujen tavallisimpien
+verbien (сходить, сносить ym.) kohdalla homonyymisiä muotoja, joiden kohdalla
+vain konteksti kertoo, onko kyse momentaanisesta teonlaadusta vai alaspäin
+vievän liikeen merkityksestä.
+
 
 Kirjallisuutta
 ==============
