@@ -5492,6 +5492,11 @@ infinitiivi on tavallinen käskymuoto esimerkiksi resepteissä:
 Luento 19: Tapaluokka kieliopillisena kategoriana 2
 ===================================================
 
+- [Takaisin sivun ylälaitaan](https://mustikka.uta.fi/~juho_harme/morfologia/#tästä-kurssista)
+- [Lataa PDF](http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento19.pdf)
+- [Tutki luentokalvoja](http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento19.html)
+- [Tutki tuntitehtäviä](http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento19.pdf)
+
 
 Imperatiivi funktionaalisen morfologian kannalta
 ------------------------------------------------
@@ -5740,6 +5745,11 @@ venäjässäkin konditionaali on tarpeen, kuten seuraavassa  käännösesimerkis
 Luento 20: liikeverbit 1
 =========================
 
+- [Takaisin sivun ylälaitaan](https://mustikka.uta.fi/~juho_harme/morfologia/#tästä-kurssista)
+- [Lataa PDF](http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento20.pdf)
+- [Tutki luentokalvoja](http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento20.html)
+- [Tutki tuntitehtäviä](http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento20.pdf)
+
 Venäjän verbijärjestelmästä erottuu omaksi ryhmäkseen eräiden liikkumista
 ilmaisevien verbien joukko, jota kielenopetuksessa ja tutkimuskirjallisuudessa
 nimitetään *liikeverbeiksi* (глаголы движения). Liikeverbeiksi ei lueta kaikkia
@@ -5907,6 +5917,11 @@ kuten seuraavissa esimerkeissä:
 Luento 21: Liikeverbit 2
 ========================
 
+- [Takaisin sivun ylälaitaan](https://mustikka.uta.fi/~juho_harme/morfologia/#tästä-kurssista)
+- [Lataa PDF](http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento21.pdf)
+- [Tutki luentokalvoja](http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento21.html)
+- [Tutki tuntitehtäviä](http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento21.pdf)
+
 Edellisellä luennolla todettiin, että liikeverbit ovat venäjässä oma
 ryhmänsä ennen kaikkia sen perusteella, että ne ne muodostavat pareja likkeen
 suuntaisuuden eli toiminnan luonteen perusteella. Ilman prefiksejä käytettäessä
@@ -6047,14 +6062,14 @@ Prefiksillisten verbien välinen ero aspektuaalisena erona
 ---------------------------------------------------------
 
 Идти- ja ходить-verbien välinen ero, kuten jo monesti todettua, on peräisin
-näiden verbien eri tavasta kuvata liikkeen suuntaa. Jos verrataan приходить- ja
-прийти-verbejä, tilanne on kuitenkin toinen: *ero muuttuu puhtaan
-aspektuaaliseksi*.
+näiden verbien eri tavasta kuvata liikkeen suuntaa. Jos verrataan esimerkiksi
+проходить- ja пройти-verbejä, tilanne on kuitenkin toinen: *ero muuttuu
+tavallisesti aspektuaaliseksi*.
 
-Tätä huomiota on syytä ajatella tarkemmin. Verbien прийти/приходить,
-прибежать/прибегать, прилететь/прилетать välillä ei siis tämän väitteen mukaan
+Tätä huomiota on syytä tutkia tarkemmin. Verbien пройти/проходить,
+пробежать/пробегать, пролететь/пролетать välillä ei siis tämän väitteen mukaan
 olekaan edellä käsiteltyä eroa liikkeen suunnassa vaan ero on muuttunut
-aspektuaaliseksi eroksi imperfektiivisen (приходить) ja perfektiivisen (прийти)
+aspektuaaliseksi eroksi imperfektiivisen (проходить) ja perfektiivisen (пройти)
 verbin välillä. Tutkitaan tätä vertaamalla seuraavia lauseita:
 
 
@@ -6087,6 +6102,12 @@ samalla tapaan kuin lauseissa "кто брал со стола фломасте�
 окно" jne. Приехать-verbin käyttö toisi puolestaan tulkinnan siitä, että isä on käymässä
 tälläkin hetkellä perfektiivisyytensä vuoksi, ei niinkään liittyen liikkeen
 suuntaan.
+
+Nikunlassi [-@nikunl: 187] kuitenkin huomauttaa, että tietyillä liikeverbeillä
+on rajoituksia siinä, mitä kaikkia aspektuaalisia merkityksiä ne voivat
+ilmaista. Esimerkiksi приходить-verbiä ei voi Nikunlassin mukaan käyttää
+lauseessa "\*Смотри, брат приходит", vaan on turvauduttava prefiksittömään идти-verbiin.
+
 
 Prefiksit ja merkitykset
 ------------------------
@@ -6223,6 +6244,7 @@ Liikeverbien teonlaadut
 
 Edellä aspektiaiheisten luentojen lopuksi puhuttiin nopeasti *teonlaatujen*
 (способы действия) käsitteestä.
+
 Kirjallisuutta
 ==============
 
