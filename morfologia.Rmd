@@ -5921,6 +5921,7 @@ Luento 21: Liikeverbit 2
 - [Lataa PDF](http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento21.pdf)
 - [Tutki luentokalvoja](http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento21.html)
 - [Tutki tuntitehtäviä](http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento21.pdf)
+- [Prefiksikaavio](http://people.uta.fi/~harme.juho.k/aspekti-ja-liikeverbiteoria/aihekokonaisuudet/tehtavat/prefiksikaavio.pdf)
 
 Edellisellä luennolla todettiin, että liikeverbit ovat venäjässä oma
 ryhmänsä ennen kaikkia sen perusteella, että ne ne muodostavat pareja likkeen
@@ -5942,7 +5943,7 @@ kannattaa muistaa seuraavat tapaukset:
    prefiksi, prefiksin ja vartalon väliin lisätään о:
     - *сойти, обойти, вошёл, подошёл* jne.
 
-2. Kun ехать-verbiin liitetään konsonanttiin päättyvä prefiksi, prefiksin ja
+2. Kun ехать-/ездить-verbeihin liitetään konsonanttiin päättyvä prefiksi, prefiksin ja
    vartalon väliin lisätään Ъ:
     - съехать, въехать jne.
 
@@ -6113,7 +6114,18 @@ Prefiksit ja merkitykset
 ------------------------
 
 Seuraavassa on  kuvattu lyhyesti eri prefiksien tavallisesti mukanaan tuomat
-merkitykset.
+merkitykset. 
+
+### По
+
+По-prefiksi on poikkeuksellinen kaikkiin muihin nähden, sillä se ei toimi
+säännönmukaisesti siten, että sen liittäminen duratiiviseen verbiin muodostaisi
+perfektiivisen aspektin verbin ja liittäminen iteratiiviseen verbiin puolestaan
+tälle aspektiparin. Yksinkertaistaen voidaan sanoa, että по-prefiksi voidaan
+liittää vain duratiiviseen verbiin (пойти, muttei походить, ellei kyse ole
+*delimitatiivisesta teonlaadusta, kuten jäljempänä selitetään*). Näin
+muodostettavat verbit ovat liikkeen alkamista merkitseviä perfektiivisen
+aspektin verbejä, joilla ei ole aspektipareja.
 
 ### У
 
@@ -6245,7 +6257,7 @@ Liikeverbien teonlaadut
 Edellä aspektiaiheisten luentojen lopuksi puhuttiin nopeasti *teonlaatujen*
 (способы действия) käsitteestä. Teonlaadut ovat selitysvoimainen termi myös eräitä prefiksillisiä
 liikeverbejä tutkittaessa, tarkemmin sanottuna verbejä, jotka on muodostettu
-iteratiivisista (ходить-tyyppi) liikeverbeistä.
+pääasiassa iteratiivisista (ходить-tyyppi) liikeverbeistä.
 
 Muistatko aspektiluennon yhteydestä verbejä tyyppiä *поработать, посидеть,
 покурить*? Nämähän ilmaisivat tekemistä jonkin tietyn, rajatun ajan: После обеда мы посидели в гостиной. Samalla tapaa
@@ -6258,14 +6270,17 @@ teonlaatua* (ограничительный способ действия) edust
 
 On tärkeä huomata että verbit *пойти* ja *походить* eivät ole aspektipareja,
 vaan походить on aspektipariton delimitatiivinen verbi, joka merkitsee 'kävellä
-vähän aikaa'. 
+vähän aikaa'. Verbien пойти, поехать, полететь sekä muiden по-etuliitteisten
+duratiivisista verbeistä muodostettujen verbien voi puolestaan nähdä edustavan
+inkoatiivista (начинательный) teonlaatua, eli niiden tehtävä on ilmaista
+liikkeen *alkamista* (vrt. alkamista ilmaisevat засмеяться, заплакать jne.).
 
 Liikeverbeistä voidaan muodostaa myös muita teonlaatuja, kuten perduratiivinen
 (продолжительный):
 
 (@ee_perdezd) Вы можете много лет *проездить* на мощных автомобилях и ни разу в жизни не надавить педаль газа до пола.
 
-Kaikkein oleellisin liikeverbeistä muodostettava teonlaatu on kuitenkin
+Ehkä kaikkein oleellisin iteratiivisista liikeverbeistä muodostettava teonlaatu on kuitenkin
 momentaaninen (одноактный) teonlaatu, joka liikeverbien tapauksessa muodostetaan
 liittämällä с-prefiksi iteratiivisen verbin vartaloon. Liikeverbien tapauksessa
 merkitykseksi muodostuu 'jonnekin poikkeaminen', usein jonkin päämäärän --

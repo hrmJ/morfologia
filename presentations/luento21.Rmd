@@ -2,6 +2,81 @@
 % Juho Härme
 % Pinni B 5004, juho.harme@uta.fi
 
+# Muodostamisesta 1.
+
+## Lisää verbiin ОТ-etuliite
+
+<table>
+<thead>
+<tr class="header">
+<th align="left">duratiivinen verbi</th>
+<th align="left">prefiksillinen verbi</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd incremental">
+<td align="left">бежать</td>
+<td align="left">отбежать</td>
+</tr>
+<tr class="even incremental">
+<td align="left">нести</td>
+<td align="left">отнести</td>
+</tr>
+<tr class="odd incremental">
+<td align="left">вести</td>
+<td align="left">отвести</td>
+</tr>
+<tr class="even incremental">
+<td align="left">лететь</td>
+<td align="left">отлететь</td>
+</tr>
+<tr class="odd incremental">
+<td align="left">плыть</td>
+<td align="left">отплыть</td>
+</tr>
+<tr class="even incremental">
+<td align="left">везти</td>
+<td align="left">отвезти</td>
+</tr>
+<tr class="odd incremental">
+<td align="left">лезть</td>
+<td align="left">отлезть</td>
+</tr>
+<tr class="even incremental">
+<td align="left">ползти</td>
+<td align="left">отползти</td>
+</tr>
+<tr class="odd incremental">
+<td align="left">катѝть</td>
+<td align="left">откатить</td>
+</tr>
+<tr class="even incremental">
+<td align="left">тащИть</td>
+<td align="left">оттащить</td>
+</tr>
+<tr class="odd incremental">
+<td align="left">брестИ</td>
+<td align="left">отбрестИ</td>
+</tr>
+<tr class="even incremental">
+<td align="left">идти</td>
+<td align="left">отойти</td>
+</tr>
+<tr class="odd incremental">
+<td align="left">гнать</td>
+<td align="left">отогнать</td>
+</tr>
+<tr class="even incremental">
+<td align="left">ехать</td>
+<td align="left">отъехать</td>
+</tr>
+</tbody>
+</table>
+
+# Muodostamisesta 2
+
+[Tehtävä](../tehtavat/luento21.pdf)
+
 # Mikä oppositio?
 
 >- Папа ходил в магазин
@@ -11,34 +86,55 @@
 >- Я часто приезжаю в университет на автобусе
 >- Папа вчера приезжал.
 
+<!--
 
-# Muodostamisesta 1.
+>- \*Смотри, брат приходит
+>- смотри, брат идёт
 
-duratiivinen verbi  | prefiksillinen verbi  |
-------------------- | --------------------- |
-бежать              | отбежать              |
-нести               | отнести               |
-вести               | отвести               |
-лететь              | отлететь              |
-плыть               | отплыть               |
-везти               | отвезти               |
-лезть               | отлезть               |
-ползти              | отползти              |
-катѝть              | откатить              |
-тащИть              | оттащить              |
-брестИ              | отбродИть             |
-идти                | отойти                |
-гнать               | отогнать              |
-ехать               | отъехать              |
+-->
 
-
-# Muodostamisesta 2.
-
-
-[Tehtävä](../tehtavat/)
 
 # Merkityksistä
 
 [Prefiksikaavio](http://people.uta.fi/~harme.juho.k/aspekti-ja-liikeverbiteoria/aihekokonaisuudet/tehtavat/prefiksikaavio.pdf)
 
-[Tehtävä](../tehtavat/)
+# Вы / У
+
+>- *Вышел* на минуту протереть лобовое стекло и в мгновение лишился сумки
+>- Естественно, если вы впервые *выехали* за пределы Родины, то основной проблемой для вас наверняка является вопрос проживания на отдыхе 
+>- Затем мы  *вылетели* из Соединенных Штатов и прибыли в Японию 
+>- Он был единственным сыном в семье, были еще две старшие сестры, которые *уехали* из России в 1918–1919 годах 
+>- Брат уходит на работу через 15 минут
+
+# За
+
+>- Марио Гетце пробил носом себе в колено, от которого мяч *залетел* в сетку.
+>- Предположительно, он *заплыл* в подводную пещеру и не смог выбрать...
+>- Уважаемый посетитель, Вы *зашли* на сайт как незарегистрированный пользователь
+>- Она *залезла* в машину, закрыла дверь и сидела опустив голову
+>- Заходи, дверь открыта!
+
+# Про
+
+>- Они *прошли* в дом через большую каменную террасу 
+>- Мы *прошли* в отдел новых поступлений, и девушка принесла мне женскую сумку Gianfranco Sisti 
+
+
+# ОТ
+
+>- Несколько парней почти сразу отбежали в сторону
+>- Утром мать отвела дочку в детский сад
+>- По просьбе Генри я отвез  рукопись ему 
+
+# О
+
+>- я *объехал* США вдоль и поперек и такого не видел 
+
+# Muita
+
+>- Солнце уже *взошло*.
+>- Милиция поговорила с ребятами, они   *разошлись*   и, собственно, ничего не произошло.
+>- В Московской консерватории 23 октября *сошлись* Восток и Запад.
+>- Лыжник *съехал* с горы 
+
+[Tehtävä](../tehtavat/luento21.pdf)
