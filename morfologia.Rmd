@@ -6329,6 +6329,152 @@ verbien (сходить, сносить ym.) kohdalla homonyymisiä muotoja, joi
 vain konteksti kertoo, onko kyse momentaanisesta teonlaadusta vai alaspäin
 vievän liikeen merkityksestä.
 
+Luento 22--23: gerundit ja adverbit
+===================================
+
+Luennoilla 22 ja 23 perehdytään vielä yhteen verbimuotoon, gerundeihin
+(деепричастия). Kyseessä ei ole enää kieliopillinen kategoria, vaan oma
+verbimuotonsa, joka ilmaisee tiettyjä kieliopillisia kategorioita, kuten
+aspektia. Lisäksi tarkastellaan adverbien muodostamista venäjässä sekä joitakin
+adverbien funktioita.
+
+Gerundit ja niiden muodostus
+----------------------------
+
+Nimityksellä gerundi tarkoitetaan venäjästä puhuttaessa adverbimaisia
+verbimuotoja, joita tavallisesti käytetään korvaamaan sivulauseita.
+Академическая грамматика [@akademitsheskaja: 669] määrittelee termin *деепричастие* seuraavasti:
+
+    атрибутивная форма глагола, в которой совмещаются значения двух частей речи:
+    глагола и наречия, т. е. значения действия и
+    обстоятельственно­определительное: бежал, подпрыгивая;
+    вышел, хлопнув дверью;
+
+Suomessa vastaavia nominaalimuotoja ovat niin kutsutut toisen infinitiivin
+(e-infinitiivi) muodot kuten *hyppienA, *juosten* ja partisiippirakenteet kuten
+*juostuaanA, *hypittyään* [@visk: §120].
+
+Venäjän gerundeja on kahta tyyppiä: imperfektiivisen aspektin gerundeja
+(деепричастия несовершенного вида) ja perfektiivisen aspektin gerundeja
+(деепричастия совершенного вида). Tarkastellaan seuraavassa kummankin muodostusta
+Nikunlassin [-@nikunl: 158] esityksen pohjalta.
+
+### Imperfektiivisen aspektin gerundi
+
+Imperfektiivisen aspektin gerundin (jäljempänä i-gerundi) muodostamisen lähtökohtana on verbin
+*preesensvartalo*. Gerundin tunnus on /а/ ja perustapauksessa se vain
+liitetään konjugaatiosta riippumatta suoraan preesensvartalon perään:
+
+| verbi    | preesensvartalo   | gerundi    | kirjoitusasu   |
+| -------- | ----------------- | ---------- | -------------- |
+| играть   | играj             | /играj/а   | играя          |
+| думать   | думаj             | /думаj/а   | думая          |
+| глядеть  | гл'ад'            | /гл'ад'/а  | глядя          |
+| ходить   | ход'              | /ход'/а    | ходя           |
+
+Kuten olemme monesti aiemmin havainneet, давать-tyypin verbit käyttäytyvät
+poikkeuksellisesti siinä mielessä, että ва-suffiksi ei putoa pois gerundia
+muodostettaessa:
+
+| verbi    | preesensvartalo   | gerundi    | kirjoitusasu   |
+| -------- | ----------------- | ---------- | -------------- |
+| давать   | даj               | /да/ва/j/а | давая          |
+
+Voidaan siis todeta, että i-gerundin muodostaminen on
+yksinkertaista. Hankaluutena näihin muotoihin liittyen on usein tietää,
+*voidaanko i-gerundia ylipäätään muodostaa juuri tästä
+verbistä*.
+
+Luonnollisesti ensimmäinen edellytys muodostamiselle on, että kyseessä on
+*imperfektiivistä* aspektia edustava verbi: i-gerundia ei
+voi siis muodostaa esimerkiksi verbistä проходить. Kaikki imperfektiivisetkään
+verbit eivät kuitenkaan kelpaa, vaan muodostuksessa on lisäksi seuraavat
+rajoitukset:
+
+1. Edellä ensimmäisen konjugaation neljänneksi alaryhmäksi nimitettyyn luokkaan
+   kuuluvista ш-/ж-/щ-äänteisiin preesensvartalossaan päättyvistä verbeistä
+   i-gerundia ei muodosteta. Toisin sanoen verbeistä писать, двигать, искать ym.
+2. I-gerundia ei muodosteta ylipäätään, jos verbin preesensvartalo päättyy
+   konsonantteihin к tai г.
+3. I-gerundia ei muodosteta, jos preesensvartalossa on н-suffiksi kuten
+   verbeillä мокнуть, сохнуть ym.
+4. Lisäksi verbit, joiden preesensvartalossa ei ylipäätään ole vokaaleja, eivät
+   saa I-gerundin muotoa (vrt. рвать, пить)
+
+Wade [-@wade2010: 388] huomauttaa, että tapauksissa, joissa verbistä ei voida muodostaa i-gerundia, 
+gerundi usein tehdään käyttämällä pohjana jotakin synonyymista verbiä. Näin ollen vaikka хотеть-verbillä ei ole
+gerundia, voidaan vastaaja merkitys ilmaista желать-verbin gerundilla (желая), ja vaikka
+мочь-verbillä ei ole gerundia, voidaan vastaava merkitys ilmaista rakenteella 'будучи в сосотоянии'.
+
+### Perfektiivisen aspektin gerundi
+
+Perfektiivisen aspektin gerundin (jatkossa p-gerundi) muodostus on jonkin verran
+i-gerundin muodostusta mutkikkaampaa. Ensinnäkin, siinä missä i-gerundin
+muodostukseen käytetään vain yhtä mahdollista affiksia (/а/), on p-gerundin
+muodostamisessa käytössä neljä: /в/, /вши/, /ши/ ja /а/. Muodostus tapahtuu
+**infinitiivivartalosta** seuraavasti:
+
+#### Jos infinitiivivartalo päättyy vokaaliin
+
+Ensimmäisessä tapauksessa p-gerundi muodostetaan lisäämällä infinitiivivartaloon
+/в/-tunnus:
+
+| verbi    | infinitiivivartalo | gerundi     | kirjoitusasu   |
+| -------- | -----------------  | ----------  | -------------- |
+| помыть   | /помы/             | /помы/в/    | помыв          |
+| собрать  | /собра/            | /собра/в/   | собрав         |
+| заметить | /замет'и/          | /замет'и/в/ | заметив        |
+| сказать  | /сказа/            | /сказа/в/   | сказав         |
+| подарить | /подар'и/          | /подар'и/в/ | подарив        |
+
+/в/-pääte koskee myös сть-päätteisiä verbejä, vaikka edellä niiden infinitiivi-
+vartalo onkin todettu yhteneväksi preesensvartalon kanssa: упасть - упав.
+
+Jos verbiin kuuluu ся-postfiksi, p-gerundin tunnuksena on в:n sijasta /вши/.
+Koska vokaalin jälkeen ся on aina muodossa сь, nämä gerundimuodot päättyvät
+/вши/сь/.
+
+| verbi     | infinitiivivartalo | gerundi        | kirjoitusasu   |
+| --------  | -----------------  | ----------     | -------------- |
+| помыться  | /помы/             | /помы/вши/сь/  | помывшись      |
+| собраться | /собра/            | /собра/вши/сь/ | собравшись     |
+
+
+#### Jos vartalo päättyy konsonanttiin
+
+Toisen ryhmän muodostavat verbit, joiden infinitiivivartalo päättyy
+konsonanttiin. Tällöin p-gerundi muodostetaan lisäämällä jompikumpi affikseista
+/ши/ tai /а/. 
+
+/ши/-affiksia käytetään, jos verbin infinitiivivartalo päättyy ч- tai з-äänteisiin:
+
+| verbi    | infinitiivivartalo | gerundi     | kirjoitusasu   |
+| -------- | -----------------  | ----------  | -------------- |
+| пройти   | /пройд'/           | /пройд'/а/  | пройдя         |
+| унести   | /унес'/            | /унес'/а/   | унеся          |
+| заметить | /замет'и/          | /замет'и/в/ | заметив        |
+
+/а/-affiksia käytetään, jos verbin infinitiivivartalo päättyy с- tai з-äänteisiin:
+
+| verbi    | infinitiivivartalo | gerundi     | kirjoitusasu   |
+| -------- | -----------------  | ----------  | -------------- |
+| пройти   | /пройд'/           | /пройд'/а/  | пройдя         |
+| унести   | /унес'/            | /унес'/а/   | унеся          |
+| заметить | /замет'и/          | /замет'и/в/ | заметив        |
+| подарить | /подар'и/          | /подар'и/в/ | подарив        |
+
+
+Gerundien käyttö
+----------------
+
+Gerundit kuuluvat pääasiassa kirjoitettuun asiatyyliin ja ovat siis puhekielessä
+harvinaisia. Kirjoitettaessa kannattaa muistaa oikeinkirjoitussääntö, jonka
+mukaan gerundimuotoja edeltää aina pilkku. Kuten edellä mainittiin, gerundeja
+käytetään pääasiassa korvaamaan sivulauseita. Koska ne ovat luonteeltaan
+adverbimäisiä, niitä voidaan käyttää myös ylipäätään kuvaamaan toiminnan tapaa.
+Seuraavassa ensin muutama korpuserimerkki imperfektiivisen aspektin gerundeista:
+
+
 
 Kirjallisuutta
 ==============

@@ -77,6 +77,54 @@
 
 [Tehtävä](../tehtavat/luento21.pdf)
 
+# 3 Ryhmää
+
+
+<article class='incremental'>
+
+## Selkeät
+
+iteratiivinen verbi   | от-prefiksi/i |
+--------------------- | ------------  |
+ходить                | отходИть      |
+носить                | относИть      |
+водить                | отводИть      |
+летать                | отлетАть      |
+возить                | отвозИть      |
+гоня́ть                | отгонЯть      |
+бродить               | \*отбродИть   |
+
+</article>
+
+<article class='incremental'>
+
+## Painollinen a-suffiksi
+
+
+iteratiivinen verbi   | от-prefiksi/i |
+--------------------- | ------------  |
+бЕгать                | отбегАть      |
+пОлзать               | отползАть     |
+Ездить                | отъезжАть     |
+
+</article>
+
+
+<article class='incremental'>
+
+## Pohjana duratiivinen verbi
+
+
+iteratiivinen verbi   | от-prefiksi/i |
+--------------------- | ------------  |
+плавать               | отплывать     |
+ката́ть                | откатывать    |
+ла́зить                | отлезАть      |
+таска́ть               | оттаскивать   |
+
+</article>
+
+
 # Mikä oppositio?
 
 >- Папа ходил в магазин
@@ -97,6 +145,12 @@
 # Merkityksistä
 
 [Prefiksikaavio](http://people.uta.fi/~harme.juho.k/aspekti-ja-liikeverbiteoria/aihekokonaisuudet/tehtavat/prefiksikaavio.pdf)
+
+# При
+
+>- В прошлом году к нам приезжали студенты из москвы
+>- В прошлом году мы ездили в москву
+
 
 # Вы / У
 
