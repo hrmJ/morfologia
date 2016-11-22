@@ -6124,8 +6124,29 @@ perfektiivisen aspektin verbin ja liittäminen iteratiiviseen verbiin puolestaan
 tälle aspektiparin. Yksinkertaistaen voidaan sanoa, että по-prefiksi voidaan
 liittää vain duratiiviseen verbiin (пойти, muttei походить, ellei kyse ole
 *delimitatiivisesta teonlaadusta, kuten jäljempänä selitetään*). Näin
-muodostettavat verbit ovat liikkeen alkamista merkitseviä perfektiivisen
-aspektin verbejä, joilla ei ole aspektipareja.
+muodostettavat verbit ovat liikkeen alkamista  tai laveammin ilmaistuna lähtöä
+merkitseviä perfektiivisen
+aspektin verbejä, joilla ei ole aspektipareja:
+
+(@ee_liikalk_a) Миша побежал.
+(@ee_liikalk_b) Как ты еще здесь? -- Не волнуйся, скоро пойду.
+
+Perfektiivisen aspektin voimassa olevaa tulosta korostava luonne näkyy
+seuraavissa esimerkeissä:
+
+(@ee_liike_voim1) Он пошел на работу
+(@ee_liike_voim2) Маша понесла книгу в библиотеку.
+
+Toisin kuin muilla prefikseillä, joilla itsellään on jokin suuntaan
+liittyvä merkitys (pois, kohti, loitommas, taakse ym.), *по* ei kanna suuntaan
+liittyviä merkityksiä, vaan sen tuoma muutos verbiin liittyy alkamisen merkitykseen ja
+perfektiiviseen aspektiin. 
+Sekä esimerkissä @ee_liike_voim1 että @ee_liike_voim2 lauseen subjekti on
+puhehetkellä poissa -- joko töissä tai kirjastossa. Huomaa, että по saattaa tähän liittyen merkitä myös liikkeen laadun
+muuttumista [@wade2010: 355]:
+
+(@ee_liiklaat) Сначала мы шли медленно, но потом пошли быстрее.
+
 
 ### У
 
@@ -6260,9 +6281,10 @@ liikeverbejä tutkittaessa, tarkemmin sanottuna verbejä, jotka on muodostettu
 pääasiassa iteratiivisista (ходить-tyyppi) liikeverbeistä.
 
 Muistatko aspektiluennon yhteydestä verbejä tyyppiä *поработать, посидеть,
-покурить*? Nämähän ilmaisivat tekemistä jonkin tietyn, rajatun ajan: После обеда мы посидели в гостиной. Samalla tapaa
-iteratiivisista liikeverbeistä voidaan muodostaa tällaisia *delimitaatiivista
-teonlaatua* (ограничительный способ действия) edustavia perfektiivisen aspektin verbejä:
+покурить*? Nämähän ilmaisivat tekemistä jonkin tietyn, rajatun ajan: *После
+обеда мы посидели в гостиной*. Samalla tapaa iteratiivisista liikeverbeistä
+voidaan muodostaa tällaisia *delimitaatiivista teonlaatua* (ограничительный
+способ действия) edustavia perfektiivisen aspektin verbejä:
 
 (@ee_plavat)  И у меня еще один вопрос: если просто *поплавать* в бассейне, то это платно или бесплатно? 
 (@ee_helsinki) Приехали в Хельсинки, *поездили* по городу на автобусе, побывали в соборе в скале, а потом поехали в аквапарк.

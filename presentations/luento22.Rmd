@@ -2,6 +2,43 @@
 % Juho Härme
 % Pinni B 5004, juho.harme@uta.fi
 
+[Edelliseltä luennolta](luento21.html)
+
+# По
+
+<article class='vinx incremental' style='font-size:100%;color:orange;'>
+
+>- Как ты еще здесь? -- Не волнуйся, скоро пойду.
+>- Миша побежал.
+>- Она пошла на работу
+>- Сначала мы шли медленно, но потом пошли быстрее.
+>- Маша понесла книгу в библиотеку.
+
+</article>
+
+# Mitä outoa?
+
+<article class='vinx incremental' style='font-size:200%;color:green;'>
+
+>- И у меня еще один вопрос: если просто <span style="color:red;">поплавать</span> в бассейне, то это платно или бесплатно? 
+>- Приехали в Хельсинки, <span style="color:red;">поездили</span> по городу на автобусе, побывали в соборе в скале, а потом поехали в аквапарк.
+>- Поскольку жизнь в квартире для растущих детей ограничивает их. Им нужен простор, где <span style="color:red;">побегать</span>.
+>- Вы можете много лет *проездить* на мощных автомобилях и ни разу в жизни не надавить педаль газа до пола. 
+>-  Он бросил ее в аквариум, она задергалась, заплавала 
+
+</article>
+
+# Momentaaninen (semelfaktiivinen) teonlaatu
+
+<article class='vinx incremental' style='font-size:200%;color:purple;'>
+>- Поэтому тем, кто хотя бы изредка <span style="color:red;">съезжает</span> с асфальта на проселок, рекомендуем присмотреться к шинам с индексом «М+S» или «All season». 
+>- В тот день я должен был <span style="color:red;">съездить</span> в город по делам 
+>- Сегодня *съездила* в треннажерку и поехала к Серёже.
+>- Затем *сходил* в сарай за топором и быстро нарубил дров.
+
+</article>
+
+
 # Gerundit verbimuotona
 
 <article class='incremental' style='font-size:200%;font-family:monospace;'>
