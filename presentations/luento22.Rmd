@@ -1,0 +1,190 @@
+% Morfologia, luento 21
+% Juho Härme
+% Pinni B 5004, juho.harme@uta.fi
+
+# Gerundit verbimuotona
+
+<article class='incremental' style='font-size:200%;font-family:monospace;'>
+*атрибутивная форма глагола, в которой совмещаются значения двух частей речи: глагола и наречия, т. е. значения действия и обстоятельственно­определительное*
+
+>- Миша бежал, *подпрыгивая*
+>- Вадим вышел, *хлопнув* дверью
+>- Mitä lajeja?
+
+</article>
+
+# Lisää esimerkkejä
+
+<article class='incremental vinx' style='color:purple;font-size:100%;'>
+
+>- Датчане сосредоточились на идее бутерброда, <span style="color:red;">доведя</span> эту банальность до художественного совершенства, как Энди Уорхол консервы, ― постмодернистски  <span style="color:red;">нагружая</span> на ржаной хлеб сочетание креветок, горчицы и клубники, да ещё  <span style="color:red;">настаивая</span> на том, что это вкусно
+>-  <span style="color:red;">Сделав</span> несколько кругов, летчик принял решение садиться на воду. 
+>-  <span style="color:red;">Придя</span> в себя, артист признался, что все было именно так, как описала Ванга
+>- И подал заявление в суд,  <span style="color:red;">требуя</span> ограничить Сафронову в родительских правах
+>-  <span style="color:red;">Уехав</span> в Египет, возглавил тамошнюю исламистскую группировку.
+>- А в этом году собрали целый букет из наград,  <span style="color:red;">завоевав</span> три золотых и одну серебряную медаль
+
+</article>
+
+<article class='incremental vinx' style='color:green;font-size:100%;'>
+
+>- Иначе <span style="color:red;">говоря</span>, вопросы информационной борьбы становятся предметом глобального военно-политического планирования
+>- Короче  <span style="color:red;">говоря</span>, негатив стал запредельным. 
+>-  <span style="color:red;">Несмотря</span> на то что тебе было уже двадцать три…
+>- И да, и нет.  <span style="color:red;">Смотря</span> как понимать это слово.
+
+</article>
+
+>- [Tehtävä](../tehtavat/luento22.pdf)
+
+# Muodostus / I-gerundi
+
+
+
+<article style="margin-bottom:2em;" class="incremental">
+<table>
+<thead>
+<tr class="incremental header">
+<th align="left">verbi</th>
+<th align="left">preesensvartalo</th>
+<th align="left">gerundi</th>
+<th align="left">kirjoitusasu</th>
+</tr>
+</thead>
+<tbody>
+<tr class="incremental odd">
+<td align="left">играть</td>
+<td align="left">играj</td>
+<td align="left">/играj/а</td>
+<td align="left">играя</td>
+</tr>
+<tr class="incremental even">
+<td align="left">думать</td>
+<td align="left">думаj</td>
+<td align="left">/думаj/а</td>
+<td align="left">думая</td>
+</tr>
+<tr class="incremental odd">
+<td align="left">глядеть</td>
+<td align="left">гл’ад’</td>
+<td align="left">/гл’ад’/а</td>
+<td align="left">глядя</td>
+</tr>
+<tr class="incremental even">
+<td align="left">ходить</td>
+<td align="left">ход’</td>
+<td align="left">/ход’/а</td>
+<td align="left">ходя</td>
+</tr>
+</tbody>
+</table>
+</article>
+
+
+<article>
+<table class="incremental">
+<thead>
+<tr class="header">
+<th align="left">verbi</th>
+<th align="left">preesensvartalo</th>
+<th align="left">gerundi</th>
+<th align="left">kirjoitusasu</th>
+</tr>
+</thead>
+<tbody>
+<tr class="incremental odd">
+<td align="left">давать</td>
+<td align="left">даj</td>
+<td align="left">/да/ва/j/а</td>
+<td align="left">давая</td>
+</tr>
+</tbody>
+</table>
+</article>
+
+
+# Muodostus / P-gerundi 1
+
+
+<article style="margin-bottom:2em;" class="incremental">
+<table>
+<thead>
+<tr class="incremental header">
+<th align="left">verbi</th>
+<th align="left">infinitiivivartalo</th>
+<th align="left">gerundi</th>
+<th align="left">kirjoitusasu</th>
+</tr>
+</thead>
+<tbody>
+<tr class="incremental odd">
+<td align="left">помыть</td>
+<td align="left">/помы/</td>
+<td align="left">/помы/в/</td>
+<td align="left">помыв</td>
+</tr>
+<tr class="incremental even">
+<td align="left">собрать</td>
+<td align="left">/собра/</td>
+<td align="left">/собра/в/</td>
+<td align="left">собрав</td>
+</tr>
+<tr class="incremental odd">
+<td align="left">заметить</td>
+<td align="left">/замет’и/</td>
+<td align="left">/замет’и/в/</td>
+<td align="left">заметив</td>
+</tr>
+<tr class="incremental even">
+<td align="left">сказать</td>
+<td align="left">/сказа/</td>
+<td align="left">/сказа/в/</td>
+<td align="left">сказав</td>
+</tr>
+<tr class="incremental odd">
+<td align="left">подарить</td>
+<td align="left">/подар’и/</td>
+<td align="left">/подар’и/в/</td>
+<td align="left">подарив</td>
+</tr>
+</tbody>
+</table>
+</article>
+
+<article style="margin-bottom:2em;" class="incremental">
+<table>
+<thead>
+<tr class="header">
+<th align="left">verbi</th>
+<th align="left">infinitiivivartalo</th>
+<th align="left">gerundi</th>
+<th align="left">kirjoitusasu</th>
+</tr>
+</thead>
+<tbody>
+<tr class="incremental odd">
+<td align="left">помыться</td>
+<td align="left">/помы/</td>
+<td align="left">/помы/вши/сь/</td>
+<td align="left">помывшись</td>
+</tr>
+<tr class="incremental even">
+<td align="left">собраться</td>
+<td align="left">/собра/</td>
+<td align="left">/собра/вши/сь/</td>
+<td align="left">собравшись</td>
+</tr>
+</tbody>
+</table>
+</article>
+
+
+# Muodostus / P-gerundi 2
+
+
+| verbi    | infinitiivivartalo | gerundi     | kirjoitusasu                           |
+| -------- | -----------------  | ----------  | --------------                         |
+| пройти   | /пройд'/           | /пройд'/а/  | пройд<span style="color:red">я</span>  |
+| унести   | /унес'/            | /унес'/а/   | унес<span style="color:red">я</span>   |
+
+

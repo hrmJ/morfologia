@@ -6446,13 +6446,15 @@ Toisen ryhmän muodostavat verbit, joiden infinitiivivartalo päättyy
 konsonanttiin. Tällöin p-gerundi muodostetaan lisäämällä jompikumpi affikseista
 /ши/ tai /а/. 
 
-/ши/-affiksia käytetään, jos verbin infinitiivivartalo päättyy ч- tai з-äänteisiin:
+/ши/-affiksia käytetään muodoissa, чь- ja зти-päättyvissä infinitiiveissä. Huomaa, että
+nämä ovat usein tapauksia, joissa i-gerundia ei käytännössä muodosteta.
 
 | verbi    | infinitiivivartalo | gerundi     | kirjoitusasu   |
 | -------- | -----------------  | ----------  | -------------- |
-| пройти   | /пройд'/           | /пройд'/а/  | пройдя         |
-| унести   | /унес'/            | /унес'/а/   | унеся          |
-| заметить | /замет'и/          | /замет'и/в/ | заметив        |
+| выпечь   | /выпек/            | /выпек/ши/  | выпекши        |
+| уползти  | /уполз/            | /уполз/ши/  | уползши        |
+| залезти  | /залез/            | /залез/ши/  | залезши        |
+
 
 /а/-affiksia käytetään, jos verbin infinitiivivartalo päättyy с- tai з-äänteisiin:
 
@@ -6460,8 +6462,6 @@ konsonanttiin. Tällöin p-gerundi muodostetaan lisäämällä jompikumpi affiks
 | -------- | -----------------  | ----------  | -------------- |
 | пройти   | /пройд'/           | /пройд'/а/  | пройдя         |
 | унести   | /унес'/            | /унес'/а/   | унеся          |
-| заметить | /замет'и/          | /замет'и/в/ | заметив        |
-| подарить | /подар'и/          | /подар'и/в/ | подарив        |
 
 
 Gerundien käyttö
