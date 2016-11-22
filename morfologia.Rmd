@@ -6354,6 +6354,10 @@ vievän liikeen merkityksestä.
 Luento 22--23: gerundit ja adverbit
 ===================================
 
+- [Takaisin sivun ylälaitaan](https://mustikka.uta.fi/~juho_harme/morfologia/#tästä-kurssista)
+- [Tutki luentokalvoja](http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento22.html)
+- [Tutki tuntitehtäviä](http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento22.pdf)
+
 Luennoilla 22 ja 23 perehdytään vielä yhteen verbimuotoon, gerundeihin
 (деепричастия). Kyseessä ei ole enää kieliopillinen kategoria, vaan oma
 verbimuotonsa, joka ilmaisee tiettyjä kieliopillisia kategorioita, kuten
@@ -6466,24 +6470,24 @@ Koska vokaalin jälkeen ся on aina muodossa сь, nämä gerundimuodot päätt
 
 Toisen ryhmän muodostavat verbit, joiden infinitiivivartalo päättyy
 konsonanttiin. Tällöin p-gerundi muodostetaan lisäämällä jompikumpi affikseista
-/ши/ tai /а/. 
-
-/ши/-affiksia käytetään muodoissa, чь- ja зти-päättyvissä infinitiiveissä. Huomaa, että
-nämä ovat usein tapauksia, joissa i-gerundia ei käytännössä muodosteta.
+/ши/ tai /а/. Näiden suffiksien käytössä on jonkin verran horjuntaa ja myös
+tapauksia, joissa molempia käytetään. Pääpiirteissään voidaan sanoa, että 
+/ши/-affiksia käytetään *чь*- ja *зть*-päättyvissä infinitiiveissä (huomaa, että
+nämä ovat usein tapauksia, joissa i-gerundia ei käytännössä muodosteta) ja
+/а/-affiksia сти- ja сть-päättyvissä infinitiiveissä. Muista, että näissä
+tapauksissa infinitiivivartalo katsotaan samaksi kuin preesensvartalo.
 
 | verbi    | infinitiivivartalo | gerundi     | kirjoitusasu   |
 | -------- | -----------------  | ----------  | -------------- |
 | выпечь   | /выпек/            | /выпек/ши/  | выпекши        |
-| уползти  | /уполз/            | /уполз/ши/  | уползши        |
-| залезти  | /залез/            | /залез/ши/  | залезши        |
-
-
-/а/-affiksia käytetään, jos verbin infinitiivivartalo päättyy с- tai з-äänteisiin:
-
-| verbi    | infinitiivivartalo | gerundi     | kirjoitusasu   |
-| -------- | -----------------  | ----------  | -------------- |
+| залезть  | /залез/            | /залез/ши/  | залезши        |
 | пройти   | /пройд'/           | /пройд'/а/  | пройдя         |
 | унести   | /унес'/            | /унес'/а/   | унеся          |
+| увезти   | /увез'/            | /увез'/а/   | увезя          |
+| изобрести| /изобрет'/         | /изобрет'/а/| изобретя       |
+
+Poikkeuksen muodostavat verbit упасть  ja сесть, joiden gerundit ovat *упав*  ja
+*сев*.
 
 
 Gerundien käyttö
@@ -6493,9 +6497,130 @@ Gerundit kuuluvat pääasiassa kirjoitettuun asiatyyliin ja ovat siis puhekieles
 harvinaisia. Kirjoitettaessa kannattaa muistaa oikeinkirjoitussääntö, jonka
 mukaan gerundimuotoja edeltää aina pilkku. Kuten edellä mainittiin, gerundeja
 käytetään pääasiassa korvaamaan sivulauseita. Koska ne ovat luonteeltaan
-adverbimäisiä, niitä voidaan käyttää myös ylipäätään kuvaamaan toiminnan tapaa.
-Seuraavassa ensin muutama korpuserimerkki imperfektiivisen aspektin gerundeista:
+adverbimaisia, niitä voidaan käyttää myös ylipäätään kuvaamaan toiminnan tapaa.
+Seuraavassa ensin muutama korpusesimerkki imperfektiivisen aspektin gerundeista:
 
+(@ee_buterbr) Датчане довели бутерброды до художественного совершенства, *нагружая* на ржаной хлеб сочетание креветок, горчицы и клубники, да ещё  *настаивая* на том, что это вкусно
+(@ee_rodprav) Иванов подал заявление в суд, *требуя* ограничить Сафронову в родительских правах
+(@ee_utshitivaja) А вопрос это немаловажный, *учитывая* постоянную занятость игрока «Зенита».
+(@ee_selfie) *Глядя* на снимок, в данном случае, на селфи, человек сразу формирует первое впечатление об объекте
+
+Esimerkissä @ee_buterbr gerundimuoto *нагружая* kuvaa toiminnan tapaa: sitä,
+miten voileipien vieminen kohti taiteellista täydellisyyttä on tapahtunut;
+toinen gerundi *настаивая* kuvaa toimintaa, joka tapahtuu edellisen toiminnan
+ohella: tanskalaiset paitsi ahtavat leivän päälle katkarapuja, myös väittävät
+että lopputulos on maukas. Esimerkissä @ee_rodprav puolestaan gerundin *требуя*
+käyttö on jossain määrin vähemmän suoraviivaista: Ivanov on tehnyt anomuksen,
+*jossa* vaatii vanhempainoikeuksien rajoittamista. Huomaa siis, että
+suomentaminen e-infinitiivi rakenteella saattaa usein johtaa kömpelyyksiin
+suomessa (Jätti hakemuksen vaatien Safronovin oikeuksien rajoittamista =
+jättäessään hakemusta samalla vaati).
+
+Katsotaan vielä esimerkkejä perfektiivisen aspektin gerundeista:
+
+(@ee_krug) *Сделав* несколько кругов, летчик принял решение садиться на воду. 
+(@ee_datshane2) *Придя* в себя, артист признался, что все было именно так, как описала Ванга
+(@ee_zavoevat) А в этом году собрали целый букет из наград,  *завоевав* три золотых и одну серебряную медаль
+
+Esimerkeistä @ee_krug--@ee_zavoevat käy selvästi ilmi, että p-gerundiin liittyy
+perfektiivisen aspektin luonteen mukaisesti ajatus toimintojen peräkkäisyydestä
+ja kokonaisuudesta. Esimerkissä @ee_krug lentäjä on ensin tehnyt muutaman
+kierroksen ja sen jälkeen tehnyt päätöksen. Esimerkissä @ee_datshane2 artisti on
+ensin palannut tolkkuihinsa ja sitten tunnustanut. Esimerkissä @ee_zavoevat
+palkintoja on kertynyt sitä kautta, että ensin on voitettu kolme kulta- ja yksi
+hopeamitali.
+
+Gerundit siis ilmaisevat muun muassa toiminnan tapaa, varsinaisen toiminnan ohessa
+tapahtunutta toimintaa ja peräkkäisiä toimintoja. Useimmiten nämä muodot olisi
+mahdollista korvata tavallisilla verbin indikatiivimuodoilla (они нагруживают...
+в котором он требует.... если учитываем.. Когда гдядишь...)
+
+Huomaa, että gerundit ovat kuitenkin puhekielessäkin yleisiä monissa fraaseissa
+ja sanonnoissa, kuten seuraavissa говорить-verbiin liittyvissä:
+
+(@ee_ingov) *Иначе говоря*, вопросы информационной борьбы становятся предметом глобального военно-политического планирования
+(@ee_korgov) *Короче  говоря*, негатив стал запредельным. 
+(@ee_mjahkog) Очень любопытный и, *мягко говоря*, странный, случай имел место в Краснодарском крае
+
+Jotkin gerundimuodot ovat leksikaalistuneet ja muuttuneet adverbeiksi:
+
+(@ee_nesm) Несмотря на то что тебе было уже двадцать три...
+(@ee_sm) И да, и нет. *Смотря как* понимать это слово.
+
+Adverbeista
+-----------
+
+Kurssin viimeisenä aiheena ennen kertausta käsitellään vielä lyhyesti muutamaa
+adverbeihin (наречия) liittyvää huomiota.
+
+Adverbit ovat tietyssä mielessä eräänlainen sanaluokkajaottelun roskakori:
+adverbeiksi luetellaan karkeasti ottaen ne sanat, jotka eivät ole substantiiveja,
+verbejä, adjektiiveja, pronomineja jne. Useimmiten adverbit ilmaisevat tapaa
+(медленно), paikkaa (далеко) tai aikaa (завтра).
+
+Mitä voidaan sanoa adverbien muodostamisesta? Luonnollisesti sellaisten sanojen
+kuin *завтра, тогда, там* ym. kohdalla muodostuksesta puhumisella on vain kielihistoriallista
+merkitystä. Nykykielen kannalta nämä muodot on vain otettava annettuina, yhtenä
+morfeemina. Lisäksi edellä oli puhetta siitä, että esimerkiksi ajanilmaukset
+*утром* *вечером*, ja muut vastaavat ovat nykykielen kannalta yhdestä
+morfeemista koostuvia adverbeja. On kuitenkin myös iso joukko adverbeja, jotka
+koostuvat ainakin kahdesta morfeemista, ja joiden muodostamisesta on siis
+mielekästä puhua tarkemmin.
+
+### Adjektiiveista muodostetut adverbit
+
+Jos ajatellaan adverbeja tyyppiä *скучно*, *странно* ja *медленно*, voidaan
+todeta, että ne ainakin näyttävät itse asiassa adjektiivien lyhyiltä
+neutrimuodoilta. Nikunlassin mukaan [-@nikunl: 128] tämä onkin uskottava teoria
+ajatellen sitä, että juuri yksikkö ja neutri ovat luku- ja sukukategorian
+oletusarvoja, joita käytetään, kun mikään lauseessa ei erityisesti ohjaa
+käyttämään jotakin tiettyä sukua tai lukua. Oli asia todellisuudessa miten vain,
+tämän tyypin adverbeista voidaan vähintäänkin todeta, että ne on *muodostettu*
+liittämällä neutrimuodonkin ilmaisema morfeemi /о/ tai /е/ adjektiivin vartaloon.
+Wade [-@wade2010: 396] tosin huomauttaa, että paino saattaa vaihtua riippuen
+siitä, onko muotoa käytetty predikatiivina vai adverbina: *он бОльно скучает по
+тебе*, mutta *это животное больнО*.
+
+Mainittujen adjektiiveista muodostettavien adverbien kohdalla kannattaa pitää
+mielessä, että jos adjektiivilla on liudentunut pääte (искренний, крайний,
+внешний), adverbimuoto on, kuten lyhyt neutrimuotokin, **kirjoitusasussaan**
+е-päätteinen: *крайне*, *искренне*, *внешне* lukuunottamatonta liudentumattoman
+päätteen sisältäviä sanoja *давнО*, *пОздно* ja *рАно*.  Adjektiiveista
+muodostettavien adverbien joukossa oma erityistapauksensa ovat -ский tai
+-цкий-päättyvät sanat (исторический, классический, братский), joista adverbit
+muodostetaan pelkällä /и/-suffiksilla: исторически, классически, братски.
+По-alkuisia muotoja näistä sanoista voidaan käyttää, kun sanalla viitataan
+ominaisuuteen, joka kuuluu *jollekin elolliselle olennolle* tai joukolle
+olentoja.  Suurin tällaisten sanojen luokka ovat kansallisuuteen viittaavat
+по-русски, по-фински, по-шведски jne. Oma lukunsa ovat vielä sanat, joilla ei
+ole varsinaista о-päätteistä adverbimuotoa mutta joilla voidaan ilmaista tapaa
+yhdistämällä niiden datiivimuoto ja по-prefiksi: по-другому, по-настоящему.
+
+### Muihin kuin adjektiiveihin pohjaavat
+
+Wade (mts) huomauttaa, että tapaa ilmaisevia adverbeja muodostetaan paitsi
+adjektiivien, myös useiden partisiippien pohjalta samalla periaatteella kuin
+adjektiiveista: угрожающий -- угрожающе, обоснованный -- обосновано jne.
+Toisaalta -- kuten jo утром-tyyppisten muotojen osalta huomattiin --
+muodostuksen pohjana voivat olla myös substantiivit. Jo mainittujen muotojen
+lisäksi tällaisina voidaan pitää esimerkiksi sanoja *дАром* ('ilmaiseksi,
+turhaan') ja *шёпотом*.
+
+Paitsi instrumentaalimuotojen pohjalta, adverbejä on historiallisesti katsoen
+muodostunut myös prepositio + substantiivi -yhdistelmistä. Tällaisia ovat muun
+muassa sanat *вслух* ('ääneen'), *наоборот*, *издали*, *вдали*, *свЕрху*, *поблизости*,
+*вместе*, *справа/слева*, *снАружи* ja *внутри*.
+
+
+
+Adverbeistä funktionaalisen morfologian kannalta
+------------------------------------------------
+
+Adverbejä käytetään määrittämään joko koko lausetta (Летом мы много купались),
+verbiä (странно выглядит), adjektiivia (безумно интересный) tai toista adverbia
+(безумно ужасно). Toisaalta on myös tapauksia, joissa adverbi itse on ikään kuin
+verbin paikalla. Näissä niin kutsutun *predikatiiviadverbin* sisältämissä
+lauseissa on datiivimuotoinen subjekti: мне скучно/интересно/хорошо.
 
 
 Kirjallisuutta

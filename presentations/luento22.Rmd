@@ -1,42 +1,63 @@
-% Morfologia, luento 21
+% Morfologia, luento 22
 % Juho Härme
 % Pinni B 5004, juho.harme@uta.fi
 
-[Edelliseltä luennolta](luento21.html)
+#
+
+>- [Edelliseltä luennolta](luento21.html)
+>- [Viime tunnin tehtävä 4](../tehtavat/luento21.pdf)
 
 # По
 
-<article class='vinx incremental' style='font-size:100%;color:orange;'>
+<article class='vinx incremental' style='font-size:131%;color:#b3770a;'>
 
->- Как ты еще здесь? -- Не волнуйся, скоро пойду.
->- Миша побежал.
->- Она пошла на работу
->- Сначала мы шли медленно, но потом пошли быстрее.
->- Маша понесла книгу в библиотеку.
+>- Как ты еще здесь? -- Не волнуйся, скоро <span style="color:red;">пойду</span>.
+>- Миша <span style="color:red;">побежал</span>.
+>- Сначала мы шли медленно, но потом <span style="color:red;">пошли</span> быстрее.
+>- Маша <span style="color:red;">понесла</span> книгу в библиотеку.
+>- Она <span style="color:red;">пошла</span> на работу
+>- Вчера мы никуда не <span style="color:red;">пошли</span>. / Вчера мы никуда не <span style="color:red;">ходили</span>
 
 </article>
 
+>- [Viime tunnin tehtävä 3](../tehtavat/luento21.pdf)
+
 # Mitä outoa?
 
-<article class='vinx incremental' style='font-size:200%;color:green;'>
+<article class='vinx incremental' style='font-size:130%;color:green;'>
 
 >- И у меня еще один вопрос: если просто <span style="color:red;">поплавать</span> в бассейне, то это платно или бесплатно? 
 >- Приехали в Хельсинки, <span style="color:red;">поездили</span> по городу на автобусе, побывали в соборе в скале, а потом поехали в аквапарк.
 >- Поскольку жизнь в квартире для растущих детей ограничивает их. Им нужен простор, где <span style="color:red;">побегать</span>.
->- Вы можете много лет *проездить* на мощных автомобилях и ни разу в жизни не надавить педаль газа до пола. 
->-  Он бросил ее в аквариум, она задергалась, заплавала 
+>- Он бросил ее в аквариум, она задергалась, <span style="color:red;">заплавала</span> 
 
 </article>
+
+<article class='vinx incremental' style='font-size:130%;color:purple;'>
+>- Когда мы <span style="color:red;">проезжали</span> мимо Хумппила, я услышал странный шум.
+>- <span style="color: #ffff28; background: black;">Вы можете много лет <span style="color:red;">проездить</span> на мощных автомобилях и ни разу в жизни не надавить педаль газа до пола. </span>
+</article>
+
+>- [Taannoiselta luennolta](luento17.html)
 
 # Momentaaninen (semelfaktiivinen) teonlaatu
 
-<article class='vinx incremental' style='font-size:200%;color:purple;'>
+<article class='vinx incremental' style='font-size:130%;color:purple;'>
 >- Поэтому тем, кто хотя бы изредка <span style="color:red;">съезжает</span> с асфальта на проселок, рекомендуем присмотреться к шинам с индексом «М+S» или «All season». 
 >- В тот день я должен был <span style="color:red;">съездить</span> в город по делам 
->- Сегодня *съездила* в треннажерку и поехала к Серёже.
->- Затем *сходил* в сарай за топором и быстро нарубил дров.
-
+>- Сегодня <span style="color:red;">съездила</span> в треннажерку и поехала к Серёже.
+>- Затем <span style="color:red;">сходил</span> в сарай за топором и быстро нарубил дров.
 </article>
+
+# Momentaaninen (semelfaktiivinen) teonlaatu 2
+
+<article class='vinx incremental' style='font-size:130%;color:purple;'>
+>- Где ты был утром? Я звонил тебе, но никто не подошёл к телефону.
+>- <span style="color: #ffff28; background: black;">Я ходил на вокзал за билетами</span>
+>- Ну и как <span style="color:red;">сходил</span>? Купил билеты?
+>- Где ты был так долго? За это время я успел <span style="color:red;">сходить</span> в библиотеку и просмотреть свежие газеты.
+</article>
+
 
 
 # Gerundit verbimuotona
@@ -55,10 +76,10 @@
 <article class='incremental vinx' style='color:purple;font-size:100%;'>
 
 >- Датчане сосредоточились на идее бутерброда, <span style="color:red;">доведя</span> эту банальность до художественного совершенства, как Энди Уорхол консервы, ― постмодернистски  <span style="color:red;">нагружая</span> на ржаной хлеб сочетание креветок, горчицы и клубники, да ещё  <span style="color:red;">настаивая</span> на том, что это вкусно
->-  <span style="color:red;">Сделав</span> несколько кругов, летчик принял решение садиться на воду. 
->-  <span style="color:red;">Придя</span> в себя, артист признался, что все было именно так, как описала Ванга
+>- <span style="color:red;">Сделав</span> несколько кругов, летчик принял решение садиться на воду. 
+>- <span style="color:red;">Придя</span> в себя, артист признался, что все было именно так, как описала Ванга
 >- И подал заявление в суд,  <span style="color:red;">требуя</span> ограничить Сафронову в родительских правах
->-  <span style="color:red;">Уехав</span> в Египет, возглавил тамошнюю исламистскую группировку.
+>- <span style="color:red;">Уехав</span> в Египет, возглавил тамошнюю исламистскую группировку.
 >- А в этом году собрали целый букет из наград,  <span style="color:red;">завоевав</span> три золотых и одну серебряную медаль
 
 </article>
@@ -67,12 +88,11 @@
 
 >- Иначе <span style="color:red;">говоря</span>, вопросы информационной борьбы становятся предметом глобального военно-политического планирования
 >- Короче  <span style="color:red;">говоря</span>, негатив стал запредельным. 
->-  <span style="color:red;">Несмотря</span> на то что тебе было уже двадцать три…
+>- <span style="color:red;">Несмотря</span> на то что тебе было уже двадцать три…
 >- И да, и нет.  <span style="color:red;">Смотря</span> как понимать это слово.
 
 </article>
 
->- [Tehtävä](../tehtavat/luento22.pdf)
 
 # Muodostus / I-gerundi
 
@@ -219,9 +239,84 @@
 # Muodostus / P-gerundi 2
 
 
-| verbi    | infinitiivivartalo | gerundi     | kirjoitusasu                           |
-| -------- | -----------------  | ----------  | --------------                         |
-| пройти   | /пройд'/           | /пройд'/а/  | пройд<span style="color:red">я</span>  |
-| унести   | /унес'/            | /унес'/а/   | унес<span style="color:red">я</span>   |
+<table>
+<thead>
+<tr class="header">
+<th align="left">verbi</th>
+<th align="left">infinitiivivartalo</th>
+<th align="left">gerundi</th>
+<th align="left">kirjoitusasu</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd incremental">
+<td align="left">выпечь</td>
+<td align="left">/выпек/</td>
+<td align="left">/выпек/ши/</td>
+<td align="left">выпекши</td>
+</tr>
+<tr class="even incremental">
+<td align="left">залезть</td>
+<td align="left">/залез/</td>
+<td align="left">/залез/ши/</td>
+<td align="left">залезши</td>
+</tr>
+<tr class="odd incremental">
+<td align="left">пройти</td>
+<td align="left">/пройд’/</td>
+<td align="left">/пройд’/а/</td>
+<td align="left">пройдя</td>
+</tr>
+<tr class="even incremental">
+<td align="left">унести</td>
+<td align="left">/унес’/</td>
+<td align="left">/унес’/а/</td>
+<td align="left">унеся</td>
+</tr>
+<tr class="odd incremental">
+<td align="left">увезти</td>
+<td align="left">/увез’/</td>
+<td align="left">/увез’/а/</td>
+<td align="left">увезя</td>
+</tr>
+<tr class="even incremental">
+<td align="left">изобрести</td>
+<td align="left">/изобрет’/</td>
+<td align="left">/изобрет’/а/</td>
+<td align="left">изобретя</td>
+</tr>
+</tbody>
+</table>
+
+# Rajoituksia i-gerundin muodostamiseen
+
+
+>- [Tehtävä](../tehtavat/luento23.pdf)
+
+# Adverbeista
+
+<article class='vinx incremental' style='font-size:131%;color:#b3770a;'>
+
+>- медленно
+>- далеко
+>- завтра
+>- странно
+>- исторически
+>- тогда
+>- так
+>- утром
+>- там
+>- близко
+>- целиком
+>- ещё
+>- постмодернистски
+>- крайне
+>- очень
+
+</article>
+
+# Adjektiiveista muodostettavat adverbit
+
+
 
 
