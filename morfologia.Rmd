@@ -1037,32 +1037,32 @@ Pohdi tarkemmin ilmiötä tutkimalla esimerkiksi
 seuraavien sanojen taivutusmuotoja (klikkaamalla linkkiä pääset Wikisanakirjan
 artikkeliin):
 
-- [рот](https://ru.wiktionary.org/wiki/рот),
-  [сон](https://ru.wiktionary.org/wiki/сон),
-  [ров](https://ru.wiktionary.org/wiki/ров),
-  [рожь](https://ru.wiktionary.org/wiki/рожь),
-  [лоб](https://ru.wiktionary.org/wiki/лоб),
-  [мох](https://ru.wiktionary.org/wiki/мох),
-  [лед](https://ru.wiktionary.org/wiki/лед),
-  [шов](https://ru.wiktionary.org/wiki/шов),
-  [день](https://ru.wiktionary.org/wiki/день),
-  [лев](https://ru.wiktionary.org/wiki/лев),
-  [пень](https://ru.wiktionary.org/wiki/пень)
-- [посол](https://ru.wiktionary.org/wiki/посол),
-  [орёл](https://ru.wiktionary.org/wiki/орёл),
-  [пепел](https://ru.wiktionary.org/wiki/пепел),
-  [котёл](https://ru.wiktionary.org/wiki/котёл)
-- [висок](https://ru.wiktionary.org/wiki/висок),
-  [дружок](https://ru.wiktionary.org/wiki/дружок),
-- [локоть](https://ru.wiktionary.org/wiki/локоть),
-  [ноготь](https://ru.wiktionary.org/wiki/ноготь),
-- [огонь](https://ru.wiktionary.org/wiki/огонь),
-  [корень](https://ru.wiktionary.org/wiki/корень),
-- [любимец](https://ru.wiktionary.org/wiki/любимец),
-  [перец](https://ru.wiktionary.org/wiki/перец),
-- [воробей](https://ru.wiktionary.org/wiki/воробей),
-  [муравей](https://ru.wiktionary.org/wiki/муравей),
-  [ручей](https://ru.wiktionary.org/wiki/ручей)
+- [рот](https://ru.wiktionary.org/wiki/%D1%80%D0%BE%D1%82),
+  [сон](https://ru.wiktionary.org/wiki/%D1%81%D0%BE%D0%BD),
+  [ров](https://ru.wiktionary.org/wiki/%D1%80%D0%BE%D0%B2),
+  [рожь](https://ru.wiktionary.org/wiki/%D1%80%D0%BE%D0%B6%D1%8C),
+  [лоб](https://ru.wiktionary.org/wiki/%D0%BB%D0%BE%D0%B1),
+  [мох](https://ru.wiktionary.org/wiki/%D0%BC%D0%BE%D1%85),
+  [лед](https://ru.wiktionary.org/wiki/%D0%BB%D0%B5%D0%B4),
+  [шов](https://ru.wiktionary.org/wiki/%D1%88%D0%BE%D0%B2),
+  [день](https://ru.wiktionary.org/wiki/%D0%B4%D0%B5%D0%BD%D1%8C),
+  [лев](https://ru.wiktionary.org/wiki/%D0%BB%D0%B5%D0%B2),
+  [пень](https://ru.wiktionary.org/wiki/%D0%BF%D0%B5%D0%BD%D1%8C)
+- [посол](https://ru.wiktionary.org/wiki/%D0%BF%D0%BE%D1%81%D0%BE%D0%BB),
+  [орёл](https://ru.wiktionary.org/wiki/%D0%BE%D1%80%D1%91%D0%BB),
+  [пепел](https://ru.wiktionary.org/wiki/%D0%BF%D0%B5%D0%BF%D0%B5%D0%BB),
+  [котёл](https://ru.wiktionary.org/wiki/%D0%BA%D0%BE%D1%82%D1%91%D0%BB)
+- [висок](https://ru.wiktionary.org/wiki/%D0%B2%D0%B8%D1%81%D0%BE%D0%BA),
+  [дружок](https://ru.wiktionary.org/wiki/%D0%B4%D1%80%D1%83%D0%B6%D0%BE%D0%BA),
+- [локоть](https://ru.wiktionary.org/wiki/%D0%BB%D0%BE%D0%BA%D0%BE%D1%82%D1%8C),
+  [ноготь](https://ru.wiktionary.org/wiki/%D0%BD%D0%BE%D0%B3%D0%BE%D1%82%D1%8C),
+- [огонь](https://ru.wiktionary.org/wiki/%D0%BE%D0%B3%D0%BE%D0%BD%D1%8C),
+  [корень](https://ru.wiktionary.org/wiki/%D0%BA%D0%BE%D1%80%D0%B5%D0%BD%D1%8C),
+- [любимец](https://ru.wiktionary.org/wiki/%D0%BB%D1%8E%D0%B1%D0%B8%D0%BC%D0%B5%D1%86),
+  [перец](https://ru.wiktionary.org/wiki/%D0%BF%D0%B5%D1%80%D0%B5%D1%86),
+- [воробей](https://ru.wiktionary.org/wiki/%D0%B2%D0%BE%D1%80%D0%BE%D0%B1%D0%B5%D0%B9),
+  [муравей](https://ru.wiktionary.org/wiki/%D0%BC%D1%83%D1%80%D0%B0%D0%B2%D0%B5%D0%B9),
+  [ручей](https://ru.wiktionary.org/wiki/%D1%80%D1%83%D1%87%D0%B5%D0%B9)
 
 Monikon genetiivimuoto *статьей* saattaa vielä hämätä. Miten niin siinä on
 väistyvä vokaali? Sanan /статья/ juurimorfi on tarkkaan ottaen /стать/ eli foneettisessa
@@ -1118,13 +1118,13 @@ ovat usein tyyliltään kirjallisempia.
 Isachenko [-@isachenko2003: 167] mainitsee vielä esimerkiksi seuraavia
 poikkeuksellisesti taipuvia sanoja (linkit vievät Wikisanakirjan artikkeleihin,
 joista voit tutkia taivutusta tarkemmin):
-[курица](https://ru.wiktionary.org/wiki/курица),
-[чудо](https://ru.wiktionary.org/wiki/чудо),
-[небо](https://ru.wiktionary.org/wiki/небо)
-[судно](https://ru.wiktionary.org/wiki/судно).
+[курица](https://ru.wiktionary.org/wiki/%D0%BA%D1%83%D1%80%D0%B8%D1%86%D0%B0),
+[чудо](https://ru.wiktionary.org/wiki/%D1%87%D1%83%D0%B4%D0%BE),
+[небо](https://ru.wiktionary.org/wiki/%D0%BD%D0%B5%D0%B1%D0%BE)
+[судно](https://ru.wiktionary.org/wiki/%D1%81%D1%83%D0%B4%D0%BD%D0%BE).
 
 Aivan omanlainen poikkeuksensa on sana
-[мечта](https://ru.wiktionary.org/wiki/мечта), jonka monikon genetiivimuoto on
+[мечта](https://ru.wiktionary.org/wiki/%D0%BC%D0%B5%D1%87%D1%82%D0%B0), jonka monikon genetiivimuoto on
 hankala määritellä. Ainoa järkevä ratkaisu on käyttää muotoa *мечтаний*, jonka
 voi varsinaisesti nähdä olevan peräisin sanasta *мечтание*.
 
@@ -1148,7 +1148,7 @@ Monilla 1. deklinaatioon kuuluvilla sanoilla monikon pääte ei aina ole
 odotuksenmukaisesti /и/, vaan tietyissä tapauksissa /а/. Näin on esimerkiksi
 seuraavilla sanoilla [täydellinen lista ks. @sheljakin: 52--53]:
 
-[бок](https://ru.wiktionary.org/wiki/бок), [век](https://ru.wiktionary.org/wiki/век), [глаз](https://ru.wiktionary.org/wiki/глаз), [дом](https://ru.wiktionary.org/wiki/дом), [адрес](https://ru.wiktionary.org/wiki/адрес), [берег](https://ru.wiktionary.org/wiki/берег), [вечер](https://ru.wiktionary.org/wiki/вечер), [лагерь](https://ru.wiktionary.org/wiki/лагерь), [паспорт](https://ru.wiktionary.org/wiki/паспорт), [профессор](https://ru.wiktionary.org/wiki/профессор)
+[бок](https://ru.wiktionary.org/wiki/%D0%B1%D0%BE%D0%BA), [век](https://ru.wiktionary.org/wiki/%D0%B2%D0%B5%D0%BA), [глаз](https://ru.wiktionary.org/wiki/%D0%B3%D0%BB%D0%B0%D0%B7), [дом](https://ru.wiktionary.org/wiki/%D0%B4%D0%BE%D0%BC), [адрес](https://ru.wiktionary.org/wiki/%D0%B0%D0%B4%D1%80%D0%B5%D1%81), [берег](https://ru.wiktionary.org/wiki/%D0%B1%D0%B5%D1%80%D0%B5%D0%B3), [вечер](https://ru.wiktionary.org/wiki/%D0%B2%D0%B5%D1%87%D0%B5%D1%80), [лагерь](https://ru.wiktionary.org/wiki/%D0%BB%D0%B0%D0%B3%D0%B5%D1%80%D1%8C), [паспорт](https://ru.wiktionary.org/wiki/%D0%BF%D0%B0%D1%81%D0%BF%D0%BE%D1%80%D1%82), [профессор](https://ru.wiktionary.org/wiki/%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%BE%D1%80)
 
 Joillakin substantiiveilla puolestaan on kaksi eri monikkomuotoa, niin että
 muodoilla usein on eri merkitys. Tällaisia sanoja ovat esimerkiksi *образ*
@@ -1185,7 +1185,7 @@ instrumentaalin päätteen:
 
 
 Toinen esimerkki sekadeklinaatiosta on sana
-[путь](https://ru.wiktionary.org/wiki/путь), jossa sekoittuvat ensimmäisen ja
+[путь](https://ru.wiktionary.org/wiki/%D0%BF%D1%83%D1%82%D1%8C), jossa sekoittuvat ensimmäisen ja
 kolmannen deklinaation päätteet siten, että instrumentaalin pääte on ensimmäisen
 deklinaation mukainen, genetiivi, datiivi ja prepositionaali kolmannen.
 Vertailun vuoksi alla on kuvattu myös yksi substantiivi kummastakin
@@ -1269,19 +1269,19 @@ nimitän tässä seuraavasti:
 Tähän tyyppiin kuuluu suuri osa maskuliineista. Joukossa on 
 
 1. **johtamattomia  (непроизводные) sanoja** kuten
-   [барАн](http://ru.wiktionary.org/wiki/баран),
-   [стул](http://ru.wiktionary.org/wiki/стул),
-   [нарОд](http://ru.wiktionary.org/wiki/народ),
-   [соЮз](http://ru.wiktionary.org/wiki/союз),
-   [закОн](http://ru.wiktionary.org/wiki/закон). 
+   [барАн](http://ru.wiktionary.org/wiki/%D0%B1%D0%B0%D1%80%D0%B0%D0%BD),
+   [стул](http://ru.wiktionary.org/wiki/%D1%81%D1%82%D1%83%D0%BB),
+   [нарОд](http://ru.wiktionary.org/wiki/%D0%BD%D0%B0%D1%80%D0%BE%D0%B4),
+   [соЮз](http://ru.wiktionary.org/wiki/%D1%81%D0%BE%D1%8E%D0%B7),
+   [закОн](http://ru.wiktionary.org/wiki/%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD). 
 2. paljon  **johdettuja (производные)**
-   [начАльник](http://ru.wiktionary.org/wiki/начальник),
-   [грОхот](http://ru.wiktionary.org/wiki/грохот),
-   [зАработок](http://ru.wiktionary.org/wiki/заработок),
-   [отдЕл](http://ru.wiktionary.org/wiki/отдел),[подокОнник](http://ru.wiktionary.org/wiki/подоконник) 
-3. melko uusia **lainoja**: [чемодАн](http://ru.wiktionary.org/wiki/чемодан),
-   [билЕт](http://ru.wiktionary.org/wiki/билет),
-   [магазИн](http://ru.wiktionary.org/wiki/магазин),[трамвАй](http://ru.wiktionary.org/wiki/трамвай) 
+   [начАльник](http://ru.wiktionary.org/wiki/%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA),
+   [грОхот](http://ru.wiktionary.org/wiki/%D0%B3%D1%80%D0%BE%D1%85%D0%BE%D1%82),
+   [зАработок](http://ru.wiktionary.org/wiki/%D0%B7%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BE%D0%BA),
+   [отдЕл](http://ru.wiktionary.org/wiki/%D0%BE%D1%82%D0%B4%D0%B5%D0%BB),[подокОнник](http://ru.wiktionary.org/wiki/%D0%BF%D0%BE%D0%B4%D0%BE%D0%BA%D0%BE%D0%BD%D0%BD%D0%B8%D0%BA) 
+3. melko uusia **lainoja**: [чемодАн](http://ru.wiktionary.org/wiki/%D1%87%D0%B5%D0%BC%D0%BE%D0%B4%D0%B0%D0%BD),
+   [билЕт](http://ru.wiktionary.org/wiki/%D0%B1%D0%B8%D0%BB%D0%B5%D1%82),
+   [магазИн](http://ru.wiktionary.org/wiki/%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD),[трамвАй](http://ru.wiktionary.org/wiki/%D1%82%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9) 
 4. **erisnimiä** ИвАн, НиколАй, БетхОвен, ДунАй
 
 #### Стол-tyyppi
@@ -1307,29 +1307,29 @@ Tähän tyyppiin kuuluu monia **johtamattomia yksitavuisia sanoja**: бык, в�
 Johdettujen sanojen osalta voidaan erottaa koko joukko suffikseja, jotka
 tuottavat tämän painotyypin substantiivin:
 
-- ец: [певЕц](http://ru.wiktionary.org/wiki/певец),
-  [купЕц](http://ru.wiktionary.org/wiki/купец),
-  [глупЕц](http://ru.wiktionary.org/wiki/глупец) 
+- ец: [певЕц](http://ru.wiktionary.org/wiki/%D0%BF%D0%B5%D0%B2%D0%B5%D1%86),
+  [купЕц](http://ru.wiktionary.org/wiki/%D0%BA%D1%83%D0%BF%D0%B5%D1%86),
+  [глупЕц](http://ru.wiktionary.org/wiki/%D0%B3%D0%BB%D1%83%D0%BF%D0%B5%D1%86) 
     - Myös sanat, joissa ец ei enää nykykielen kannalta suffiksi:
-      [отЕц](http://ru.wiktionary.org/wiki/отец),
-      [конЕц](http://ru.wiktionary.org/wiki/конец),[песЕц](http://ru.wiktionary.org/wiki/песец) 
-- ик: [ученИк](http://ru.wiktionary.org/wiki/ученик),
-  [грузовИк](http://ru.wiktionary.org/wiki/грузовик),
-  [большевИк](http://ru.wiktionary.org/wiki/большевик),
-  [старИк](http://ru.wiktionary.org/wiki/старик),[двойнИк](http://ru.wiktionary.org/wiki/двойник) 
-- ак: [рыбАк](http://ru.wiktionary.org/wiki/рыбак),[дурАк](http://ru.wiktionary.org/wiki/дурак)[казАк](http://ru.wiktionary.org/wiki/казак),
-- як: [землЯк](http://ru.wiktionary.org/wiki/земляк),
-  [полЯк](http://ru.wiktionary.org/wiki/поляк),[коньЯк](http://ru.wiktionary.org/wiki/коньяк) 
-- ок: [воротничОк](http://ru.wiktionary.org/wiki/воротничок),
-  [белОк](http://ru.wiktionary.org/wiki/белок),
-  [песОк](http://ru.wiktionary.org/wiki/песок),[потолОк](http://ru.wiktionary.org/wiki/потолок) 
+      [отЕц](http://ru.wiktionary.org/wiki/%D0%BE%D1%82%D0%B5%D1%86),
+      [конЕц](http://ru.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BD%D0%B5%D1%86),[песЕц](http://ru.wiktionary.org/wiki/%D0%BF%D0%B5%D1%81%D0%B5%D1%86) 
+- ик: [ученИк](http://ru.wiktionary.org/wiki/%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%BA),
+  [грузовИк](http://ru.wiktionary.org/wiki/%D0%B3%D1%80%D1%83%D0%B7%D0%BE%D0%B2%D0%B8%D0%BA),
+  [большевИк](http://ru.wiktionary.org/wiki/%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B5%D0%B2%D0%B8%D0%BA),
+  [старИк](http://ru.wiktionary.org/wiki/%D1%81%D1%82%D0%B0%D1%80%D0%B8%D0%BA),[двойнИк](http://ru.wiktionary.org/wiki/%D0%B4%D0%B2%D0%BE%D0%B9%D0%BD%D0%B8%D0%BA) 
+- ак: [рыбАк](http://ru.wiktionary.org/wiki/%D1%80%D1%8B%D0%B1%D0%B0%D0%BA),[дурАк](http://ru.wiktionary.org/wiki/%D0%B4%D1%83%D1%80%D0%B0%D0%BA)[казАк](http://ru.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B7%D0%B0%D0%BA),
+- як: [землЯк](http://ru.wiktionary.org/wiki/%D0%B7%D0%B5%D0%BC%D0%BB%D1%8F%D0%BA),
+  [полЯк](http://ru.wiktionary.org/wiki/%D0%BF%D0%BE%D0%BB%D1%8F%D0%BA),[коньЯк](http://ru.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BD%D1%8C%D1%8F%D0%BA) 
+- ок: [воротничОк](http://ru.wiktionary.org/wiki/%D0%B2%D0%BE%D1%80%D0%BE%D1%82%D0%BD%D0%B8%D1%87%D0%BE%D0%BA),
+  [белОк](http://ru.wiktionary.org/wiki/%D0%B1%D0%B5%D0%BB%D0%BE%D0%BA),
+  [песОк](http://ru.wiktionary.org/wiki/%D0%BF%D0%B5%D1%81%D0%BE%D0%BA),[потолОк](http://ru.wiktionary.org/wiki/%D0%BF%D0%BE%D1%82%D0%BE%D0%BB%D0%BE%D0%BA) 
 - ун:
-  [хвастУн](http://ru.wiktionary.org/wiki/хвастун),[бегУн](http://ru.wiktionary.org/wiki/бегун) 
-- [ух](http://ru.wiktionary.org/wiki/ух):
-  [петУх](http://ru.wiktionary.org/wiki/петух),[пастУх](http://ru.wiktionary.org/wiki/пастух) 
-- [ач](http://ru.wiktionary.org/wiki/ач):
-  [скрипАч](http://ru.wiktionary.org/wiki/скрипач),
-  [силАч](http://ru.wiktionary.org/wiki/силач),[трубАч](http://ru.wiktionary.org/wiki/трубач) 
+  [хвастУн](http://ru.wiktionary.org/wiki/%D1%85%D0%B2%D0%B0%D1%81%D1%82%D1%83%D0%BD),[бегУн](http://ru.wiktionary.org/wiki/%D0%B1%D0%B5%D0%B3%D1%83%D0%BD) 
+- [ух](http://ru.wiktionary.org/wiki/%D1%83%D1%85):
+  [петУх](http://ru.wiktionary.org/wiki/%D0%BF%D0%B5%D1%82%D1%83%D1%85),[пастУх](http://ru.wiktionary.org/wiki/%D0%BF%D0%B0%D1%81%D1%82%D1%83%D1%85) 
+- [ач](http://ru.wiktionary.org/wiki/%D0%B0%D1%87):
+  [скрипАч](http://ru.wiktionary.org/wiki/%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D0%B0%D1%87),
+  [силАч](http://ru.wiktionary.org/wiki/%D1%81%D0%B8%D0%BB%D0%B0%D1%87),[трубАч](http://ru.wiktionary.org/wiki/%D1%82%D1%80%D1%83%D0%B1%D0%B0%D1%87) 
 - ич: ИльИч, кирпИч
 
 #### Нос-tyyppi
@@ -1348,49 +1348,49 @@ tuottavat tämän painotyypin substantiivin:
 
 Tähän tyyppiin kuuluvat muun muassa seuraavat pääosin yksitavuiset sanat:
 
-[альт](http://ru.wiktionary.org/wiki/альт),
-[бал](http://ru.wiktionary.org/wiki/бал),
-[бас](http://ru.wiktionary.org/wiki/бас),
-[борт](http://ru.wiktionary.org/wiki/борт),
-[бунт](http://ru.wiktionary.org/wiki/бунт),
-[вал](http://ru.wiktionary.org/wiki/вал),
-[верх](http://ru.wiktionary.org/wiki/верх),
-[воз](http://ru.wiktionary.org/wiki/воз),
-[год](http://ru.wiktionary.org/wiki/год),
-[гроб](http://ru.wiktionary.org/wiki/гроб),
-[долг](http://ru.wiktionary.org/wiki/долг),
-[жир](http://ru.wiktionary.org/wiki/жир),
-[круг](http://ru.wiktionary.org/wiki/круг),
-[лад](http://ru.wiktionary.org/wiki/лад),
-[мозг](http://ru.wiktionary.org/wiki/мозг),
-[мост](http://ru.wiktionary.org/wiki/мост),
-[низ](http://ru.wiktionary.org/wiki/низ),
-[нос](http://ru.wiktionary.org/wiki/нос),
-[пан](http://ru.wiktionary.org/wiki/пан),
-[пар](http://ru.wiktionary.org/wiki/пар),
-[пир](http://ru.wiktionary.org/wiki/пир),
-[плуг](http://ru.wiktionary.org/wiki/плуг),
-[раз](http://ru.wiktionary.org/wiki/раз),
-[ряд](http://ru.wiktionary.org/wiki/ряд),
-[сад](http://ru.wiktionary.org/wiki/сад),
-[суп](http://ru.wiktionary.org/wiki/суп),
-[сыр](http://ru.wiktionary.org/wiki/сыр),
-[шаг](http://ru.wiktionary.org/wiki/шаг),
-[шкаф](http://ru.wiktionary.org/wiki/шкаф),
-[торг](http://ru.wiktionary.org/wiki/торг),
-[чай](http://ru.wiktionary.org/wiki/чай)
+[альт](http://ru.wiktionary.org/wiki/%D0%B0%D0%BB%D1%8C%D1%82),
+[бал](http://ru.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BB),
+[бас](http://ru.wiktionary.org/wiki/%D0%B1%D0%B0%D1%81),
+[борт](http://ru.wiktionary.org/wiki/%D0%B1%D0%BE%D1%80%D1%82),
+[бунт](http://ru.wiktionary.org/wiki/%D0%B1%D1%83%D0%BD%D1%82),
+[вал](http://ru.wiktionary.org/wiki/%D0%B2%D0%B0%D0%BB),
+[верх](http://ru.wiktionary.org/wiki/%D0%B2%D0%B5%D1%80%D1%85),
+[воз](http://ru.wiktionary.org/wiki/%D0%B2%D0%BE%D0%B7),
+[год](http://ru.wiktionary.org/wiki/%D0%B3%D0%BE%D0%B4),
+[гроб](http://ru.wiktionary.org/wiki/%D0%B3%D1%80%D0%BE%D0%B1),
+[долг](http://ru.wiktionary.org/wiki/%D0%B4%D0%BE%D0%BB%D0%B3),
+[жир](http://ru.wiktionary.org/wiki/%D0%B6%D0%B8%D1%80),
+[круг](http://ru.wiktionary.org/wiki/%D0%BA%D1%80%D1%83%D0%B3),
+[лад](http://ru.wiktionary.org/wiki/%D0%BB%D0%B0%D0%B4),
+[мозг](http://ru.wiktionary.org/wiki/%D0%BC%D0%BE%D0%B7%D0%B3),
+[мост](http://ru.wiktionary.org/wiki/%D0%BC%D0%BE%D1%81%D1%82),
+[низ](http://ru.wiktionary.org/wiki/%D0%BD%D0%B8%D0%B7),
+[нос](http://ru.wiktionary.org/wiki/%D0%BD%D0%BE%D1%81),
+[пан](http://ru.wiktionary.org/wiki/%D0%BF%D0%B0%D0%BD),
+[пар](http://ru.wiktionary.org/wiki/%D0%BF%D0%B0%D1%80),
+[пир](http://ru.wiktionary.org/wiki/%D0%BF%D0%B8%D1%80),
+[плуг](http://ru.wiktionary.org/wiki/%D0%BF%D0%BB%D1%83%D0%B3),
+[раз](http://ru.wiktionary.org/wiki/%D1%80%D0%B0%D0%B7),
+[ряд](http://ru.wiktionary.org/wiki/%D1%80%D1%8F%D0%B4),
+[сад](http://ru.wiktionary.org/wiki/%D1%81%D0%B0%D0%B4),
+[суп](http://ru.wiktionary.org/wiki/%D1%81%D1%83%D0%BF),
+[сыр](http://ru.wiktionary.org/wiki/%D1%81%D1%8B%D1%80),
+[шаг](http://ru.wiktionary.org/wiki/%D1%88%D0%B0%D0%B3),
+[шкаф](http://ru.wiktionary.org/wiki/%D1%88%D0%BA%D0%B0%D1%84),
+[торг](http://ru.wiktionary.org/wiki/%D1%82%D0%BE%D1%80%D0%B3),
+[чай](http://ru.wiktionary.org/wiki/%D1%87%D0%B0%D0%B9)
 
 Kannattaa huomata, että lähes kaikilla näistä sanoista on olemassa у-päätteinen
 lokatiivimuoto: на носУ, в рядУ jne.
 
 Oman ryhmänsä tämän painotyypin sisällä muodostavat sanat, joilla on
 epäsäännöllinen /а/-päätteinen monikon nominatiivi:
-[берег](http://ru.wiktionary.org/wiki/берег),
-[глаз](http://ru.wiktionary.org/wiki/глаз),
-[голос](http://ru.wiktionary.org/wiki/голос),
-[холож](http://ru.wiktionary.org/wiki/холож),
-[друг](http://ru.wiktionary.org/wiki/друг),
-[князь](http://ru.wiktionary.org/wiki/князь).
+[берег](http://ru.wiktionary.org/wiki/%D0%B1%D0%B5%D1%80%D0%B5%D0%B3),
+[глаз](http://ru.wiktionary.org/wiki/%D0%B3%D0%BB%D0%B0%D0%B7),
+[голос](http://ru.wiktionary.org/wiki/%D0%B3%D0%BE%D0%BB%D0%BE%D1%81),
+[холож](http://ru.wiktionary.org/wiki/%D1%85%D0%BE%D0%BB%D0%BE%D0%B6),
+[друг](http://ru.wiktionary.org/wiki/%D0%B4%D1%80%D1%83%D0%B3),
+[князь](http://ru.wiktionary.org/wiki/%D0%BA%D0%BD%D1%8F%D0%B7%D1%8C).
 
 #### Волк-tyyppi
 
@@ -1408,23 +1408,23 @@ nominatiivi-/akkusatiivimuodoilla, muuten päätteellä:
 
 
 Tähän ryhmään kuuluu lähinnä vanhoja kantavenäläisiä sanoja: бог, ветер, вОлос,
-[вор](http://ru.wiktionary.org/wiki/вор),
-[гость](http://ru.wiktionary.org/wiki/гость),
-[гОлубь](http://ru.wiktionary.org/wiki/голубь),
-[гром](http://ru.wiktionary.org/wiki/гром),
-[гусь](http://ru.wiktionary.org/wiki/гусь),
-[зверь](http://ru.wiktionary.org/wiki/зверь),
-[зуб](http://ru.wiktionary.org/wiki/зуб),
-[камень](http://ru.wiktionary.org/wiki/камень),
-[кОрень](http://ru.wiktionary.org/wiki/корень),
-[лЕбедь](http://ru.wiktionary.org/wiki/лебедь),
-[лОсось](http://ru.wiktionary.org/wiki/лосось),
-[лОкоть](http://ru.wiktionary.org/wiki/локоть),
-[медведь](http://ru.wiktionary.org/wiki/медведь),
-[Окунь](http://ru.wiktionary.org/wiki/окунь),
-[хлеб](http://ru.wiktionary.org/wiki/хлеб),
-[чёрт](http://ru.wiktionary.org/wiki/чёрт),
-[уголь](http://ru.wiktionary.org/wiki/уголь).
+[вор](http://ru.wiktionary.org/wiki/%D0%B2%D0%BE%D1%80),
+[гость](http://ru.wiktionary.org/wiki/%D0%B3%D0%BE%D1%81%D1%82%D1%8C),
+[гОлубь](http://ru.wiktionary.org/wiki/%D0%B3%D0%BE%D0%BB%D1%83%D0%B1%D1%8C),
+[гром](http://ru.wiktionary.org/wiki/%D0%B3%D1%80%D0%BE%D0%BC),
+[гусь](http://ru.wiktionary.org/wiki/%D0%B3%D1%83%D1%81%D1%8C),
+[зверь](http://ru.wiktionary.org/wiki/%D0%B7%D0%B2%D0%B5%D1%80%D1%8C),
+[зуб](http://ru.wiktionary.org/wiki/%D0%B7%D1%83%D0%B1),
+[камень](http://ru.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BC%D0%B5%D0%BD%D1%8C),
+[кОрень](http://ru.wiktionary.org/wiki/%D0%BA%D0%BE%D1%80%D0%B5%D0%BD%D1%8C),
+[лЕбедь](http://ru.wiktionary.org/wiki/%D0%BB%D0%B5%D0%B1%D0%B5%D0%B4%D1%8C),
+[лОсось](http://ru.wiktionary.org/wiki/%D0%BB%D0%BE%D1%81%D0%BE%D1%81%D1%8C),
+[лОкоть](http://ru.wiktionary.org/wiki/%D0%BB%D0%BE%D0%BA%D0%BE%D1%82%D1%8C),
+[медведь](http://ru.wiktionary.org/wiki/%D0%BC%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D1%8C),
+[Окунь](http://ru.wiktionary.org/wiki/%D0%BE%D0%BA%D1%83%D0%BD%D1%8C),
+[хлеб](http://ru.wiktionary.org/wiki/%D1%85%D0%BB%D0%B5%D0%B1),
+[чёрт](http://ru.wiktionary.org/wiki/%D1%87%D1%91%D1%80%D1%82),
+[уголь](http://ru.wiktionary.org/wiki/%D1%83%D0%B3%D0%BE%D0%BB%D1%8C).
 
 
 ### II deklinaation painotyypit
@@ -1450,8 +1450,8 @@ a) рукА/головА-tyyppi
 b) ценА-tyyppi
 
 Mainittujen pääryhmien ulkopuolelle jäävät muun muassa sanat
-[дерЕвня](http://ru.wiktionary.org/wiki/деревня) sekä
-[дОля](http://ru.wiktionary.org/wiki/доля).
+[дерЕвня](http://ru.wiktionary.org/wiki/%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BD%D1%8F) sekä
+[дОля](http://ru.wiktionary.org/wiki/%D0%B4%D0%BE%D0%BB%D1%8F).
 
 #### ШкОла-tyyppi
 
@@ -1469,24 +1469,24 @@ jonka sanoilla paino on muuttumattomasti aina vartalolla:
 
 Joukosta voi erottaa omiksi ryhmikseen:
 
-1. **johtamattomat** sanat: [кОжа](http://ru.wiktionary.org/wiki/кожа),
-   [мУха](http://ru.wiktionary.org/wiki/муха),
-   [вОля](http://ru.wiktionary.org/wiki/воля),
-   [лИпа](http://ru.wiktionary.org/wiki/липа),
-   [рЕпа](http://ru.wiktionary.org/wiki/репа),
-   [вЕра](http://ru.wiktionary.org/wiki/вера),
-   [лопАта](http://ru.wiktionary.org/wiki/лопата),
-   [недЕля](http://ru.wiktionary.org/wiki/неделя) 
+1. **johtamattomat** sanat: [кОжа](http://ru.wiktionary.org/wiki/%D0%BA%D0%BE%D0%B6%D0%B0),
+   [мУха](http://ru.wiktionary.org/wiki/%D0%BC%D1%83%D1%85%D0%B0),
+   [вОля](http://ru.wiktionary.org/wiki/%D0%B2%D0%BE%D0%BB%D1%8F),
+   [лИпа](http://ru.wiktionary.org/wiki/%D0%BB%D0%B8%D0%BF%D0%B0),
+   [рЕпа](http://ru.wiktionary.org/wiki/%D1%80%D0%B5%D0%BF%D0%B0),
+   [вЕра](http://ru.wiktionary.org/wiki/%D0%B2%D0%B5%D1%80%D0%B0),
+   [лопАта](http://ru.wiktionary.org/wiki/%D0%BB%D0%BE%D0%BF%D0%B0%D1%82%D0%B0),
+   [недЕля](http://ru.wiktionary.org/wiki/%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F) 
 2. **nykykielen kannalta johtamattomat** sanat:
-   [лОжка](http://ru.wiktionary.org/wiki/ложка),
-   [свАдьба](http://ru.wiktionary.org/wiki/свадьба),
-   [пЕчка](http://ru.wiktionary.org/wiki/печка),[нОжка](http://ru.wiktionary.org/wiki/ножка) 
-3. **lainat**: [фабрика](http://ru.wiktionary.org/wiki/фабрика),
-   [кАфедра](http://ru.wiktionary.org/wiki/кафедра),
-   [культУра](http://ru.wiktionary.org/wiki/культура),
-   [газЕта](http://ru.wiktionary.org/wiki/газета),
-   [систЕма](http://ru.wiktionary.org/wiki/система),
-   [полЕмика](http://ru.wiktionary.org/wiki/полемика) 
+   [лОжка](http://ru.wiktionary.org/wiki/%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0),
+   [свАдьба](http://ru.wiktionary.org/wiki/%D1%81%D0%B2%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0),
+   [пЕчка](http://ru.wiktionary.org/wiki/%D0%BF%D0%B5%D1%87%D0%BA%D0%B0),[нОжка](http://ru.wiktionary.org/wiki/%D0%BD%D0%BE%D0%B6%D0%BA%D0%B0) 
+3. **lainat**: [фабрика](http://ru.wiktionary.org/wiki/%D1%84%D0%B0%D0%B1%D1%80%D0%B8%D0%BA%D0%B0),
+   [кАфедра](http://ru.wiktionary.org/wiki/%D0%BA%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0),
+   [культУра](http://ru.wiktionary.org/wiki/%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0),
+   [газЕта](http://ru.wiktionary.org/wiki/%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0),
+   [систЕма](http://ru.wiktionary.org/wiki/%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0),
+   [полЕмика](http://ru.wiktionary.org/wiki/%D0%BF%D0%BE%D0%BB%D0%B5%D0%BC%D0%B8%D0%BA%D0%B0) 
 
 #### Sanat, joilla yksikössä paino aina päätteellä
 
@@ -1510,45 +1510,45 @@ sanat ovat hyvin tavallisia.
 | prep.   | травЕ    | трАвах    |
 
 Tähän tyyppiin kuuluvat muun muassa seuraavat kaksitavuiset sanat:
-[бедА](http://ru.wiktionary.org/wiki/беда),
-[вдовА](http://ru.wiktionary.org/wiki/вдова),
-[веснА](http://ru.wiktionary.org/wiki/весна),
-[ветлА](http://ru.wiktionary.org/wiki/ветла),
-[винА](http://ru.wiktionary.org/wiki/вина),
-[войнА](http://ru.wiktionary.org/wiki/война),
-[главА](http://ru.wiktionary.org/wiki/глава),
-[грядА](http://ru.wiktionary.org/wiki/гряда),
-[дырА](http://ru.wiktionary.org/wiki/дыра),
-[женА](http://ru.wiktionary.org/wiki/жена),
-[звездА](http://ru.wiktionary.org/wiki/звезда),
-[змеЯ](http://ru.wiktionary.org/wiki/змея),
-[иглА](http://ru.wiktionary.org/wiki/игла),
-[игрА](http://ru.wiktionary.org/wiki/игра),
-[икрА](http://ru.wiktionary.org/wiki/икра),
-[козА](http://ru.wiktionary.org/wiki/коза).
-[лунА](http://ru.wiktionary.org/wiki/луна),
-[норА](http://ru.wiktionary.org/wiki/нора),
-[нуждА](http://ru.wiktionary.org/wiki/нужда),
-[овцА](http://ru.wiktionary.org/wiki/овца),
-[осА](http://ru.wiktionary.org/wiki/оса),
-[пилА](http://ru.wiktionary.org/wiki/пила),[пчелА](http://ru.wiktionary.org/wiki/пчела),[рудА](http://ru.wiktionary.org/wiki/руда),
-[свиньЯ](http://ru.wiktionary.org/wiki/свинья),
-[семьЯ](http://ru.wiktionary.org/wiki/семья),
-[скалА](http://ru.wiktionary.org/wiki/скала),
-[сестрА](http://ru.wiktionary.org/wiki/сестра),
-[смолА](http://ru.wiktionary.org/wiki/смола),
-[совА](http://ru.wiktionary.org/wiki/сова),
-[соснА](http://ru.wiktionary.org/wiki/сосна),
-[стрелА](http://ru.wiktionary.org/wiki/стрела),
-[струнА](http://ru.wiktionary.org/wiki/струна),
-[странА](http://ru.wiktionary.org/wiki/страна),[трубА](http://ru.wiktionary.org/wiki/труба) 
+[бедА](http://ru.wiktionary.org/wiki/%D0%B1%D0%B5%D0%B4%D0%B0),
+[вдовА](http://ru.wiktionary.org/wiki/%D0%B2%D0%B4%D0%BE%D0%B2%D0%B0),
+[веснА](http://ru.wiktionary.org/wiki/%D0%B2%D0%B5%D1%81%D0%BD%D0%B0),
+[ветлА](http://ru.wiktionary.org/wiki/%D0%B2%D0%B5%D1%82%D0%BB%D0%B0),
+[винА](http://ru.wiktionary.org/wiki/%D0%B2%D0%B8%D0%BD%D0%B0),
+[войнА](http://ru.wiktionary.org/wiki/%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0),
+[главА](http://ru.wiktionary.org/wiki/%D0%B3%D0%BB%D0%B0%D0%B2%D0%B0),
+[грядА](http://ru.wiktionary.org/wiki/%D0%B3%D1%80%D1%8F%D0%B4%D0%B0),
+[дырА](http://ru.wiktionary.org/wiki/%D0%B4%D1%8B%D1%80%D0%B0),
+[женА](http://ru.wiktionary.org/wiki/%D0%B6%D0%B5%D0%BD%D0%B0),
+[звездА](http://ru.wiktionary.org/wiki/%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0),
+[змеЯ](http://ru.wiktionary.org/wiki/%D0%B7%D0%BC%D0%B5%D1%8F),
+[иглА](http://ru.wiktionary.org/wiki/%D0%B8%D0%B3%D0%BB%D0%B0),
+[игрА](http://ru.wiktionary.org/wiki/%D0%B8%D0%B3%D1%80%D0%B0),
+[икрА](http://ru.wiktionary.org/wiki/%D0%B8%D0%BA%D1%80%D0%B0),
+[козА](http://ru.wiktionary.org/wiki/%D0%BA%D0%BE%D0%B7%D0%B0).
+[лунА](http://ru.wiktionary.org/wiki/%D0%BB%D1%83%D0%BD%D0%B0),
+[норА](http://ru.wiktionary.org/wiki/%D0%BD%D0%BE%D1%80%D0%B0),
+[нуждА](http://ru.wiktionary.org/wiki/%D0%BD%D1%83%D0%B6%D0%B4%D0%B0),
+[овцА](http://ru.wiktionary.org/wiki/%D0%BE%D0%B2%D1%86%D0%B0),
+[осА](http://ru.wiktionary.org/wiki/%D0%BE%D1%81%D0%B0),
+[пилА](http://ru.wiktionary.org/wiki/%D0%BF%D0%B8%D0%BB%D0%B0),[пчелА](http://ru.wiktionary.org/wiki/%D0%BF%D1%87%D0%B5%D0%BB%D0%B0),[рудА](http://ru.wiktionary.org/wiki/%D1%80%D1%83%D0%B4%D0%B0),
+[свиньЯ](http://ru.wiktionary.org/wiki/%D1%81%D0%B2%D0%B8%D0%BD%D1%8C%D1%8F),
+[семьЯ](http://ru.wiktionary.org/wiki/%D1%81%D0%B5%D0%BC%D1%8C%D1%8F),
+[скалА](http://ru.wiktionary.org/wiki/%D1%81%D0%BA%D0%B0%D0%BB%D0%B0),
+[сестрА](http://ru.wiktionary.org/wiki/%D1%81%D0%B5%D1%81%D1%82%D1%80%D0%B0),
+[смолА](http://ru.wiktionary.org/wiki/%D1%81%D0%BC%D0%BE%D0%BB%D0%B0),
+[совА](http://ru.wiktionary.org/wiki/%D1%81%D0%BE%D0%B2%D0%B0),
+[соснА](http://ru.wiktionary.org/wiki/%D1%81%D0%BE%D1%81%D0%BD%D0%B0),
+[стрелА](http://ru.wiktionary.org/wiki/%D1%81%D1%82%D1%80%D0%B5%D0%BB%D0%B0),
+[струнА](http://ru.wiktionary.org/wiki/%D1%81%D1%82%D1%80%D1%83%D0%BD%D0%B0),
+[странА](http://ru.wiktionary.org/wiki/%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B0),[трубА](http://ru.wiktionary.org/wiki/%D1%82%D1%80%D1%83%D0%B1%D0%B0) 
 
 Lisäksi seuraavia kolmitavuisia ота-päätteisiä:
-[кислотА](http://ru.wiktionary.org/wiki/кислота),
-[красотА](http://ru.wiktionary.org/wiki/красота),
-[высотА](http://ru.wiktionary.org/wiki/высота),
-[сиротА](http://ru.wiktionary.org/wiki/сирота),
-[колбасА](http://ru.wiktionary.org/wiki/колбаса).
+[кислотА](http://ru.wiktionary.org/wiki/%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0),
+[красотА](http://ru.wiktionary.org/wiki/%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D0%B0),
+[высотА](http://ru.wiktionary.org/wiki/%D0%B2%D1%8B%D1%81%D0%BE%D1%82%D0%B0),
+[сиротА](http://ru.wiktionary.org/wiki/%D1%81%D0%B8%D1%80%D0%BE%D1%82%D0%B0),
+[колбасА](http://ru.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BB%D0%B1%D0%B0%D1%81%D0%B0).
 
 ##### свечА-tyyppi
 
@@ -1564,9 +1564,9 @@ Lisäksi seuraavia kolmitavuisia ота-päätteisiä:
 | prep.   | свечЕ    | свечАх    |
 
 Tämä tyyppi ei ole yleinen, mutta sisältää esimerkiksi sanat
-[железА](http://ru.wiktionary.org/wiki/железа),[сковородА](http://ru.wiktionary.org/wiki/сковорода),
-[строкА](http://ru.wiktionary.org/wiki/строка),
-[простынЯ](http://ru.wiktionary.org/wiki/простыня). Näissäkin kuitenkin monikon
+[железА](http://ru.wiktionary.org/wiki/%D0%B6%D0%B5%D0%BB%D0%B5%D0%B7%D0%B0),[сковородА](http://ru.wiktionary.org/wiki/%D1%81%D0%BA%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%D0%B4%D0%B0),
+[строкА](http://ru.wiktionary.org/wiki/%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B0),
+[простынЯ](http://ru.wiktionary.org/wiki/%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%8B%D0%BD%D1%8F). Näissäkin kuitenkin monikon
 painomuodoissa voi olla vaihtelua.
 
 ##### волнА-tyyppi
@@ -1588,9 +1588,9 @@ välttämättä katsota olevan edes vaihtelun mahdollisuutta.
 | prep.   | волнЕ    | вОлнах  ~  волнАх |
 
 Волна-sanan lisäksi tähän harvinaiseen tyyppiin kuuluvat muun muassa
-[дугА](http://ru.wiktionary.org/wiki/дуга) ('kaari'),
-[судьбА](http://ru.wiktionary.org/wiki/судьба),
-[судьЯ](http://ru.wiktionary.org/wiki/судья).
+[дугА](http://ru.wiktionary.org/wiki/%D0%B4%D1%83%D0%B3%D0%B0) ('kaari'),
+[судьбА](http://ru.wiktionary.org/wiki/%D1%81%D1%83%D0%B4%D1%8C%D0%B1%D0%B0),
+[судьЯ](http://ru.wiktionary.org/wiki/%D1%81%D1%83%D0%B4%D1%8C%D1%8F).
 
 #### Sanat, joissa yksikön akkusatiivi muodostaa poikkeuksen
 
@@ -1617,25 +1617,25 @@ muodoissa päätteellä.
 
 Tähän alatyyppiin voidaan lukea mm. seuraavat:
 
-[вода](http://ru.wiktionary.org/wiki/вода),
-[гора](http://ru.wiktionary.org/wiki/гора),
-[доскА](http://ru.wiktionary.org/wiki/доска),
-[душА](http://ru.wiktionary.org/wiki/душа),
-[зимА](http://ru.wiktionary.org/wiki/зима),
-[крохА](http://ru.wiktionary.org/wiki/кроха),
-[косА](http://ru.wiktionary.org/wiki/коса),
-[рекА](http://ru.wiktionary.org/wiki/река),
-[рукА](http://ru.wiktionary.org/wiki/рука),
-[зимА](http://ru.wiktionary.org/wiki/зима),
-[средА](http://ru.wiktionary.org/wiki/среда),
-[стенА](http://ru.wiktionary.org/wiki/стена),
-[стопА](http://ru.wiktionary.org/wiki/стопа),
-[щекА](http://ru.wiktionary.org/wiki/щека),
-[ногА](http://ru.wiktionary.org/wiki/нога) 
+[вода](http://ru.wiktionary.org/wiki/%D0%B2%D0%BE%D0%B4%D0%B0),
+[гора](http://ru.wiktionary.org/wiki/%D0%B3%D0%BE%D1%80%D0%B0),
+[доскА](http://ru.wiktionary.org/wiki/%D0%B4%D0%BE%D1%81%D0%BA%D0%B0),
+[душА](http://ru.wiktionary.org/wiki/%D0%B4%D1%83%D1%88%D0%B0),
+[зимА](http://ru.wiktionary.org/wiki/%D0%B7%D0%B8%D0%BC%D0%B0),
+[крохА](http://ru.wiktionary.org/wiki/%D0%BA%D1%80%D0%BE%D1%85%D0%B0),
+[косА](http://ru.wiktionary.org/wiki/%D0%BA%D0%BE%D1%81%D0%B0),
+[рекА](http://ru.wiktionary.org/wiki/%D1%80%D0%B5%D0%BA%D0%B0),
+[рукА](http://ru.wiktionary.org/wiki/%D1%80%D1%83%D0%BA%D0%B0),
+[зимА](http://ru.wiktionary.org/wiki/%D0%B7%D0%B8%D0%BC%D0%B0),
+[средА](http://ru.wiktionary.org/wiki/%D1%81%D1%80%D0%B5%D0%B4%D0%B0),
+[стенА](http://ru.wiktionary.org/wiki/%D1%81%D1%82%D0%B5%D0%BD%D0%B0),
+[стопА](http://ru.wiktionary.org/wiki/%D1%81%D1%82%D0%BE%D0%BF%D0%B0),
+[щекА](http://ru.wiktionary.org/wiki/%D1%89%D0%B5%D0%BA%D0%B0),
+[ногА](http://ru.wiktionary.org/wiki/%D0%BD%D0%BE%D0%B3%D0%B0) 
 
 
 Lisäksi samalla tavoin taipuvat eräät useampitavuiset sanat, kuten
-[голова](http://ru.wiktionary.org/wiki/голова):
+[голова](http://ru.wiktionary.org/wiki/%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0):
 
 | sija    | yks.       | mon.        |
 | ------- | --------   | ---------   |
@@ -1663,10 +1663,10 @@ tavua):
 | prep.   | землЕ    | зЕмлях    |
 
 Tyyppi on harvalukuinen, sen tavallisimpia sanoja ovat
-[спинА](http://ru.wiktionary.org/wiki/спина),
-[ценА](http://ru.wiktionary.org/wiki/цена),
-[землЯ](http://ru.wiktionary.org/wiki/земля),
-[избА](http://ru.wiktionary.org/wiki/изба) ('pieni
+[спинА](http://ru.wiktionary.org/wiki/%D1%81%D0%BF%D0%B8%D0%BD%D0%B0),
+[ценА](http://ru.wiktionary.org/wiki/%D1%86%D0%B5%D0%BD%D0%B0),
+[землЯ](http://ru.wiktionary.org/wiki/%D0%B7%D0%B5%D0%BC%D0%BB%D1%8F),
+[избА](http://ru.wiktionary.org/wiki/%D0%B8%D0%B7%D0%B1%D0%B0) ('pieni
 mökki').
 
 ### III deklinaation painotyyppejä
@@ -1694,24 +1694,24 @@ vartalolle:
 Tyyppiin kuuluu suuri joukko sanoja, jotka voi jakaa karkeasti seuraaviin
 alaryhmiin:
 
-1. Yksitavuisia: [жизнь](http://ru.wiktionary.org/wiki/жизнь),
-   [жесть](http://ru.wiktionary.org/wiki/жесть),
-   [сталь](http://ru.wiktionary.org/wiki/сталь),
-   [шерсть](http://ru.wiktionary.org/wiki/шерсть),
-   [нефть](http://ru.wiktionary.org/wiki/нефть), 
-2. Kaksitavuisia: [ладОнь](http://ru.wiktionary.org/wiki/ладонь),
-   [кровАть](http://ru.wiktionary.org/wiki/кровать),
-   [постЕль](http://ru.wiktionary.org/wiki/постель),
-   [прЕлесть](http://ru.wiktionary.org/wiki/прелесть),
-   [пАмять](http://ru.wiktionary.org/wiki/память),[пОмощь](http://ru.wiktionary.org/wiki/помощь) 
-3. Suurin osa [ость](http://ru.wiktionary.org/wiki/ость)-päätteisistä kuuluu
+1. Yksitavuisia: [жизнь](http://ru.wiktionary.org/wiki/%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C),
+   [жесть](http://ru.wiktionary.org/wiki/%D0%B6%D0%B5%D1%81%D1%82%D1%8C),
+   [сталь](http://ru.wiktionary.org/wiki/%D1%81%D1%82%D0%B0%D0%BB%D1%8C),
+   [шерсть](http://ru.wiktionary.org/wiki/%D1%88%D0%B5%D1%80%D1%81%D1%82%D1%8C),
+   [нефть](http://ru.wiktionary.org/wiki/%D0%BD%D0%B5%D1%84%D1%82%D1%8C), 
+2. Kaksitavuisia: [ладОнь](http://ru.wiktionary.org/wiki/%D0%BB%D0%B0%D0%B4%D0%BE%D0%BD%D1%8C),
+   [кровАть](http://ru.wiktionary.org/wiki/%D0%BA%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C),
+   [постЕль](http://ru.wiktionary.org/wiki/%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D0%BB%D1%8C),
+   [прЕлесть](http://ru.wiktionary.org/wiki/%D0%BF%D1%80%D0%B5%D0%BB%D0%B5%D1%81%D1%82%D1%8C),
+   [пАмять](http://ru.wiktionary.org/wiki/%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D1%8C),[пОмощь](http://ru.wiktionary.org/wiki/%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C) 
+3. Suurin osa [ость](http://ru.wiktionary.org/wiki/%D0%BE%D1%81%D1%82%D1%8C)-päätteisistä kuuluu
    tähän tyyppiin (näillä yleensä ei monikkomuotoja):
-   [рАдость](http://ru.wiktionary.org/wiki/радость),
-   [глУпость](http://ru.wiktionary.org/wiki/глупость),[неожИданность](http://ru.wiktionary.org/wiki/неожиданность) 
-4. Vierasperäisiä: [морАль](http://ru.wiktionary.org/wiki/мораль),
-   [медАль](http://ru.wiktionary.org/wiki/медаль),
-   [форЕль](http://ru.wiktionary.org/wiki/форель),
-   [панЕль](http://ru.wiktionary.org/wiki/панель) 
+   [рАдость](http://ru.wiktionary.org/wiki/%D1%80%D0%B0%D0%B4%D0%BE%D1%81%D1%82%D1%8C),
+   [глУпость](http://ru.wiktionary.org/wiki/%D0%B3%D0%BB%D1%83%D0%BF%D0%BE%D1%81%D1%82%D1%8C),[неожИданность](http://ru.wiktionary.org/wiki/%D0%BD%D0%B5%D0%BE%D0%B6%D0%B8%D0%B4%D0%B0%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C) 
+4. Vierasperäisiä: [морАль](http://ru.wiktionary.org/wiki/%D0%BC%D0%BE%D1%80%D0%B0%D0%BB%D1%8C),
+   [медАль](http://ru.wiktionary.org/wiki/%D0%BC%D0%B5%D0%B4%D0%B0%D0%BB%D1%8C),
+   [форЕль](http://ru.wiktionary.org/wiki/%D1%84%D0%BE%D1%80%D0%B5%D0%BB%D1%8C),
+   [панЕль](http://ru.wiktionary.org/wiki/%D0%BF%D0%B0%D0%BD%D0%B5%D0%BB%D1%8C) 
 
 
 #### вещь-tyyppi
@@ -1731,33 +1731,33 @@ paino lankeaa päätteelle:
 Tähän ryhmään kuuluvat sanat voidaan pituutensa ja muodostustapansa perusteella
 jaotella seuraavasti:
 
-1. Yksitavuisia johtamattomia: [весть](http://ru.wiktionary.org/wiki/весть),
-   [власть](http://ru.wiktionary.org/wiki/власть),
-   [ночь](http://ru.wiktionary.org/wiki/ночь),
-   [речь](http://ru.wiktionary.org/wiki/речь),
-   [рояль](http://ru.wiktionary.org/wiki/рояль),
-   [сельдь](http://ru.wiktionary.org/wiki/сельдь),
-   [сеть](http://ru.wiktionary.org/wiki/сеть),
-   [смерть](http://ru.wiktionary.org/wiki/смерть),
-   [снасть](http://ru.wiktionary.org/wiki/снасть),
-   [соль](http://ru.wiktionary.org/wiki/соль),
-   [страсть](http://ru.wiktionary.org/wiki/страсть),
-   [часть](http://ru.wiktionary.org/wiki/часть)
+1. Yksitavuisia johtamattomia: [весть](http://ru.wiktionary.org/wiki/%D0%B2%D0%B5%D1%81%D1%82%D1%8C),
+   [власть](http://ru.wiktionary.org/wiki/%D0%B2%D0%BB%D0%B0%D1%81%D1%82%D1%8C),
+   [ночь](http://ru.wiktionary.org/wiki/%D0%BD%D0%BE%D1%87%D1%8C),
+   [речь](http://ru.wiktionary.org/wiki/%D1%80%D0%B5%D1%87%D1%8C),
+   [рояль](http://ru.wiktionary.org/wiki/%D1%80%D0%BE%D1%8F%D0%BB%D1%8C),
+   [сельдь](http://ru.wiktionary.org/wiki/%D1%81%D0%B5%D0%BB%D1%8C%D0%B4%D1%8C),
+   [сеть](http://ru.wiktionary.org/wiki/%D1%81%D0%B5%D1%82%D1%8C),
+   [смерть](http://ru.wiktionary.org/wiki/%D1%81%D0%BC%D0%B5%D1%80%D1%82%D1%8C),
+   [снасть](http://ru.wiktionary.org/wiki/%D1%81%D0%BD%D0%B0%D1%81%D1%82%D1%8C),
+   [соль](http://ru.wiktionary.org/wiki/%D1%81%D0%BE%D0%BB%D1%8C),
+   [страсть](http://ru.wiktionary.org/wiki/%D1%81%D1%82%D1%80%D0%B0%D1%81%D1%82%D1%8C),
+   [часть](http://ru.wiktionary.org/wiki/%D1%87%D0%B0%D1%81%D1%82%D1%8C)
 2. Useampitavuisia, pääosin johdettuja:
-   [вЕдомость](http://ru.wiktionary.org/wiki/ведомость),
-   [лОпасть](http://ru.wiktionary.org/wiki/лопасть),
-   [лОшадь](http://ru.wiktionary.org/wiki/лошадь),
-   [мЕлочь](http://ru.wiktionary.org/wiki/мелочь),
-   [нОвость](http://ru.wiktionary.org/wiki/новость),
-   [Область](http://ru.wiktionary.org/wiki/область),
-   [скОрость](http://ru.wiktionary.org/wiki/скорость),
-   [стЕпень](http://ru.wiktionary.org/wiki/степень),
-   [плОщадь](http://ru.wiktionary.org/wiki/площадь),
-   [пОвесть](http://ru.wiktionary.org/wiki/повесть),
-   [цЕрковь](http://ru.wiktionary.org/wiki/церковь), 
-   [чЕтверть](http://ru.wiktionary.org/wiki/четверть) 
+   [вЕдомость](http://ru.wiktionary.org/wiki/%D0%B2%D0%B5%D0%B4%D0%BE%D0%BC%D0%BE%D1%81%D1%82%D1%8C),
+   [лОпасть](http://ru.wiktionary.org/wiki/%D0%BB%D0%BE%D0%BF%D0%B0%D1%81%D1%82%D1%8C),
+   [лОшадь](http://ru.wiktionary.org/wiki/%D0%BB%D0%BE%D1%88%D0%B0%D0%B4%D1%8C),
+   [мЕлочь](http://ru.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BB%D0%BE%D1%87%D1%8C),
+   [нОвость](http://ru.wiktionary.org/wiki/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%8C),
+   [Область](http://ru.wiktionary.org/wiki/%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C),
+   [скОрость](http://ru.wiktionary.org/wiki/%D1%81%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D1%8C),
+   [стЕпень](http://ru.wiktionary.org/wiki/%D1%81%D1%82%D0%B5%D0%BF%D0%B5%D0%BD%D1%8C),
+   [плОщадь](http://ru.wiktionary.org/wiki/%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C),
+   [пОвесть](http://ru.wiktionary.org/wiki/%D0%BF%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D1%8C),
+   [цЕрковь](http://ru.wiktionary.org/wiki/%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C), 
+   [чЕтверть](http://ru.wiktionary.org/wiki/%D1%87%D0%B5%D1%82%D0%B2%D0%B5%D1%80%D1%82%D1%8C) 
 
-Lisäksi muutamat sanat kuten [печь](http://ru.wiktionary.org/wiki/печь) kuuluvat tähän tyyppiin, mutta niillä on
+Lisäksi muutamat sanat kuten [печь](http://ru.wiktionary.org/wiki/%D0%BF%D0%B5%D1%87%D1%8C) kuuluvat tähän tyyppiin, mutta niillä on
 olemassa lokatiivimuoto (в печИ).
 
 ### IV deklinaation painotyyppejä
@@ -1783,23 +1783,23 @@ joilla paino pysyy joka muodossa vartalolla.
 
 Tähän ryhmään kuuluu seuraavanlaisia sanoja:
 
-- ще-suffiksi:[жилИще](http://ru.wiktionary.org/wiki/жилище) 
-- painoton -[ство](http://ru.wiktionary.org/wiki/ство)-suffiksi:
-  [богатство](http://ru.wiktionary.org/wiki/богатство),
-  [Общество](http://ru.wiktionary.org/wiki/общество),
-  [кАчество](http://ru.wiktionary.org/wiki/качество),[лекАрство](http://ru.wiktionary.org/wiki/лекарство) 
+- ще-suffiksi:[жилИще](http://ru.wiktionary.org/wiki/%D0%B6%D0%B8%D0%BB%D0%B8%D1%89%D0%B5) 
+- painoton -[ство](http://ru.wiktionary.org/wiki/%D1%81%D1%82%D0%B2%D0%BE)-suffiksi:
+  [богатство](http://ru.wiktionary.org/wiki/%D0%B1%D0%BE%D0%B3%D0%B0%D1%82%D1%81%D1%82%D0%B2%D0%BE),
+  [Общество](http://ru.wiktionary.org/wiki/%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE),
+  [кАчество](http://ru.wiktionary.org/wiki/%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE),[лекАрство](http://ru.wiktionary.org/wiki/%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE) 
 <!-- - suurin osa painollisista
-  [ство](http://ru.wiktionary.org/wiki/ство)-suffikseista:
-  [веществО](http://ru.wiktionary.org/wiki/вещество),[божествО](http://ru.wiktionary.org/wiki/божество)
+  [ство](http://ru.wiktionary.org/wiki/%D1%81%D1%82%D0%B2%D0%BE)-suffikseista:
+  [веществО](http://ru.wiktionary.org/wiki/%D0%B2%D0%B5%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE),[божествО](http://ru.wiktionary.org/wiki/%D0%B1%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%BE)
   -->
-- [ние](http://ru.wiktionary.org/wiki/ние)-suffiksi,
-  [тие](http://ru.wiktionary.org/wiki/тие)-suffiksi:
-  [наслаждение](http://ru.wiktionary.org/wiki/наслаждение),
-  [объявление](http://ru.wiktionary.org/wiki/объявление),
-  [старАние](http://ru.wiktionary.org/wiki/старание),
-  [понЯтие](http://ru.wiktionary.org/wiki/понятие),[предприЯтие](http://ru.wiktionary.org/wiki/предприятие) 
+- [ние](http://ru.wiktionary.org/wiki/%D0%BD%D0%B8%D0%B5)-suffiksi,
+  [тие](http://ru.wiktionary.org/wiki/%D1%82%D0%B8%D0%B5)-suffiksi:
+  [наслаждение](http://ru.wiktionary.org/wiki/%D0%BD%D0%B0%D1%81%D0%BB%D0%B0%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5),
+  [объявление](http://ru.wiktionary.org/wiki/%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5),
+  [старАние](http://ru.wiktionary.org/wiki/%D1%81%D1%82%D0%B0%D1%80%D0%B0%D0%BD%D0%B8%D0%B5),
+  [понЯтие](http://ru.wiktionary.org/wiki/%D0%BF%D0%BE%D0%BD%D1%8F%D1%82%D0%B8%D0%B5),[предприЯтие](http://ru.wiktionary.org/wiki/%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B5) 
 - ичко-deminutiivit:
-  [сердЕчко](http://ru.wiktionary.org/wiki/сердечко),[окОшечко](http://ru.wiktionary.org/wiki/окошечко) 
+  [сердЕчко](http://ru.wiktionary.org/wiki/%D1%81%D0%B5%D1%80%D0%B4%D0%B5%D1%87%D0%BA%D0%BE),[окОшечко](http://ru.wiktionary.org/wiki/%D0%BE%D0%BA%D0%BE%D1%88%D0%B5%D1%87%D0%BA%D0%BE) 
 
 #### слово-tyyppi
 
@@ -1815,25 +1815,25 @@ kaikki painot päätteelle:
 | prep.   | слОве    | словАх    |
 
 Tyyppiin kuuluu muun muassa:
-- **kaksitavuisia johtamattomia** sanoja: [вОйско](http://ru.wiktionary.org/wiki/войско),
-  [дЕло](http://ru.wiktionary.org/wiki/дело),
-  [лЕто](http://ru.wiktionary.org/wiki/лето),
-  [мАсло](http://ru.wiktionary.org/wiki/масло),
-  [мЕсто](http://ru.wiktionary.org/wiki/место),
-  [мОре](http://ru.wiktionary.org/wiki/море),
-  [мЫло](http://ru.wiktionary.org/wiki/мыло),
-  [пОле](http://ru.wiktionary.org/wiki/поле),
-  [прАво](http://ru.wiktionary.org/wiki/право),
-  [сЕрдце](http://ru.wiktionary.org/wiki/сердце),
-  [слОво](http://ru.wiktionary.org/wiki/слово),
-  [стАдо](http://ru.wiktionary.org/wiki/стадо),
-  [тЕло](http://ru.wiktionary.org/wiki/тело) 
+- **kaksitavuisia johtamattomia** sanoja: [вОйско](http://ru.wiktionary.org/wiki/%D0%B2%D0%BE%D0%B9%D1%81%D0%BA%D0%BE),
+  [дЕло](http://ru.wiktionary.org/wiki/%D0%B4%D0%B5%D0%BB%D0%BE),
+  [лЕто](http://ru.wiktionary.org/wiki/%D0%BB%D0%B5%D1%82%D0%BE),
+  [мАсло](http://ru.wiktionary.org/wiki/%D0%BC%D0%B0%D1%81%D0%BB%D0%BE),
+  [мЕсто](http://ru.wiktionary.org/wiki/%D0%BC%D0%B5%D1%81%D1%82%D0%BE),
+  [мОре](http://ru.wiktionary.org/wiki/%D0%BC%D0%BE%D1%80%D0%B5),
+  [мЫло](http://ru.wiktionary.org/wiki/%D0%BC%D1%8B%D0%BB%D0%BE),
+  [пОле](http://ru.wiktionary.org/wiki/%D0%BF%D0%BE%D0%BB%D0%B5),
+  [прАво](http://ru.wiktionary.org/wiki/%D0%BF%D1%80%D0%B0%D0%B2%D0%BE),
+  [сЕрдце](http://ru.wiktionary.org/wiki/%D1%81%D0%B5%D1%80%D0%B4%D1%86%D0%B5),
+  [слОво](http://ru.wiktionary.org/wiki/%D1%81%D0%BB%D0%BE%D0%B2%D0%BE),
+  [стАдо](http://ru.wiktionary.org/wiki/%D1%81%D1%82%D0%B0%D0%B4%D0%BE),
+  [тЕло](http://ru.wiktionary.org/wiki/%D1%82%D0%B5%D0%BB%D0%BE) 
 - **kolmetavuisia**, joissa paino siirtyy ensimmäiseltä tavulta viimeiselle:
-  [зЕркало](http://ru.wiktionary.org/wiki/зеркало),
-  [Облако](http://ru.wiktionary.org/wiki/облако) 
+  [зЕркало](http://ru.wiktionary.org/wiki/%D0%B7%D0%B5%D1%80%D0%BA%D0%B0%D0%BB%D0%BE),
+  [Облако](http://ru.wiktionary.org/wiki/%D0%BE%D0%B1%D0%BB%D0%B0%D0%BA%D0%BE) 
 - poikkeustapauksia:
-  [дЕрево](http://ru.wiktionary.org/wiki/дерево),
-  [Озеро](http://ru.wiktionary.org/wiki/озеро) 
+  [дЕрево](http://ru.wiktionary.org/wiki/%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE),
+  [Озеро](http://ru.wiktionary.org/wiki/%D0%BE%D0%B7%D0%B5%D1%80%D0%BE) 
 
 #### Письмо-tyyppi
 
@@ -1850,34 +1850,34 @@ Monikossa paino siirtyy edelliselle tavulle:
 
 Tähän tyyppiin kuuluu:
 - **kaksitavuisia johtamattomia** sanoja:
-  [бедрО](http://ru.wiktionary.org/wiki/бедро),
-  [бельмО](http://ru.wiktionary.org/wiki/бельмо),
-  [бревнО](http://ru.wiktionary.org/wiki/бревно),
-  [ведрО](http://ru.wiktionary.org/wiki/ведро),
-  [веслО](http://ru.wiktionary.org/wiki/весло),
-  [винО](http://ru.wiktionary.org/wiki/вино),
-  [гнездО](http://ru.wiktionary.org/wiki/гнездо),
-  [звенО](http://ru.wiktionary.org/wiki/звено),
-  [зернО](http://ru.wiktionary.org/wiki/зерно),
-  [кольцО](http://ru.wiktionary.org/wiki/кольцо),
-  [крылО](http://ru.wiktionary.org/wiki/крыло),
-  [лицО](http://ru.wiktionary.org/wiki/лицо),
-  [окнО](http://ru.wiktionary.org/wiki/окно),
-  [перО](http://ru.wiktionary.org/wiki/перо),
-  [плечО](http://ru.wiktionary.org/wiki/плечо),
-  [стеклО](http://ru.wiktionary.org/wiki/стекло),
-  [числО](http://ru.wiktionary.org/wiki/число),
-  [ядрО](http://ru.wiktionary.org/wiki/ядро),
-  [яйцО](http://ru.wiktionary.org/wiki/яйцо), 
-- **kolmitavuisia** sanoja: [веретенО](http://ru.wiktionary.org/wiki/веретено),
-  [колесо](http://ru.wiktionary.org/wiki/колесо),[ремесло](http://ru.wiktionary.org/wiki/ремесло) 
+  [бедрО](http://ru.wiktionary.org/wiki/%D0%B1%D0%B5%D0%B4%D1%80%D0%BE),
+  [бельмО](http://ru.wiktionary.org/wiki/%D0%B1%D0%B5%D0%BB%D1%8C%D0%BC%D0%BE),
+  [бревнО](http://ru.wiktionary.org/wiki/%D0%B1%D1%80%D0%B5%D0%B2%D0%BD%D0%BE),
+  [ведрО](http://ru.wiktionary.org/wiki/%D0%B2%D0%B5%D0%B4%D1%80%D0%BE),
+  [веслО](http://ru.wiktionary.org/wiki/%D0%B2%D0%B5%D1%81%D0%BB%D0%BE),
+  [винО](http://ru.wiktionary.org/wiki/%D0%B2%D0%B8%D0%BD%D0%BE),
+  [гнездО](http://ru.wiktionary.org/wiki/%D0%B3%D0%BD%D0%B5%D0%B7%D0%B4%D0%BE),
+  [звенО](http://ru.wiktionary.org/wiki/%D0%B7%D0%B2%D0%B5%D0%BD%D0%BE),
+  [зернО](http://ru.wiktionary.org/wiki/%D0%B7%D0%B5%D1%80%D0%BD%D0%BE),
+  [кольцО](http://ru.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BB%D1%8C%D1%86%D0%BE),
+  [крылО](http://ru.wiktionary.org/wiki/%D0%BA%D1%80%D1%8B%D0%BB%D0%BE),
+  [лицО](http://ru.wiktionary.org/wiki/%D0%BB%D0%B8%D1%86%D0%BE),
+  [окнО](http://ru.wiktionary.org/wiki/%D0%BE%D0%BA%D0%BD%D0%BE),
+  [перО](http://ru.wiktionary.org/wiki/%D0%BF%D0%B5%D1%80%D0%BE),
+  [плечО](http://ru.wiktionary.org/wiki/%D0%BF%D0%BB%D0%B5%D1%87%D0%BE),
+  [стеклО](http://ru.wiktionary.org/wiki/%D1%81%D1%82%D0%B5%D0%BA%D0%BB%D0%BE),
+  [числО](http://ru.wiktionary.org/wiki/%D1%87%D0%B8%D1%81%D0%BB%D0%BE),
+  [ядрО](http://ru.wiktionary.org/wiki/%D1%8F%D0%B4%D1%80%D0%BE),
+  [яйцО](http://ru.wiktionary.org/wiki/%D1%8F%D0%B9%D1%86%D0%BE), 
+- **kolmitavuisia** sanoja: [веретенО](http://ru.wiktionary.org/wiki/%D0%B2%D0%B5%D1%80%D0%B5%D1%82%D0%B5%D0%BD%D0%BE),
+  [колесо](http://ru.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BB%D0%B5%D1%81%D0%BE),[ремесло](http://ru.wiktionary.org/wiki/%D1%80%D0%B5%D0%BC%D0%B5%D1%81%D0%BB%D0%BE) 
 - eräitä **ство-johdettuja**
-  sanoja:[меньшинствО](http://ru.wiktionary.org/wiki/меньшинство) 
+  sanoja:[меньшинствО](http://ru.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%D1%8C%D1%88%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D0%BE) 
 
 Huomaa seuraavien sanojen vartaloissa tapahtuvat muutokset:
-[яйцо](http://ru.wiktionary.org/wiki/яйцо),
-[плечо](http://ru.wiktionary.org/wiki/плечо),
-[кольцо](http://ru.wiktionary.org/wiki/кольцо)
+[яйцо](http://ru.wiktionary.org/wiki/%D1%8F%D0%B9%D1%86%D0%BE),
+[плечо](http://ru.wiktionary.org/wiki/%D0%BF%D0%BB%D0%B5%D1%87%D0%BE),
+[кольцо](http://ru.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BB%D1%8C%D1%86%D0%BE)
 
 Luento 6: Adjektiiveista, pronomineista ja lukusanoista
 ====================================================================
@@ -2038,10 +2038,10 @@ Prep.   | двух                   |
 
 
 Tutki vielä itsenäisesti lukusanojen
-[сорок](https://ru.wiktionary.org/wiki/сорок),
-[сто](https://ru.wiktionary.org/wiki/сто) ,
-[девяносто](https://ru.wiktionary.org/wiki/девяносто) ja
-[полтора](https://ru.wiktionary.org/wiki/полтора)
+[сорок](https://ru.wiktionary.org/wiki/%D1%81%D0%BE%D1%80%D0%BE%D0%BA),
+[сто](https://ru.wiktionary.org/wiki/%D1%81%D1%82%D0%BE) ,
+[девяносто](https://ru.wiktionary.org/wiki/%D0%B4%D0%B5%D0%B2%D1%8F%D0%BD%D0%BE%D1%81%D1%82%D0%BE) ja
+[полтора](https://ru.wiktionary.org/wiki/%D0%BF%D0%BE%D0%BB%D1%82%D0%BE%D1%80%D0%B0)
 taivutusta wiktionarysta (klikkaa sanoja).
 
 Ordinaali- ja kardinaalilukusanojen lisäksi venäjässä on erikseen
@@ -2050,11 +2050,11 @@ muodostetaan ainakin teoriassa luvuista 2--10, joskin muodot 7--10 ovat
 harvinaisia [@wade2010: 221]. Seuraavassa on listattu kaikki tavallisimmat
 kollektiivilukusanat nominatiivimuodossa (klikkaa sanoja tutkiaksesi taivutusta):
 
-- [двое](https://ru.wiktionary.org/wiki/двое)
-- [трое](https://ru.wiktionary.org/wiki/трое)
-- [чЕтверо](https://ru.wiktionary.org/wiki/четверо)
-- [пЯтеро](https://ru.wiktionary.org/wiki/пятеро)
-- [шЕстеро](https://ru.wiktionary.org/wiki/шестеро)
+- [двое](https://ru.wiktionary.org/wiki/%D0%B4%D0%B2%D0%BE%D0%B5)
+- [трое](https://ru.wiktionary.org/wiki/%D1%82%D1%80%D0%BE%D0%B5)
+- [чЕтверо](https://ru.wiktionary.org/wiki/%D1%87%D0%B5%D1%82%D0%B2%D0%B5%D1%80%D0%BE)
+- [пЯтеро](https://ru.wiktionary.org/wiki/%D0%BF%D1%8F%D1%82%D0%B5%D1%80%D0%BE)
+- [шЕстеро](https://ru.wiktionary.org/wiki/%D1%88%D0%B5%D1%81%D1%82%D0%B5%D1%80%D0%BE)
 - [cЕмеро](https://ru.wiktionary.org/wiki/cемеро)
 
 Funktionaalisen morfologian kannalta voidaan todeta, että kollektiivilukusanoja
@@ -3729,10 +3729,10 @@ suuri osa verbeistä sopii kuitenkin joko ensimmäiseen tai toiseen konjugaatioo
 poikkeuksia ja sekataivutustapauksia ei ole älyttömän paljon. Wikisanakirjan
 aineistossa varsinaisten poikkeustapausten luokkaan osuu vain 122 tapausta (mukana
 paljon johdoksia) kaikkiaan noin 27 000 verbilekseemistä . Merkittävimpiä näistä
-lienevät [хотеть](http://ru.wiktionary.org/wiki/хотеть),
-[бежать](http://ru.wiktionary.org/wiki/бежать),
-[дасть](http://ru.wiktionary.org/wiki/дасть) ja
-[есть](http://ru.wiktionary.org/wiki/есть) (linkit Wikisanakirjaan). Kaksi
+lienevät [хотеть](http://ru.wiktionary.org/wiki/%D1%85%D0%BE%D1%82%D0%B5%D1%82%D1%8C),
+[бежать](http://ru.wiktionary.org/wiki/%D0%B1%D0%B5%D0%B6%D0%B0%D1%82%D1%8C),
+[дасть](http://ru.wiktionary.org/wiki/%D0%B4%D0%B0%D1%81%D1%82%D1%8C) ja
+[есть](http://ru.wiktionary.org/wiki/%D0%B5%D1%81%D1%82%D1%8C) (linkit Wikisanakirjaan). Kaksi
 ensimmäistä sekoittavat 1. ja 2. deklinaation, дать-verbissä on tyystin omat
 päätteensä ja есть-verbilläkin yksikön ensimmäinen persoona saa aivan oman, muista
 slaavilaisista kielistä kuten tsekistä tutun m-päätteen sekä eräitä muutoksia
@@ -3751,39 +3751,39 @@ todeta, että verbit jakautuvat painon puolesta kolmeen pääryhmään:
 
 1. Paino aina vartalolla
     - Tähän kuuluvat kaikki verbit, joiden infinitiivi päätty painottomaan
-    *ать*-tavuun kuten [обЕдать](http://ru.wiktionary.org/wiki/обЕдать),
-    [лАять](http://ru.wiktionary.org/wiki/лАять),
+    *ать*-tavuun kuten [обЕдать](http://ru.wiktionary.org/wiki/%D0%BE%D0%B1Едать),
+    [лАять](http://ru.wiktionary.org/wiki/%D0%BBАять),
     [Ехать](http://ru.wiktionary.org/wiki/Ехать) ym. Muutenkin edellä esitetty 1. konjugaation
     ensimmäinen ja suurin alaryhmä sisältää käytännössä vain tähän painotyyppiin
     kuuluvia verbejä (poikkeuksena verbit tyyppiä
-    [бить](http://ru.wiktionary.org/wiki/бить) /
-    [петь](http://ru.wiktionary.org/wiki/петь)). Lisäksi 
+    [бить](http://ru.wiktionary.org/wiki/%D0%B1%D0%B8%D1%82%D1%8C) /
+    [петь](http://ru.wiktionary.org/wiki/%D0%BF%D0%B5%D1%82%D1%8C)). Lisäksi 
     suurin osa *ова/ева*-suffiksillisista verbeistä (toinen 1. konjugaation
     alaryhmä) kuuluu tähän ryhmään.
 2. Paino aina päätteellä
     - Tähän päätetyyppiin kuuluu suurin osa edellä 1. konjugaation  seitsemänneksi
-    alaryhmäksi luokitelluista verbeistä ([жить](http://ru.wiktionary.org/wiki/жить),
-    [нести](http://ru.wiktionary.org/wiki/нести),
-    [красть](http://ru.wiktionary.org/wiki/красть) ym. MUTTA
-    [лечь](http://ru.wiktionary.org/wiki/лечь),
-    [сесть](http://ru.wiktionary.org/wiki/сесть)). Toinen suuri tyhmä ovat toisen konjugaation verbit, joiden
-    infinitiivi loppuu painolliseen /ить/-tavuun([звонить](http://ru.wiktionary.org/wiki/звонить),
-    [творить](http://ru.wiktionary.org/wiki/творить) ym.). 
-    Lisäksi joitakin ова/ева-verbejä ([жевать](http://ru.wiktionary.org/wiki/жевать),
-    [основать](http://ru.wiktionary.org/wiki/основать),
-    [клевать](http://ru.wiktionary.org/wiki/клевать)
-    ym.) ja kaikki ава-verbit ([давать](http://ru.wiktionary.org/wiki/давать),
-    [признать](http://ru.wiktionary.org/wiki/признать) ym.).
+    alaryhmäksi luokitelluista verbeistä ([жить](http://ru.wiktionary.org/wiki/%D0%B6%D0%B8%D1%82%D1%8C),
+    [нести](http://ru.wiktionary.org/wiki/%D0%BD%D0%B5%D1%81%D1%82%D0%B8),
+    [красть](http://ru.wiktionary.org/wiki/%D0%BA%D1%80%D0%B0%D1%81%D1%82%D1%8C) ym. MUTTA
+    [лечь](http://ru.wiktionary.org/wiki/%D0%BB%D0%B5%D1%87%D1%8C),
+    [сесть](http://ru.wiktionary.org/wiki/%D1%81%D0%B5%D1%81%D1%82%D1%8C)). Toinen suuri tyhmä ovat toisen konjugaation verbit, joiden
+    infinitiivi loppuu painolliseen /ить/-tavuun([звонить](http://ru.wiktionary.org/wiki/%D0%B7%D0%B2%D0%BE%D0%BD%D0%B8%D1%82%D1%8C),
+    [творить](http://ru.wiktionary.org/wiki/%D1%82%D0%B2%D0%BE%D1%80%D0%B8%D1%82%D1%8C) ym.). 
+    Lisäksi joitakin ова/ева-verbejä ([жевать](http://ru.wiktionary.org/wiki/%D0%B6%D0%B5%D0%B2%D0%B0%D1%82%D1%8C),
+    [основать](http://ru.wiktionary.org/wiki/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D1%82%D1%8C),
+    [клевать](http://ru.wiktionary.org/wiki/%D0%BA%D0%BB%D0%B5%D0%B2%D0%B0%D1%82%D1%8C)
+    ym.) ja kaikki ава-verbit ([давать](http://ru.wiktionary.org/wiki/%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D1%8C),
+    [признать](http://ru.wiktionary.org/wiki/%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D1%82%D1%8C) ym.).
 3. Paino aina vartalolla paitsi yksikön ensimmäisessä persoonassa
     - Tähän päätetyyppiin kuuluvat kaikki edellä  neljänneksi 1. konjugaation
     alaryhmäksi luetellut verbit, jos ne loppuvat infinitiivissä painolliseen
     *ать*-tavuun (писать, махать). Lisäksi tähän kuuluu parikymmentä 2.
     konjugaation painolliseen *ить*-tavuun infinitiivissä päättyvä verbiä kuten
-    [водить](http://ru.wiktionary.org/wiki/водить),
-    [купить](http://ru.wiktionary.org/wiki/купить),
-    [ловить](http://ru.wiktionary.org/wiki/ловить),
-    [кормить](http://ru.wiktionary.org/wiki/кормить),
-    [ступить](http://ru.wiktionary.org/wiki/ступить) ym. 
+    [водить](http://ru.wiktionary.org/wiki/%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D1%8C),
+    [купить](http://ru.wiktionary.org/wiki/%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C),
+    [ловить](http://ru.wiktionary.org/wiki/%D0%BB%D0%BE%D0%B2%D0%B8%D1%82%D1%8C),
+    [кормить](http://ru.wiktionary.org/wiki/%D0%BA%D0%BE%D1%80%D0%BC%D0%B8%D1%82%D1%8C),
+    [ступить](http://ru.wiktionary.org/wiki/%D1%81%D1%82%D1%83%D0%BF%D0%B8%D1%82%D1%8C) ym. 
 
 
 Partisiippien muodostus
@@ -5267,7 +5267,7 @@ Luento 18: Tapaluokka kieliopillisena kategoriana 1
 
 Olemme keskellä kurssin toista puoliskoa (tai oikeastaan jo sen loppupuolella),
 ja viime viikot käsittelyn kohteena ovat olleet verbit ja niihin ilmentämät
-kieliiopilliset kategoriat. Pääluokka- ja aika- ja aspektikategorioiden jälkeen
+kieliopilliset kategoriat. Pääluokka- ja aika- ja aspektikategorioiden jälkeen
 siirrymme nyt tutkimaan *tapaluokka-* eli *moduskategoriaa* (категория
 наклонения).
 
@@ -5384,10 +5384,10 @@ Edellä olevat esimerkit antavat perusmallin imperatiivin eri päätteiden käyt
 
 
 Testataan esitettyä sääntöä esimerkiksi verbeillä
-[писать](http://ru.wiktionary.org/wiki/писать),
-[сидеть](http://ru.wiktionary.org/wiki/сидеть),
-[смотреть](http://ru.wiktionary.org/wiki/смотреть) ja
-[взять](http://ru.wiktionary.org/wiki/взять) (linkit Wiktionaryyn). Kaikilla
+[писать](http://ru.wiktionary.org/wiki/%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C),
+[сидеть](http://ru.wiktionary.org/wiki/%D1%81%D0%B8%D0%B4%D0%B5%D1%82%D1%8C),
+[смотреть](http://ru.wiktionary.org/wiki/%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D1%82%D1%8C) ja
+[взять](http://ru.wiktionary.org/wiki/%D0%B2%D0%B7%D1%8F%D1%82%D1%8C) (linkit Wiktionaryyn). Kaikilla
 näillä:
 
 1. Preesensvartalo ei pääty j:hin
@@ -5407,9 +5407,9 @@ muodot *будь* eikä *буд*, *достань* eikä *достан* jne.
 ### Tarkennuksia sääntöön
 
 Edellä esitettyä voidaan vähän tarkentaa. Ajattele verbejä
-[кончить](http://ru.wiktionary.org/wiki/кончить),
-[прыгнуть](http://ru.wiktionary.org/wiki/прыгнуть) ja
-[чиcтить](http://ru.wiktionary.org/wiki/чиcтить). Niissä
+[кончить](http://ru.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BD%D1%87%D0%B8%D1%82%D1%8C),
+[прыгнуть](http://ru.wiktionary.org/wiki/%D0%BF%D1%80%D1%8B%D0%B3%D0%BD%D1%83%D1%82%D1%8C) ja
+[чиcтить](http://ru.wiktionary.org/wiki/%D1%87%D0%B8cтить). Niissä
 
 1. preesensvartalo (/конч/, /прыгн/, /чист/) ei pääty j:hin
 2. paino on yksikön 1. persoonassa vartalolla: кОнчу, прЫгну, чИщу
@@ -5446,7 +5446,7 @@ imperatiivimuodot ovat mallia /бей/, /пей/.
 
 
 Oma yksittäinen imperatiivimuotonsa on lisäksi verbillä
-[есть](http://ru.wiktionary.org/wiki/есть). Šeljakin [-@sheljakin: 163] toteaa
+[есть](http://ru.wiktionary.org/wiki/%D0%B5%D1%81%D1%82%D1%8C). Šeljakin [-@sheljakin: 163] toteaa
 myös, että kaikista (prefiksittömistä) verbeistä imperatiivia ei muodosteta ja
 mainitsee tässä yhteydessä verbit хотеть, видеть, мочь ja слышать.
 
