@@ -99,3 +99,17 @@ rajoitetun toiston merkitys;ограниченно-кратное значени
 perfektin merkitys;значение перфекта;yksi perfektiivisen aspektin erityismerkityksistä
 summatiivinen merkitys;суммарное значение;yksi perfektiivisen aspektin erityismerkityksistä
 vaihetta ilmaisevat verbit;фазовые глаголы;verbit tyyppiä начинать, стать, joiden kanssa käytetään imperfektiivistä aspektia
+indikatiivi;изъявительное наклонение;tavallisin tapaluokka, ilmaisee toiminnan ilman ehtoa, käskyä tai puhujan arviota siitä.  
+konditionaali;сослагательное наклонение;ehtoa tai mahdollisuutta ilmaiseva tapaluokka
+imperatiivi;повелительное наклонение;käskyä ilmaiseva tapaluokka
+liikeverbit;глаголы движения;joukko verbejä, jotka muodostavat parin liikkeen suuntaisuuden suhteen
+duratiiviset liikeverbit;однонаправленные глаголы движения;esim. идти, ехать, ilmaisevat liikettä yhteen suuntaan
+iteratiiviset liikeverbit;ненаправленные глаголы движения;esim. ходить, ездить, eivät ota kantaa liikkeen suuntaisuuteen
+inkoatiivinen teonlaatu;начинательный способ действия; alkamista ilmaisevia verbejä, esimerkiksi заплакать, засмеяться
+perduratiivinen teonlaatu;продолжительный способ действия;tietyn ajan kestäviä tapahtumia ilmaisevia verbejä, esim прожить, прозаниматься
+delimitatiivinen teonlaatu;ограничительный способ действия;tietyn, yleensä vähäisen, ajan kestävää toimintaa ilmaisevia verbejä, esim посидеть, покурить
+momentaaninen teonlaatu;одноактный способ действия;verbejä, jotka ilmaisevat yksittäisen toiminnan erotettuna vastaavien toimintojen sarjasta, esimerkiksi махнуть, кашлянуть
+semelfaktiivinen teonlaatu;одноактный способ действия;sama kuin momentaaninen teonlaatu
+transitiivinen;переходный;verbi, joka saa objektin
+intransitiivinen;непереходный;verbi, joka ei saa objektia
+predikatiiviadverbi;предикативное наречие;adverbi, joka toimii lauseen predikaattia, esim. скучно lauseessa мне скучно
