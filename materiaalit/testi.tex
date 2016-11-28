@@ -1,4 +1,4 @@
-\documentclass[]{scrreprt}
+\documentclass[]{scrartcl}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage[T2A]{fontenc}
@@ -11,26 +11,11 @@
 \newtheorem{maar}{Määritelmä}
 \usepackage{fixltx2e} % provides \textsubscript
 \usepackage{textcomp} % provides \textsubscript
-\usepackage[breaklinks=true]{hyperref}
+\usepackage{hyperref}
 \usepackage{xcolor}
-\usepackage{placeins}
-
-\usepackage[toc,page]{appendix}
-
-\renewcommand{\Exarabic}{\thechapter.\arabic} 
-% We want to reset the ExNo counter at each section
-\usepackage{chngcntr}
-\counterwithin{ExNo}{chapter}
-\usepackage{cleveref}
-\crefname{ExNo}{example}{examples}
-% We want cross references of the form "example (1.1)"
-\creflabelformat{ExNo}{(#2#1#3)}
 
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-
-%Muuta kuvioitten otsikkoa
-\addto\captionsfinnish{\renewcommand{\figurename}{Kuvio}}
 
 \hypersetup{
     colorlinks,
@@ -39,7 +24,7 @@
     urlcolor={blue!80!black}
 }
 \author{Juho Härme}
-\title{Morfologia-kurssin luentomateriaalit}
+\title{Morfologia-kurssin luentomateriaaleja}
 \date{\today}
 \begin{document}
 \maketitle
@@ -48,8 +33,7 @@
 
 
 
-\chapter*{Tästä kurssista}\label{tuxe4stuxe4-kurssista}
-\addcontentsline{toc}{chapter}{Tästä kurssista}
+\section{Tästä kurssista}\label{tuxe4stuxe4-kurssista}
 
 Kaksi kielentutkimuksen perinteistä päähaaraa ovat syntaksi ja
 morfologia. Siinä missä syntaksi tutkii lauserakenteita ja sanojen tai
@@ -72,21 +56,120 @@ Samalla on pidettävä mielessä se, että kyseessä ovat yliopiston
 aineopinnot, ja sitä kautta myös tilaisuus opetella syvällisempiä kielen
 analysoinnin työkaluja.
 
+\section{Linkkejä}\label{linkkejuxe4}
 
-\chapter{Mikä ihmeen morfologia?}\label{luento-1-mikuxe4-ihmeen-morfologia}
+\begin{itemize}
+\tightlist
+\item
+  Kurssikartat
+  \href{https://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/kurssikartta1.pdf}{1}
+  ja
+  \href{https://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/kurssikartta2.pdf}{2}
+\item
+  \href{termit.html}{Kurssin termilista}
+\item
+  \href{https://learning2.uta.fi/course/view.php?id=8679}{Kurssin
+  Moodle-alue}
+\item
+  \href{http://www.ruscorpora.ru}{Kansalliskorpus}
+\item
+  \href{http://ru.wiktionary.org}{wiktionary}
+\item
+  \href{http://http://old.kpfu.ru/infres/slovar1}{Tihonovin sanakirja}
+\item
+  \href{http://morfologija.ru}{Zaliznjakin sanakirja}
+\item
+  \href{http://slovonline.ru/slovar_el_fonetic/}{Foneettinen sanakirja}
+\item
+  \href{http://rus.stackexchange.com/}{Internet-yhteisö kysymyksille ja
+  vastauksille}
+\end{itemize}
 
+\section{Termeistä}\label{termeistuxe4}
+
+Kurssilla esiintyvät oleellisimmat termit pyritään keräämään
+\href{termit.html}{omalle erilliselle sivulleen}
+\url{https://mustikka.uta.fi/~juho_harme/morfologia/termit.html}
+
+\section{Kurssin aikataulu}\label{kurssin-aikataulu}
+
+Luentojen aiheet voivat jonkin verran muuttua riippuen etenemistahdista.
+
+\begin{longtable}[c]{@{}lll@{}}
+\toprule
+no & Pvm & Aihe\tabularnewline
+\midrule
+\endhead
+1 & ti 30.8. & Mikä ihmeen morfologia?\tabularnewline
+2 & ke 31.8. & Morfien luokittelua + yleistä nomineista\tabularnewline
+- & ti 6.9. & EI LUENTOA (avajaiset)\tabularnewline
+3 & ke 7.9. & Luku ja suku kieliopillisina kategorioina\tabularnewline
+4 & ti 13.9. & Sija kieliopillisena kategoriana\tabularnewline
+5 & ke 14.9. & Sija kieliopillisena kategoriana 2\tabularnewline
+6 & ti 20.9. & Adjektiiveista, pronomineista ja
+lukusanoista\tabularnewline
+7 & ke 21.9. & Sijat funktionaalisen morfologian kannalta:
+gen\tabularnewline
+8 & ti 27.9. & Sijat funktionaalisen morfologian kannalta: gen +
+dat\tabularnewline
+9 & ke 28.9. & Sijat funktionaalisen morfologian kannalta: dat + akk
+(elollisuuskategoria)\tabularnewline
+10 & ti 4.10. & Sijat funktionaalisen morfologian kannalta: instr +
+prep\tabularnewline
+11 & ke 5.10. & Persoona kieliopillisena kategoriana 1\tabularnewline
+12 & ti 11.10. & Persoona kieliopillisena kategoriana 2\tabularnewline
+13 & ke 12.10. & Persoona kieliopillisena kategoriana + partisiippien
+muodostus\tabularnewline
+- & ti 18.10 & PERIODITAUKO\tabularnewline
+- & ke 19.10 & PERIODITAUKO\tabularnewline
+14 & ti 25.10. & Pääluokka\tabularnewline
+15 & ke 26.10. & Aspekti ja aika kieliopillisena
+kategoriana\tabularnewline
+16 & ti 1.11. & Aspekti kieliopillisena kategoriana 2\tabularnewline
+17 & ke 2.11. & Aspekti kieliopillisena kategoriana 3\tabularnewline
+18 & ti 8.11. & Tapaluokka kieliopillisena kategoriana 1\tabularnewline
+19 & ke 9.11. & Tapaluokka kieliopillisena kategoriana 2\tabularnewline
+20 & ti 15.11. & Liikeverbit 1\tabularnewline
+21 & ke 16.11. & Liikeverbit 2\tabularnewline
+22 & ti 22.11. & Verbimuotoja: Gerundit\tabularnewline
+23 & ke 23.11. & Adverbien erityispiirteitä\tabularnewline
+24 & ti 29.11. & Kertausta substantiiveista\tabularnewline
+25 & ke 30.11. & Kertausta verbeistä\tabularnewline
+- & ti 6.12. & EI LUENTOA (itsenäisyyspäivä)\tabularnewline
+- & ke 7.12. & KOE\tabularnewline
+\bottomrule
+\end{longtable}
+
+\section{Luento 1: Mikä ihmeen
+morfologia?}\label{luento-1-mikuxe4-ihmeen-morfologia}
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://mustikka.uta.fi/~juho_harme/morfologia/\#tästä-kurssista}{Takaisin
+  sivun ylälaitaan}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento1.pdf}{Lataa
+  PDF}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento1.html}{Tutki
+  luentokalvoja}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento1.pdf}{Tutki
+  tuntitehtäviä}
+\end{itemize}
 
 Tällä luennolla perehdytään lyhyesti siihen, mitä kaikkea morfologian
 alaan kuuluu. Tarkastelemme, mitä aihealueita kurssilla käsitellään ja
 luomme yleiskuvan kurssiluentojen sisällöstä ja tavoitteista.
 
-\section{Mitä ovat sanaluokat?}\label{mituxe4-ovat-sanaluokat}
+\subsection{Mitä ovat sanaluokat?}\label{mituxe4-ovat-sanaluokat}
 
 Sanaluokan käsite esitellään meille jo ala-asteikäisenä. Sanat
 muodostavat kielessä enemmän tai vähemmän selviä ryhmiä: esimerkiksi
 lekseemeillä \emph{книга}, \emph{стол} ja \emph{разрушение} on jotain
 yhteistä ja ne eroavat lekseemeistä \emph{играть}, \emph{слушать} ja
-\emph{читать}, joilla puolestaan on keskenään jotakin yhteistä. 
+\emph{читать}, joilla puolestaan on keskenään jotakin yhteistä. \#
 Sanaluokkien määrittely ei kuitenkaan ole yksiselitteistä. Mihin
 sanaluokkaan mielestäsi esimerkiksi aktiivin partisiipin preesensin
 muoto ``позволяющий'' kuuluu? Entä onko sanalla \emph{тысяча} enemmän
@@ -105,7 +188,7 @@ esimerkiksi niin, että sijoissa taipuvia sanoja (käytännössä
 substantiiveja, adjektiiveja, lukusanoja, pronomineja) kutsutaan
 yhteisesti \emph{nomineiksi}.
 
-\subsection{Itsenäiset sanaluokat}\label{itsenuxe4iset-sanaluokat}
+\subsubsection{Itsenäiset sanaluokat}\label{itsenuxe4iset-sanaluokat}
 
 \begin{itemize}
 \tightlist
@@ -123,7 +206,7 @@ yhteisesti \emph{nomineiksi}.
   adverbit (наречия)
 \end{itemize}
 
-\subsection{Apusanaluokat}\label{apusanaluokat}
+\subsubsection{Apusanaluokat}\label{apusanaluokat}
 
 \begin{itemize}
 \tightlist
@@ -137,7 +220,7 @@ yhteisesti \emph{nomineiksi}.
   interjektiot (междометия)
 \end{itemize}
 
-\section{Mitä on sanan
+\subsection{Mitä on sanan
 sisällä?}\label{mituxe4-on-sanan-sisuxe4lluxe4}
 
 Ajattele vaikka pakettia lääkepillereitä -- kuvastakoon se lausetta tai
@@ -225,7 +308,7 @@ todellisuudessa ole omaa merkitystä. Kurssin kuluessa erilaisiin
 morfeemeihin tutustutaan paremmin ja tätä myötä myös kyky havaita niitä
 paranee.
 
-\subsection{Morfien lajeja}\label{morfien-lajeja}
+\subsubsection{Morfien lajeja}\label{morfien-lajeja}
 
 Edellä sanoista puhuttaessa havaittiin, että niiden voi nähdä
 muodostavan erilaisia ryhmiä. Myös morfeja tutkittaessa huomataan, että
@@ -246,7 +329,7 @@ jakaa moniin alaluokkiin, joita tutkitaan tarkemmin seuraavalla
 luennolla. Näitä alalajeja ovat ennen kaikkea prefiksit, suffiksit,
 interefiksit, postfiksit ja taivutuspäätteet.
 
-\section{Kieliopilliset kategoriat}\label{kieliopilliset-kategoriat}
+\subsection{Kieliopilliset kategoriat}\label{kieliopilliset-kategoriat}
 
 Edellä puhuttiin \emph{toisesta persoonasta}, \emph{indikatiivista} ja
 \emph{menneestä ajasta}. Nämä ovat asioita, joita edellä käsitellyt
@@ -314,7 +397,7 @@ edellä käsiteltyjä kieliopillisia morfeja!), ja tällaisille morfeille on
 oma nimityksensäkin: salkkumorfi (гибридный морф) (ks. Nikunlassi 2002,
 106--7).
 
-\section{Millainen kieli venäjä on morfologian
+\subsection{Millainen kieli venäjä on morfologian
 kannalta?}\label{millainen-kieli-venuxe4juxe4-on-morfologian-kannalta}
 
 Kielten luokittelua erilaisten yhtenevien ja eriävien ominaisuuksien
@@ -335,7 +418,7 @@ kieliä toisaalta \emph{synteettisiin ja analyyttisiin}.
 
 Kumpaan ryhmään venäjä mielestäsi kuuluu?
 
-\section{Morfologian osa-alueita}\label{morfologian-osa-alueita}
+\subsection{Morfologian osa-alueita}\label{morfologian-osa-alueita}
 
 \begin{itemize}
 \item
@@ -345,12 +428,26 @@ Kumpaan ryhmään venäjä mielestäsi kuuluu?
   Funktionaalinen morfologia (функциональная морфология)
 \end{itemize}
 
-\chapter{Morfeemityypeistä ja
+\section{Luento 2: Morfeemityypeistä ja
 sanaluokista}\label{luento-2-morfeemityypeistuxe4-ja-sanaluokista}
 
-\
+\begin{itemize}
+\tightlist
+\item
+  \href{https://mustikka.uta.fi/~juho_harme/morfologia/\#tästä-kurssista}{Takaisin
+  sivun ylälaitaan}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento2.pdf}{Lataa
+  PDF}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento2.html}{Tutki
+  luentokalvoja}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento2.pdf}{Tutki
+  tuntitehtäviä}
+\end{itemize}
 
-\section{Substantiivit, adjektiivit, pronominit,
+\subsection{Substantiivit, adjektiivit, pronominit,
 lukusanat}\label{substantiivit-adjektiivit-pronominit-lukusanat}
 
 Tulevilla luennoilla aletaan tarkemmin perehtyä eri kieliopillisiin
@@ -364,7 +461,7 @@ sanaluokkiin liittyy. Kun myöhemmin siirrytään käsittelemään verbejä,
 otetaan uudestaan käsittelyyn myös nämä kategoriat niiltä osin kuin ne
 verbeillä edustuvat.
 
-\subsection{Substantiivit}\label{substantiivit}
+\subsubsection{Substantiivit}\label{substantiivit}
 
 Substantiivit ovat venäjän yleisin sanaluokka: Venäjän
 kansalliskorpuksen pääaineiston sanoista 28,5\% on substantiiveja.
@@ -378,7 +475,7 @@ substantiiveista. Lisäksi oma ryhmänsä ovat ainesanat kuten каша, неф�
 ym. Substantiivit toimivat erityisen usein lähtökohtina muiden
 sanaluokkien sanojen muodostukselle (ks. Мусатов 2016: 312--).
 
-\subsection{Adjektiivit}\label{adjektiivit}
+\subsubsection{Adjektiivit}\label{adjektiivit}
 
 Myös adjektiivit ilmaisevat suku- luku- ja sijakategorioita sekä ainakin
 välillisesti elollisuuttakin. Niiden erikoisuus ovat lisäksi
@@ -399,7 +496,7 @@ predikatiiveina, kuten esimerkissä 6.
   в методах
 \end{enumerate}
 
-\subsection{Pronominit}\label{pronominit}
+\subsubsection{Pronominit}\label{pronominit}
 
 Pronominit ilmaisevat (joskin vaihtelevasti) luku-, suku- ja
 sijakategorioita sekä ainoana sanaluokkana verbien lisäksi myös
@@ -412,7 +509,7 @@ kannalta kuuluu myös se, että niistä on usein hankala erottaa
 juurimorfeemia ja taivutuspäätteitä. Ajattele vaikka sananmuotoja
 \emph{мне} ja \emph{меня} ja vertaa niitä nominatiivimuotoon \emph{я}.
 
-\subsection{Lukusanat}\label{lukusanat}
+\subsubsection{Lukusanat}\label{lukusanat}
 
 Lukusanat ovat, kuten edellä mainittiin, osittain hämärästi
 määriteltävissä oleva luokka, johon luetaan usein morfologiselta
@@ -425,7 +522,7 @@ sanat ovat merkityksen puolesta lähellä toisiaan (tarkemmin ks.
 Nikunlassi 2002: 123). Morfologiselta kannalta kannattaa kiinnittää
 huomio seuraaviin luokansisäisiin jakoihin:
 
-\subsubsection{Järjestysluvut (порядковые числительные) ja peruslukusanat
+\paragraph{Järjestysluvut (порядковые числительные) ja peruslukusanat
 (количественные
 числителные).}\label{juxe4rjestysluvut-ux43fux43eux440ux44fux434ux43aux43eux432ux44bux435-ux447ux438ux441ux43bux438ux442ux435ux43bux44cux43dux44bux435-ja-peruslukusanat-ux43aux43eux43bux438ux447ux435ux441ux442ux432ux435ux43dux43dux44bux435-ux447ux438ux441ux43bux438ux442ux435ux43bux43dux44bux435.}
 
@@ -433,7 +530,7 @@ Järjestysluvut (esimerkiksi \emph{пятый}) toimivat monessa suhteessa
 adjektiivien tavoin. Niillä ei kuitenkaan ole vertailuasteita tai
 erillisiä lyhyitä ja pitkiä muotoja.
 
-\subsubsection{Perusluvut 1-4 ja muut
+\paragraph{Perusluvut 1-4 ja muut
 luvut}\label{perusluvut-1-4-ja-muut-luvut}
 
 Peruslukusanatkaan eivät ole täysin yhtenäinen joukko. Oma
@@ -447,24 +544,39 @@ nominatiivissa ne toimivat pääsanana ja määräävät niihin liittyvän
 substantiivin sijan (семь столов), mutta muuten käyttäytyvät
 syntaktisessa mielessä adjektiivien tavoin (без семи столов).
 
-\subsubsection{Morfologiset substantiivit}\label{morfologiset-substantiivit}
+\paragraph{Morfologiset substantiivit}\label{morfologiset-substantiivit}
 
 Lukusanoiksi voidaan merkityksensä puolesta luetella myös sanat миллион,
 миллиард ja тысяча, vaikka ne taipuvat kuten mitkä tahansa substantiivit
 ja ilmaisevat niin suku-, luku- kuin sijakategorioita.
 
-\subsubsection{Kollektiivilukusanat}\label{kollektiivilukusanat}
+\paragraph{Kollektiivilukusanat}\label{kollektiivilukusanat}
 
 Oma alaluokkansa lukusanojen sisällä ovat kollektiivilukusanat
 (\emph{двое}, \emph{трое} ym.) joiden käyttöympäristöt ovat melko
 rajattuja. Nekään eivät ilmaise lukua eli eivät tee eroa yksikön ja
 monikon välillä.
 
-\chapter{Luku ja suku kieliopillisina
+\section{Luento 3: Luku ja suku kieliopillisina
 kategorioina}\label{luento-3-luku-ja-suku-kieliopillisina-kategorioina}
 
+\begin{itemize}
+\tightlist
+\item
+  \href{https://mustikka.uta.fi/~juho_harme/morfologia/\#tästä-kurssista}{Takaisin
+  sivun ylälaitaan}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento3.pdf}{Lataa
+  PDF}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento3.html}{Tutki
+  luentokalvoja}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento3.pdf}{Tutki
+  tuntitehtäviä}
+\end{itemize}
 
-\section{Luku kieliopillisena
+\subsection{Luku kieliopillisena
 kategoriana}\label{luku-kieliopillisena-kategoriana}
 
 Kuten edellä todettiin, lukukategoria (категория числа) koostuu
@@ -490,7 +602,7 @@ käyttämään jompaakumpaa, valitaan yksikkö, niin kuin esimerkissä 7:
 Tarkastellaan seuraavassa muutamaa lukukategoriaan liittyvää
 erityistapausta.
 
-\subsection{Erikoistapauksia}\label{erikoistapauksia}
+\subsubsection{Erikoistapauksia}\label{erikoistapauksia}
 
 Substantiiveilla lukukategorian ilmaisemiseen liittyy kaksi
 erityistapausta: niin kutsutut \emph{pluralia tantum}- ja
@@ -520,17 +632,17 @@ Suosittelen tutustumaan näiden termien hyviin Wikipedia-artikkeleihin:
   \href{https://ru.wikipedia.org/wiki/Pluralia_tantum}{pluralia tantum}
 \end{itemize}
 
-\section{Suku kieliopillisena
+\subsection{Suku kieliopillisena
 kategoriana}\label{suku-kieliopillisena-kategoriana}
 
-\subsection{Substantiivien suvun
+\subsubsection{Substantiivien suvun
 määräytyminen}\label{substantiivien-suvun-muxe4uxe4ruxe4ytyminen}
 
 Substantiivien suvun määräytyminen on melko monimutkainen ilmiö.
 Esitettäessä siihen liittyviä säännönmukaisuuksia voidaan päätyä
 hyvinkin erilaisiin kuvausmalleihin. Esittelen tässä kahta vaihtoehtoa.
 
-\subsubsection{Nikunlassin kuvaus}\label{nikunlassin-kuvaus}
+\paragraph{Nikunlassin kuvaus}\label{nikunlassin-kuvaus}
 
 Ahti Nikunlanssi (2002: 149) esittää lähtökohtaisesti hyvin
 yksinkertaisen kaavan, jota soveltamalla substantiivin suku voidaan
@@ -572,7 +684,7 @@ mukaisesti taivu, joten taivutusmuotojen sarjaakaan ei ole olemassa.
 Tämän vuoksi näiden sanojen suvun määrittelemiseen tarvitaan erillisiä
 sääntöjä. Sama koskee esimerkiksi lyhenteitä.
 
-\subsubsection{Šeljakinin kuvaus}\label{ux161eljakinin-kuvaus}
+\paragraph{Šeljakinin kuvaus}\label{ux161eljakinin-kuvaus}
 
 Edellistä perinteisempi tapa opettaa suvun määräytymistä on todeta, että
 äänteisiin X, Y ja Z päättyvät substantiivit ovat maskuliineja,
@@ -708,9 +820,39 @@ Erisnimistä (viides ryhmä) Šeljakin toteaa, että etunimien suku
 luonnollisesti määräytyy sen kantajan mukaan. -он, -ин ja
 -cкий-päättyvistä sukunimistä on erikseen feminiiniversio, muista ei.
 
-\chapter{Sija kieliopillisena
+\section{Luento 4: Sija kieliopillisena
 kategoriana}\label{luento-4-sija-kieliopillisena-kategoriana}
 
+\begin{itemize}
+\tightlist
+\item
+  \href{https://mustikka.uta.fi/~juho_harme/morfologia/\#tästä-kurssista}{Takaisin
+  sivun ylälaitaan}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento4.pdf}{Lataa
+  PDF}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento4.html}{Tutki
+  luentokalvoja}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento4.pdf}{Tutki
+  tuntitehtäviä}
+\end{itemize}
+
+Linkkejä online-harjoituksiin:
+
+\begin{itemize}
+\tightlist
+\item
+  \href{http://www.auburn.edu/~mitrege/russian/exercises/0018g.html}{Monikon
+  nominatiivi}
+\item
+  \href{http://www.auburn.edu/~mitrege/russian/exercises/0095.html}{Genetiivi}
+\item
+  \href{http://www.auburn.edu/~mitrege/russian/exercises/0033.html}{Prepositionaali}
+\item
+  \href{http://www.auburn.edu/~mitrege/russian/exercises/0049.html}{Datiivi}
+\end{itemize}
 
 Sija (падеж) on venäjässä keskeisin nominien taivutuskategoria
 (Nikunlassi 2002: 138). Sijojen ilmaisuvoima on suuri -- eri sijojen
@@ -720,7 +862,7 @@ miten substantiiveista eri sijat muodostetaan, toisin sanoen perehdytään
 substantiivien taivutussarjoihin eli deklinaatioihin (типы склонения
 существительных).
 
-\section{Venäjän sijat}\label{venuxe4juxe4n-sijat}
+\subsection{Venäjän sijat}\label{venuxe4juxe4n-sijat}
 
 Venäjän tavallisimmin käytetyt sijat on lueteltu seuraavassa taulukossa:
 
@@ -789,7 +931,7 @@ Myös nykyvenäjässä voidaan kuitenkin nähdä olevan vokatiivi
 puhekielessä. Nämä muodot lankeavat yhteen monikon genetiivimuodon
 kanssa, esimerkiksi: \emph{Мам!/Пап!/Саш!} (Супрун 2001: 93).
 
-\section{Mitkä ihmeen
+\subsection{Mitkä ihmeen
 deklinaatiot?}\label{mitkuxe4-ihmeen-deklinaatiot}
 
 \emph{Deklinaatiolla} (тип склонения) tarkoitetaan substantiivin
@@ -817,7 +959,7 @@ ryhmitellä monellakin tavalla, ja mikä tapa valitaankin, jäännöksenä
 syntyy aina koko joukko sanoja, jotka eivät oikein sovi mihinkään
 ryhmään ja joita on pidettävä \emph{lekseemikohtaisina poikkeuksina}.
 
-\section{Venäjän substantiivien jaottelu
+\subsection{Venäjän substantiivien jaottelu
 deklinaatioihin}\label{venuxe4juxe4n-substantiivien-jaottelu-deklinaatioihin}
 
 Koulukieliopeissa deklinaatiot typistetään usein kolmeen ja todetaan,
@@ -838,7 +980,7 @@ muodostava \emph{ость}-suffiksi tuottaa kolmannen deklinaation mukaisen
 taivutussarjan. Jos taas sanavartalo koostuu pelkästä juurimorfista,
 määräytyy deklinaatio juurimorfin mukaan.
 
-\subsection{Ensimmäinen
+\subsubsection{Ensimmäinen
 deklinaatio}\label{ensimmuxe4inen-deklinaatio}
 
 Ensimmäiseen deklinaatioon kuuluvat käytännössä \textbf{kaikki
@@ -883,7 +1025,7 @@ Prep. & /е/ \textasciitilde{} /и & столе & учителе\tabularnewline
 \bottomrule
 \end{longtable}
 
-\subsubsection{Miten niin /ем/ ei ole oma
+\paragraph{Miten niin /ем/ ei ole oma
 päätteensä?}\label{miten-niin-ux435ux43c-ei-ole-oma-puxe4uxe4tteensuxe4}
 
 Aika todennäköisesti jokin edellisessä taulukossa ja sitä edeltävässä
@@ -923,7 +1065,7 @@ esiintyy juuri painollista tavua edeltävässä tavussa -- esimerkiksi
 sanoissa Россия, говорить (ensimmäinen näistä o-foneemeista edustaan
 toisen asteen reduktiota, jälkimmäinen ensimmäisen asteen reduktiota).
 
-\subsection{Toinen deklinaatio}\label{toinen-deklinaatio}
+\subsubsection{Toinen deklinaatio}\label{toinen-deklinaatio}
 
 Toiseen deklinaatioon kuuluvat -/а/-morfiin päättyvät sanat. Niiden
 sijapäätteistä voidaan todeta:
@@ -967,7 +1109,7 @@ Prep. & /е/ \textasciitilde{} /и/ & книге & серии & тыкве\tabul
 \bottomrule
 \end{longtable}
 
-\subsection{Kolmas deklinaatio}\label{kolmas-deklinaatio}
+\subsubsection{Kolmas deklinaatio}\label{kolmas-deklinaatio}
 
 Kolmanteen deklinaatioon kuuluvat liudentuneeseen konsonanttiin
 päättyvät feminiinit. Niiden päätteet jakautuvat seuraavasti
@@ -996,7 +1138,7 @@ Prep. & /и/ & тетради & ночи\tabularnewline
 \bottomrule
 \end{longtable}
 
-\subsection{Neljäs deklinaatio}\label{neljuxe4s-deklinaatio}
+\subsubsection{Neljäs deklinaatio}\label{neljuxe4s-deklinaatio}
 
 Neljäs deklinaatio on hyvin samanlainen kuin ensimmäinen: ainoana erona
 on nominatiivi, jota neljännessä deklinaatiossa ei ilmaista
@@ -1020,7 +1162,7 @@ Prep. & /е/ \textasciitilde{} /и/ & месте & поле & пении\tabular
 \bottomrule
 \end{longtable}
 
-\subsection{Viides deklinaatio}\label{viides-deklinaatio}
+\subsubsection{Viides deklinaatio}\label{viides-deklinaatio}
 
 Viidennen deklinaation muodostavat yksinään мя-äänneyhdistelmään
 päättyvät substantiivit. Ne ovat kaikki neutreja.
@@ -1039,7 +1181,7 @@ Prep. & /е/ \textasciitilde{} /и/ & времени\tabularnewline
 \bottomrule
 \end{longtable}
 
-\subsection{Monikon deklinaatiot}\label{monikon-deklinaatiot}
+\subsubsection{Monikon deklinaatiot}\label{monikon-deklinaatiot}
 
 Esittelen seuraavassa Nikunlassin (Nikunlassi 2002: 142) ehdotuksen
 monikon deklinaatioiksi. Monikkomuotojen muodostuksessa helppoa on, että
@@ -1049,7 +1191,7 @@ tulevat esille kaikkein yleisimmissä sijoissa eli nominatiivissa ja
 genetiivissä. Usein (esim. Шелякин 2006: 44) monikolle esitetäänkin
 ainoastaan yksi deklinaatio.
 
-\subsection{Vaihtoehtoisia
+\subsubsection{Vaihtoehtoisia
 jaotteluita}\label{vaihtoehtoisia-jaotteluita}
 
 Kuten kurssilla on painotettu, substantiivit voidaan jakaa
@@ -1072,7 +1214,7 @@ nollapääte ja suku feminiini & ночь, молодёжь\tabularnewline
 \bottomrule
 \end{longtable}
 
-\subsubsection{Ensimmäinen monikon
+\paragraph{Ensimmäinen monikon
 deklinaatio}\label{ensimmuxe4inen-monikon-deklinaatio}
 
 Monikon nominatiivin ja genetiivin kannalta ensimmäinen ja kolmas
@@ -1095,18 +1237,18 @@ päätteen osalta voidaan todeta, että:
 Sija & Päätemorfi & esim. 1 & esim.2 & esim. 3 & esim. 4\tabularnewline
 \midrule
 \endhead
-Nom. & /и/ & экраны & выключАтели & врач & ночи\tabularnewline
-Gen. & /ей/ \textasciitilde{} /ов/ & экранов & выключАтелей & врачей &
+Nom. & /и/ & экраны & выключа́тели & врач & ночи\tabularnewline
+Gen. & /ей/ \textasciitilde{} /ов/ & экранов & выключа́телей & врачей &
 ночей\tabularnewline
-Akk. & /и/ & экраны & выключАтели & врачей & ночи\tabularnewline
-Dat. & /ам/ & экранам & выключАтелям & врачам & ночам\tabularnewline
-Instr. & /ами/ & экранами & выключАтелями & врачами &
+Akk. & /и/ & экраны & выключатели & врачей & ночи\tabularnewline
+Dat. & /ам/ & экранам & выключа́телям & врачам & ночам\tabularnewline
+Instr. & /ами/ & экранами & выключа́телями & врачами &
 ночами\tabularnewline
-Prep. & /ах/ & экранах & выключАтелях & врачах & ночах\tabularnewline
+Prep. & /ах/ & экранах & выключа́телях & врачах & ночах\tabularnewline
 \bottomrule
 \end{longtable}
 
-\subsubsection{Toinen monikon deklinaatio}\label{toinen-monikon-deklinaatio}
+\paragraph{Toinen monikon deklinaatio}\label{toinen-monikon-deklinaatio}
 
 Toinen monikon deklinaatio voidaan muodostaa suoraan toisen yksikön
 deklinaation pohjalta, niin että monikon nominatiivin pääte on /и/ ja
@@ -1126,7 +1268,7 @@ Prep. & /ах/ & книгах\tabularnewline
 \bottomrule
 \end{longtable}
 
-\subsubsection{Kolmas monikon deklinaatio}\label{kolmas-monikon-deklinaatio}
+\paragraph{Kolmas monikon deklinaatio}\label{kolmas-monikon-deklinaatio}
 
 Kolmas monikon deklinaatio saadaan, kun yhdistetään yksikön neljäs ja
 viides deklinaatio. Tällöin voidaan todeta, että monikon nominatiivin
@@ -1146,16 +1288,33 @@ Prep. & /ах/ & временах & гнездах\tabularnewline
 \bottomrule
 \end{longtable}
 
-\chapter{Sija kieliopillisena kategoriana
+\section{Luento 5: Sija kieliopillisena kategoriana
 2}\label{luento-5-sija-kieliopillisena-kategoriana-2}
 
+\begin{itemize}
+\tightlist
+\item
+  \href{https://mustikka.uta.fi/~juho_harme/morfologia/\#tästä-kurssista}{Takaisin
+  sivun ylälaitaan}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento5.pdf}{Lataa
+  PDF}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento5.html}{Tutki
+  luentokalvoja}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento5.pdf}{Tutki
+  tuntitehtäviä}
+\end{itemize}
+
+(Huom: pdf-versiossa wiktionarylinkit eivät toistaiseksi toimi)
 
 Tällä luennolla sijakategoriaa käsitellään vielä taivutusopin kannalta
 ja tarkastellaan poikkeuksia edellä esitettyihin deklinaatioihin sekä
 lisäksi adjektiivien ja pronominien deklinaatioita. Lopuksi pohditaan
 sanapainon vaihtelua eri taivutusmuodoissa.
 
-\section{Sekamuotoja ja
+\subsection{Sekamuotoja ja
 poikkeuksia}\label{sekamuotoja-ja-poikkeuksia}
 
 Edellä lueteltujen viiden taivutustyypin voi nähdä muodostavan
@@ -1164,9 +1323,9 @@ sovittaa. Näiden ulkopuolelle jää kuitenkin väistämättä iso joukko
 substantiiveja. Seuraavassa esitetään muutamia huomioita ja
 säännönmukaisuuksia näistä sanoista.
 
-\subsection{Muutoksia vartaloissa}\label{muutoksia-vartaloissa}
+\subsubsection{Muutoksia vartaloissa}\label{muutoksia-vartaloissa}
 
-\subsubsection{Äänteenmuutokset}\label{uxe4uxe4nteenmuutokset}
+\paragraph{Äänteenmuutokset}\label{uxe4uxe4nteenmuutokset}
 
 \subparagraph{Väistyvä vokaali}\label{vuxe4istyvuxe4-vokaali}
 
@@ -1300,7 +1459,7 @@ sisältävät väistyvän vokaalin, sana близнЕц ei. Sanat \emph{кОре
 Lisäksi on todettava, että tiettyjen konsonanttiyhdistelmien läsnä
 ollessa nollavokaali ei esiinny, vaikka voisi olettaa: хитрЕц-хитрецА.
 
-\subsubsection{Muita
+\paragraph{Muita
 äänteenmuutostapauksia}\label{muita-uxe4uxe4nteenmuutostapauksia}
 
 Väistyvän vokaalin lisäksi myös eräät muut ilmiöt vaikuttavat
@@ -1310,7 +1469,7 @@ substantiivien sijataivutukseen. Näitä ovat esimerkiksi
 vartalo (vrt. yks.gen. соседа - mon.gen соседей). (Nikunlassi 2002:
 141).
 
-\subsubsection{Yksittäisiä tapauksia}\label{yksittuxe4isiuxe4-tapauksia}
+\paragraph{Yksittäisiä tapauksia}\label{yksittuxe4isiuxe4-tapauksia}
 
 Substantiiveilla мать ja дочь on useimmissa sijamuodoissa poikkeava
 vartalo:
@@ -1355,7 +1514,7 @@ jonka monikon genetiivimuoto on hankala määritellä. Ainoa järkevä
 ratkaisu on käyttää muotoa \emph{мечтаний}, jonka voi varsinaisesti
 nähdä olevan peräisin sanasta \emph{мечтание}.
 
-\subsection{Monikkoon liittyviä
+\subsubsection{Monikkoon liittyviä
 poikkeuksia}\label{monikkoon-liittyviuxe4-poikkeuksia}
 
 Monilla 1. deklinaatioon kuuluvilla sanoilla monikon pääte ei aina ole
@@ -1391,7 +1550,7 @@ noudattaa muuten neljättä deklinaatiota, mutta monikon nominatiivi ei
 osukaan edellä monikon kolmanneksi deklinaatioksi määriteltyyn ryhmään
 vaan ilmaistaan /и/-morfilla.
 
-\subsection{Sekadeklinaatioita}\label{sekadeklinaatioita}
+\subsubsection{Sekadeklinaatioita}\label{sekadeklinaatioita}
 
 Tietyt sukunimet taipuvat muuten 1. deklinaation mukaan, mutta niiden
 yksikön instrumentaalimuoto muistuttaa adjektiivien
@@ -1444,7 +1603,7 @@ Prep. & /и/ & пути\tabularnewline
 \bottomrule
 \end{longtable}
 
-\section{Deklinaatioista ja
+\subsection{Deklinaatioista ja
 painotyypeistä}\label{deklinaatioista-ja-painotyypeistuxe4}
 
 Aleksandr Isatšenko toteaa laajassa venäjän kieliopin kuvauksessaan
@@ -1479,7 +1638,7 @@ taulukkoon:
 
 \begin{figure}[htbp]
 \centering
-\includegraphics{kasatkin.png}
+\includegraphics{materiaalit/kasatkin.png}
 \caption{}
 \end{figure}
 
@@ -1490,7 +1649,7 @@ Siihen kannattaa palata, kun käyt läpi seuraavassa esitettyjä
 deklinaatiokohtaisia painotyyppejä. Tarkasteluni perustuu Isatšenkon
 (2003{[}1965{]}: 130--136, 141--143, 152--156, 161) esitykseen.
 
-\subsection{I deklinaation
+\subsubsection{I deklinaation
 painotyypit}\label{i-deklinaation-painotyypit}
 
 Ensimmäisen deklinaation sanoille voidaan erottaa viisi painotyyppiä,
@@ -1509,7 +1668,7 @@ joita nimitän tässä seuraavasti:
   волк-tyyppi
 \end{enumerate}
 
-\subsubsection{ЗавОд-tyyppi}\label{ux437ux430ux432ux43eux434-tyyppi}
+\paragraph{ЗавОд-tyyppi}\label{ux437ux430ux432ux43eux434-tyyppi}
 
 ЗавОд-tyypin sanoissa paino on niin yksikössä kuin monikossa vartalolla:
 
@@ -1554,7 +1713,7 @@ Tähän tyyppiin kuuluu suuri osa maskuliineista. Joukossa on
   \textbf{erisnimiä} ИвАн, НиколАй, БетхОвен, ДунАй
 \end{enumerate}
 
-\subsubsection{Стол-tyyppi}\label{ux441ux442ux43eux43b-tyyppi}
+\paragraph{Стол-tyyppi}\label{ux441ux442ux43eux43b-tyyppi}
 
 Стол-tyypin sanoilla paino on yksikön nominatiivissa (ja akkusatiivissa)
 teknisesti ottaen vartalolla (usein suffiksilla, kuten -ец), kaikissa
@@ -1629,7 +1788,7 @@ tuottavat tämän painotyypin substantiivin:
   ич: ИльИч, кирпИч
 \end{itemize}
 
-\subsubsection{Нос-tyyppi}\label{ux43dux43eux441-tyyppi}
+\paragraph{Нос-tyyppi}\label{ux43dux43eux441-tyyppi}
 
 Нос-tyypissä paino on yksikössä vartalolla, monikossa päätteellä:
 
@@ -1694,7 +1853,7 @@ epäsäännöllinen /а/-päätteinen monikon nominatiivi:
 \href{http://ru.wiktionary.org/wiki/\%D0\%B4\%D1\%80\%D1\%83\%D0\%B3}{друг},
 \href{http://ru.wiktionary.org/wiki/\%D0\%BA\%D0\%BD\%D1\%8F\%D0\%B7\%D1\%8C}{князь}.
 
-\subsubsection{Волк-tyyppi}\label{ux432ux43eux43bux43a-tyyppi}
+\paragraph{Волк-tyyppi}\label{ux432ux43eux43bux43a-tyyppi}
 
 Волк-tyypin sanoilla paino on vartalolla yksikössä sekä monikon
 nominatiivi-/akkusatiivimuodoilla, muuten päätteellä:
@@ -1733,7 +1892,7 @@ Tähän ryhmään kuuluu lähinnä vanhoja kantavenäläisiä sanoja: бог, в
 \href{http://ru.wiktionary.org/wiki/\%D1\%87\%D1\%91\%D1\%80\%D1\%82}{чёрт},
 \href{http://ru.wiktionary.org/wiki/\%D1\%83\%D0\%B3\%D0\%BE\%D0\%BB\%D1\%8C}{уголь}.
 
-\subsection{II deklinaation
+\subsubsection{II deklinaation
 painotyypit}\label{ii-deklinaation-painotyypit}
 
 Toinen deklinaatio on sanapainon kannalta ehkä kielenoppijalle kaikkein
@@ -1782,7 +1941,7 @@ Mainittujen pääryhmien ulkopuolelle jäävät muun muassa sanat
 sekä
 \href{http://ru.wiktionary.org/wiki/\%D0\%B4\%D0\%BE\%D0\%BB\%D1\%8F}{дОля}.
 
-\subsubsection{ШкОла-tyyppi}\label{ux448ux43aux43eux43bux430-tyyppi}
+\paragraph{ШкОла-tyyppi}\label{ux448ux43aux43eux43bux430-tyyppi}
 
 Tavallisin ja produktiivisin toisen deklinaation tyypeistä on
 школа-tyyppi, jonka sanoilla paino on muuttumattomasti aina vartalolla:
@@ -1831,7 +1990,7 @@ Joukosta voi erottaa omiksi ryhmikseen:
   \href{http://ru.wiktionary.org/wiki/\%D0\%BF\%D0\%BE\%D0\%BB\%D0\%B5\%D0\%BC\%D0\%B8\%D0\%BA\%D0\%B0}{полЕмика}
 \end{enumerate}
 
-\subsubsection{Sanat, joilla yksikössä paino aina
+\paragraph{Sanat, joilla yksikössä paino aina
 päätteellä}\label{sanat-joilla-yksikuxf6ssuxe4-paino-aina-puxe4uxe4tteelluxe4}
 
 Kuten edellä todettiin, tämä joukko on mielekästä jakaa kolmeen
@@ -1954,7 +2113,7 @@ prep. & волнЕ & вОлнах \textasciitilde{} волнАх\tabularnewline
 \href{http://ru.wiktionary.org/wiki/\%D1\%81\%D1\%83\%D0\%B4\%D1\%8C\%D0\%B1\%D0\%B0}{судьбА},
 \href{http://ru.wiktionary.org/wiki/\%D1\%81\%D1\%83\%D0\%B4\%D1\%8C\%D1\%8F}{судьЯ}.
 
-\subsubsection{Sanat, joissa yksikön akkusatiivi muodostaa
+\paragraph{Sanat, joissa yksikön akkusatiivi muodostaa
 poikkeuksen}\label{sanat-joissa-yksikuxf6n-akkusatiivi-muodostaa-poikkeuksen}
 
 Tähän ryhmään kuuluvat sanat ovat monet erittäin tavallisia, ja painon
@@ -2044,7 +2203,7 @@ Tyyppi on harvalukuinen, sen tavallisimpia sanoja ovat
 \href{http://ru.wiktionary.org/wiki/\%D0\%B8\%D0\%B7\%D0\%B1\%D0\%B0}{избА}
 (`pieni mökki').
 
-\subsection{III deklinaation
+\subsubsection{III deklinaation
 painotyyppejä}\label{iii-deklinaation-painotyyppejuxe4}
 
 Kolmas deklinaatio voidaan jakaa kahteen pääryhmään:
@@ -2058,7 +2217,7 @@ Kolmas deklinaatio voidaan jakaa kahteen pääryhmään:
   Вещь-tyyppi
 \end{enumerate}
 
-\subsubsection{тетрадь-tyyppi}\label{ux442ux435ux442ux440ux430ux434ux44c-tyyppi}
+\paragraph{тетрадь-tyyppi}\label{ux442ux435ux442ux440ux430ux434ux44c-tyyppi}
 
 Тертрадь-tyyppi on produktiivinen ja yleinen. Paino lankeaa kaikissa
 muodoissa vartalolle:
@@ -2111,7 +2270,7 @@ seuraaviin alaryhmiin:
   \href{http://ru.wiktionary.org/wiki/\%D0\%BF\%D0\%B0\%D0\%BD\%D0\%B5\%D0\%BB\%D1\%8C}{панЕль}
 \end{enumerate}
 
-\subsubsection{вещь-tyyppi}\label{ux432ux435ux449ux44c-tyyppi}
+\paragraph{вещь-tyyppi}\label{ux432ux435ux449ux44c-tyyppi}
 
 Вещь-tyyppiin kuuluvat III deklinaation sanat, joissa monikon
 obliikvisijoissa paino lankeaa päätteelle:
@@ -2171,7 +2330,7 @@ Lisäksi muutamat sanat kuten
 kuuluvat tähän tyyppiin, mutta niillä on olemassa lokatiivimuoto (в
 печИ).
 
-\subsection{IV deklinaation
+\subsubsection{IV deklinaation
 painotyyppejä}\label{iv-deklinaation-painotyyppejuxe4}
 
 Neljäs deklinaatio jakautuu painotyyppien puolesta seuraaviin ryhmiin:
@@ -2187,7 +2346,7 @@ Neljäs deklinaatio jakautuu painotyyppien puolesta seuraaviin ryhmiin:
   письмо-tyyppi
 \end{enumerate}
 
-\subsubsection{Богатство-tyyppi}\label{ux431ux43eux433ux430ux442ux441ux442ux432ux43e-tyyppi}
+\paragraph{Богатство-tyyppi}\label{ux431ux43eux433ux430ux442ux441ux442ux432ux43e-tyyppi}
 
 Neljännen deklinaation perustyyppiä edustavat богатство-sanan kaltaiset
 sanat, joilla paino pysyy joka muodossa vartalolla.
@@ -2229,7 +2388,7 @@ Tähän ryhmään kuuluu seuraavanlaisia sanoja:
   \href{http://ru.wiktionary.org/wiki/\%D1\%81\%D0\%B5\%D1\%80\%D0\%B4\%D0\%B5\%D1\%87\%D0\%BA\%D0\%BE}{сердЕчко},\href{http://ru.wiktionary.org/wiki/\%D0\%BE\%D0\%BA\%D0\%BE\%D1\%88\%D0\%B5\%D1\%87\%D0\%BA\%D0\%BE}{окОшечко}
 \end{itemize}
 
-\subsubsection{слово-tyyppi}\label{ux441ux43bux43eux432ux43e-tyyppi}
+\paragraph{слово-tyyppi}\label{ux441ux43bux43eux432ux43e-tyyppi}
 
 Erotuksena edellisestä tyypissä lankeavat tässä tyypissä monikon
 päätesarjan kaikki painot päätteelle:
@@ -2270,7 +2429,7 @@ viimeiselle:
 \href{http://ru.wiktionary.org/wiki/\%D0\%B4\%D0\%B5\%D1\%80\%D0\%B5\%D0\%B2\%D0\%BE}{дЕрево},
 \href{http://ru.wiktionary.org/wiki/\%D0\%BE\%D0\%B7\%D0\%B5\%D1\%80\%D0\%BE}{Озеро}
 
-\subsubsection{Письмо-tyyppi}\label{ux43fux438ux441ux44cux43cux43e-tyyppi}
+\paragraph{Письмо-tyyppi}\label{ux43fux438ux441ux44cux43cux43e-tyyppi}
 
 Письмо-tyypin sanoissa kaikkien yksikkömuotojen painot ovat päätteellä.
 Monikossa paino siirtyy edelliselle tavulle:
@@ -2319,9 +2478,26 @@ Huomaa seuraavien sanojen vartaloissa tapahtuvat muutokset:
 \href{http://ru.wiktionary.org/wiki/\%D0\%BF\%D0\%BB\%D0\%B5\%D1\%87\%D0\%BE}{плечо},
 \href{http://ru.wiktionary.org/wiki/\%D0\%BA\%D0\%BE\%D0\%BB\%D1\%8C\%D1\%86\%D0\%BE}{кольцо}
 
-\chapter{Adjektiiveista, pronomineista ja
+\section{Luento 6: Adjektiiveista, pronomineista ja
 lukusanoista}\label{luento-6-adjektiiveista-pronomineista-ja-lukusanoista}
 
+\begin{itemize}
+\tightlist
+\item
+  \href{https://mustikka.uta.fi/~juho_harme/morfologia/\#tästä-kurssista}{Takaisin
+  sivun ylälaitaan}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento6.pdf}{Lataa
+  PDF}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento6.html}{Tutki
+  luentokalvoja}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento6.pdf}{Tutki
+  tuntitehtäviä}
+\end{itemize}
+
+\href{https://docs.google.com/spreadsheets/d/1n4WqBONRjtiLKoFl87xQpMH8qGzxT6h7b2oViWuws8k/edit?usp=sharing}{Painotyyppitehtävä}
 
 Tähän asti olemme tutustuneet sijakategoriaan vasta taivutusopin
 kannalta ja vain substantiivien osalta. Tällä luennolla mietitään muiden
@@ -2332,7 +2508,7 @@ kohtuuttomankin tiivis ja pikainen katsaus melko laajaan joukkoon
 ilmiöitä. Pyrin kompensoimaan tätä antamalla vinkkejä lisälukemiselle ja
 toisaalta kotona tehtävillä internetharjoituksilla.
 
-\section{Adjektiivien ja pronominien
+\subsection{Adjektiivien ja pronominien
 sijataivutus}\label{adjektiivien-ja-pronominien-sijataivutus}
 
 Kuten substantiivien kohdalla, seuraamme myös adjektiivien osalta
@@ -2434,7 +2610,7 @@ Prep. & моём & моей & моём & моих\tabularnewline
 \bottomrule
 \end{longtable}
 
-\section{Lukusanoista}\label{lukusanoista}
+\subsection{Lukusanoista}\label{lukusanoista}
 
 Lukusanat ovat venäjässä heterogeeninen ryhmä sanoja. Ordinaalilukusanat
 (järjestysluvut, порядковые числительные) taipuvat venäjässä
@@ -2564,10 +2740,10 @@ kollektiivilukusanoja käytetään (Wade 2010: 221--222):
   стояли на углу}.
 \end{enumerate}
 
-\section{Adjektiiveihin liittyviä
+\subsection{Adjektiiveihin liittyviä
 ilmiöitä}\label{adjektiiveihin-liittyviuxe4-ilmiuxf6ituxe4}
 
-\subsection{Laatu- ja
+\subsubsection{Laatu- ja
 relaatioadjektiivit}\label{laatu--ja-relaatioadjektiivit}
 
 Adjektiivien luokan sisällä voidaan tehdä osittain merkitykseen
@@ -2597,7 +2773,7 @@ alempana). Nikunlassi (Nikunlassi 2002: 132) antaa relaatioadjektiivista
 Šeljakin (2006: 72) puolestaan mainitsee muun muassa sanat
 \emph{железный} ja \emph{московский}.
 
-\subsection{Lyhyet ja pitkät
+\subsubsection{Lyhyet ja pitkät
 muodot}\label{lyhyet-ja-pitkuxe4t-muodot}
 
 Kuten jo peruskoulusta muistat, monilla venäjän adjektiivilekseemeillä
@@ -2757,7 +2933,7 @@ henkilösubjekti:
   Он был холодным / холоден. \textbf{MUTTA} Дом был холоден.
 \end{enumerate}
 
-\subsection{Possessiiviadjektiivit}\label{possessiiviadjektiivit}
+\subsubsection{Possessiiviadjektiivit}\label{possessiiviadjektiivit}
 
 Possessiiviadjektiivit (притяжательные прилагательные) ilmaisevat jonkin
 esineen, asian tai ominaisuuden kuulumista jollekin (elolliselle)
@@ -2794,7 +2970,7 @@ liittämällä adjektiivin pääte yleisnimeen. Samalla tapahtuu
 Possessiiviadjektiivit taipuvat edellä esitetyn pronominideklinaation
 mukaisesti.
 
-\subsection{Vertailuaste kieliopillisena
+\subsubsection{Vertailuaste kieliopillisena
 kategoriana}\label{vertailuaste-kieliopillisena-kategoriana}
 
 Vertailuaste on kieliopillinen kategoria, jota ilmaisevat ainoastaan
@@ -2887,7 +3063,7 @@ uudesta vartalosta. Tällaisia muotoja sanotaan \emph{suppletiivisiksi}
   маленький - меньше
 \end{itemize}
 
-\subsubsection{Morfosyntaksia}\label{morfosyntaksia}
+\paragraph{Morfosyntaksia}\label{morfosyntaksia}
 
 Yksinkertaisen komparatiivin muodot ovat syntaksin kannalta
 poikkeuksellisia muihin adjektiivimuotoihin verrattuna. Ne eivät
@@ -2905,19 +3081,34 @@ käytännössä aina predikatiivisesti, kuten seuraavissa esimerkeissä:
   счёте победили
 \end{enumerate}
 
-\chapter{Sijat funktionaalisen morfologian
+\section{luento 7: Sijat funktionaalisen morfologian
 kannalta}\label{luento-7-sijat-funktionaalisen-morfologian-kannalta}
 
+\begin{itemize}
+\tightlist
+\item
+  \href{https://mustikka.uta.fi/~juho_harme/morfologia/\#tästä-kurssista}{Takaisin
+  sivun ylälaitaan}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento7.pdf}{Lataa
+  PDF}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento7.html}{Tutki
+  luentokalvoja}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento7.pdf}{Tutki
+  tuntitehtäviä}
+\end{itemize}
 
 Nyt siirrymme taivutusopista kohti funktionaalista morfologiaa ja
-ryhdymme tarkastelemaan, mitä eri merkityksiä ja käyttöyhteyksiä eri
+ryhdymme tarkastelemaan, miten eri merkityksiä ja käyttöyhteyksiä eri
 sijoilla (sijakategorian arvoilla) on. Yksi monimerkityksisimmistä on
 genetiivi.
 
-\section{Genetiivin
+\subsection{Genetiivin
 perusmerkitykset}\label{genetiivin-perusmerkitykset}
 
-\subsection{Suomen genetiiviin verrattavia
+\subsubsection{Suomen genetiiviin verrattavia
 merkityksiä}\label{suomen-genetiiviin-verrattavia-merkityksiuxe4}
 
 Genetiiville voidaan erottaa esimerkiksi seuraavia merkityksiä (vrt.
@@ -3015,12 +3206,12 @@ katto, lehden lukeminen, lentokoneen keksijä}. Usein venäjän
 genetiivillä on kuitenkin tehtäviä, joita suomessa toteuttaa partitiivi
 (joskus kumpikin: maan osa / osa maata).
 
-\subsection{Suomen partitiiviin verrattavia
+\subsubsection{Suomen partitiiviin verrattavia
 merkityksiä}\label{suomen-partitiiviin-verrattavia-merkityksiuxe4}
 
 Suomen partitiivia muistuttavat etenkin seuraavat käyttötilanteet:
 
-\subsubsection{Määrän ilmaisut:}\label{muxe4uxe4ruxe4n-ilmaisut}
+\paragraph{Määrän ilmaisut:}\label{muxe4uxe4ruxe4n-ilmaisut}
 
 \begin{enumerate}
 \def\labelenumi{(\arabic{enumi})}
@@ -3042,7 +3233,7 @@ Tähän liittyvät myös \emph{tarpeeksi suurta määrää} kuuvaavat ilmaisut:
   денег не хватает
 \end{enumerate}
 
-\subsubsection{Vertailun kohde}\label{vertailun-kohde}
+\paragraph{Vertailun kohde}\label{vertailun-kohde}
 
 \begin{enumerate}
 \def\labelenumi{(\arabic{enumi})}
@@ -3054,12 +3245,12 @@ Tähän liittyvät myös \emph{tarpeeksi suurta määrää} kuuvaavat ilmaisut:
   Лев сильнее человека
 \end{enumerate}
 
-\subsection{Mitan ilmaukset}\label{mitan-ilmaukset}
+\subsubsection{Mitan ilmaukset}\label{mitan-ilmaukset}
 
 Genetiivi voi ilmasta, että jotakin on abstraktin mittayksikön (литр
 воды) tai jonkin konkreettisen esineen määrän verran (чашка молока).
 
-\subsubsection{Varsinaisia partitiivisia
+\paragraph{Varsinaisia partitiivisia
 merkityksiä}\label{varsinaisia-partitiivisia-merkityksiuxe4}
 
 Kuten aiemmilta luennoilta muistat, venäjästä voidaan jopa erotella
@@ -3113,7 +3304,7 @@ Poikkeus tästä rajoituksesta ovat verbit хотеть ja просить:
   Ты хочешь мороженого?
 \end{enumerate}
 
-\section{Genetiivi verbin
+\subsection{Genetiivi verbin
 täydennyksenä}\label{genetiivi-verbin-tuxe4ydennyksenuxe4}
 
 Syntaksin (синтаксис) eli lauseopin kannalta oleellisia käsitteitä ovat
@@ -3173,7 +3364,7 @@ täydennyksen olla genetiivissä vai ei) voidaan todeta seuraavaa:
   tai varsinkaan henkilöihin viittaavat.
 \end{enumerate}
 
-\subsection{Kysymistä, etsimistä ja saavuttamista tarkoittavat
+\subsubsection{Kysymistä, etsimistä ja saavuttamista tarkoittavat
 verbit}\label{kysymistuxe4-etsimistuxe4-ja-saavuttamista-tarkoittavat-verbit}
 
 Genetiivitäydennyksen saavat verbit voi ryhmitellä väljästi merkityksen
@@ -3227,7 +3418,7 @@ Seuraavissa esimerkeissä puolestaan on akkusatiivitäydennys:
   Таню}
 \end{enumerate}
 
-\subsection{Pelkäämistä ja välttelyä tarkoittavat
+\subsubsection{Pelkäämistä ja välttelyä tarkoittavat
 verbit}\label{pelkuxe4uxe4mistuxe4-ja-vuxe4lttelyuxe4-tarkoittavat-verbit}
 
 Tähän ryhmään kuuluvat verbit ovat yleensä vahvasti genetiiviä
@@ -3261,7 +3452,7 @@ Etenkin henkilöviittauksissa akkusatiivi on mahdollinen.
   Мои дети не избегают меня, как я \emph{избегал папу}.
 \end{enumerate}
 
-\subsection{Muita
+\subsubsection{Muita
 merkitysryppäitä}\label{muita-merkitysryppuxe4ituxe4}
 
 Myös menettämistä tai poistamista tarkoittavat verbit kuten
@@ -3275,7 +3466,7 @@ Myös menettämistä tai poistamista tarkoittavat verbit kuten
   Спустя два года \emph{работы} лишился еще один чиновник.
 \end{enumerate}
 
-\section{Genetiivi ja kieltomuodot}\label{genetiivi-ja-kieltomuodot}
+\subsection{Genetiivi ja kieltomuodot}\label{genetiivi-ja-kieltomuodot}
 
 Edellä käsiteltiin konkreettisia sanoja, joiden täydennykset ovat usein
 tai aina genetiivissä. Kokonaan oma teemansa ovat kieltolauseet ja
@@ -3284,7 +3475,7 @@ genetiivin esiintyminen niissä. Venäjän niin kutsuttu
 отрицательных конструкциях) on saanut osakseen mittavaa tutkimustyötä ja
 huomiota (ks. esim. Partee and Borschev 2006).
 
-\subsection{Subjekti genetiivissä}\label{subjekti-genetiivissuxe4}
+\subsubsection{Subjekti genetiivissä}\label{subjekti-genetiivissuxe4}
 
 Jos lähdetään liikkeelle tutusta ja yksinkertaisesta, voidaan todeta,
 että venäjässä on joukko kieltorakenteita, joihin liittyy aina
@@ -3333,7 +3524,7 @@ kieliopillisen subjektin sijaksi tulee genetiivi:
   наблюдается.
 \end{enumerate}
 
-\subsection{Objekti genetiivissä}\label{objekti-genetiivissuxe4}
+\subsubsection{Objekti genetiivissä}\label{objekti-genetiivissuxe4}
 
 Eniten epäselvyyttä genetiivi--akkusatiivi-opposition suhteen
 aiheuttavat tapaukset, joissa kieltolauseen verbillä on
@@ -3428,7 +3619,7 @@ seuraavassa Waden (2010: 113) esimerkissä:
   Он не вполне усвоил урок.
 \end{enumerate}
 
-\section{Genetiivi ja prepositiot}\label{genetiivi-ja-prepositiot}
+\subsection{Genetiivi ja prepositiot}\label{genetiivi-ja-prepositiot}
 
 Genetiivi ilmaisee prepositioiden yhteydessä usein samoja asioita kuin
 itsenäisestikin käytettynä. Mahdollisia merkityksiä ovat esimerkiksi
@@ -3446,11 +3637,26 @@ itsenäisestikin käytettynä. Mahdollisia merkityksiä ovat esimerkiksi
   muita: без, вместо,
 \end{itemize}
 
-\chapter{Sijat funktionaalisen morfologian kannalta
+\section{luento 8: Sijat funktionaalisen morfologian kannalta
 2.}\label{luento-8-sijat-funktionaalisen-morfologian-kannalta-2.}
 
+\begin{itemize}
+\tightlist
+\item
+  \href{https://mustikka.uta.fi/~juho_harme/morfologia/\#tästä-kurssista}{Takaisin
+  sivun ylälaitaan}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento8.pdf}{Lataa
+  PDF}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento8.html}{Tutki
+  luentokalvoja}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento8.pdf}{Tutki
+  tuntitehtäviä}
+\end{itemize}
 
-\section{Datiivin merkityksiä ja
+\subsection{Datiivin merkityksiä ja
 käyttöä}\label{datiivin-merkityksiuxe4-ja-kuxe4yttuxf6uxe4}
 
 Vaikka genetiivi on venäjän sijoista ehkä monikäyttöisin, myös
@@ -3459,7 +3665,7 @@ merkityksiä. Šeljakin (2006: 63--65) erottaa itse asiassa kaikkiaan
 yhdeksän eri merkitysrypästä, joista seuraavassa tarkastellaan
 huomionarvoisimpia ja vähemmän itsestäänselviä.
 
-\subsection{Tuttuja merkityksiä}\label{tuttuja-merkityksiuxe4}
+\subsubsection{Tuttuja merkityksiä}\label{tuttuja-merkityksiuxe4}
 
 Ensinnäkin voidaan todeta, että niin kuin käytännössä kaikilla venäjän
 sijoilla, myös datiivilla on koko joukko paikallismerkityksiä, jotka
@@ -3560,7 +3766,7 @@ Toinen ajallinen perusmerkitys on suomen instruktiivia vastaava:
 mukaanlukien' saa viereensä datiivin sijasta \emph{akkusatiivin}:
 магазин работает с понедельника по пятницу.
 
-\subsection{Datiivi semanttisena
+\subsubsection{Datiivi semanttisena
 subjektina}\label{datiivi-semanttisena-subjektina}
 
 Datiivi on merkittävä sija venäjässä myös siitä syystä, että sillä on
@@ -3605,7 +3811,7 @@ jostakin'):
   киномеханик}.
 \end{enumerate}
 
-\subsection{Datiivi verbin
+\subsubsection{Datiivi verbin
 täydennyksenä}\label{datiivi-verbin-tuxe4ydennyksenuxe4}
 
 On joukko verbejä, joiden täydennyksen sija on datiivi. Verrattuna
@@ -3677,7 +3883,7 @@ Kiinnitä huomiota datiivin rooliin verbeissä запрешать / разреш
 Kiellon/sallimisen kohteena oleva asia tai esine on siis akkusatiivissa
 ja se, jolla oikeus asiaan on tai jolta se viedään, on datiivissa.
 
-\subsection{Datiivi adjektiivien
+\subsubsection{Datiivi adjektiivien
 täydennyksenä}\label{datiivi-adjektiivien-tuxe4ydennyksenuxe4}
 
 Paitsi verbit, myös adjektiivit voivat saada datiivimuotoisen
@@ -3696,7 +3902,7 @@ yleensä lyhyttä muotoa.
   Гёте писал в ``Фаусте'': ``Ты \emph{равен тому}, кого понимаешь''.
 \end{enumerate}
 
-\subsection{Lisää merkityksiä}\label{lisuxe4uxe4-merkityksiuxe4}
+\subsubsection{Lisää merkityksiä}\label{lisuxe4uxe4-merkityksiuxe4}
 
 Seuraavaan on koottu joukko tapauksia, joissa datiivin käyttö ei
 välttämättä ole yhtä tuttua kuin edellä mainituissa tapauksissa.
@@ -3756,11 +3962,26 @@ antamisen kohteelle annetaan yksi kappale annettavaa esinettä:
   \emph{по гвоздике}.
 \end{enumerate}
 
-\chapter{Sijat funktionaalisen morfologian kannalta
+\section{Luento 9: Sijat funktionaalisen morfologian kannalta
 3}\label{luento-9-sijat-funktionaalisen-morfologian-kannalta-3}
 
+\begin{itemize}
+\tightlist
+\item
+  \href{https://mustikka.uta.fi/~juho_harme/morfologia/\#tästä-kurssista}{Takaisin
+  sivun ylälaitaan}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento9.pdf}{Lataa
+  PDF}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento9.html}{Tutki
+  luentokalvoja}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento9.pdf}{Tutki
+  tuntitehtäviä}
+\end{itemize}
 
-\section{Elollisuuskategoria}\label{elollisuuskategoria}
+\subsection{Elollisuuskategoria}\label{elollisuuskategoria}
 
 Elollisuus (одушевлённость) on aspektin ohella yksi niistä venäjän
 kieliopillisista kategorioista, jotka suomessa eivät ole kieliopillisen
@@ -3768,7 +3989,7 @@ kategorian asemassa. Kuten suku, myös elollisuus on ominaisuus, joka
 määräytyy substantiivin vartalon mukaan, mutta ilmenee ennen kaikkea
 kongruoivien sanojen muotojen kautta (Nikunlassi 2002: 152).
 
-\section{Miten elollisuuskategoria
+\subsection{Miten elollisuuskategoria
 ilmenee?}\label{miten-elollisuuskategoria-ilmenee}
 
 Elollisuuskategoria ja akkusatiivin sija liittyvät venäjässä kiinteästi
@@ -3805,7 +4026,7 @@ Jos taas substantiivi kuuluu II deklinaatioon, akkusatiivilla on
 Elollisuuskategorian ilmaiseminen on siis morfologisesti yksinkertaista.
 Hieman mutkikkaampi on kysymys siitä, \emph{milloin} sana on elollinen.
 
-\section{Milloin elollisuuskategoria
+\subsection{Milloin elollisuuskategoria
 ilmenee?}\label{milloin-elollisuuskategoria-ilmenee}
 
 Šeljakin (2006: 43) huomauttaa, että \emph{elollisuus} ja
@@ -3865,7 +4086,7 @@ kollektiivilukusanat, kuten seuraavissa esimerkeissä:
   Тринадцатого июля вершилась казнь. Вешали \emph{четверых} декабристов.
 \end{enumerate}
 
-\subsection{Erityistapauksia}\label{erityistapauksia}
+\subsubsection{Erityistapauksia}\label{erityistapauksia}
 
 Nikunlassin (2002: 153) perusteella voidaan luetella seuraavat
 elollisuuskategorian ilmenemiseen liittyvät erikoistapaukset:
@@ -3902,7 +4123,7 @@ elollisuuskategorian ilmenemiseen liittyvät erikoistapaukset:
   Рыбаки ловят \emph{креветок}, готовятся к завтрашней рыбалке.
 \end{enumerate}
 
-\section{Akkusatiivin
+\subsection{Akkusatiivin
 merkityksistä}\label{akkusatiivin-merkityksistuxe4}
 
 Akkusatiivin perusmerkitys on selkeä: kyseessä on suoran objektin sija,
@@ -3989,11 +4210,26 @@ Viimeisenä hajanaisena akkusatiivihuomiona kehotan muistamaan myös
 seuraavat akkusatiivin käyttötilanteet: \emph{за какую цену / ни за что,
 учиться на кого}.
 
-\chapter{Sijat funktionaalisen morfologian kannalta
+\section{Luento 10: Sijat funktionaalisen morfologian kannalta
 4}\label{luento-10-sijat-funktionaalisen-morfologian-kannalta-4}
 
+\begin{itemize}
+\tightlist
+\item
+  \href{https://mustikka.uta.fi/~juho_harme/morfologia/\#tästä-kurssista}{Takaisin
+  sivun ylälaitaan}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento10.pdf}{Lataa
+  PDF}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento10.html}{Tutki
+  luentokalvoja}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento10.pdf}{Tutki
+  tuntitehtäviä}
+\end{itemize}
 
-\section{Instrumentaalin
+\subsection{Instrumentaalin
 merkityksiä}\label{instrumentaalin-merkityksiuxe4}
 
 Aloitetaan myös instrumentaalin perusmerkitysten käsittely paikkaan ja
@@ -4050,7 +4286,7 @@ Ajallisesta merkityksestä on kyse myös silloin, kun kuvataan jotain
 toimintaa alkavaksi suhteessa johonkin tapahtumaan: \emph{встать с
 солнцем, уехать с рассветом} (Шелякин 2006: 68).
 
-\subsection{Agentti}\label{agentti}
+\subsubsection{Agentti}\label{agentti}
 
 Kuten tunnettua, eräs instrumentaalin tehtävistä on ilmaista
 passiivilauseiden tekijää:
@@ -4086,7 +4322,7 @@ A. Mustajoen ja M. Kopotevin (2005) artikkelista.
   Тротуар залило водой
 \end{enumerate}
 
-\subsection{Predikatiivinen
+\subsubsection{Predikatiivinen
 instrumentaali}\label{predikatiivinen-instrumentaali}
 
 Instrumentaali on usein syntaksin kannalta erityisasemassa sen vuoksi,
@@ -4134,7 +4370,7 @@ kaltainen on myös käyttö eräiden verbien kuten стать, называть,
   \emph{каменными розами}.
 \end{enumerate}
 
-\subsection{Prepositio + instrumentaali verbin
+\subsubsection{Prepositio + instrumentaali verbin
 täydennyksenä}\label{prepositio-instrumentaali-verbin-tuxe4ydennyksenuxe4}
 
 Monet verbit saavat täydennyksekseen prepositiolausekkeen, jonka
@@ -4157,7 +4393,7 @@ substantiivijäsen on instrumentaalissa. Näitä voidaan Šeljakinin (2006:
   päämäärä: сходить за молоком, приехать за дочкой
 \end{itemize}
 
-\subsection{Instrumentaali verbin
+\subsubsection{Instrumentaali verbin
 täydennyksenä}\label{instrumentaali-verbin-tuxe4ydennyksenuxe4}
 
 Waden (2010) perusteella voidaan suoran instrumentaalitäydennyksen
@@ -4202,7 +4438,7 @@ saavat verbit jaotella seuraaviin ryhmiin:
   информации.
 \end{enumerate}
 
-\subsection{Kontrastiivisia
+\subsubsection{Kontrastiivisia
 huomioita}\label{kontrastiivisia-huomioita}
 
 Vertaillaan vielä suomea ja venäjää ja pohditaan, miten suomessa
@@ -4259,7 +4495,7 @@ myös \emph{ruumiinosalla} (kädellä) tapahtuva liike tulkitaan samoin:
   На одной из них стоят два гражданина и размахивают чемоданами.
 \end{enumerate}
 
-\section{Prepositionaalin
+\subsection{Prepositionaalin
 merkityksiä}\label{prepositionaalin-merkityksiuxe4}
 
 Nimensä mukaisesti prepositionaali on \textbf{sija, jota käytetään vain
@@ -4299,7 +4535,7 @@ Aika- ja paikkamerkitysten lisäksi on luonnollisesti muistettava
 рассказывать о поездке, вопрос о необходимости принятых мер, мнение о
 внешней политики ym.
 
-\section{На vai в?}\label{ux43dux430-vai-ux432}
+\subsection{На vai в?}\label{ux43dux430-vai-ux432}
 
 Šeljakin (2006: 70) toteaa в- ja на-prepositioiden peruserosta
 seuraavaa:
@@ -4325,13 +4561,13 @@ käytön kanssa. Monissa tapauksissa sekä v- että na-prepositio ovat
 mahdollisia, mutta näissäkin käyttöä rajaa usein konteksti sillä
 tavalla, että prepositioilla on enemmän tai vähemmän selvä työnjako.
 
-\subsection{На-prepositio
+\subsubsection{На-prepositio
 venäjässä}\label{ux43dux430-prepositio-venuxe4juxe4ssuxe4}
 
 Ensiksi keskitytään tapauksiin, joissa suomessa on sisäpaikallissija,
 mutta venäjässä ainakin tietyissä konteksteissa na.
 
-\begin{longtable}[c]{@{}lllp{5cm}p{3cm}@{}}
+\begin{longtable}[c]{@{}lllll@{}}
 \toprule
 sana & в/на & suomi & huom. & ks. esimerkit\tabularnewline
 \midrule
@@ -4384,7 +4620,6 @@ yleinen & 178, 179\tabularnewline
 шея & на & ssa & kaulassa (kaulalla) & 198\tabularnewline
 \bottomrule
 \end{longtable}
-
 
 \begin{enumerate}
 \def\labelenumi{(\arabic{enumi})}
@@ -4483,36 +4718,36 @@ yleinen & 178, 179\tabularnewline
   А на шее у него висел амулет
 \end{enumerate}
 
-\subsection{В-prepositio
+\subsubsection{В-prepositio
 venäjässä}\label{ux432-prepositio-venuxe4juxe4ssuxe4}
 
 Siirrytään tarkastelemaan tapauksia, joissa suomessa on
 ulkopaikallissija, mutta venäjässä ainakin tietyissä konteksteissa v.
 
-\begin{longtable}[c]{@{}lllp{5cm}p{3cm}@{}}
+\begin{longtable}[c]{@{}lllll@{}}
 \toprule
 sana & в/на & suomi & huom. & ks. esimerkit\tabularnewline
 \midrule
 \endhead
 область & в & ssa/lla & jollakin alueella, mutta hallinollisesti
 läänissä, maakunnassa, oblastissa &\tabularnewline
-сфера & в & lla & Alalla / alueella & 70\tabularnewline
-регион & в & lla & Alueella & 71\tabularnewline
+сфера & в & lla & Alalla / alueella & 199\tabularnewline
+регион & в & lla & Alueella & 200\tabularnewline
 зона & в & lla & alueella, vyöhykkeellä &\tabularnewline
 университет & в & ssa/lla & Suomessa usein ainakin arkipuheessa: töissä
 ylipoistolla, opiskelee yliopistolla + ulkopaikallissija kun
-`kampuksella' & 72\tabularnewline
-край & в & lla & vrt. suomen seudulla & 73, MUTTA tietysti
-74\tabularnewline
-сезон & в & lla & kaudella & 75, 76, 77\tabularnewline
+`kampuksella' & 201\tabularnewline
+край & в & lla & vrt. suomen seudulla & 202, MUTTA tietysti
+203\tabularnewline
+сезон & в & lla & kaudella & 204, 205, 206\tabularnewline
 аэропорт & в & lla & lentokentällä (vrt. kuitenkin НА аеродроме, esim.
-79) &\tabularnewline
+208) &\tabularnewline
 Крым & в & lla & Krimillä (Krimin niemimaalla) &\tabularnewline
-сектор & в & lla & sektorilla & 80, 81, 82\tabularnewline
-эпоха & в & lla & aikakaudella & 83\tabularnewline
-лагерь & в & lla & leirillä & 84, 85\tabularnewline
+сектор & в & lla & sektorilla & 209, 210, 211\tabularnewline
+эпоха & в & lla & aikakaudella & 212\tabularnewline
+лагерь & в & lla & leirillä & 213, 214\tabularnewline
 отпуск & в & lla & vrt. kuitenkin на каникулях, на отдыхе &
-86\tabularnewline
+215\tabularnewline
 \bottomrule
 \end{longtable}
 
@@ -4563,7 +4798,7 @@ ylipoistolla, opiskelee yliopistolla + ulkopaikallissija kun
   В отпуске мы и на каникулах.
 \end{enumerate}
 
-\subsection{Kokoavasti}\label{kokoavasti}
+\subsubsection{Kokoavasti}\label{kokoavasti}
 
 Tehdään vielä joitakin kokoavia huomioita edellä olevista taulukoista.
 Ensinnäkin, venäjässä tapahtumaa tai kokoontumista tarkoittavia sanoja
@@ -4584,7 +4819,7 @@ huomiota prepositionaalin ja genetiivin monikkomuotojen samanlaisuuteen.
 Kielenoppijana tulee usein sekoittaneeksi ilmaisut tyyppiä \emph{после
 шумных мест} ja \emph{в шумных местах}.
 
-\section{Prepositionaali täydennyksen
+\subsection{Prepositionaali täydennyksen
 sijana}\label{prepositionaali-tuxe4ydennyksen-sijana}
 
 Kuten mainittu, prepositionaali ei suoraan toimi verbin
@@ -4633,9 +4868,24 @@ jonkin päälle') kuten alla olevista esimerkeistä käy ilmi. Esimerkissä
   будут вести себя ``неконструктивно''.
 \end{enumerate}
 
-\chapter{Persoona kieliopillisena
+\section{Luento 11: Persoona kieliopillisena
 kategoriana}\label{luento-11-persoona-kieliopillisena-kategoriana}
 
+\begin{itemize}
+\tightlist
+\item
+  \href{https://mustikka.uta.fi/~juho_harme/morfologia/\#tästä-kurssista}{Takaisin
+  sivun ylälaitaan}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento11.pdf}{Lataa
+  PDF}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento11.html}{Tutki
+  luentokalvoja}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento11.pdf}{Tutki
+  tuntitehtäviä}
+\end{itemize}
 
 Siirrämme nyt kurssin painopistettä substantiiveista ja muista
 nomineista kohti verbejä. Aloitamme tutkimalla \emph{persoonaa}
@@ -4653,7 +4903,7 @@ tapaluokkaa, aikamuotoa ja lukua. Kun siirrytään tarkastelemaan verbien
 persoonataivutusta, tutkitaan siis loppujen lopuksi laajempaa ilmiötä
 kuin pelkkää persoonaa.
 
-\section{Preesens- ja
+\subsection{Preesens- ja
 infinitiivivartalo}\label{preesens--ja-infinitiivivartalo}
 
 Venäjän verbeistä puhuttaessa on tapana erottaa kaksi eri vartaloa
@@ -4706,7 +4956,7 @@ Infinitiivivartaloista voidaan mainita vielä Šeljakinin (2006: 122)
 huomautus siitä, että yleensä preteritimuodon vartalo on sama kuin
 infinitiivivartalo: игра/ла/, смотре/ла/ jne.
 
-\section{Konjugaatiot}\label{konjugaatiot}
+\subsection{Konjugaatiot}\label{konjugaatiot}
 
 Venäjässä verbit jaetaan persoonataivutuksen osalta kahteen
 taivutustyyppiin eli \emph{konjugaatioon} (спряжение), joiden lisäksi on
@@ -4714,7 +4964,7 @@ joukko epäsäännöllisesti taipuvia verbejä. Taivutettaessa ся-postfiksin
 sisältäviä verbejä kannattaa muistaa, että vokaalin jälkeen posfiksi on
 muodossa \emph{сь} (учусь, занимаюсь jne) (Шелякин 2006: 124).
 
-\subsection{1. konjugaatio}\label{konjugaatio}
+\subsubsection{1. konjugaatio}\label{konjugaatio}
 
 Tutkitaan ensin kahta 1. konjugaatioon kuuluvaa verbiä ja tarkastellaan
 taivutuspäätteitä kirjoitusasussaan:
@@ -4773,7 +5023,7 @@ m. 3. & /ут/ & /жив/ут/ & /играj/ут/\tabularnewline
 \bottomrule
 \end{longtable}
 
-\subsection{2. konjugaatio}\label{konjugaatio-1}
+\subsubsection{2. konjugaatio}\label{konjugaatio-1}
 
 Siirrytään sitten tarkastelemaan toista varsinaista konjugaatiotyyppiä.
 Tähän konjugaatioon kuuluvat esimerkiksi sanat включить ja усвоить
@@ -4817,7 +5067,7 @@ Ensimmäisen ja toisen konjugaation päätteitä tarkasteltaessa huomataan,
 että yksikön ensimmäisen persoonan muoto on kummassakin konjugaatiossa
 sama, muuten konjugaatiot ovat erilaisia.
 
-\subsection{Äänteenmuutoksia 1.
+\subsubsection{Äänteenmuutoksia 1.
 konjugaatiolla}\label{uxe4uxe4nteenmuutoksia-1.-konjugaatiolla}
 
 Nikunlassin (2002: 155) mukaan ensimmäisestä konjugaatiosta voidaan
@@ -4893,7 +5143,7 @@ Huomaa, että verbejä tyyppiä \emph{писать} ei tässä lasketa kuuluvaks
 /пиш/ eikä siis vaihtele muuten kuin suhteessa infinitiivivartaloon
 /писа/.
 
-\subsection{Äänteenmuutoksia 2.
+\subsubsection{Äänteenmuutoksia 2.
 konjugaatiolla}\label{uxe4uxe4nteenmuutoksia-2.-konjugaatiolla}
 
 Kun mietitään toista konjugaatiota, voidaan todeta, että
@@ -4926,17 +5176,38 @@ pers.\tabularnewline
 \bottomrule
 \end{longtable}
 
-\chapter{Persoona kieliopillisena kategoriana 2 ja
+\section{Luennot 12--13: Persoona kieliopillisena kategoriana 2 ja
 partisiippien
 muodostus}\label{luennot-1213-persoona-kieliopillisena-kategoriana-2-ja-partisiippien-muodostus}
 
+\begin{itemize}
+\tightlist
+\item
+  \href{https://mustikka.uta.fi/~juho_harme/morfologia/\#tästä-kurssista}{Takaisin
+  sivun ylälaitaan}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento12.pdf}{Lataa
+  PDF}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento12.html}{Tutki
+  luentokalvoja luennolle 12}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento13.html}{Tutki
+  luentokalvoja luennolle 13}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento12.pdf}{Tutki
+  tuntitehtäviä luennolle 12}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento13.pdf}{Tutki
+  tuntitehtäviä luennolle 13}
+\end{itemize}
 
 Jatketaan konjugaatioiden tutkimista. Tällä luennolla perehdytään
 siihen, \emph{mistä voi tietää jonkin verbin kuuluvan ensimmäiseen tai
 toiseen konjugaatioon} ja toisaalta siihen, minkälaisia verbejä jää
 mainittujen kahden konjugaation ulkopuolelle.
 
-\section{Milloin mikäkin
+\subsection{Milloin mikäkin
 konjugaatio?}\label{milloin-mikuxe4kin-konjugaatio}
 
 Ensimmäinen konjugaatio on venäjässä ylivoimaisesti toista yleisempi.
@@ -4965,13 +5236,11 @@ konjugaatio tai poikkeuksellinen taivutus. Jos tarkastellaan verbejä,
 joille Wikisanakirjassa on edellä kuvatulla tavalla määritettävissä
 konjugaatio, voidaan eri konjugaatioiden yleisyyttä kuvata seuraavasti:
 
-\FloatBarrier
 \begin{figure}[htbp]
 \centering
-    \includegraphics[width=0.9\textwidth,keepaspectratio]{../figure/wikidata.pdf}
-\caption{Konjugaatioiden yleisyydet Wikisanakirjassa}
+\includegraphics{figure/wikidata-1.svg}
+\caption{}
 \end{figure}
-\FloatBarrier
 
 Kuvio osoittaa, että ensimmäiseen konjugaatioon kuuluvien verbien määrä
 on huomattavan suuri verrattuna toisen konjugaation verbeihin: tarkkaan
@@ -5018,13 +5287,13 @@ perusteella voidaan päätellä verbi 2. konjugaatioon kuuluvaksi, jos
   esimerkiksi покраснеть.
 \end{enumerate}
 
-\section{Infinitiivi- ja preesensvartaloiden suhteista ensimmäisessä
+\subsection{Infinitiivi- ja preesensvartaloiden suhteista ensimmäisessä
 deklinaatiossa}\label{infinitiivi--ja-preesensvartaloiden-suhteista-ensimmuxe4isessuxe4-deklinaatiossa}
 
 Tarkastellaan vielä ensimmäisen deklinaation tärkeimpiä sisäisiä
 sanaryhmiä, joita tässä erotellaan seitsemän.
 
-\subsection{1. ryhmä}\label{ryhmuxe4}
+\subsubsection{1. ryhmä}\label{ryhmuxe4}
 
 Produktiivisin ja ylivoimaisesti suurin ryhmä ovat verbit tyyppiä
 \emph{читать}, joissa infinitiivivartalon lopussa on jokin vokaaleista
@@ -5035,20 +5304,20 @@ vokaali on preesensvartalossa joskus eri: открыть - откроj, мыть
 брить - брej sekä и--j-vaihtelu sanoissa ltyyppiä /бить/--/бью/т
 (foneettisesti: /би/т'/--/бj/ут/).
 
-\subsection{2. ryhmä}\label{ryhmuxe4-1}
+\subsubsection{2. ryhmä}\label{ryhmuxe4-1}
 
 Toisen 1. konjugaation sisäisen ryhmän muodostavat ne tutut verbit,
 joiden infinitiivivartalo päättyy /ова/ (tai /ева/) ja preesensvartalo
 /уj/: /интерес/ова/ -- /интерес/уj/, /жева/ -- /жуj/ (жевать, `purra').
 
-\subsection{3. ryhmä}\label{ryhmuxe4-2}
+\subsubsection{3. ryhmä}\label{ryhmuxe4-2}
 
 Hieman edellisen kaltainen ryhmä ovat verbit tyyppiä давать. Näillä
 infinitiivivartalon loppu on muotoa /ава/ ja preesensvartalo /аj/.
 Ryhmään kuuluvat esimerkiksi /признава/ть/ -- /призна/j/, /устава/ть/ --
 /устаj/.
 
-\subsection{4. ryhmä}\label{ryhmuxe4-3}
+\subsubsection{4. ryhmä}\label{ryhmuxe4-3}
 
 Seuraavaksi ryhmäksi voidaan erottaa verbit tyyppiä \emph{писать}.
 Näissä infinitiivivartalo päättyy /а/-vokaaliin, ja preesensvartalo
@@ -5060,7 +5329,7 @@ eroaa infinitiivivartalosta juurimorfin viimeisen konsonantin osalta:
 tyypin verbejä on noin sata (писать, сказать, двигать,
 махать,искать,брызгать ym.).
 
-\subsection{5. ryhmä}\label{ryhmuxe4-4}
+\subsubsection{5. ryhmä}\label{ryhmuxe4-4}
 
 Verbit, joiden infinitiivivartalo päättyy \emph{ну}, voidaan jakaa
 kahteen ryhmään sen perusteella, miten niiden preteritimuodot
@@ -5076,7 +5345,7 @@ viisikymmentä. Kummassakin tapauksessa preesensvartalo päättyy /н/
 aineistossa 926 verbiä, esimerkiksi подвинуть, шагнуть, замёрзнуть
 (preteriti замёрз).
 
-\subsection{6. ryhmä}\label{ryhmuxe4-5}
+\subsubsection{6. ryhmä}\label{ryhmuxe4-5}
 
 Šeljakin (2006: 133) laskee perustellusti omaksi ryhmäkseen verbit
 tyyppiä начать/обнять (`halata') / понять/нажать (`painaa'), joissa
@@ -5085,7 +5354,7 @@ noudattaa mallia /нача/ -- /начн/, /обня/ -- /обним/, /поня
 /нажа/ -- /нажм/. Kaikissa tapauksissa siis preesensvartaloon ilmestyy
 nasaali /м/ tai /н/ sekä tämän lisäksi joko /и/ tai /j/.
 
-\subsection{7. ryhmä}\label{ryhmuxe4-6}
+\subsubsection{7. ryhmä}\label{ryhmuxe4-6}
 
 Ehkä haastavimman ryhmän muodostavat verbit, joissa tapahtuu edellä
 mainittu äänteenmuutos muissa kuin yksikön ensimmäisessä ja monikon
@@ -5123,7 +5392,7 @@ alaluokat:
   preesensvartalo /умр/.
 \end{itemize}
 
-\section{Epäsäännöllisesti taipuvia
+\subsection{Epäsäännöllisesti taipuvia
 verbejä}\label{epuxe4suxe4uxe4nnuxf6llisesti-taipuvia-verbejuxe4}
 
 Edellä käsiteltiin etenkin ensimmäiseen konjugaatioon liittyviä paikoin
@@ -5148,7 +5417,7 @@ deklinaation, дать-verbissä on tyystin omat päätteensä ja
 slaavilaisista kielistä kuten tsekistä tutun m-päätteen sekä eräitä
 muutoksia preesensvartaloon.
 
-\section{Muutama sana painoista}\label{muutama-sana-painoista}
+\subsection{Muutama sana painoista}\label{muutama-sana-painoista}
 
 Tässä yhteydessä verbien painotyyppeihin ei perehdytä yhtä tarkasti kuin
 substantiivien. Šeljakinin (2006: 136) perusteella voidaan kuitenkin
@@ -5224,12 +5493,12 @@ todeta, että verbit jakautuvat painon puolesta kolmeen pääryhmään:
   \end{itemize}
 \end{enumerate}
 
-\section{Partisiippien muodostus}\label{partisiippien-muodostus}
+\subsection{Partisiippien muodostus}\label{partisiippien-muodostus}
 
 Pohjustetaan nyt tulevaa luentoa pääluokista käymällä läpi vielä yhtä
 sananmuodostusoppiin liittyvää teemaa: partisiippien muodostusta.
 
-\subsection{Mitä partisiipit ovat?}\label{mituxe4-partisiipit-ovat}
+\subsubsection{Mitä partisiipit ovat?}\label{mituxe4-partisiipit-ovat}
 
 Verbeillä on niin suomessa kuin venäjässä kahdenlaisia muotoja:
 persoonamuotoja (спрягаемые формы глагола) ja nominaali- eli
@@ -5288,10 +5557,10 @@ ilmaisemia kieliopillisia kategorioita).
   \end{itemize}
 \end{enumerate}
 
-\subsection{Miten partisiipit
+\subsubsection{Miten partisiipit
 muodostetaan?}\label{miten-partisiipit-muodostetaan}
 
-\subsubsection{Rajoituksia}\label{rajoituksia}
+\paragraph{Rajoituksia}\label{rajoituksia}
 
 Venäjän partisiipeissa on syytä kiinnittää huomiota siihen, ettei
 kaikkia partisiippeja voi muodostaa kaikista verbeistä. Tarkastellaan
@@ -5352,7 +5621,7 @@ Waden huomiot ovat pääpiirteissään seuraavia:
   verbit благодарить, платить, портить ja чистить.
 \end{itemize}
 
-\subsubsection{Vartalot}\label{vartalot}
+\paragraph{Vartalot}\label{vartalot}
 
 Partisiipit muodostetaan venäjässä suffiksien avulla. Nikunlassin (2002:
 163) mukaan muodostus voidaan (hieman yksinkertaistaen) tiivistää
@@ -5444,7 +5713,7 @@ säännöllisen infinitiivivartalon verbiä, esimerkiksi прочитать:
   \end{enumerate}
 \end{enumerate}
 
-\subsubsection{Suffiksit}\label{suffiksit}
+\paragraph{Suffiksit}\label{suffiksit}
 
 Partisiippien muodostamisessa käytettävät suffiksit vaihtelevat jonkin
 verran. Seuraavassa käydään läpi vaihtelut muodostussuffikseissa
@@ -5595,9 +5864,24 @@ liittyy äänteenmuutoksia. Suffiksit jakautuvat seuraavasti:
   е:nä.
 \end{enumerate}
 
-\chapter{Pääluokka kieliopillisena
+\section{Luento 14 : Pääluokka kieliopillisena
 kategoriana}\label{luento-14-puxe4uxe4luokka-kieliopillisena-kategoriana}
 
+\begin{itemize}
+\tightlist
+\item
+  \href{https://mustikka.uta.fi/~juho_harme/morfologia/\#tästä-kurssista}{Takaisin
+  sivun ylälaitaan}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento14.pdf}{Lataa
+  PDF}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento14.html}{Tutki
+  luentokalvoja}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento14.pdf}{Tutki
+  tuntitehtäviä}
+\end{itemize}
 
 \emph{Pääluokka} (залог) on kieliopillinen kategoria, joka on yksinomaan
 verbien ominaisuus. Kategorialla on kaksi arvoa: aktiivi (действительный
@@ -5642,7 +5926,7 @@ Kuitenkin myös lauseesta 224 voidaan todeta, ettei päähuomio ole
 tekijässä vaan tekemisen kohteessa: tekijän ilmaiseminen on ainoataan
 täydentävää informaatiota.
 
-\section{Passiivirakenteet
+\subsection{Passiivirakenteet
 venäjässä}\label{passiivirakenteet-venuxe4juxe4ssuxe4}
 
 Venäjästä erotetaan tavallisesti kaksi erityyppistä passiivirakennetta
@@ -5655,7 +5939,7 @@ liittyy olennaisena vaatimuksena verbin transitiivisuus: toisin sanoen
 intransitiiviverbejä kuten бежать, расти, работать ei voi käyttää
 passiivissa.
 
-\subsection{Morfologinen passiivi}\label{morfologinen-passiivi}
+\subsubsection{Morfologinen passiivi}\label{morfologinen-passiivi}
 
 Morfologinen passiivi muodostetaan nimensä mukaisesti morfologisin
 keinoin, lisäämällä postfiksi /ся/ \emph{imperfektiivistä aspektia
@@ -5687,7 +5971,7 @@ prosessista. Morfologinen passiivi voidaan muodostaa niin menneen
   специалистами фирмы «Локхид эркрафт корпорейшен»
 \end{enumerate}
 
-\subsection{Perifrastinen passiivi}\label{perifrastinen-passiivi}
+\subsubsection{Perifrastinen passiivi}\label{perifrastinen-passiivi}
 
 Perifrastisella passiivilla tarkoitetaan partisiippien ja быть-verbin
 avulla muodostettavaa passiivirakennetta. Tarkkaan ottaen rakenne
@@ -5733,7 +6017,7 @@ ei oleteta olevan enää voimassa:
   допросов)
 \end{enumerate}
 
-\subsection{Indefiniittis-persoonainen
+\subsubsection{Indefiniittis-persoonainen
 rakenne}\label{indefiniittis-persoonainen-rakenne}
 
 Indefiniittis-persoonaiset (неопределенно-личные) rakenteet eivät ole
@@ -5782,7 +6066,7 @@ ryhmän (lapset, opiskelijat ym.) edustajaa. Tässä merkityksessä
 tavallinen on etenkin yksikön toinen persoona: \emph{если ты знаешь
 иностранные языки, найти работу будет нетрудно}.
 
-\subsection{Passiivilauseen agentti}\label{passiivilauseen-agentti}
+\subsubsection{Passiivilauseen agentti}\label{passiivilauseen-agentti}
 
 Toisin kuin suomessa, venäjässä passiivilauseenkin tekijä voidaan
 erikseen mainita. Tähän käytetään niin kutsuttua
@@ -5808,9 +6092,24 @@ käytetään lähinnä virallisessa asiatyylissä ja tieteellisessä tyylissä.
 Nikunlassi (2002: 200) puolestaan esittää jopa tarkan luvun: vain
 20\%:ssa passiivimuodoista on ilmaistu agentti.
 
-\chapter{Aika ja aspekti kieliopillisina
+\section{Luento 15: Aika ja aspekti kieliopillisina
 kategorioina}\label{luento-15-aika-ja-aspekti-kieliopillisina-kategorioina}
 
+\begin{itemize}
+\tightlist
+\item
+  \href{https://mustikka.uta.fi/~juho_harme/morfologia/\#tästä-kurssista}{Takaisin
+  sivun ylälaitaan}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento15.pdf}{Lataa
+  PDF}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento15.html}{Tutki
+  luentokalvoja}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento15.pdf}{Tutki
+  tuntitehtäviä}
+\end{itemize}
 
 Aika on varsin poikkitieteellinen käsite. Se on merkittävä niin
 filosofisessa, psykologisessa, lingvistisessä kuin fysikaalisessakin
@@ -5826,7 +6125,7 @@ keskitymme kahteen ensiksi mainittuun kieliopilliseen kategoriaan:
 aikamuotoihin eli tempukseen (категория времени) sekä aspektiin
 (категория вида).
 
-\section{Aikamuodot venäjässä}\label{aikamuodot-venuxe4juxe4ssuxe4}
+\subsection{Aikamuodot venäjässä}\label{aikamuodot-venuxe4juxe4ssuxe4}
 
 Aikaa ja aspektuaalisuutta paljon tutkineen kielitieteilijän A.V.
 Bondarkon (2005: 261) mukaan venäjässä käytössä olevat aikamuodot
@@ -5887,7 +6186,7 @@ toimintana. Ajattele vaikka itsesi avaamassa kirjaa:
 
 \begin{figure}[htbp]
 \centering
-\includegraphics{../figure/openbook.jpeg}
+\includegraphics{figure/open-book-o.gif}
 \caption{}
 \end{figure}
 
@@ -5919,7 +6218,7 @@ toiminta tulevaan siitä syystä, että perfektiivinen aspekti ei annan
 mahdollisuutta hypätä keskelle verbin kuvaamaa toimintaa vaan pakottaa
 kuulijan kuvittelemaan toiminnan yhtenä kokonaisuutena.
 
-\section{Aikamuotojen
+\subsection{Aikamuotojen
 muodostaminen}\label{aikamuotojen-muodostaminen}
 
 Siirrytään nyt tarkastelemaan venäjän aikamuotoja sananmuodostusopin
@@ -5931,7 +6230,7 @@ persoonamuodoissa\footnote{Tässä esittämäni kuvaus on tarkoituksellisen
   jotka on tulkittavissa preesensmerkityksiksi.}. Enemmän huomiota on
 sen sijaan kiinnitettävä menneen ajan muotoihin.
 
-\subsection{Preteriti}\label{preteriti}
+\subsubsection{Preteriti}\label{preteriti}
 
 Jos palautetaan mieleen edellä esitetty verbivartaloiden jakaminen
 preesens- ja infinitiivivartaloihin, on perussääntö preteritin
@@ -5979,7 +6278,7 @@ seuraavat ryhmät:
   myös maskuliinimuodossa on /л/-pääte: /попа/л/ø, /вё/л/ø ym.
 \end{enumerate}
 
-\subsection{Futuuri}\label{futuuri}
+\subsubsection{Futuuri}\label{futuuri}
 
 Jo edellä oli puhetta siitä, että jos perfektiivisen aspektin verbejä
 käytetään ei-menneen ajan muodossa (indikatiivin persoonamuodoissa),
@@ -5998,7 +6297,7 @@ samoja. Seuraavilla luennoilla pureudutaan tarkemmin siihen, miten
 imperfektiivisen ja perfektiivisen aspektin futuurimuodot eroavat
 toisistaan.
 
-\section{Aspektikategoria ja sen
+\subsection{Aspektikategoria ja sen
 arvot}\label{aspektikategoria-ja-sen-arvot}
 
 Nyt siirrymme käsittelemään tarkemmin itse aspektikategoriaa. Kuten
@@ -6055,25 +6354,21 @@ että perfektiivinen aspekti on opposition \emph{tunnusmerkillinen}
 \emph{tunnusmerkitön} (немаркированный член оппозиции). Siinä, missä
 perfektiivinen aspekti on tarkkaan rajattu kappale
 
-\FloatBarrier
 \begin{figure}[htbp]
 \centering
-\includegraphics[width=.3\textwidth]{../figure/sphere.png}
-\caption{Perfektiivinen aspekti rajattuna kokonaisuutena}
+\includegraphics{figure/sphere.png}
+\caption{}
 \end{figure}
-\FloatBarrier
 
 on imperfektiivinen aspekti enemmän kuin epämääräistä usvaa (ajatus
 vertaukseen peräisin Nikunlassilta 2002: 176, joka puhuu \emph{kaasusta
 tai nesteestä}):
 
-\FloatBarrier
 \begin{figure}[htbp]
 \centering
-\includegraphics[width=.6\textwidth]{../figure/silver-gray-mist-background.jpg}
-\caption{Imperfektiivinen aspekti epämääräisenä, rajaamattomana ilmiönä}
+\includegraphics{figure/silver-gray-mist-background.jpg}
+\caption{}
 \end{figure}
-\FloatBarrier
 
 On kuitenkin pidettävä mielessä, että aspektin kategoria on
 monimutkainen ja monitahoinen ilmiö, jota ei ole mahdollista tai
@@ -6126,7 +6421,7 @@ tyypillistä, sisäinen raja puolestaan perfektiiviselle. Kestoa aspektit
 ilmaisevat kumpikin, mutta eri tavoin, äkillistä alkamista,
 samanaikaisuutta ja peräkkäisyyttä myös, mutta erilaisin painotuksin.
 
-\section{Aspektiparin käsite}\label{aspektiparin-kuxe4site}
+\subsection{Aspektiparin käsite}\label{aspektiparin-kuxe4site}
 
 Aspektien välinen oppositio toteutuu sanatasolla siten, että verbeistä
 on tapana muodostaa aspektikategorian suhteen pareja. Voidaan
@@ -6214,7 +6509,7 @@ erilaisia. Tällaista muodostumista sanotaan \emph{suppletiiviseksi}
 (супплетивный способ), ja esimerkkejä siitä ovat esimerkiksi говорить -
 сказать sekä класть - положить.
 
-\section{Aspektin valinnasta}\label{aspektin-valinnasta}
+\subsection{Aspektin valinnasta}\label{aspektin-valinnasta}
 
 Olen edellä jättänyt tarkoituksellisen vähälle huomiolle
 sananmuodostuksellisen puolen aspektista. Tarkoitukseni on tällä
@@ -6262,9 +6557,24 @@ Pohjustuksena niille on kuitenkin hyvä käydä läpi seuraavat huomiot.
   (частные видовые значения).
 \end{enumerate}
 
-\chapter{Aspekti kieliopillisena kategoriana
+\section{Luento 16: Aspekti kieliopillisena kategoriana
 2}\label{luento-16-aspekti-kieliopillisena-kategoriana-2}
 
+\begin{itemize}
+\tightlist
+\item
+  \href{https://mustikka.uta.fi/~juho_harme/morfologia/\#tästä-kurssista}{Takaisin
+  sivun ylälaitaan}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento16.pdf}{Lataa
+  PDF}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento16.html}{Tutki
+  luentokalvoja}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento16.pdf}{Tutki
+  tuntitehtäviä}
+\end{itemize}
 
 Edellisen luennon lopussa esiteltiin ajatus aspektuaalisten merkitysten
 jakamisesta perus- ja erityismerkityksiin (общие и частные видовые
@@ -6274,7 +6584,7 @@ tyypilliset ominaisuudet tulevat kaikkein selvimmin esiin (Nikunlassi
 2002: 178). Toisin sanoen perusmerkityksissä aspekti käyttäytyy
 odotetulla, ikään kuin säännönmukaisimmalla mahdollisella tavalla.
 
-\section{Perusmerkitykset}\label{perusmerkitykset}
+\subsection{Perusmerkitykset}\label{perusmerkitykset}
 
 Imperfektiivisen aspektin perusmerkityksenä pidetään niin kutsuttua
 \emph{konkreettis-prosessuaalista} merkitystä (конкретно-процессное
@@ -6382,7 +6692,7 @@ toimintoja -- tapahtuneita faktoja. Huomaa, että kun KFM-merkityksen
 toimintoja on lauseessa monta, ne eivät tapahdu samanaikaisesti (vrt.
 esim. 246) vaan \emph{peräkkäisesti}.
 
-\section{Joitakin
+\subsection{Joitakin
 erityismerkityksiä}\label{joitakin-erityismerkityksiuxe4}
 
 Perusmerkitysten lisäksi voidaan erotella tutkijasta riippuen enemmän
@@ -6399,7 +6709,7 @@ arvaamattomampaa. Erityismerkityksistä kannattaa muistaa, että ne ovat
 usein jollain tavalla värittyneitä lauseita, ja saman asian pystyisi
 sanomaan neutraalimmin perusmerkityksiä käyttämällä.
 
-\subsection{Toistoon liittyvät
+\subsubsection{Toistoon liittyvät
 erityismerkitykset}\label{toistoon-liittyvuxe4t-erityismerkitykset}
 
 Aloitetaan erityismerkitysten tarkastelu joukosta merkityksiä, jotka
@@ -6484,7 +6794,7 @@ voisi havaita:
   Я перечитывал этот роман несколько раз
 \end{enumerate}
 
-\subsection{Perfektiivisen aspektin muita
+\subsubsection{Perfektiivisen aspektin muita
 erityismerkityksiä}\label{perfektiivisen-aspektin-muita-erityismerkityksiuxe4}
 
 Tutustutaan vielä kahteen perfektiivisen aspektin erityismerkitykseen:
@@ -6565,7 +6875,7 @@ Vastaavasti esimerkissä 268 voidaan kuvitella mikä tahansa
 Esimerkeissä 266 ja 267 puolestaan annetaan arvio tekijän kyvystä
 päätellä henkilön ikä tai murtautua asuntoon.
 
-\subsection{Imperfektiivisen aspektin
+\subsubsection{Imperfektiivisen aspektin
 erityismerkityksiä}\label{imperfektiivisen-aspektin-erityismerkityksiuxe4}
 
 Imperfektiivisen aspektin osalta keskitytään tarkastelemaan
@@ -6694,9 +7004,24 @@ Tilasta, ominaisuudesta ja suhteesta on siis kyse myös, kun kerrotaan
 jonkun olevan sairaana tai tiettyä mieltä jostakin asiasta (mielipide
 nähdään ominaisuutena).
 
-\chapter{Aspekti kieliopillisena kategoriana
+\section{Luento 17: Aspekti kieliopillisena kategoriana
 3}\label{luento-17-aspekti-kieliopillisena-kategoriana-3}
 
+\begin{itemize}
+\tightlist
+\item
+  \href{https://mustikka.uta.fi/~juho_harme/morfologia/\#tästä-kurssista}{Takaisin
+  sivun ylälaitaan}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento17.pdf}{Lataa
+  PDF}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento17.html}{Tutki
+  luentokalvoja}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento17.pdf}{Tutki
+  tuntitehtäviä}
+\end{itemize}
 
 Kielenoppijan kannalta kiinnostavin ja tärkein kysymys aspektiin
 liittyen on, milloin kumpaakin aspektia käytetään ja mistä voisi löytää
@@ -6712,7 +7037,7 @@ aikamuotoon, kieltomuotoon tai infinitiiveihin\footnote{Hyvä teos tässä
   suhteessa -- ja lähtökohta tämän luennon pohdinnoille -- on (Rassudova
   1984).}.
 
-\section{Aspektin valinnasta menneessä
+\subsection{Aspektin valinnasta menneessä
 ajassa}\label{aspektin-valinnasta-menneessuxe4-ajassa}
 
 Kun ajatellaan aspektin valintaa menneessä ajassa, voidaan eritellä
@@ -6734,7 +7059,7 @@ on usein suoritettava:
   Perfektin merkitys ja yleisesti toteava merkitys
 \end{enumerate}
 
-\subsection{Konkreettis-faktinen/-prosessuaalinen merkitys sekä
+\subsubsection{Konkreettis-faktinen/-prosessuaalinen merkitys sekä
 toisto}\label{konkreettis-faktinen-prosessuaalinen-merkitys-sekuxe4-toisto}
 
 Laajin näistä merkityspareista on luonnollisesti ensimmäinen, koska kyse
@@ -6855,7 +7180,7 @@ todella on ollut useita eikä vain yksi.
   энергетики
 \end{enumerate}
 
-\subsection{Yleisesti toteavaan erityismerkitykseen liittyvä
+\subsubsection{Yleisesti toteavaan erityismerkitykseen liittyvä
 aspektinvalinta}\label{yleisesti-toteavaan-erityismerkitykseen-liittyvuxe4-aspektinvalinta}
 
 Tarkastellaan vielä imperfektiivisen aspektin yleisesti toteavaa
@@ -6927,7 +7252,7 @@ tuloksen näkymisestä puhehetkellä vs.~asian toteamista:
 Esimerkissä 298 on yleisesti toteava verbi встречаться, kun taas
 esimerkissä 299 kyse on perfektin merkityksestä (`oletpa muuttunut').
 
-\section{Aspektin valinnasta tulevassa
+\subsection{Aspektin valinnasta tulevassa
 ajassa}\label{aspektin-valinnasta-tulevassa-ajassa}
 
 Aspektin valintaan menneisyydessä liittyy usein eniten vaikeuksia, minkä
@@ -7044,7 +7369,7 @@ suorittaa toiminta loppuun}. Vertaa myös seuraava esimerkki:
    -- Сейчас \emph{оденусь}
 \end{enumerate}
 
-\section{Aspektin valinnasta kieltomuotojen
+\subsection{Aspektin valinnasta kieltomuotojen
 yhteydessä}\label{aspektin-valinnasta-kieltomuotojen-yhteydessuxe4}
 
 Aspektinvalinnan kannalta on paljon merkitystä sillä, onko kyseessä
@@ -7082,7 +7407,8 @@ toiminnassa ei tapahdu muutoksia:
   Компьютер не включался.
 \item
   Ученые долго не находили ответа на вопрос о том, почему значение
-  гравитационной постоянной составвляет именно 6,67408(31)·10--11 м3·с--2·кг--1
+  гравитационной постоянной составвляет именно 6,67408(31)·10−11
+  м3·с−2·кг−1
 \end{enumerate}
 
 Esimerkissä 312 \emph{sataminen} on tila, jossa ei tapahdu muutoksia,
@@ -7227,7 +7553,7 @@ erityismerkitys):
   вопросы.
 \end{enumerate}
 
-\section{Aspektin valinnasta myöntömuotoisten infinitiivimuotojen
+\subsection{Aspektin valinnasta myöntömuotoisten infinitiivimuotojen
 yhteydessä}\label{aspektin-valinnasta-myuxf6ntuxf6muotoisten-infinitiivimuotojen-yhteydessuxe4}
 
 Paitsi kielto- myös myöntömuotoiseen infinitiiviin liittyy eräitä hyvin
@@ -7320,7 +7646,7 @@ ilmaista jotakin toistuvaa tai jollakulla tapana olevaa:
   Учительница настоятельно советовала Наcте \emph{обращать} больше
   внимания на подопечного.
 \item
-  Везде принято \emph{давать} чаевые -- 10\% от общей суммы
+  Везде принято \emph{давать} чаевые ― 10\% от общей суммы
 \item
   И конечно, не забывайте почаще \emph{менять} пароль.
 \end{enumerate}
@@ -7340,7 +7666,7 @@ perfektiivinen aspekti on hyvin todennäköinen:
   Я хочу \emph{прочитать} эту книгу
 \end{enumerate}
 
-\section{Teonlaadun käsite}\label{teonlaadun-kuxe4site}
+\subsection{Teonlaadun käsite}\label{teonlaadun-kuxe4site}
 
 Yksi aspektinvalintaan vaikuttava tekijä ovat niin kutsutut
 \emph{teonlaadut} (способы действия)\footnote{Isachenko
@@ -7453,9 +7779,27 @@ seuraavat:
   \end{itemize}
 \end{enumerate}
 
-\chapter{Tapaluokka kieliopillisena kategoriana
+\section{Luento 18: Tapaluokka kieliopillisena kategoriana
 1}\label{luento-18-tapaluokka-kieliopillisena-kategoriana-1}
 
+\begin{itemize}
+\tightlist
+\item
+  \href{https://mustikka.uta.fi/~juho_harme/morfologia/\#tästä-kurssista}{Takaisin
+  sivun ylälaitaan}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento18.pdf}{Lataa
+  PDF}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento18.html}{Tutki
+  luentokalvoja}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento18.pdf}{Tutki
+  tuntitehtäviä}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/data/verbit_imperatiivi.xls}{Verbitehtävä
+  Excel-muodossa}
+\end{itemize}
 
 Olemme keskellä kurssin toista puoliskoa (tai oikeastaan jo sen
 loppupuolella), ja viime viikot käsittelyn kohteena ovat olleet verbit
@@ -7506,7 +7850,7 @@ preteriti- ja futuurimuotojen rakentamista. Tällä luennolla keskitytään
 \emph{imperatiivin} muodostamiseen, ensi luennolla puolestaan
 imperatiivin käyttöön ja konditionaaliin.
 
-\section{Imperatiivin muodostus
+\subsection{Imperatiivin muodostus
 venäjässä}\label{imperatiivin-muodostus-venuxe4juxe4ssuxe4}
 
 Kuten monesti aiemminkin, Ahti Nikunlassi (2002: 159--160) tarjoaa
@@ -7515,7 +7859,7 @@ venäjässä muodostetaan. Muodostuksen kannalta ongelmallinen on
 luonnollisesti 2. persoonan infinitiivi, joten keskitytään siihen
 seuraavassa huolellisemmin.
 
-\subsection{2. persoonan imperatiivin
+\subsubsection{2. persoonan imperatiivin
 päätteet}\label{persoonan-imperatiivin-puxe4uxe4tteet}
 
 Ensinnäkin, voidaan erottaa kaksi päätettä 2. persoonan imperatiiville.
@@ -7592,7 +7936,7 @@ konsonantti liudentuu. Paras todiste nollapäätteen olemassaolosta on
 esimerkki 355, jossa preesensvartalolle ei tapahdu mitään (/налеj/ on
 preesensvartalo ja imperatiivi /налеj/ø.
 
-\subsection{Milloin mikäkin
+\subsubsection{Milloin mikäkin
 pääte?}\label{milloin-mikuxe4kin-puxe4uxe4te}
 
 Päätteet ovat siis /И/ ja /ø/, mutta kielenoppijan kannalta tärkeä
@@ -7681,7 +8025,7 @@ preesensvartalon viimeinen konsonantti liudentuu (jos ei jo valmiiksi
 sitä ollut)}. Tämän takia saamme muodot \emph{будь} eikä \emph{буд},
 \emph{достань} eikä \emph{достан} jne.
 
-\subsection{Tarkennuksia
+\subsubsection{Tarkennuksia
 sääntöön}\label{tarkennuksia-suxe4uxe4ntuxf6uxf6n}
 
 Edellä esitettyä voidaan vähän tarkentaa. Ajattele verbejä
@@ -7749,7 +8093,7 @@ edellä käsitellyistä yksikön toisen persoonan muodoista lisäämällä
 lisäämällä imperatiivin päätteen perään pääte /те/: смотрите, пейте,
 станьте, будьте, играйте jne.
 
-\section{Muita imperatiivimuotoja}\label{muita-imperatiivimuotoja}
+\subsection{Muita imperatiivimuotoja}\label{muita-imperatiivimuotoja}
 
 Edellä käsiteltiin tarkkaan yksikön toisen persoonan imperatiivin
 muodostamista, koska se tapahtuu erityisten päätteiden avulla,
@@ -7832,11 +8176,26 @@ infinitiivi on tavallinen käskymuoto esimerkiksi resepteissä:
   шампиньонами и \emph{греть} соус ещё несколько минут.
 \end{enumerate}
 
-\chapter{Tapaluokka kieliopillisena kategoriana
+\section{Luento 19: Tapaluokka kieliopillisena kategoriana
 2}\label{luento-19-tapaluokka-kieliopillisena-kategoriana-2}
 
+\begin{itemize}
+\tightlist
+\item
+  \href{https://mustikka.uta.fi/~juho_harme/morfologia/\#tästä-kurssista}{Takaisin
+  sivun ylälaitaan}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento19.pdf}{Lataa
+  PDF}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento19.html}{Tutki
+  luentokalvoja}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento19.pdf}{Tutki
+  tuntitehtäviä}
+\end{itemize}
 
-\section{Imperatiivi funktionaalisen morfologian
+\subsection{Imperatiivi funktionaalisen morfologian
 kannalta}\label{imperatiivi-funktionaalisen-morfologian-kannalta}
 
 Edellisellä luennolla keskityttiin imperatiivin muodostamiseen.
@@ -7899,7 +8258,7 @@ mukaan niin kutsuttu konsessiivirakenne, kuten seuraavassa esimerkissä:
 Esimerkkien 367 ja 368 imperatiivit voisi suomentaa rakenteilla `Miten
 ikinä jaatkin/selitätkin, joka tapauksessa/kuitenkaan\ldots{}'.
 
-\subsection{Pari sanaa aspektista}\label{pari-sanaa-aspektista}
+\subsubsection{Pari sanaa aspektista}\label{pari-sanaa-aspektista}
 
 Jatketaan vielä aspektikategorian käsittelyä imperatiivien kannalta.
 Ensinnäkin, kuten edellä esimerkiksi futuurin osalta todettiin,
@@ -7966,7 +8325,8 @@ puolestaan todeta:
 \def\labelenumi{(\arabic{enumi})}
 \setcounter{enumi}{373}
 \tightlist
-\item Вот такие у нас есть. Выбирайте!
+\item
+  ­- Вот такие у нас есть.. Выбирайте!
 \end{enumerate}
 
 Kyseessä on koko lailla retorinen, tyhjempi, käsky: sinua kehotetaan
@@ -8039,7 +8399,7 @@ absoluuttinen: Не говори ему об этом! Не ходите туд�
 aspekti kantaa ennemminkin varoituksen luonnetta: Смотри, не скажи ему
 об этом! Смотри не упади!
 
-\section{Konditionaali}\label{konditionaali}
+\subsection{Konditionaali}\label{konditionaali}
 
 Konditionaalia käytetään, kuten mainittua, ilmaisemaan jokin asiaintila
 ehdollisena tai mahdollisena. Venäjän konditionaalin voi ajatella usein
@@ -8091,7 +8451,7 @@ verbin edessä:
 jäljessä ja että sijaitessaan ennen verbiä бы yleensä on koko lauseen
 toinen sana.
 
-\subsection{Funktionaalisen morfologian
+\subsubsection{Funktionaalisen morfologian
 kannalta}\label{funktionaalisen-morfologian-kannalta}
 
 Katsotaan seuraavassa tarkemmin konkreettisia konditionaalin
@@ -8209,7 +8569,7 @@ korostamaan, että kyseessä on jonkun tahdon ilmaus (Nikunlassi 2002:
   российских авиакомпаний?
 \end{enumerate}
 
-\subsection{Kontrastiivisia
+\subsubsection{Kontrastiivisia
 huomioita}\label{kontrastiivisia-huomioita-1}
 
 Vaikka sekä suomessa että venäjässä, kuten useimmissa muissa kielissä,
@@ -8242,7 +8602,7 @@ tavallisesti indikatiivia. Vertaa seuraavia ParFin-rinnakkaiskorpuksen
 esimerkkejä. Kyseessä on siis suomenkielisiä alkuperäistekstejä ja
 niiden venäjännöksiä:
 
-\begin{longtable}[c]{p{7.2cm}p{7.2cm}}
+\begin{longtable}[c]{@{}ll@{}}
 \toprule
 suomenkielinen lähdeteksti & venäjänkielinen kohdeteksti\tabularnewline
 \midrule
@@ -8250,21 +8610,20 @@ suomenkielinen lähdeteksti & venäjänkielinen kohdeteksti\tabularnewline
 Miten sinä pärjäät, Kaisa? \emph{Luulisin}, että sinulla on aivan
 tarpeeksi paineita ilman murhajuttuihin sekaantumistakin? & Как ты,
 Кайса, со всем справляешься? \emph{Думаю}, что у тебя достаточно
-нагрузки и без вмешательства в дело об убийстве?\\ 
-\tabularnewline
+нагрузки и без вмешательства в дело об убийстве?\tabularnewline
 Luulisitteko kykenevänne pelaamaan sellaisella panoksella, jos tämä
 tapahtuma olisi kehittynyt sellaisiin mittoihin. & Считаете ли вы себя
 способным поставить на нее, если дело дойдет до таких
-масштабов? \\ \tabularnewline
+масштабов?\tabularnewline
 Mitä se sieltä haki? --- Mitä luulisit? & Что он там забыл?- Как ты
-думаешь?\\ \tabularnewline
+думаешь?\tabularnewline
 Esityksen päätyttyä mies kysyi haluaisinko juoda kahvit & Закончив
-выступление, он спросил, не хочу ли я выпить кофе,\\ \tabularnewline
+выступление, он спросил, не хочу ли я выпить кофе,\tabularnewline
 Minä haluaisin kernaasti ostaa sen kornetin & Я охотно куплю
-трубу\\ \tabularnewline
+трубу\tabularnewline
 Mies ymmärtäisi hyvin sen, että vaimo haluaisi hoitaa heidän kotiaan ja
 puutarhaansa huolellisemmin. & Он хорошо понимал, что жена хочет более
-тщательно ухаживать за их домом и садом.\\ \tabularnewline
+тщательно ухаживать за их домом и садом.\tabularnewline
 \bottomrule
 \end{longtable}
 
@@ -8280,8 +8639,23 @@ on tarpeen, kuten seuraavassa käännösesimerkissä:
   Многие девушки хотели бы иметь такого мужчину.
 \end{itemize}
 
-\chapter{liikeverbit 1}\label{luento-20-liikeverbit-1}
+\section{Luento 20: liikeverbit 1}\label{luento-20-liikeverbit-1}
 
+\begin{itemize}
+\tightlist
+\item
+  \href{https://mustikka.uta.fi/~juho_harme/morfologia/\#tästä-kurssista}{Takaisin
+  sivun ylälaitaan}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento20.pdf}{Lataa
+  PDF}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento20.html}{Tutki
+  luentokalvoja}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento20.pdf}{Tutki
+  tuntitehtäviä}
+\end{itemize}
 
 Venäjän verbijärjestelmästä erottuu omaksi ryhmäkseen eräiden
 liikkumista ilmaisevien verbien joukko, jota kielenopetuksessa ja
@@ -8382,7 +8756,7 @@ Voidaan siis todeta, että ходить-tyypin verbeillä kysymykseen toiminnan
 luonteesta ei oteta samalla tavalla kantaa kuin идти-tyypin verbeillä --
 ne ovat tämän oppositioparin neutraali, tunnusmerkitön osapuoli.
 
-\section{Liikeverbiparit}\label{liikeverbiparit}
+\subsection{Liikeverbiparit}\label{liikeverbiparit}
 
 Edellä mainittiin, että liikkeen suunnan perusteella paritettavien
 verbien määrä on rajattu, eikä ryhmään enää tule uusia verbejä. Mitä
@@ -8395,7 +8769,7 @@ intransitiivinen (ilman objektia käytettävä) verbi. Liikeverbit on
 jaettu kahteen taulukkoon, niin että ensimmäisessä ovat (oletettavasti)
 tavallisimmin käytetyt verbit, toisessa harvinaisemmat.
 
-\subsection{Tavallisimpia
+\subsubsection{Tavallisimpia
 liikeverbipareja}\label{tavallisimpia-liikeverbipareja}
 
 \begin{longtable}[c]{@{}lll@{}}
@@ -8422,7 +8796,7 @@ itse kulkuneuvon liikettä, mistä jäljempänä tarkemmin), kun taas
 yhdistää se, että niillä tavallisesti (joskaan esimerkiksi
 плыть-плавать-parilla ei toki aina) ilmaistaan liikettä kulkuneuvolla.
 
-\section{Harvinaisempia
+\subsection{Harvinaisempia
 liikeverbipareja}\label{harvinaisempia-liikeverbipareja}
 
 \begin{longtable}[c]{@{}lll@{}}
@@ -8431,12 +8805,12 @@ duratiivinen verbi & iteratiivinen verbi &
 transitiivisuus\tabularnewline
 \midrule
 \endhead
-лезть & лАзить & intransitiivinen\tabularnewline
-ползтИ & пОлзать & intransitiivinen\tabularnewline
-гнать & гонЯть & transitiivinen\tabularnewline
-катИть & катАть & transitiivinen\tabularnewline
-тащИть & таскАть & transitiivinen\tabularnewline
-*брестѝ & бродИть & intransitiivinen\tabularnewline
+лезть & ла́зить & intransitiivinen\tabularnewline
+ползти & по́лзать & intransitiivinen\tabularnewline
+гнать & гоня́ть & transitiivinen\tabularnewline
+катѝть & ката́ть & transitiivinen\tabularnewline
+тащѝть & таска́ть & transitiivinen\tabularnewline
+*брестѝ & бродѝть & intransitiivinen\tabularnewline
 \bottomrule
 \end{longtable}
 
@@ -8448,7 +8822,7 @@ ilmoitetaan yhtenä liikeverbiparina, mutta Isachenko (2003{[}1965{]},
 merkitykset eroavat toisistaan muutenkin kuin vain liikkeen suunnan
 kuvaamisen suhteen.
 
-\section{Huomioita käytöstä}\label{huomioita-kuxe4ytuxf6stuxe4}
+\subsection{Huomioita käytöstä}\label{huomioita-kuxe4ytuxf6stuxe4}
 
 Kieltenoppijan kannalta hankalia ovat yleensä tilanteet, joissa oma
 äidinkieli kuvaa jonkin ilmiön enemmän tai vähemmän ylimalkaisesti,
@@ -8513,8 +8887,25 @@ esimerkeissä:
   долго идти пешком.
 \end{enumerate}
 
-\chapter{Liikeverbit 2}\label{luento-21-liikeverbit-2}
+\section{Luento 21: Liikeverbit 2}\label{luento-21-liikeverbit-2}
 
+\begin{itemize}
+\tightlist
+\item
+  \href{https://mustikka.uta.fi/~juho_harme/morfologia/\#tästä-kurssista}{Takaisin
+  sivun ylälaitaan}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/luento21.pdf}{Lataa
+  PDF}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/presentations/luento21.html}{Tutki
+  luentokalvoja}
+\item
+  \href{http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento21.pdf}{Tutki
+  tuntitehtäviä}
+\item
+  \href{http://people.uta.fi/~harme.juho.k/aspekti-ja-liikeverbiteoria/aihekokonaisuudet/tehtavat/prefiksikaavio.pdf}{Prefiksikaavio}
+\end{itemize}
 
 Edellisellä luennolla todettiin, että liikeverbit ovat venäjässä oma
 ryhmänsä ennen kaikkia sen perusteella, että ne ne muodostavat pareja
@@ -8527,7 +8918,7 @@ suunnan suhteen määrittelemätöntä liikettä (iteratiiviset).
 Tällä luennolla perehdytään siihen, mitä tapahtuu, kun liikeverbit
 esiintyvät prefiksillisinä muotoina.
 
-\section{Oikeinkirjoituksesta}\label{oikeinkirjoituksesta}
+\subsection{Oikeinkirjoituksesta}\label{oikeinkirjoituksesta}
 
 Liitettäessä prefiksejä iteratiivisten ja duratiivisten verbien
 vartaloihin kannattaa muistaa seuraavat tapaukset:
@@ -8555,7 +8946,7 @@ vartaloihin kannattaa muistaa seuraavat tapaukset:
   \end{itemize}
 \end{enumerate}
 
-\section{Muodostamisesta}\label{muodostamisesta}
+\subsection{Muodostamisesta}\label{muodostamisesta}
 
 Prefiksillisten liikeverbien muodostaminen on monimutkaisempi kysymys
 kuin miltä ensi katsomalta vaikuttaisi. Ainoa täysin selkeä osa-alue
@@ -8618,7 +9009,7 @@ jossain määrin pitäytymistä mainittuun ``keinotekoinen poikkeus''
   prefiksillistä muotoa muodostettaessa
 \end{enumerate}
 
-\subsection{Selkeät tapaukset}\label{selkeuxe4t-tapaukset}
+\subsubsection{Selkeät tapaukset}\label{selkeuxe4t-tapaukset}
 
 Suurin osa etenkin tavallisimmista iteratiivisista liikeverbeistä
 käyttäytyy onneksi hyvin säännönmukaisesti, kun niihin liitetään
@@ -8636,14 +9027,14 @@ iteratiivinen verbi & от-prefiksi/i\tabularnewline
 водить & отводИть\tabularnewline
 летать & отлетАть\tabularnewline
 возить & отвозИть\tabularnewline
-гонЯть & отгонЯть\tabularnewline
+гоня́ть & отгонЯть\tabularnewline
 бродить & *отбродИть\tabularnewline
 \bottomrule
 \end{longtable}
 
 * от-prefiksillinen muoto tästä verbistä on ainoastaan hypoteettinen
 
-\subsection{Painollinen a-suffiksi}\label{painollinen-a-suffiksi}
+\subsubsection{Painollinen a-suffiksi}\label{painollinen-a-suffiksi}
 
 Kolme verbiä muodostaa poikkeuksen siinä suhteessa, että paino siirtyy
 prefiksillisessä muodossa kohti sanan loppua. Lisäksi ездить-verbillä
@@ -8660,7 +9051,7 @@ iteratiivinen verbi & от-prefiksi/i\tabularnewline
 \bottomrule
 \end{longtable}
 
-\subsection{Muodostuksen pohjana prefiksillinen duratiivinen
+\subsubsection{Muodostuksen pohjana prefiksillinen duratiivinen
 verbi}\label{muodostuksen-pohjana-prefiksillinen-duratiivinen-verbi}
 
 Lopuksi voidaan erottaa neljä tapausta, joissa ainakin
@@ -8674,10 +9065,10 @@ prefiksillisestä} verbistä.
 iteratiivinen verbi & от-prefiksi/i\tabularnewline
 \midrule
 \endhead
-плАвать & отплывать\tabularnewline
-катАть & откатывать\tabularnewline
-лАзить & отлезАть\tabularnewline
-таскАть & оттаскивать\tabularnewline
+плавать & отплывать\tabularnewline
+ката́ть & откатывать\tabularnewline
+ла́зить & отлезАть\tabularnewline
+таска́ть & оттаскивать\tabularnewline
 \bottomrule
 \end{longtable}
 
@@ -8699,13 +9090,13 @@ iteratiivinen verbi & от-prefiksi/i\tabularnewline
 \bottomrule
 \end{longtable}
 
-\subsection{Vielä yksi}\label{vieluxe4-yksi}
+\subsubsection{Vielä yksi}\label{vieluxe4-yksi}
 
 Tilanne ei vieläkään ole täysin tyydyttävästi selitetty. Asiaan
 vaikuttavat vielä \emph{liikeverbien teonlaadut}, joita käsitellään
 luennon lopuksi.
 
-\section{Prefiksillisten verbien välinen ero aspektuaalisena
+\subsection{Prefiksillisten verbien välinen ero aspektuaalisena
 erona}\label{prefiksillisten-verbien-vuxe4linen-ero-aspektuaalisena-erona}
 
 Идти- ja ходить-verbien välinen ero, kuten jo monesti todettua, on
@@ -8777,12 +9168,12 @@ merkityksiä ne voivat ilmaista. Esimerkiksi приходить-verbiä ei voi
 Nikunlassin mukaan käyttää lauseessa ``*Смотри, брат приходит'', vaan on
 turvauduttava prefiksittömään идти-verbiin.
 
-\section{Prefiksit ja merkitykset}\label{prefiksit-ja-merkitykset}
+\subsection{Prefiksit ja merkitykset}\label{prefiksit-ja-merkitykset}
 
 Seuraavassa on kuvattu lyhyesti eri prefiksien tavallisesti mukanaan
 tuomat merkitykset.
 
-\subsection{По}\label{ux43fux43e}
+\subsubsection{По}\label{ux43fux43e}
 
 По-prefiksi on poikkeuksellinen kaikkiin muihin nähden, sillä se ei
 toimi säännönmukaisesti siten, että sen liittäminen duratiiviseen
@@ -8833,7 +9224,7 @@ myös liikkeen laadun muuttumista (Wade 2010: 355):
   Сначала мы шли медленно, но потом пошли быстрее.
 \end{enumerate}
 
-\subsection{У}\label{ux443}
+\subsubsection{У}\label{ux443}
 
 \begin{itemize}
 \tightlist
@@ -8852,7 +9243,7 @@ myös liikkeen laadun muuttumista (Wade 2010: 355):
   Брат уходит на работу через 15 минут
 \end{enumerate}
 
-\subsection{Вы}\label{ux432ux44b}
+\subsubsection{Вы}\label{ux432ux44b}
 
 \begin{itemize}
 \tightlist
@@ -8881,7 +9272,7 @@ myös liikkeen laadun muuttumista (Wade 2010: 355):
   сумки, которая лежала на заднем сиденье
 \end{enumerate}
 
-\subsection{При}\label{ux43fux440ux438}
+\subsubsection{При}\label{ux43fux440ux438}
 
 \begin{itemize}
 \tightlist
@@ -8897,7 +9288,7 @@ myös liikkeen laadun muuttumista (Wade 2010: 355):
   Олег приехал в Питер
 \end{enumerate}
 
-\subsection{За}\label{ux437ux430}
+\subsubsection{За}\label{ux437ux430}
 
 \begin{itemize}
 \tightlist
@@ -8938,7 +9329,7 @@ Huomaa käyttö myös puhuttaessa internetissä liikkumisesta:
   Muu negatiivinen seuraus
 \end{itemize}
 
-\subsection{Под}\label{ux43fux43eux434}
+\subsubsection{Под}\label{ux43fux43eux434}
 
 \begin{itemize}
 \tightlist
@@ -8954,7 +9345,7 @@ Huomaa käyttö myös puhuttaessa internetissä liikkumisesta:
   Гарри \emph{подбежал} к окну, игнорируя пораженные вопли Флитвика
 \end{enumerate}
 
-\subsection{В}\label{ux432}
+\subsubsection{В}\label{ux432}
 
 \begin{itemize}
 \tightlist
@@ -8977,7 +9368,7 @@ Huomaa käyttö myös puhuttaessa internetissä liikkumisesta:
   пластового давления.
 \end{enumerate}
 
-\subsection{Про}\label{ux43fux440ux43e}
+\subsubsection{Про}\label{ux43fux440ux43e}
 
 \begin{itemize}
 \tightlist
@@ -9001,7 +9392,7 @@ Huomaa käyttö myös puhuttaessa internetissä liikkumisesta:
   Они \emph{прошли} в дом через большую каменную террасу
 \end{enumerate}
 
-\subsection{Пере}\label{ux43fux435ux440ux435}
+\subsubsection{Пере}\label{ux43fux435ux440ux435}
 
 \begin{itemize}
 \tightlist
@@ -9020,7 +9411,7 @@ Huomaa käyttö myös puhuttaessa internetissä liikkumisesta:
   антикоммунисты \emph{перебежали} из Европы в Аргентину в 1947г.
 \end{enumerate}
 
-\subsection{От}\label{ux43eux442}
+\subsubsection{От}\label{ux43eux442}
 
 \begin{itemize}
 \tightlist
@@ -9043,7 +9434,7 @@ Huomaa käyttö myös puhuttaessa internetissä liikkumisesta:
   По просьбе Генри я отвез рукопись ему
 \end{enumerate}
 
-\subsection{до}\label{ux434ux43e}
+\subsubsection{до}\label{ux434ux43e}
 
 \begin{itemize}
 \tightlist
@@ -9063,7 +9454,7 @@ Huomaa käyttö myös puhuttaessa internetissä liikkumisesta:
   Как вы доехали?
 \end{enumerate}
 
-\hyperdef{}{ux43e}{\subsection{о}\label{ux43e}}
+\hyperdef{}{ux43e}{\subsubsection{о}\label{ux43e}}
 
 \begin{itemize}
 \tightlist
@@ -9083,7 +9474,7 @@ Huomaa käyttö myös puhuttaessa internetissä liikkumisesta:
   я \emph{объехал} США вдоль и поперек и такого не видел
 \end{enumerate}
 
-\subsection{с}\label{ux441}
+\subsubsection{с}\label{ux441}
 
 \begin{itemize}
 \tightlist
@@ -9103,7 +9494,7 @@ Huomaa käyttö myös puhuttaessa internetissä liikkumisesta:
   В Московской консерватории 23 октября \emph{сошлись} Восток и Запад.
 \end{enumerate}
 
-\subsection{Раз}\label{ux440ux430ux437}
+\subsubsection{Раз}\label{ux440ux430ux437}
 
 \begin{itemize}
 \tightlist
@@ -9120,7 +9511,7 @@ Huomaa käyttö myös puhuttaessa internetissä liikkumisesta:
   ничего не произошло.
 \end{enumerate}
 
-\subsection{Вз}\label{ux432ux437}
+\subsubsection{Вз}\label{ux432ux437}
 
 \begin{itemize}
 \tightlist
@@ -9139,7 +9530,7 @@ Huomaa käyttö myös puhuttaessa internetissä liikkumisesta:
   Солнце уже \emph{взошло}.
 \end{enumerate}
 
-\section{Liikeverbien teonlaadut}\label{liikeverbien-teonlaadut}
+\subsection{Liikeverbien teonlaadut}\label{liikeverbien-teonlaadut}
 
 Edellä aspektiaiheisten luentojen lopuksi puhuttiin nopeasti
 \emph{teonlaatujen} (способы действия) käsitteestä. Teonlaadut ovat
@@ -9268,7 +9659,7 @@ tavallisimpien verbien (сходить, сносить ym.) kohdalla homonyymisi
 muotoja, joiden kohdalla vain konteksti kertoo, onko kyse
 momentaanisesta teonlaadusta vai alaspäin vievän liikeen merkityksestä.
 
-\chapter{Gerundit ja
+\section{Luento 22--23: gerundit ja
 adverbit}\label{luento-2223-gerundit-ja-adverbit}
 
 \begin{itemize}
@@ -9290,7 +9681,7 @@ verbimuotonsa, joka ilmaisee tiettyjä kieliopillisia kategorioita, kuten
 aspektia. Lisäksi tarkastellaan adverbien muodostamista venäjässä sekä
 joitakin adverbien funktioita.
 
-\section{Gerundit ja niiden
+\subsection{Gerundit ja niiden
 muodostus}\label{gerundit-ja-niiden-muodostus}
 
 Nimityksellä gerundi tarkoitetaan venäjästä puhuttaessa adverbimaisia
@@ -9301,8 +9692,8 @@ verbimuotoja, joita tavallisesti käytetään korvaamaan sivulauseita.
 \begin{verbatim}
 атрибутивная форма глагола, в которой совмещаются значения двух частей речи:
 глагола и наречия, т. е. значения действия и
-обстоятельственно--определительное: бежал, подпрыгивая.
-вышел, хлопнув дверью.
+обстоятельственно­определительное: бежал, подпрыгивая;
+вышел, хлопнув дверью;
 \end{verbatim}
 
 Suomessa vastaavia nominaalimuotoja ovat niin kutsutut toisen
@@ -9315,7 +9706,7 @@ Venäjän gerundeja on kahta tyyppiä: imperfektiivisen aspektin gerundeja
 (деепричастия совершенного вида). Tarkastellaan seuraavassa kummankin
 muodostusta Nikunlassin (2002: 158) esityksen pohjalta.
 
-\subsection{Imperfektiivisen aspektin
+\subsubsection{Imperfektiivisen aspektin
 gerundi}\label{imperfektiivisen-aspektin-gerundi}
 
 Imperfektiivisen aspektin gerundin (jäljempänä i-gerundi) muodostamisen
@@ -9387,7 +9778,7 @@ voidaan vastaaja merkitys ilmaista желать-verbin gerundilla (желая), 
 vaikka мочь-verbillä ei ole gerundia, voidaan vastaava merkitys ilmaista
 rakenteella `будучи в сосотоянии'.
 
-\subsection{Perfektiivisen aspektin
+\subsubsection{Perfektiivisen aspektin
 gerundi}\label{perfektiivisen-aspektin-gerundi}
 
 Perfektiivisen aspektin gerundin (jatkossa p-gerundi) muodostus on
@@ -9396,7 +9787,7 @@ missä i-gerundin muodostukseen käytetään vain yhtä mahdollista affiksia
 (/а/), on p-gerundin muodostamisessa käytössä neljä: /в/, /вши/, /ши/ ja
 /а/. Muodostus tapahtuu \textbf{infinitiivivartalosta} seuraavasti:
 
-\subsubsection{Jos infinitiivivartalo päättyy
+\paragraph{Jos infinitiivivartalo päättyy
 vokaaliin}\label{jos-infinitiivivartalo-puxe4uxe4ttyy-vokaaliin}
 
 Ensimmäisessä tapauksessa p-gerundi muodostetaan lisäämällä
@@ -9437,7 +9828,7 @@ verbi & infinitiivivartalo & gerundi & kirjoitusasu\tabularnewline
 \bottomrule
 \end{longtable}
 
-\subsubsection{Jos vartalo päättyy
+\paragraph{Jos vartalo päättyy
 konsonanttiin}\label{jos-vartalo-puxe4uxe4ttyy-konsonanttiin}
 
 Toisen ryhmän muodostavat verbit, joiden infinitiivivartalo päättyy
@@ -9489,7 +9880,7 @@ Poikkeuksen muodostavat verbit упасть ja сесть, joiden gerundit ovat
 Kaiken kaikkiaan nyrkkisääntönä voi ajatella, että liikeverbeillä muodot
 ovat suurimmaksi osaksi /а/-päätteisiä.
 
-\section{Gerundien käyttö}\label{gerundien-kuxe4yttuxf6}
+\subsection{Gerundien käyttö}\label{gerundien-kuxe4yttuxf6}
 
 Gerundit kuuluvat pääasiassa kirjoitettuun asiatyyliin ja ovat siis
 puhekielessä harvinaisia. Kirjoitettaessa kannattaa muistaa
@@ -9591,7 +9982,7 @@ Jotkin gerundimuodot ovat leksikaalistuneet ja muuttuneet adverbeiksi:
   И да, и нет. \emph{Смотря как} понимать это слово.
 \end{enumerate}
 
-\section{Adverbeista}\label{adverbeista}
+\subsection{Adverbeista}\label{adverbeista}
 
 Kurssin viimeisenä aiheena ennen kertausta käsitellään vielä lyhyesti
 muutamaa adverbeihin (наречия) liittyvää huomiota.
@@ -9612,7 +10003,7 @@ morfeemista koostuvia adverbeja. On kuitenkin myös iso joukko adverbeja,
 jotka koostuvat ainakin kahdesta morfeemista, ja joiden muodostamisesta
 on siis mielekästä puhua tarkemmin.
 
-\subsection{Adjektiiveista muodostetut
+\subsubsection{Adjektiiveista muodostetut
 adverbit}\label{adjektiiveista-muodostetut-adverbit}
 
 Jos ajatellaan adverbeja tyyppiä \emph{скучно}, \emph{странно} ja
@@ -9646,7 +10037,7 @@ jne. Oma lukunsa ovat vielä sanat, joilla ei ole varsinaista
 yhdistämällä niiden datiivimuoto ja по-prefiksi: по-другому,
 по-настоящему.
 
-\subsection{Muihin kuin adjektiiveihin
+\subsubsection{Muihin kuin adjektiiveihin
 pohjaavat}\label{muihin-kuin-adjektiiveihin-pohjaavat}
 
 Wade (mts) huomauttaa, että tapaa ilmaisevia adverbeja muodostetaan
@@ -9665,7 +10056,7 @@ Tällaisia ovat muun muassa sanat \emph{вслух} (`ääneen'),
 \emph{поблизости}, \emph{вместе}, \emph{справа/слева}, \emph{снАружи} ja
 \emph{внутри}.
 
-\section{Adverbeistä funktionaalisen morfologian
+\subsection{Adverbeistä funktionaalisen morfologian
 kannalta}\label{adverbeistuxe4-funktionaalisen-morfologian-kannalta}
 
 Adverbejä käytetään määrittämään joko koko lausetta (Летом мы много
@@ -9675,40 +10066,45 @@ joissa adverbi itse on ikään kuin verbin paikalla. Näissä niin kutsutun
 \emph{predikatiiviadverbin} sisältämissä lauseissa on datiivimuotoinen
 subjekti: мне скучно/интересно/хорошо.
 
-\chapter*{Kirjallisuutta}\label{kirjallisuutta}
+\section{Kirjallisuutta}\label{kirjallisuutta}
 
-\addcontentsline{toc}{chapter}{Kirjallisuutta}
+\textless{}!-- !pandoc -t latex --bibliography=lahteet.bib
+--template=textemp.tex -o materiaalit/luento1.tex --\textgreater{}
+\textless{}!-- !pandoc morfologia.Rmd -f markdown -t html
+--bibliography=lahteet.bib --standalone -o index.html -css
+github-pandoc.css --toc --toc-depth=1 --include-after-body=scripts.js
+--smart --\textgreater{}
 
 \hyperdef{}{ref-bondarko2005}{\label{ref-bondarko2005}}
 Bondarko, A.V. 2005. \emph{Теория Морфологических Категории И
-Аспектологические Исследования}. Moskova: Jazyki slavjanskoj kultury. \\
+Аспектологические Исследования}. Moskova: Jazyki slavjanskoj kultury.
 
 \hyperdef{}{ref-visk}{\label{ref-visk}}
 Hakulinen, Auli, Maria Vilkuna, Riitta Korhonen, Vesa Koivisto, Tarja
 Riitta Heinonen, and Irja Alho. 2004. ``Iso Suomen Kielioppi.
 Verkkoversio.'' Helsinki: Suomalaisen Kirjallisuuden Seura.
-\url{http://scripta.kotus.fi/visk}. \\
+\url{http://scripta.kotus.fi/visk}.
 
 \hyperdef{}{ref-janda2010}{\label{ref-janda2010}}
 Janda, Laura. 2010. ``Perfectives from Indeterminate Motion Verbs in
 Russian.'' \emph{New Approaches to Slavic Verbs of Motion. Amsterdam:
-John Benjamins}, 125--39. \\
+John Benjamins}, 125--39.
 
 \hyperdef{}{ref-king1995}{\label{ref-king1995}}
 King, Tracy Holloway. 1995. \emph{Configuring Topic and Focus in
-Russian}. Stanford: CSLI Publications. \\
+Russian}. Stanford: CSLI Publications.
 
 \hyperdef{}{ref-klein1999}{\label{ref-klein1999}}
 Klein, Wolfgang. (1994) 1999. \emph{Time in Language}. London:
-Routledge. \\
+Routledge.
 
 \hyperdef{}{ref-koivisto2013suomen}{\label{ref-koivisto2013suomen}}
 Koivisto, Vesa. 2013. \emph{Suomen Sanojen Rakenne}. Suomalaisen
-Kirjallisuuden Seura. \\
+Kirjallisuuden Seura.
 
 \hyperdef{}{ref-mlein}{\label{ref-mlein}}
 Leinonen, Marja. 1985. \emph{Impersonal Sentences in Finnish and
-Russian}. Slavica Helsingiensia 3. Hki: University of Helsinki. \\
+Russian}. Slavica Helsingiensia 3. Hki: University of Helsinki.
 
 \hyperdef{}{ref-mustajoki2005}{\label{ref-mustajoki2005}}
 Mustajoki, Arto, and Михаил Вячеславович Копотев. 2005. ``Лодку Унесло
@@ -9716,357 +10112,77 @@ Mustajoki, Arto, and Михаил Вячеславович Копотев. 2005.
 (Лодку Унесло Ветром: The Conditions and Contexts of Use of the Russian`
 Elemental' Construction).'' \emph{Russian Linguistics} 29 (1). JSTOR:
 1--38.
-\url{http://www.helsinki.fi/~mustajok/pdf/Lodku_uneslo_vetrom.pdf}. \\
+\url{http://www.helsinki.fi/~mustajok/pdf/Lodku_uneslo_vetrom.pdf}.
 
 \hyperdef{}{ref-nikunl}{\label{ref-nikunl}}
 Nikunlassi, Ahti. 2002. \emph{Johdatus Venäjän Kieleen Ja Sen
-Tutkimukseen}. Helsinki: Finn Lectura. \\
+Tutkimukseen}. Helsinki: Finn Lectura.
 
 \hyperdef{}{ref-partee2006genitive}{\label{ref-partee2006genitive}}
 Partee, Barbara, and Vladimir Borschev. 2006. ``The Genitive of Negation
 in Russian: Multiple Perspectives on a Multi-Faceted Problem.'' In
 \emph{First Annual Meeting of the Slavic Linguistics Society,
 Bloomington, iN, September}.
-\url{http://people.umass.edu/partee/docs/SLS06_handout.pdf}. \\
+\url{http://people.umass.edu/partee/docs/SLS06_handout.pdf}.
 
 \hyperdef{}{ref-genlahde}{\label{ref-genlahde}}
 Peteghem, Marleen Van, and Katia Paykin. 2013. ``The Russian Genitive
 Within the NP and the VP.'' In \emph{The Genitive}, edited by Anne
 Carlier and Jean-Christophe Verstraete. Vol. 5. John Benjamins
-Publishing. \\
+Publishing.
 
 \hyperdef{}{ref-rassudova1984}{\label{ref-rassudova1984}}
 Rassudova, O.P. 1984. \emph{Aspectual Usage in Modern Russian}. Moskova:
-Russky Yazyk. \\
+Russky Yazyk.
 
 \hyperdef{}{ref-trakymaite2004}{\label{ref-trakymaite2004}}
 Trakymaite, Ringaile. 2004. ``Падежная Система Современного Русского
 Языка.'' Lund university.
-\url{https://lup.lub.lu.se/student-papers/search/publication/3810042}. \\
+\url{https://lup.lub.lu.se/student-papers/search/publication/3810042}.
 
 \hyperdef{}{ref-vanhala92}{\label{ref-vanhala92}}
 Vanhala-Aniszewski, Marjatta. 1992. ``Функции Пассива В Русском И
 Финском Языках (= Studia Philologica Jyväskyläensia 25).''
-\emph{Jyväskylä: University of Jyväskylä}. \\
+\emph{Jyväskylä: University of Jyväskylä}.
 
 \hyperdef{}{ref-wade2010}{\label{ref-wade2010}}
 Wade, Terence. 2010. \emph{A Comprehensive Russian Grammar}. Vol. 8.
-John Wiley \& Sons. \\
+John Wiley \& Sons.
 
 \hyperdef{}{ref-zolotova}{\label{ref-zolotova}}
 Zolotova, G. A., N. K. Onipenko, and M. U. Sidorova. 2004.
-\emph{Kommunikativnaja Grammatika Russkogo Jazyka}. Moskva: RAN. \\
+\emph{Kommunikativnaja Grammatika Russkogo Jazyka}. Moskva: RAN.
 
 \hyperdef{}{ref-isachenko2003}{\label{ref-isachenko2003}}
 Исаченко, Александр. 2003{[}1965{]}. \emph{Грамматический Строй Русского
 Языка В Сопоставлении С Словацким. Морфология. Часть 1, 2}. Москва:
 Языки славянской культуры.
-\url{https://www.litres.ru/a-v-isachenko/grammaticheskiy-stroy-russkogo-yazyka-v-sopostavlenii-s-slovackim-morfologiya-chast-1-2/}. \\
+\url{https://www.litres.ru/a-v-isachenko/grammaticheskiy-stroy-russkogo-yazyka-v-sopostavlenii-s-slovackim-morfologiya-chast-1-2/}.
 
 \hyperdef{}{ref-kasatkin}{\label{ref-kasatkin}}
 Касаткин, Л. Л. 2006. \emph{Современный Русский Язык: Фонетика}. Moskva:
-Academia. \\
+Academia.
 
 \hyperdef{}{ref-musatov2016}{\label{ref-musatov2016}}
 Мусатов, Валерий. 2016. \emph{Русский Язык. Морфемика. Морфонология.
 Словообразование. Учебное Пособие}. Москва: Флинта.
-\url{https://www.litres.ru/valeriy-musatov/russkiy-yazyk-morfemika-morfonologiya-slovoobrazovanie-uchebnoe-posobie/}. \\
+\url{https://www.litres.ru/valeriy-musatov/russkiy-yazyk-morfemika-morfonologiya-slovoobrazovanie-uchebnoe-posobie/}.
 
 \hyperdef{}{ref-skvortsova2003}{\label{ref-skvortsova2003}}
 Скворцова, Г. Л. 2003. \emph{Глаголы Движения - Без Ошибок}. Москва:
-Русский язык. Курсы. \\
+Русский язык. Курсы.
 
 \hyperdef{}{ref-supr2001}{\label{ref-supr2001}}
 Супрун, ВИ. 2001. ``Антропонимы В Вокативном Употреблении.''
 \emph{Известия Уральского Государственного Университета. 2001. 20}.
-\url{http://elar.urfu.ru/bitstream/10995/23753/1/iurg-2001-20-17.pdf}. \\
+\url{http://elar.urfu.ru/bitstream/10995/23753/1/iurg-2001-20-17.pdf}.
 
 \hyperdef{}{ref-akademitsheskaja}{\label{ref-akademitsheskaja}}
 Шведова, Наталья Юльевна. 1980. \emph{Русская Грамматика. В Двух Томах.}
 Наука.
-\url{http://lukashevichus.info/knigi/russk_gramm_sl_shvedova_1.pdf}. \\
+\url{http://lukashevichus.info/knigi/russk_gramm_sl_shvedova_1.pdf}.
 
 \hyperdef{}{ref-sheljakin}{\label{ref-sheljakin}}
-Шелякин, М.А. 2006. \emph{Справочник По Русской Грамматике}. drofa. \\
-
-
-
-\chapter*{Liite 1: termilista}
-\addcontentsline{toc}{chapter}{Liite 1: termilista}
-
-
-
-\hyperdef{}{termsux5fru}{\label{termsux5fru}}
-\begin{longtable}[c]{p{4cm}p{4cm}p{7cm}}
-\toprule
-suomi & venäjä & määritelmä\tabularnewline
-\midrule
-\endhead
-adjektiivideklinaatio & адъективное склонение & (Pitkien) adjektiivien,
-eräiden pronominien ja partisiippien pitkien muotojen noudattama
-taivutusmuotojen sarja\tabularnewline
-adjektiivit & прилагательные & laatua ilmaisevia sanoja. Ilmaisevat myös
-sukua taivutuspäätteillä\tabularnewline
-adverbit & наречия & taipumattomia mm. tapaa, paikkaa ja aikaa
-ilmaisevia sanoja\tabularnewline
-affiksi & аффикс & morfeemeja, joiden avulla johdetaan uusia sanoja.
-Jakautuvat suffikseihin, prefikseihin, interfikseihin ja
-postfikseihin\tabularnewline
-agenttitäydennys & агентивное дополение & instrumentaalimuotoinen
-nomini, joka ilmaisee passiivilauseen tekijän\tabularnewline
-aikamuotokategoria & категория времени & verbien ilmaisema
-kieliopillinen kategoria, jonka tärkeimmät arvot mennyt aika ja
-ei-mennyt aika\tabularnewline
-aktiivi & действительный залог & Pääluokkakategorian toinen
-arvo\tabularnewline
-allomorfi & алломорф & morfi, joka on täydennysjakaumassa toisen morfin
-kanssa eli on yksi kahdesta tai useammasta konkreettisesta esiintymästä,
-jona jokin morfeemi ilmenee\tabularnewline
-apusanaluokat & служебные части речи & muut sanaluokat paitsi
-partikkelit, prepositiot, konjunktiot ja interjektiot\tabularnewline
-aspektikategoria & категория вида & koko venäjän verbijärjestelmän
-läpäisevä kategoria, jolla perinteisesti nähty kaksi arvoa,
-imperfektiivinen ja perfektiivinen\tabularnewline
-deklinaatio & тип склонения & taivutusmuotojen sarja
-nomineilla\tabularnewline
-delimitatiivinen teonlaatu & ограничительный способ действия & tietyn,
-yleensä vähäisen, ajan kestävää toimintaa ilmaisevia verbejä, esim
-посидеть, покурить\tabularnewline
-distributiivinen merkitys & распределительное значение & datiivin
-merkitys, jossa jotakin esinettä annetaan kullekin yksi\tabularnewline
-duratiiviset liikeverbit & однонаправленные глаголы движения & esim.
-идти, ехать, ilmaisevat liikettä yhteen suuntaan\tabularnewline
-elollisuuskategoria & категория одушевлённости & erityisesti
-akkusatiivin osalta oleellinen kategoria, joka liittyy sanan referentin
-statukseen elollisena/elottomana olentona\tabularnewline
-erityismerkitys (aspektin) & частное видовое значение & kontekstista
-riippuva erityinen tapa käyttää aspektia\tabularnewline
-feminiini & женский род & yksi sukukategorian arvoista\tabularnewline
-fleksio & флексия & sama kuin taivutuspääte\tabularnewline
-funktionaalinen morfologia & функциональная морфонология & morfologian
-osa-alue, joka keskittyy sanojen ja morfeemien käytön
-tutkimiseen\tabularnewline
-imperatiivi & повелительное наклонение & käskyä ilmaiseva
-tapaluokka\tabularnewline
-indikatiivi & изъявительное наклонение & tavallisin tapaluokka, ilmaisee
-toiminnan ilman ehtoa, käskyä tai puhujan arviota siitä.\tabularnewline
-infiniittimuoto & неспрягаемая форма глагола & ks.
-nominaalimuoto\tabularnewline
-infinitiivivartalo & основа инфинитива & verbin vartalo, joka
-muodostetaan poistamalla infinitiivimuodosta infinitiivin
-tunnus\tabularnewline
-inkoatiivinen teonlaatu & начинательный способ действия & alkamista
-ilmaisevia verbejä, esimerkiksi заплакать, засмеяться\tabularnewline
-interfiksi & интерфикс & morfeemi, joka esiintyy sanojen välissä, esin
-лес/о/заготовка\tabularnewline
-interjektiot & междометия & huudahdussanoja kuten ой! ах!
-ym.\tabularnewline
-intransitiivinen & непереходный & verbi, joka ei saa
-objektia\tabularnewline
-iteratiiviset liikeverbit & ненаправленные глаголы движения & esim.
-ходить, ездить, eivät ota kantaa liikkeen suuntaisuuteen\tabularnewline
-itsenäiset sanaluokat & самостоятельные части речи & muut sanaluokat
-paitsi partikkelit, prepositiot, konjunktiot ja
-interjektiot\tabularnewline
-järjestysluvut & порядковые числителные & lukusanoja, jotka ilmaisevat,
-kuinka mones jokin ilmiö/asia/tms. on.\tabularnewline
-johdettu sana & производное слово & sana, jonka vartaloon kuuluu
-juurimorfin lisäksi affikseja\tabularnewline
-johtamaton sana & непроизводное слово & sana, jonka vartaloon ei kuuluu
-(ainakaan nykykielen kannalta) juurimorfin lisäksi
-affikseja\tabularnewline
-juurimorfi & корневой морф, корень & sanan leksikaalisen ytimen
-ilmaiseva johtamaton morfi\tabularnewline
-kardinaaliluvut & количественные числителные & lukusanoja, jotka
-ilmaisevat määrää\tabularnewline
-kieliopillinen kategoria & грамматическая категория & morfeilla
-ilmaistava kielellinen piirre (esim. sija, suku, aspekti, persoona,
-pääluokka) jonka suhteen kaksi eri sananmuotoa (esim. играю, играешь)
-ovat oppositiossa.\tabularnewline
-kollektiivilukusanat & собирательные числителные & lukusanoja, jotka
-viittaavat ryhmään henkilöitä\tabularnewline
-komparatiivi & сравнительная степень & toinen
-vertailuaste\tabularnewline
-konditionaali & сослагательное наклонение & ehtoa tai mahdollisuutta
-ilmaiseva tapaluokka\tabularnewline
-kongruenssi & согласование & kongruenssiksi kutsutaan ilmiötä, jossa
-jokin lauseen elementti (kuten predikaattiverbi) vaikuttaa jonkin toisen
-elementin muotoon. Esimerkiksi verbin menneen ajan muoto on
-kongruenssissa subjektin suvun ja luvun kanssa (она играла, спортсмены
-играли)\tabularnewline
-konjugaatio & спряжение & verbien taivutustyyppi\tabularnewline
-konjunktiot & союзы & lauseita yhdistävien apusanojen ryhmä (а,и,но,хотя
-ym.)\tabularnewline
-konkreettis-faktinen merkitys & конкретно-фактическое значение &
-perfektiivisen aspektin perusmerkitys\tabularnewline
-konkreettis-prosessuaalinen merkitys & конкретно-процессное значение &
-imperfektiivisen aspektin perusmerkitys\tabularnewline
-laatuadjektiivi & качественное прилагательное & adjektiivi, joka voi
-ilmaista toiminnan astetta ja intensiteettiä\tabularnewline
-liikeverbit & глаголы движения & joukko verbejä, jotka muodostavat parin
-liikkeen suuntaisuuden suhteen\tabularnewline
-liittofutuuri & сложное будущее время & ei-mennyt aikamuoto, joka
-muodostetaan быть-verbistä ja imperfektiivisen aspektin
-verbistä\tabularnewline
-lukukategoria & категория числа & venäjässä tällä kategorialla kaksi
-arvoa: yksikkö ja monikko\tabularnewline
-lukusanat & числителные & numeroita ja lukumäärää ilmaisevia sanoja --
-morfologisesti osin epäyhtenäinen luokka\tabularnewline
-maskuliini & мужской род & yksi sukukategorian arvoista\tabularnewline
-modus & наклонение & ks. tapaluokkakategoria\tabularnewline
-momentaaninen teonlaatu & одноактный способ действия & verbejä, jotka
-ilmaisevat yksittäisen toiminnan erotettuna vastaavien toimintojen
-sarjasta, esimerkiksi махнуть, кашлянуть\tabularnewline
-morfeemi & морфема & kielen pienen merkitystä kantava
-yksikkö\tabularnewline
-morfeemiraja & морфемный шов & morfeemien välinen raja, esim juurimorfin
-ja suffiksin raja\tabularnewline
-morfi & морф & morfeemin konkreettinen esiintymä\tabularnewline
-morfofonologia & морфонология & morfologian osa-alue, joka tutkii muun
-muassa äänteenmuutoksia\tabularnewline
-morfosyntaksi & морфосинтаксис & morfologian osa-alue, joka tutkii
-morfologian ja syntaksin rapaintoja, esimerkiksi
-kongruenssia\tabularnewline
-neutri & средний род & yksi sukukategorian arvoista\tabularnewline
-nollaäänne & нуль звука & erityisesti väistyvän vokaalin yhteydessä:
-äänne, joka toisissa ympäristöissä edustuu konkreettisena äänteenä,
-toisissa ei\tabularnewline
-nollamorfi & нулевой морф & morfeemi, joka ei ilmene minään
-konkreettisena kielellisenä aineksena, mutta jonka olemassaolo on
-perusteltua olettaa\tabularnewline
-nollavokaali & нуль гласного & ks. nollaäänne\tabularnewline
-nominaalimuoto & неспрягаемая форма глагола & verbimuotoja, jotka eivät
-taivu persoonissa vaan nominien tavoin. Esimerkiksi
-partisiipit.\tabularnewline
-nominit & инменные части речи & sijoissa taipuvat sanaluokat (pois
-lukien sijoissa taipuvat partisiipit)\tabularnewline
-obliikvisija & косвенный падеж & muut sijat kuin nominatiivi ja
-nominatiivin kaltainen akkusatiivi\tabularnewline
-oletusarco & значение по умолчанию & kieliopillisen kategorian (esim.
-luvun tai suvun) arvo, jota käytetään, jos mikään lauseen elementti ei
-suoraan ohjaa käyttämään tiettyä arvoa (ks. kongruenssi), mutta arvoa ei
-yhtä kaikki voi myöskään olla ilmaisematta.\tabularnewline
-pääluokkakategoria & категория залога & verbien ilmaisema kategoria,
-jonka arvot ovat aktiivi (действительный залог) ja passiivi
-(старательный залог)\tabularnewline
-painotyyppi & акцентологический тип & säännönmukainen sanapainon
-ilmeneminen tiettyjen muotojen päätteellä ja tiettyjen muotojen
-vartalolla\tabularnewline
-partikkelit & частицы & määrällisesti suuri taipumattomien
-kieliopillisten sanojen ryhmä, esim. не, бы, мол\tabularnewline
-passiivi & страдательный залог & Pääluokkakategorian toinen
-arvo\tabularnewline
-perduratiivinen teonlaatu & продолжительный способ действия & tietyn
-ajan kestäviä tapahtumia ilmaisevia verbejä, esim прожить,
-прозаниматься\tabularnewline
-perfektin merkitys & значение перфекта & yksi perfektiivisen aspektin
-erityismerkityksistä\tabularnewline
-persoonakategoria & категория лица & tavallisimmin verbeillä, mutta
-joissain tapauksissa myös pronomineilla ilmaistu kieliopillinen
-kategoria\tabularnewline
-perusmerkitys (aspektin) & общее видовое значение & aspektin
-tyyppillisin, lähtökohtainen merkitys\tabularnewline
-perusmerkitys (aspektin) & общее видовое значение & ks.
-perusmerkitys\tabularnewline
-positiivi & положительная степень & ensimmäinen
-vertailuaste\tabularnewline
-possessiiviadjektiivit & притяжательные прилагательные & adjektiivin
-kaltaisia sananmuotoja, joilla osoitetaan jonkin asian tai esineen
-kuuluuvuus jollekin elolliselle olennolle\tabularnewline
-postfiksi & постфикс & morfeemi, joka esiintyy suffiksien ja päätteiden
-jäljessä, esim. ся\tabularnewline
-predikatiivi & именная часть сказуемого & se, mitä jostakin entiteetistä
-predikoidaan: lauseen predikaattiverbin täydennys, joka kertoo
-esimerkiksi jonkin ominaisuuden subjektista (я рад / дедушка
-болен)\tabularnewline
-predikatiiviadverbi & предикативное наречие & adverbi, joka toimii
-lauseen predikaattia, esim. скучно lauseessa мне скучно\tabularnewline
-preesensvartalo & основа настоящего времени & verbin vartalo, joka
-muodostetaan poistamalla persoonapääte, tavallisesti oletuksena monikon
-kolmannesta persoonasta\tabularnewline
-prefiksi & префикс, приставка & affiksi, joka liittyy juurimorfeemin
-etupuolelle\tabularnewline
-prepositiot & предлоги & yksimorfeemisia sanoja, joilla ilmaistaan
-kieliopillisia kategorioita. Adpositioita, jotka edeltävät niistä
-riippuvaa substantiivia.\tabularnewline
-pronominideklinaatio & местоименное склонение & Eräiden pronominien ja
-muun muassa possesiiviadjektiivien noudattama taivutusmuotojen
-sarja\tabularnewline
-pronominit & местоимения & Nominien asemesta käytettäviä
-sanoja\tabularnewline
-rajoitetun toiston merkitys & ограниченно-кратное значение & yksi
-imperfektiivisen aspektin erityismerkityksistä\tabularnewline
-rajoittamattoman toiston merkitys & неограниченно-кратное значение &
-yksi imperfektiivisen aspektin erityismerkityksistä\tabularnewline
-relaatioadjektiivi & относительное прилагательное & adjektiivi, joka ei
-voi ilmaista toiminnan astetta ja intensiteettiä\tabularnewline
-salkkumorfi & гибридный морф & morfi, joka ilmaisee samalla kertaa
-useampaa kieliopillista kategoriaa, esim. красив/ая/-sanan viimeinen
-morfi sijaa ja lukua\tabularnewline
-sanaluokka & часть речи & sanojen ryhmittely, joka yleensä tehdään
-pääosin morfologisin, osin kuitenkin semanttisin (ja syntaktisin)
-perustein\tabularnewline
-sananmuodostusoppi & словообразование & morfologian toinen päähaara,
-joka tutkii mm. affikseja ja johtamista\tabularnewline
-semelfaktiivinen teonlaatu & одноактный способ действия & sama kuin
-momentaaninen teonlaatu\tabularnewline
-sidottu juurimorfi & связанный корень & juurimorfi, joka ei voi
-itsessään muodostaa sanaa, esim. о/де/ть\tabularnewline
-sijakategoria & категория падежа & tärkein venäjän nominien
-keiliopillisista kategorioista, jolla erotetaan lukuisia erilaisia
-merkityksiä\tabularnewline
-substantiivit & существительные & sijoissa taipuva asioita / henkilöitä
-/ esineitä ym. nimeävä sanaluokka\tabularnewline
-suffiksi & суффикс & affiksi, joka liittyy juurimorfeemin jälkeen ennen
-taivutuspäätteitä ja postfikseja\tabularnewline
-sukukategoria & категория рода & substantiivien luokittelu kolmeen
-ryhmään. Sukukategoriaa ilmaisevat myös adjektiivit, eräät pronominit
-sekä tietyissä muodoissa verbit\tabularnewline
-summatiivinen merkitys & суммарное значение & yksi perfektiivisen
-aspektin erityismerkityksistä\tabularnewline
-superlatiivi & превосходная степень & kolmas vertailuaste\tabularnewline
-suppletiiviset muodot & супплетивные формы & sananmuotoja, joissa
-juurimorfi vaihtuu ja mahdolliset affiksit lisätään eri
-morfiin.\tabularnewline
-taivutusoppi & словоизменение & morfologian toinen päähäära, joka tutkii
-eri sananmuotoja\tabularnewline
-taivutuspääte & окончание & ei uutta sanaa vaan uuden sananmuodon
-muodostava morfeemi,joka ilmaisee esim. sijaa\tabularnewline
-tapaluokkakategoria & категория наклонения & verbien ilmaisema
-kieliopillinen kategoria, jonka arvoja mm. indikatiivi ja
-konditionaali\tabularnewline
-tempus & время & ks. aikakategoria\tabularnewline
-teonlaatu & способ действия & tietyt verbit voidaan ryhmitellä
-kuuluvaksi merkityksen ja käyttötavan puolesta yhtenäisiksi ryhmiksi,
-joita kutsutaan teonlaaduiksi. Teonlaadut tuovat usein esille
-jommankumman aspektin tyypillisiä ominaisuuksia kuten toiminnan rajattua
-alkupistettä.\tabularnewline
-transitiivinen & переходный & verbi, joka saa objektin\tabularnewline
-tunnusmerkillinen osapuoli & маркированный член оппозиции & se
-opposition osapuoli, joka ilmaisee jotakin piirrettä tai
-ominaisuutta\tabularnewline
-tunnusmerkitön osapuoli & немаркированный член оппозиции & se opposition
-osapuoli, joka jättää jonkin piirteen tai ominaisuuden ilmaisematta tai
-on sen suhteen neutraali\tabularnewline
-vaihetta ilmaisevat verbit & фазовые глаголы & verbit tyyppiä начинать,
-стать, joiden kanssa käytetään imperfektiivistä aspektia\tabularnewline
-väistyvä vokaali & беглый гласный & morfofonologinen ilmiö, jossa
-vokaalit {[}o{]}, {[}e{]} ja joskus {[}и{]} vaihtelevat nollavokaalin
-kanssa, kuten muodoissa сон - сне\tabularnewline
-vapaa juurimorfi & свободный корень & juurimorfi, joka voi sellaisenaan
-muodostaa sanan\tabularnewline
-vartalo & основа & se osa,joka jää (prefiksi+juuri+suffiksit) kun
-taivutuspääte otetaan pois\tabularnewline
-verbit & глаголы & tekemistä, toimintaa ilmaisevia sanoja, jotka
-ilmaisevat aspektia, pääluokkaa, persoonaa\tabularnewline
-vertailuaste & степень сравнения & adjektiivien ja adverbien
-kieliopillinen kategoria, jolla on arvot positiivi, komparatiivi,
-superlatiivi\tabularnewline
-yksinkertainen futuuri & простое будущее время & ei-mennyt aikamuoto,
-joka muodostetaan perfektiivisen aspektin verbin
-persoonamuodoista\tabularnewline
-äänteenmuutos/-vaihtelu & чередование & morfofonologinen ilmiö, jossa usein morfien rajalla esiintyy eri äänne sananmuodosta riippuen\tabularnewline
-\bottomrule
-\end{longtable}
+Шелякин, М.А. 2006. \emph{Справочник По Русской Грамматике}. drofa.
 
 \end{document}
