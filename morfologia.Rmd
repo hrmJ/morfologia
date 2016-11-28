@@ -284,7 +284,7 @@ Millainen kieli venäjä on morfologian kannalta?
 Kielten luokittelua erilaisten yhtenevien ja eriävien ominaisuuksien
 perusteella kutsutaan kielitypologiaksi. Kun kieliä luokitellaan morfologisten
 ominaisuuksien perusteella, on perinteisesti jaoteltu kieliä toisaalta
-*synteettiisiin ja analyyttisiin*.
+*synteettisiin ja analyyttisiin*.
 
 - Analyyttisiksi kutsutaan kieliä, jossa kieliopillisia suhteita ilmaistaan
   kieliopillisten sanojen (prepositiot, partikkelit, ym.) ja sanajärjestyksen avulla
@@ -361,8 +361,8 @@ verbeistä persoonan ilmaiseminen ei tapahdu pronomineilla taivutuspäätteen va
 sanavartalon avulla [@nikunl, 154]. Erityisesti persoonapronominit ovat
 taivutuksen suhteen omalaatuinen luokka, jonka sisällä on suurta vaihtelua.
 Tähän palataan tarkemmin luennolla 5. Pronominien erikoisuuksiin morfologian
-kannaltaa kuuluu myös se, että niistä on usein hankala erottaa juurimorfeemia ja
-taivutuspäätteitä. Ajettele vaikka sananmuotoja *мне* ja  *меня* ja vertaa niitä
+kannalta kuuluu myös se, että niistä on usein hankala erottaa juurimorfeemia ja
+taivutuspäätteitä. Ajattele vaikka sananmuotoja *мне* ja  *меня* ja vertaa niitä
 nominatiivimuotoon *я*.
 
 
@@ -372,7 +372,7 @@ Lukusanat ovat, kuten edellä mainittiin, osittain hämärästi määriteltävis
 oleva luokka, johon luetaan usein morfologiselta rakenteeltaan hyvin erilaisia
 sanoja. Läheskään kaikki lukusanat eivät, nurinkurista kyllä, ilmaise
 luvun kieliopillista kategoriaa (niillä ei ole erillisiä yksikkö- ja
-monikkomuotoja). Myöskään sukua lukusanat eivät paria poikkeusta lukuunottamatta
+monikkomuotoja). Myöskään sukua lukusanat eivät paria poikkeusta lukuun ottamatta
 ilmaise. Lukusanat onkin oma luokkansa ennen muuta sen takia, että
 tähän ryhmään yleensä luettavat sanat ovat merkityksen puolesta lähellä toisiaan
 [tarkemmin ks. @nikunl: 123]. Morfologiselta kannalta kannattaa kiinnittää
@@ -392,7 +392,7 @@ jne), lukukategoriaa (один vs. одни) ja taipuu esimerkiksi sijoissa palj
 on hyvin erilaiset taivutusparadigmat (konkreettiset kieliopillisten
 kategorioitten, kuten sijan, arvot) kuin muilla luvuilla. Peruslukusanat
 ovat siinäkin suhteessa erikoinen luokka, että nominatiivissa ne toimivat
-pääsanana ja määrävät niihin liittyvän substantiivin sijan (семь столов), mutta
+pääsanana ja määräävät niihin liittyvän substantiivin sijan (семь столов), mutta
 muuten käyttäytyvät syntaktisessa mielessä adjektiivien tavoin (без семи столов).
 
 #### Morfologiset substantiivit 
@@ -404,7 +404,7 @@ ilmaisevat niin suku-, luku- kuin sijakategorioita.
 
 #### Kollektiivilukusanat
 
-Oma alauokkansa lukusanojen sisällä ovat kollektiivilukusanat (*двое*, *трое*
+Oma alaluokkansa lukusanojen sisällä ovat kollektiivilukusanat (*двое*, *трое*
 ym.) joiden käyttöympäristöt ovat melko rajattuja. Nekään eivät ilmaise lukua
 eli eivät tee eroa yksikön ja monikon välillä.
 
@@ -468,7 +468,7 @@ Suku kieliopillisena kategoriana
 
 ### Substantiivien suvun määräytyminen
 
-Substantiivien suvun määrätytyminen on melko monimutkainen ilmiö. Esitettäessä
+Substantiivien suvun määräytyminen on melko monimutkainen ilmiö. Esitettäessä
 siihen liittyviä säännönmukaisuuksia voidaan päätyä hyvinkin erilaisiin
 kuvausmalleihin. Esittelen tässä kahta vaihtoehtoa.
 
@@ -510,7 +510,7 @@ vähemmän yleistävä kuin Nikunlassilla, mutta toisaalta tarkempi -- se antaa
 edellistä kuvausta suorempia vastauksia yhtä konkreettista sanaa koskeviin kysymyksiin.
 Esitän seuraavassa tiivistetyn version tästä kuvaustavasta.
 
-Šeljakin lähtee liikkeelle siitä, että sanat voidaan suvun määrätymisen suhteen
+Šeljakin lähtee liikkeelle siitä, että sanat voidaan suvun määräytymisen suhteen
 jakaa viiteen pääryhmään:
 
 1. Taipuvat substantiivit
@@ -575,7 +575,7 @@ poikkeuksena kuitenkin esimerkiksi sanat *пенальти* ja *кофе*.
 
 Jos taipumattomat sanat viittaavat henkilöön, niiden suvun määräytyminen
 muistuttaa taipuvien henkilöön viittaavien sanojen suvun määräytymistä. Esimerkiksi sanat
-*рефери* ja *аташе* vertautuvat tällöihin sanoihin *врач*, *профессор* ym. ja
+*рефери* ja *аташе* vertautuvat tällöin sanoihin *врач*, *профессор* ym. ja
 ovat lähtökohtaisesti maskuliineja. On kuitenkin myös selkeästi feminiinejä
 taipumattomia henkilösanoja, esimerkiksi sanat *леди* ja *мадам*.
 
@@ -666,8 +666,8 @@ e-päätteinen prepositionaalimuoto on mahdollinen [vrt. @sheljakin: 47].
 **Adnumeratiivi**
 
 Adnumeratiivi (аднумератив) koskee käytännössä kolmea substantiivia: шаг, ряд ja
-час. Näiden genetiivimuodot ovat шáга, рЯда ja чáса, mutta lukusanojen 2-4 yhteydessä
-niistä käytetään muotoja шагá, рядá, часá. 
+час. Näiden genetiivimuodot ovat шАга, рЯда ja чАса, mutta lukusanojen 2-4 yhteydessä
+niistä käytetään muotoja шагА, рядА, часА. 
 
 **Vokatiivi**
 
@@ -737,7 +737,7 @@ samoilla morfeilla.
   silti sama vokaali.
 - **Akkusatiivin** pääte lankeaa yhteen joko nominatiivin tai genetiivin kanssa
   elollisuudesta riippuen
-- **Datiivin** päätteenä on morfi /у/. Jälleen kerran, jos edelätävä konsonantti
+- **Datiivin** päätteenä on morfi /у/. Jälleen kerran, jos edeltävä konsonantti
   on liudentunut, merkitään morfia kirjoituksessa ю-kirjaimella.
 - **Instrumentaalin** päätteenä on morfi /ом/
 - **Prepositionaalin** päätteenä on morfi /е/ tai /и/
@@ -777,7 +777,7 @@ konsonantin jälkeinen [о]-vokaalin variantti (sanassa *мУжем*) eroaa hiem
 liudentumattoman konsonantin jälkeisestä (sanassa *дОмом*). 
 
 Kirjoitussääntöjen ei siis pidä antaa hämärtää sitä tosiasiaa, että
-ortografisesti merkkijoinoilla *ом* ja *ем* ilmaistavat päätteet ovat itse asiassa sama pääte,
+ortografisesti merkkijonoilla *ом* ja *ем* ilmaistavat päätteet ovat itse asiassa sama pääte,
 joiden sisältämä vokaalifoneemi [о] on sama. Tällä vokaalifoneemilla on tosin päätteen osana
 toimiessaan kolme eri allofonia: painollinen versio, liudentumattoman
 konsonantin jälkeinen versio ja liudentuneen konsonantin jälkeinen versio.
@@ -1034,7 +1034,7 @@ monikon genetiivi esiintyy nimenomaan nollapäätteenä.
 
 
 Pohdi tarkemmin ilmiötä tutkimalla esimerkiksi 
-seuraavien sanojen taivutusmuotoja (klikkaamalla linkkiä pääset wikisanakirjan
+seuraavien sanojen taivutusmuotoja (klikkaamalla linkkiä pääset Wikisanakirjan
 artikkeliin):
 
 - [рот](https://ru.wiktionary.org/wiki/рот),
@@ -1116,7 +1116,7 @@ Jonkinnäköisenä suuntaviivana voinee sanoa, että у-vokaalin sisältävät m
 ovat usein tyyliltään kirjallisempia.
 
 Isachenko [-@isachenko2003: 167] mainitsee vielä esimerkiksi seuraavia
-poikkeuksellisesti taipuvia sanoja (linkit vievät wikisanakirjan artikkeleihin,
+poikkeuksellisesti taipuvia sanoja (linkit vievät Wikisanakirjan artikkeleihin,
 joista voit tutkia taivutusta tarkemmin):
 [курица](https://ru.wiktionary.org/wiki/курица),
 [чудо](https://ru.wiktionary.org/wiki/чудо),
@@ -1429,7 +1429,7 @@ Tähän ryhmään kuuluu lähinnä vanhoja kantavenäläisiä sanoja: бог, в
 
 ### II deklinaation painotyypit
 
-Toinen deklinaatio on sanapainon kannalta ehkä kielrnoppijalle kaikkein
+Toinen deklinaatio on sanapainon kannalta ehkä kielenoppijalle kaikkein
 haastavin, sillä paino ei läheskään aina noudattele kaavaa, jossa yksikkö ja
 monikko olisivat johdonmukaisia kokonaisuuksia. Toisen deklinaation sanat
 voidaan painon perusteella jakaa seuraaviin kolmeen pääryhmään:
@@ -1574,7 +1574,7 @@ painomuodoissa voi olla vaihtelua.
 ВолнА-tyypin sanoilla monikon nominatiivin pääte on vartalolla, mutta
 obliikvisijoissa on rinnakkaismuotoja (molempi painovaihtoehto mahdollinen).
 Käytännössä tästä tyyppiä voi ajatella niin, että yksikkö=pääte,
-monikko=vartalo. Kuten alla olevista wiktionary-linkeistä huomaat, kaikilla
+monikko=vartalo. Kuten alla olevista Wiktionary-linkeistä huomaat, kaikilla
 Isatšenkon tähän luokkaan luettelemilla substantiiveilla ei nykykielessä
 välttämättä katsota olevan edes vaihtelun mahdollisuutta.
 
@@ -1897,7 +1897,7 @@ tuntemisessa, tämä luento on ehkä kohtuuttomankin tiivis ja pikainen katsaus
 melko laajaan joukkoon ilmiöitä. Pyrin kompensoimaan tätä antamalla vinkkejä
 lisälukemiselle ja toisaalta kotona tehtävillä internetharjoituksilla.
 
-<!-- Muista painottaaa yllä sanottua myös luennolla! -->
+<!-- Muista painottaa yllä sanottua myös luennolla! -->
 
 Adjektiivien ja pronominien sijataivutus
 ----------------------------------------
@@ -2048,7 +2048,7 @@ Ordinaali- ja kardinaalilukusanojen lisäksi venäjässä on erikseen
 kollektiivilukusanojen (собирательные числительные) ryhmä. Kollektiivimuoto
 muodostetaan ainakin teoriassa luvuista 2--10, joskin muodot 7--10 ovat
 harvinaisia [@wade2010: 221]. Seuraavassa on listattu kaikki tavallisimmat
-kollektiivilukusant nominatiivimuodossa (klikkaa sanoja tutkiaksesi taivutusta):
+kollektiivilukusanat nominatiivimuodossa (klikkaa sanoja tutkiaksesi taivutusta):
 
 - [двое](https://ru.wiktionary.org/wiki/двое)
 - [трое](https://ru.wiktionary.org/wiki/трое)
@@ -2090,7 +2090,7 @@ tai *довольно*.
 Tästä seuraa, että näistä adjektiiveista voi myös muodostaa vertailuasteita (ks.
 alempana) ja lyhyitä muotoja (myös tarkemmin alempana). Nikunlassi [@nikunl:
 132] antaa relaatioadjektiivista (относительные прилагательные) esimerkin
-*государственный*, sheljakin [-@sheljakin: 72] puolestaan mainitsee muun muassa
+*государственный*, Šeljakin [-@sheljakin: 72] puolestaan mainitsee muun muassa
 sanat *железный*  ja *московский*.
 
 
@@ -2584,7 +2584,7 @@ henkilöön viittaavista, akkusatiivin valintaa puoltavista tapauksista:
 (@ee_akk3) Вы не знаете Асю. Она на такое не способна.
 
 Lisäksi on hyvä huomata, että akkusatiiviin tulevat esimerkin @ee_falseneg kaltaiset lauseet, joissa
-kielto on tavalla tai toisela lievempi:
+kielto on tavalla tai toisella lievempi:
 
 (@ee_falseneg) Мы с ним вместе гастролировали в Японии, где чуть не убили японку.
 
@@ -2755,7 +2755,7 @@ kokonaisuus, johon se kuuluu:
 (@ee_pozhavruku) В четвёртый, может быть, раз пожав хозяину руку, гость ступил за порог
 (@ee_pozhruk2) Такое благородство восхитило меня, и я ещё сильней пожал ему руку. 
 
-Omistettava asia voi olla abstarktikin, kuten *elämä* esimerkin @ee_spasti
+Omistettava asia voi olla abstraktikin, kuten *elämä* esimerkin @ee_spasti
 jälkimmäisessä lauseessa.
 
 (@ee_spasti) Его *другу* убийца повредил левый бок, но врачи спасли *мужчине* жизнь
@@ -2799,8 +2799,8 @@ Miten elollisuuskategoria ilmenee?
 ----------------------------------
 
 Elollisuuskategoria ja akkusatiivin sija liittyvät venäjässä kiinteästi yhteen.
-Substantiivin elollisuus näkyy siten, **että elollisilla substantiivella
-akkusatiivi on tietyissa tapauksissa genetiivin kaltainen**. Tarkemmin
+Substantiivin elollisuus näkyy siten, **että elollisilla substantiiveilla
+akkusatiivi on tietyissä tapauksissa genetiivin kaltainen**. Tarkemmin
 sanottuna:
 
 1. Jos substantiivi kuuluu I deklinaatioon ja on yksikössä
@@ -2862,7 +2862,7 @@ normaalisti puhtaasti esinettä tarkoittavat, kuten esimerkin @ee_zvezda
 *звезда*,
 voivat henkilöön viitatessaan saada elollisen tulkinnan
 Tähän joukkoon voidaan liittää myös esimerkiksi sana *лицо*, joka henkilöä
-tarkoittessaan käyttäytyy elollisen substantiivin tavoin.
+tarkoittaessaan käyttäytyy elollisen substantiivin tavoin.
 
 2. Kalat ja äyriäiset tulkitaan elottomiksi, jos puhutaan niiden syömisestä
    (esimerkit @ee_krevetki1 ja @ee_krevetki2).
@@ -3275,7 +3275,7 @@ kaistaletta tarkoittavat sanat taipuvat ulkopaikallissijoissa, mutta venäjäss�
 prepositio on tavallisesti v. Lisäksi venäjä tuntuu erottelevan monesti
 tarkemmin pinnan ja sisällön: suomeksi jotakin on taulussa, venäjäksi на
 картине. Tämä näkyy siinäkin, että vettä käsitellään osittain eri tavalla:
-esimerkiksi lehtiä on suomeksi vedessä, mutta venäjäsä на воде. Oma selkeä eriävä luokkansa ovat ilmansuunnat, jotka
+esimerkiksi lehtiä on suomeksi vedessä, mutta venäjässä на воде. Oma selkeä eriävä luokkansa ovat ilmansuunnat, jotka
 venäjässä liitetään aina на-prepositioon, suomessa sisäpaikallissijoihin.
 
 Kontrastiiviselta kannalta mainittakoon myös, että kannattaa kiinnittää huomiota
@@ -3334,7 +3334,7 @@ itse asiassa melko monta eri asiaa: paitsi persoonaa, myös tapaluokkaa,
 aikamuotoa ja lukua. Kun siirrytään tarkastelemaan verbien persoonataivutusta,
 tutkitaan siis loppujen lopuksi laajempaa ilmiötä kuin pelkkää persoonaa.
 
-Persoona- ja infinitiivivartalo
+Preesens- ja infinitiivivartalo
 -------------------------------
 
 Venäjän verbeistä puhuttaessa on tapana erottaa kaksi eri vartaloa [perusteluita tälle ks. @isachenko2003: 27].
@@ -3351,7 +3351,20 @@ esimerkiksi ensimmäisen persoonan muoto kuuluu /смотр/ю/. Verbin toinen v
 (основа настоящего времени), saadaankin poistamalla persoonapääte. Tapana on, että
 muodostamiseen käytetään monikon kolmannen persoonan muotoa. Näin ollen
 смотреть-verbistä preesensvartalo on /смотр/ят/ -- /смотр'/, пугать-verbistä
-/пуга/ют/-- /пугаj/, вести-verbistä /вед/ут/ -- /вед/. **Huomaa**, että
+/пуга/ют/-- /пугаj/, вести-verbistä /вед/ут/ -- /вед/.
+
+**Eräänlaisen ongelman** vartaloiden erottelun kannalta muodostavat вести- ja печь-verbien kaltaiset
+sanat. Näistä Nikunlassi [-@nikunl: 137] huomauttaa seuraavaa:
+
+Jos
+
+a. infinitiivimuoto päättyy ч-konsonanttiin (печь, лечь, течь, мочь jne.) **TAI**
+b. verbin infinitiivimuoto loppuu -сти tai -сть **ja** preesensvartalossa с-konsonanttia vastaa д- tai т-konsonantti (вести-ведут, упасть-упадут, цвести-цветут jne.)
+
+tällöin infinitiivivartalo ja preesensvartalo on sama: печь-verbillä siis *пек*, вести-verbillä *вед* ja niin edelleen.
+
+
+
 вести-verbin kaltaisilla verbeillä sekä ч-konsonanttiin infinitiivissä päättyvillä
 verbeillä infinitiivi- ja preesensvartalot ovat samoja: вести -- вед & вед, печь
 -- пек & пек jne. Nämä ovat siis infinitiivivartalon muodostamisen osalta
@@ -3366,7 +3379,7 @@ Konjugaatiot
 
 Venäjässä verbit jaetaan persoonataivutuksen osalta kahteen taivutustyyppiin eli
 *konjugaatioon* (спряжение), joiden lisäksi on joukko epäsäännöllisesti taipuvia
-verbejä. Taivutettaessa ся-postfiksin sisätäviä verbejä kannattaa muistaa, että
+verbejä. Taivutettaessa ся-postfiksin sisältäviä verbejä kannattaa muistaa, että
 vokaalin jälkeen posfiksi on muodossa *сь* (учусь, занимаюсь jne) [@sheljakin:
 124].
 
@@ -3456,7 +3469,7 @@ konjugaatiot ovat erilaisia.
 
 Nikunlassin [-@nikunl: 155] mukaan ensimmäisestä konjugaatiosta voidaan
 äänteenmuutosten näkökulmasta erottaa omaksi ryhmäkseen kaikki /о/-foneemilla
-alkavat muodot. Näissä tapahtuu äänteenmuutoksia, joista eräs kohdatiin jo
+alkavat muodot. Näissä tapahtuu äänteenmuutoksia, joista eräs kohdattiin jo
 жить-verbiä tarkasteltaessa. Listataan ensin kirjoitusasussaan kaikki жить-verbin
 persoonamuodot, jotka alkavat /о/-foneemilla:
 
@@ -3465,7 +3478,7 @@ persoonamuodot, jotka alkavat /о/-foneemilla:
 - живём
 - живёте
 
-Жить-verbillä äänteenmuutos tarkottaa, että liudentumaton konsonantti vaihtuu
+Жить-verbillä äänteenmuutos tarkoittaa, että liudentumaton konsonantti vaihtuu
 liudentuneeseen. Preesensvartalo жить-verbillä on /жив/. Näin ollen foneettisessa
 asussaan luetellut muodot ovat:
 
@@ -3544,7 +3557,7 @@ Milloin mikäkin konjugaatio?
 
 
 Ensimmäinen konjugaatio on venäjässä ylivoimaisesti toista yleisempi. Asia on
-intutiivisestikin selvä, mutta katsotaan kokeeksi vähän tilastoja wikisanakirjan
+intuitiivisestikin selvä, mutta katsotaan kokeeksi vähän tilastoja Wikisanakirjan
 datan avulla[^wikilink]. 
 
 [^wikilink]:Data on vapaasti käytettävissä ja ladattavissa [täältä](https://dumps.wikimedia.org/ruwiktionary).
@@ -3648,7 +3661,7 @@ sen perusteella, miten niiden preteritimuodot muodostetaan. Ensimmäiseen
 ryhmään kuuluvat *momentaaniset* (одноактный) verbit tyyppiä толкнуть, joilla
 preteritimuoto muodostetaan suoraan infinitiivivartalon perusteella
 (/толкну/л/). Toisen ryhmän muodostavat verbit tyyppiä *остынуть* ('jäähtyä,
-haaleta'), jotka ilmaisevat astettaista olotilan muutosta ja joiden
+haaleta'), jotka ilmaisevat asteittaista olotilan muutosta ja joiden
 preteritimuodoissa ну-suffiksi katoaa taivutuspäätteen edeltä
 (остыл). Näitä jälkimmäisiä verbejä on selvästi vähemmän, Šeljakinin
 [-@sheljakin: 129] mukaan noin viisikymmentä. Kummassakin tapauksessa
@@ -3850,7 +3863,7 @@ voidaan muodostaa passiivin partisiipin preesensmuoto). Šeljakin [-@sheljakin:
 että ne ovat tyyliltään kirjallisia, mistä johtuen monista arkipäiväisistä
 verbeistä niitä ei todellisuudessa muodosteta: esimerkiksi verbeistä ругать,
 кормить, крыть. Wade [-@wade2010: 369] antaa tarkemman luettelon siitä,
-minkätyyppisistä verbeistä ei passiivin partisiipin preesensiä muodosteta. Waden
+minkä tyyppisistä verbeistä ei passiivin partisiipin preesensiä muodosteta. Waden
 huomiot ovat pääpiirteissään seuraavia:
 
 - Passiivin partisiipin preesensiä ei muodosteta verbeistä, joiden infinitiivi
@@ -4513,7 +4526,7 @@ Pohjustuksena niille on kuitenkin hyvä käydä läpi seuraavat huomiot.
    yksipuolinen vaan muistaa, että kyse on monitahoisista ilmiöistä. Kummastakin
    aspektista voidaan erottaa useita erilaisia merkityksiä. Voidaan ensinnäkin
    puhua imperfektiivisen ja perfektiivisen aspektin *perusmerkityksistä* (общие
-   видовые значения), jotka kuvaavat kaikkein tyyypillisintä tapaa käyttää
+   видовые значения), jotka kuvaavat kaikkein tyypillisintä tapaa käyttää
    kumpaakin aspektia. Näiden lisäksi voidaan eritellä tarkempia
    konteksteja ja käyttötilanteita, joissa kumpaakin aspektia käytetään jollain
    perusmerkityksestä mahdollisesti poikkeavalla tavalla. Tällaisissa
@@ -4626,7 +4639,7 @@ neutraalimmin perusmerkityksiä käyttämällä.
 
 Aloitetaan erityismerkitysten tarkastelu joukosta merkityksiä, jotka kaikki
 kuvaavat jollain tavalla toistoa. Ehkä hieman yllättäen näitä merkityksiä on
-sekä imprefktiivisellä että perfektiivisellä aspektilla.
+sekä imperfektiivisellä että perfektiivisellä aspektilla.
 
 Imperfektiivisellä aspektilla voidaan erottaa kaksi toistoon liittyvää
 erityismerkitystä: rajoittamattoman ja rajoitetun toiston merkitykset
@@ -4691,7 +4704,7 @@ seuraavan esimerkin:
 Esimerkissä @ee_perf1 puheen kohteena olevasta henkilöstä on nähtävissä muutos,
 joka on puhehetkellä voimassa. Suomessakin tällainen voimassaolo tulisi
 ilmaistuksi perfektin aikamuodolla: Hän on laihtunut ja vanhentunut. Vertaa
-lausetta vastaavaan imperfektiiviseen lausueeseen (он худел и старел), jolloin kyseessä olisi
+lausetta vastaavaan imperfektiiviseen lauseeseen (он худел и старел), jolloin kyseessä olisi
 konkreettis-prosessuaalinen merkitys: katsottaisiin menneisyyteen kohti itse
 laihtumistapahtumaan sen sijaan, että ihmeteltäisiin tapahtuman tulosta
 nykyhetkessä. Olga Rassudova [-@rassudova1984] antaa lisäksi seuraavan
@@ -4711,7 +4724,7 @@ esimerkkilauseita:
 (@ee_pot_k1) Купил новый замок, теперь никто не *пролезет* в квартиру.
 (@ee_haves) Только *скажешь* ему -- он немедленно приедет.
 
-Potentiaalisessa merkityksessä voidaan ajatella, että puhuja antaa siina
+Potentiaalisessa merkityksessä voidaan ajatella, että puhuja antaa siinä
 arvionsa
 
 1. Tekijän kyvystä *tai kyvyttömyydestä* suorittaa jokin tehtävä
@@ -4921,7 +4934,7 @@ että toistoja todella on ollut useita eikä vain yksi.
 
 Tarkastellaan vielä imperfektiivisen aspektin yleisesti toteavaa
 erityismerkitystä. Sen käyttö on lähellä toisaalta perfektiivisen aspektin
-konkreettis-faktista merkitystä, toisalta perfektin merkitystä.  Erona
+konkreettis-faktista merkitystä, toisaalta perfektin merkitystä.  Erona
 ensimmäisessä oppositiossa on, että imperfektiivisen aspektin tapauksessa
 otetaan vähemmän kantaa, ollaan toteavia, kun taas perfektiivisen aspektin
 tapauksessa on kertovampi, selostavampi ote. Katsotaan taas Rassudovan
@@ -5381,7 +5394,7 @@ näillä:
 2. Yksikön 1. persoonassa paino on päätteellä
 3. Imperatiivin pääte on /И/.
 
-Toisaalta esimerkiki петь, быть, темнеть, играть saavat nollapäätteen, koska
+Toisaalta esimerkiksi петь, быть, темнеть, играть saavat nollapäätteen, koska
 
 1. verbeillä петь, темнеть, играть on preesensvartalon lopussa j
 2. быть-verbillä ei ole j:tä, mutta paino 1. persoonassa vartalolla (бУду)
@@ -5446,7 +5459,7 @@ Muita imperatiivimuotoja
 ------------------------
 
 Edellä käsiteltiin tarkkaan yksikön toisen persoonan imperatiivin muodostamista,
-koska se tapahtuu erityisten päätteiden avulla, synteettistesti. On olemassa
+koska se tapahtuu erityisten päätteiden avulla, synteettisesti. On olemassa
 kuitenkin myös muita imperatiivimuotoja, jotka muodostetaan *analyyttisesti*,
 apusanoja käyttäen. Itse asiassa, kun lasketaan monikkomuodot, Šeljakin
 [-@sheljakin: 162] toteaa, että venäjässä on peräti kuusi eri
@@ -5461,7 +5474,7 @@ sanojen *пусть/пускай* avulla:
 (@ee_puskai2) -- Только не говори ему об этом, *пусть остаётся* в счастливом неведении.
 
 Toiseksi omaksi käskymuodokseen voidaan erottaa käskyt, joita koskevan joukon
-osa pyös puhuja on (Šeljakinilla tässä termi *совместное действие*). Nämä
+osa myös puhuja on (Šeljakinilla tässä termi *совместное действие*). Nämä
 muodostetaan sananmuodon *давай* avulla. Siihen voidaan yhdistää joko
 imperfektiivisen aspektin verbi infinitiivimuodossa tai perfektiivisen aspektin
 verbi indikatiivimuodossa:
@@ -5924,7 +5937,7 @@ Luento 21: Liikeverbit 2
 - [Prefiksikaavio](http://people.uta.fi/~harme.juho.k/aspekti-ja-liikeverbiteoria/aihekokonaisuudet/tehtavat/prefiksikaavio.pdf)
 
 Edellisellä luennolla todettiin, että liikeverbit ovat venäjässä oma
-ryhmänsä ennen kaikkia sen perusteella, että ne ne muodostavat pareja likkeen
+ryhmänsä ennen kaikkia sen perusteella, että ne ne muodostavat pareja liikkeen
 suuntaisuuden eli toiminnan luonteen perusteella. Ilman prefiksejä käytettäessä
 niin duratiiviset kuin iteratiivisetkin verbit ovat imperfektiivisen aspektin
 verbejä ja kuvaavat joko yksisuuntaista liikettä (duratiiviset) tai kaksisuuntaista,
@@ -5992,7 +6005,7 @@ jossain määrin pitäytymistä mainittuun "keinotekoinen poikkeus"
 
 ### Selkeät tapaukset
 
-Suurin osa etenkin tavallisimmista iteratiivisista liikeverbeistä käyttäytyyy
+Suurin osa etenkin tavallisimmista iteratiivisista liikeverbeistä käyttäytyy
 onneksi hyvin säännönmukaisesti, kun niihin liitetään prefiksi. Tähän
 säännönmukaiseen ryhmään kuuluvat seuraavat verbit, eikä näiden verbien
 vartalolle tapahdu mitään prefiksin liittämisen yhteydessä:
@@ -6319,7 +6332,7 @@ Huomaa, että teonlaatujen muodostaminen iteratiivisista liikeverbeistä tapahtu
 kuin "tavallisten" perfektiivisten liikeverbien. Teonlaatujen tapauksessa
 iteratiivisen verbin vartalolle ei tapahdu mitään -- edes paino ei liiku.
 Ajattele esimerkin @ee_tranazh verbiä *съездить*. Muodostettaessa tavallisia
-perfektiivisen aspektin liikeverbiä käytetään *езжать*-vartaloon parustuvia
+perfektiivisen aspektin liikeverbiä käytetään *езжать*-vartaloon perustuvia
 muotoja kuten *поезжать*, *отъезжать* ym. Teonlaatuja muodostettaessa
 lähtökohtana on kuitenkin muuttumaton iteratiivisen verbin vartalo. Tämän takia
 myös esimerkissä @ee_plavat verbi on *поплавать*, vaikka muuten prefiksilliset
@@ -6387,9 +6400,11 @@ Nikunlassin [-@nikunl: 158] esityksen pohjalta.
 
 ### Imperfektiivisen aspektin gerundi
 
-Imperfektiivisen aspektin gerundin (jäljempänä i-gerundi) muodostamisen lähtökohtana on verbin
-*preesensvartalo*. Gerundin tunnus on /а/ ja perustapauksessa se vain
-liitetään konjugaatiosta riippumatta suoraan preesensvartalon perään:
+Imperfektiivisen aspektin gerundin (jäljempänä i-gerundi) muodostamisen
+lähtökohtana on verbin *preesensvartalo*. Gerundin tunnus on /а/ ja
+perustapauksessa se vain liitetään konjugaatiosta riippumatta suoraan
+preesensvartalon perään. Mikäli vartalo päättyy liudentumattomaan konsonanttiin
+(kuten нести-verbillä), konsonantti vaihtuu liudentuneeksi [@nikunl: 158].
 
 | verbi    | preesensvartalo   | gerundi    | kirjoitusasu   |
 | -------- | ----------------- | ---------- | -------------- |
@@ -6397,6 +6412,7 @@ liitetään konjugaatiosta riippumatta suoraan preesensvartalon perään:
 | думать   | думаj             | /думаj/а   | думая          |
 | глядеть  | гл'ад'            | /гл'ад'/а  | глядя          |
 | ходить   | ход'              | /ход'/а    | ходя           |
+| нести    | нес              | /нес'/а    | неся           |
 
 Kuten olemme monesti aiemmin havainneet, давать-tyypin verbit käyttäytyvät
 poikkeuksellisesti siinä mielessä, että ва-suffiksi ei putoa pois gerundia
@@ -6445,13 +6461,14 @@ muodostamisessa käytössä neljä: /в/, /вши/, /ши/ ja /а/. Muodostus ta
 Ensimmäisessä tapauksessa p-gerundi muodostetaan lisäämällä infinitiivivartaloon
 /в/-tunnus:
 
-| verbi    | infinitiivivartalo | gerundi     | kirjoitusasu   |
-| -------- | -----------------  | ----------  | -------------- |
-| помыть   | /помы/             | /помы/в/    | помыв          |
-| собрать  | /собра/            | /собра/в/   | собрав         |
-| заметить | /замет'и/          | /замет'и/в/ | заметив        |
-| сказать  | /сказа/            | /сказа/в/   | сказав         |
-| подарить | /подар'и/          | /подар'и/в/ | подарив        |
+| verbi            | infinitiivivartalo | gerundi     | kirjoitusasu   |
+| --------         | -----------------  | ----------  | -------------- |
+| помыть           | /помы/             | /помы/в/    | помыв          |
+| собрать          | /собра/            | /собра/в/   | собрав         |
+| заметить         | /замет'и/          | /замет'и/в/ | заметив        |
+| сказать          | /сказа/            | /сказа/в/   | сказав         |
+| подарить         | /подар'и/          | /подар'и/в/ | подарив        |
+| умереть[^umeret] | /умере/            | /умере/в/   | умерев         |
 
 /в/-pääte koskee myös сть-päätteisiä verbejä, vaikka edellä niiden infinitiivi-
 vartalo onkin todettu yhteneväksi preesensvartalon kanssa: упасть - упав.
@@ -6465,6 +6482,8 @@ Koska vokaalin jälkeen ся on aina muodossa сь, nämä gerundimuodot päätt
 | помыться  | /помы/             | /помы/вши/сь/  | помывшись      |
 | собраться | /собра/            | /собра/вши/сь/ | собравшись     |
 
+[^umeret]: verbeillä, joihin sisälty ну-suffiksi tai ере-äänneyhtymä, esiintyy rinnakkaismuotoja, jotka on
+muodostettu ши-suffiksilla: умереть: умерев/умерши; промокнуть: промокнув/промокши [@nikunl: 159]
 
 #### Jos vartalo päättyy konsonanttiin
 
@@ -6472,23 +6491,35 @@ Toisen ryhmän muodostavat verbit, joiden infinitiivivartalo päättyy
 konsonanttiin. Tällöin p-gerundi muodostetaan lisäämällä jompikumpi affikseista
 /ши/ tai /а/. Näiden suffiksien käytössä on jonkin verran horjuntaa ja myös
 tapauksia, joissa molempia käytetään. Pääpiirteissään voidaan sanoa, että 
-/ши/-affiksia käytetään *чь*- ja *зть*-päättyvissä infinitiiveissä (huomaa, että
+/ши/-suffiksia käytetään *чь*- ja *зть*-päättyvissä infinitiiveissä (huomaa, että
 nämä ovat usein tapauksia, joissa i-gerundia ei käytännössä muodosteta) ja
-/а/-affiksia сти- ja сть-päättyvissä infinitiiveissä. Muista, että näissä
-tapauksissa infinitiivivartalo katsotaan samaksi kuin preesensvartalo.
+/а/-suffiksia сти- ja сть-päättyvissä infinitiiveissä (sekä идти-verbistä).
+
+сти- ja сть-päättyvien verbien infinitiivivartalon määrittely lienee hyvä kerrata [ks. @nikunl: 137]:
+
+Jos
+
+a. infinitiivimuoto päättyy ч-konsonanttiin (печь, лечь, течь, мочь jne.) **TAI**
+b. verbin infinitiivimuoto loppuu -сти tai -сть ja preesensvartalossa с-konsonanttia vastaa д- tai т-konsonantti (вести-ведут, упасть-упадут, цвести-цветут jne.)
+
+infinitiivivartalo ja preesensvartalo ovat samoja: печь-verbillä siis *пек*, вести-verbillä *вед* ja niin edelleen.
+
 
 | verbi    | infinitiivivartalo | gerundi     | kirjoitusasu   |
 | -------- | -----------------  | ----------  | -------------- |
-| выпечь   | /выпек/            | /выпек/ши/  | выпекши        |
+| испечь   | /испек/            | /испёк/ши/  | испёкши        |
 | залезть  | /залез/            | /залез/ши/  | залезши        |
 | пройти   | /пройд'/           | /пройд'/а/  | пройдя         |
-| унести   | /унес'/            | /унес'/а/   | унеся          |
-| увезти   | /увез'/            | /увез'/а/   | увезя          |
-| изобрести| /изобрет'/         | /изобрет'/а/| изобретя       |
+| унести   | /унес/            | /унес'/а/   | унеся          |
+| увезти   | /увез/            | /увез'/а/   | увезя          |
+| изобрести| /изобрет/         | /изобрет'/а/| изобретя       |
+
 
 Poikkeuksen muodostavat verbit упасть  ja сесть, joiden gerundit ovat *упав*  ja
 *сев*.
 
+Kaiken kaikkiaan nyrkkisääntönä voi ajatella, että liikeverbeillä muodot ovat
+suurimmaksi osaksi /а/-päätteisiä.
 
 Gerundien käyttö
 ----------------

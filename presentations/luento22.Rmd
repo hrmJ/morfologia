@@ -290,6 +290,11 @@
 
 # Rajoituksia i-gerundin muodostamiseen
 
+>- 1. 1. konjugaation 4. alaryhmä +  ш-/ж-/щ- preesensvartalossa: писать, двигать, искать ym.
+>- 2. verbin preesensvartalo päättyy konsonantteihin к tai г.
+>- 3.  preesensvartalossa on н-suffiksi kuten verbeillä мокнуть, сохнуть ym.
+>- 4. verbit, joiden preesensvartalossa ei ylipäätään ole vokaaleja: (рвать, пить)
+
 
 >- [Tehtävä](../tehtavat/luento23.pdf)
 
@@ -317,6 +322,15 @@
 
 # Adjektiiveista muodostettavat adverbit
 
+>- Vrt. Lyhyt muoto, neutri
+>- Huom!  крайний, искренний, внешний
+>- классический, братский, исторический
+>- другой, настояший
+>- по-фински, по-русски, по-героически
 
+# Muita
 
+>- угрожающий, обоснованный
+>- утром, даром, шёпотом
+>- вслух, наоборот, издали,вдали,сверху...
 
