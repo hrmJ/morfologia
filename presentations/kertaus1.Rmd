@@ -1,0 +1,106 @@
+% Morfologia, kertaus: substantiivit
+% Juho Härme
+% Pinni B 5004, juho.harme@uta.fi
+
+# Kerrattavia asioita
+
+>- Substantiivien deklinaatiot
+>- Substantiivien suvun määräytyminen
+>- Substantiivien painotyypeistä 
+>- Sijat funktionaalisen morfologian kannalta
+    - genetiivi
+    - datiivi
+    - instrumentaali
+    - akkusatiivi (elollisuuskategoria)
+    - prepositionaali
+
+# Deklinaatiot
+
+<article class='incremental' style='float:left'>
+
+## 1. Deklinaatio
+
+
+Sija   | Päätemorfi | esim.1 | esim.2   | esim.3
+----   | ---------- | ------ | ------   |
+Nom.   | ø          | стол   | учитель  | гений
+Gen.   | /а/        | стола  | учителя  | гения
+Dat.   | /у/        | столу  | учителю  | гению
+Akk.   | /ø/ ~ /a/  | стол   | учителя  | гения
+Instr. | /ом/       | cтолом | учителем | гением
+Prep.  | /е/ ~ /и   | столе  | учителе  | гении
+
+</article>
+
+<article class='incremental' style='float:left;margin-left:2em;'>
+
+## 2. Deklinaatio
+
+Sija   | Päätemorfi | esim.1 | esim.2 | esim.3
+----   | ---------- | ------ | ------ | -------
+Nom.   | /а/        | книга  | серия  | тыква
+Gen.   | /и/        | книги  | серии  | тыквы
+Dat.   | /е/ ~ /и/  | книге  | серии  | тыкве
+Akk.   | /у/        | книгу  | серию  | тыкву
+Instr. | /ой/       | книгой | серией | тыквой
+Prep.  | /е/ ~ /и/  | книге  | серии  | тыкве
+
+</article>
+
+<article class='incremental' style='float:left;margin-left:2em;'>
+
+## 3. Deklinaatio
+
+Sija   | Päätemorfi | esim.1   | esim.2 |
+----   | ---------- | ------   | ------ |
+Nom.   | /ø/        | тетрадь  | ночь   |
+Gen.   | /и/        | тетради  | ночи   |
+Dat.   | /и/        | тетради  | ночи   |
+Akk.   | /ø/        | тетрадь  | ночь   |
+Instr. | /ju/       | тетрадью | ночью  |
+Prep.  | /и/        | тетради  | ночи   |
+
+</article>
+
+<article class='incremental' style='float:left;margin-left:2em;'>
+## 4. Deklinaatio
+
+Sija   | Päätemorfi | esim.1 | esim.2 |esim.3
+----   | ---------- | ------ | ------ |-------
+Nom.   | /о/        | место  | поле   | пение
+Gen.   | /а/        | места  | поля   | пения
+Dat.   | /у/        | месту  | полю   | пению
+Akk.   | /о/        | место  | поле   | пение
+Instr. | /ом/       | местом | полем  | пением
+Prep.  | /е/ ~ /и/  | месте  | поле   | пении
+
+</article>
+
+<article class='incremental' style='float:left;margin-left:2em;'>
+
+## 5. Deklinaatio
+
+Sija   | Päätemorfi | esim
+----   | ---------- | ------
+Nom.   | /а/        | время
+Gen.   | /и/        | времени
+Dat.   | /и/        | времени
+Akk.   | /а/        | время
+Instr. | /ом/       | временем
+Prep.  | /е/ ~ /и/  | времени
+
+</article>
+
+
+>- [tehtävä]()
+
+# Suvun määräytymisestä
+
+>- [kertausta]()
+>- [tehtävä]()
+
+# Sijojen käytöstä
+
+>- [tehtävä]()
+
+

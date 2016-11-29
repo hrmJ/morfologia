@@ -3,6 +3,12 @@
 document.write("<i>Muokattu viimeksi " + document.lastModified +". Tarkemmin ks. <a href='https://github.com/hrmJ/morfologia'>repositoriosta</a></i>");
 </SCRIPT>
 
+Kurssimateriaali
+================
+
+Koko kurssimateriaali on nyt olemassa myös yhtenä ainoana pdf-tiedostona, jonka voit
+ladata [tästä](materiaalit/morfologia.pdf).
+
 Tästä kurssista
 ===============
 
@@ -29,6 +35,7 @@ työkaluja.
 Linkkejä
 ========
 
+- [Kurssimateriaali pdf:nä](materiaalit/morfologia.pdf)
 - Kurssikartat [1](https://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/kurssikartta1.pdf) ja [2](https://mustikka.uta.fi/~juho_harme/morfologia/materiaalit/kurssikartta2.pdf)
 - [Kurssin termilista](termit.html)
 - [Kurssin Moodle-alue](https://learning2.uta.fi/course/view.php?id=8679)
@@ -848,7 +855,7 @@ Sija   | Päätemorfi | esim.1 | esim.2 |esim.3
 Nom.   | /о/        | место  | поле   | пение
 Gen.   | /а/        | места  | поля   | пения
 Dat.   | /у/        | месту  | полю   | пению
-Akk.   | /ø/        | место  | поле   | пение
+Akk.   | /о/        | место  | поле   | пение
 Instr. | /ом/       | местом | полем  | пением
 Prep.  | /е/ ~ /и/  | месте  | поле   | пении
 
@@ -866,7 +873,7 @@ Sija   | Päätemorfi | esim
 Nom.   | /а/        | время
 Gen.   | /и/        | времени
 Dat.   | /и/        | времени
-Akk.   | /ø/        | время
+Akk.   | /а/        | время
 Instr. | /ом/       | временем
 Prep.  | /е/ ~ /и/  | времени
 
@@ -981,7 +988,7 @@ esitetään muutamia huomioita ja säännönmukaisuuksia näistä sanoista.
 Ehkäpä merkittävin yksittäinen sanojen sijataivutukseen vaikuttava
 morfofonologinen ilmiö on niin sanottu väistyvä vokaali (беглый гласный). Tällä
 ilmiöllä  viitataan lähinnä
-/о/- ja /э/-vokaalien vaihteluun nollaäänteen/nollavokaalin (нуль
+/о/-vokaalin vaihteluun nollaäänteen/nollavokaalin (нуль
 звука/нуль гласного) kanssa. Katsotaan paria esimerkkiä[^nkrjaes]:
 
 (@ee_signal) Световой сигнал выдергивал её из глубокого **сна**.
@@ -2298,7 +2305,7 @@ luento 7: Sijat funktionaalisen morfologian kannalta
 - [Tutki tuntitehtäviä](http://mustikka.uta.fi/~juho_harme/morfologia/tehtavat/luento7.pdf)
 
 Nyt siirrymme taivutusopista kohti funktionaalista morfologiaa ja ryhdymme
-tarkastelemaan, miten eri merkityksiä ja käyttöyhteyksiä eri sijoilla (sijakategorian
+tarkastelemaan, mitä eri merkityksiä ja käyttöyhteyksiä eri sijoilla (sijakategorian
 arvoilla) on. Yksi monimerkityksisimmistä on genetiivi.
 
 
