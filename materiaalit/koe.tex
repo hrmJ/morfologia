@@ -1,35 +1,212 @@
+\documentclass[paper=a4, fontsize=11pt]{scrartcl} 
+\usepackage[a4paper,margin=3cm]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage[T2A]{fontenc}
+\usepackage{soulutf8}
 
-Erottele
+\usepackage{lmodern}
 
-- suffiksit ja päätteet
-- Selitä: juurimorfi vs. vartalo (preesens- ja inf. vartalo huomioon)
+\usepackage{titlesec}
+\usepackage{tabularx}
+\pagenumbering{gobble}
+\usepackage{arydshln}
+\usepackage{multirow}
+\usepackage{pdflscape}
+\usepackage{longtable} 
+\usepackage{booktabs}
 
-Mitä tarkoitetaan nollapäätteellä? Anna esimerkkejä
+\usepackage{bm,array}
 
-Substantiiveilla voidan erottaa kolme monikon taivutuspäätesarjaa eli deklinaatiota (тип склонения). 
+\newcommand{\answer}[2][3cm]{\raisebox{-\baselineskip}{\shortstack{\underline{\hspace{#1}}\\#2}}}
 
-1. Ryhmittele seuraavat sanat niin, että samaa monikon deklinaatiota edustavat sanat ovat samassa ryhmässä:
-
-- выключатель, баня, тело, знаменитость, семья, игрок, канава, ноутбук, носталгия, знание, пропасть, шантаж
-
-2. Erottele, millä päätteillä kussakin deklinaatiossa ilmaistaan a) monikon nominatiivia b) monikon genetiiviä
-
-Ryhmittele seuraavat substantiivit painotyypin perusteella
-
-Lisää verbin täydennys tai subjekti oikeassa sijassa
-
-Jotain passiivilauseista
-
-JOtain liikeverbeistä + aspektista... pieni perustelutehtävä, jossa erityismerkityksiä?
+\usepackage{sectsty} % Allows customizing section commands
+\renewcommand{\thesubsection}{\alph{subsection}}
+\renewcommand{\thesection}{Tehtävä \arabic{section}}
+\allsectionsfont{\normalfont\sffamily\bfseries}
 
 
+\usepackage{setspace}
+\usepackage{enumitem}
+\sectionfont{\large}
+\subsectionfont{\normalsize}
+\subsubsectionfont{\normalsize}
 
-Täydennä sopiva muoto:
-    - verbien taivuttamista konjugaatioissa + helppoa aspektinvalintaa
-    - joku yksittäinen gerunditapaus
-    - davai-lauseita
+\date{}
+\usepackage[normalem]{ulem}
 
-Käännä 
-    - (elollisuuteen liittyviä?)
-    - joitain na- ja v-juttuja?
-    - konditionaaliin liittyviä
+\newcommand{\horrule}[1]{\rule{\linewidth}{#1}} % Create horizontal rule command with 1 argument of height
+\title{	
+\normalfont \normalsize 
+\horrule{0.5pt} \\[0.4cm] 
+\huge  Koe / Morfologia/ 7.12.2017  \\
+\horrule{2pt} \\
+\vspace{-2em}
+}
+
+
+\usepackage{titling}
+\setlength{\droptitle}{-10em}   
+
+
+
+\begin{document}
+
+\maketitle
+\answer[9cm]{Nimi ja opiskelijanumero}\\[1cm]
+
+\section{}
+
+Erottele seuraavista sanoista
+
+\subsection{neliöllä  suffiksit ja prefiksit}
+\subsection{ympyrällä taivutuspäätteet}
+\subsection{alleviivaamalla postfiksit}
+
+Huom: sanoissa voi kaikkia mainittuja aineksia olla joko nolla kappaletta tai enemmän\\[0.5cm]
+
+Esimerkki: \framebox[1.1\width]{пере}чит\framebox[1.1\width]{ыва}\textcircled{ть}\uline{ся}\\[0.5cm]
+
+
+\large
+\begin{enumerate}
+    \setlength\itemsep{1em}
+    \item \so{задерживающегося}
+    \item \so{прочитать}
+    \item \so{соавтор}
+    \item \so{лесах}
+    \item \so{место}
+    \item \so{супервысокому}
+    \item \so{заслуженную}
+    \item \so{проигривателями}
+    \item \so{прийдя}
+    \item \so{умывшись}
+\end{enumerate}
+
+\subsection{Miten \emph{vartalon} käsite eroaa \emph{juurimorfin} käsitteestä? (Anna ainakin yksi esimerkki)}
+
+\underline{\hspace{\textwidth}} \\
+\underline{\hspace{\textwidth}} \\
+\underline{\hspace{\textwidth}} \\
+
+
+\section{} 
+
+Substantiiveilla voidaan erottaa kolme monikon taivutuspäätesarjaa eli
+deklinaatiota. Ryhmittele seuraavat sanat niin, että samaa monikon
+deklinaatiota edustavat sanat ovat samassa ryhmässä. Sillä ei ole väliä, mitä
+deklinaatiota nimität ensimmäiseksi, mitä toiseksi jne.\\[.5cm]
+
+выключатель, баня, тело, знаменитость, семья, игрок, канава, ноутбук,
+носталгия, знание, пропасть, шантаж, слово, племя, книга, завод, скрипач,
+дверь, тетрадь, дельфинарий, изменение, снасть, сон\\[.5cm]
+
+\begin{tabular}[C]{p{5cm}|p{5cm}|p{5cm}}
+1. deklinaatio & 2. deklinaatio & 3.deklinaatio  \\ \toprule
+               &                &                \\
+               &                &                \\
+               &                &                \\
+               &                &                \\
+               &                &                \\
+               &                &                \\
+               &                &                \\
+               &                &                \\
+               &                &                \\
+               &                &                \\
+               &                &                \\
+               &                &                \\ \bottomrule
+\end{tabular}
+
+
+\section{Muuta seuraavat aktiivilauseet passiiviin. Muuta subjektit passiivilauseen agenteiksi.}
+
+Esimerkki: \emph{Милиционеры арестовали Ходорковского. $\rightarrow$ Ходорковский был арестован милиционерами.}
+
+\begin{enumerate}
+    \setlength\itemsep{1em}
+    \item Ученые доказали, что так называемая темная материя на самом деле существует.\\[.3cm] \underline{\hspace{\textwidth}}
+    \item Вы пропустили слишком много ошибок\\[.3cm] \underline{\hspace{\textwidth}}
+    \item Студенты подняли вопрос о том, почему курсы заканчиваются уже до первой половины декабря.\\[.3cm] \underline{\hspace{\textwidth}}
+    \item В качестве молотка мы использовали Тольковый словарь Ожегова.\\[.3cm] \underline{\hspace{\textwidth}}
+    \item Подобные вопросы члены городского совета решают быстро и без споров. \\[.3cm] \underline{\hspace{\textwidth}}
+    \item Сеть магазинов "Лента" снизила цены на молочные продукты \\[.3cm] \underline{\hspace{\textwidth}}
+    \item Все маназины повысили цены на фрукты.\\[.3cm] \underline{\hspace{\textwidth}}
+    \item Окно разбили местные бандиты. \\[.3cm] \underline{\hspace{\textwidth}}
+    \item На следующий день полиция задержала лидера группировки. \\[.3cm] \underline{\hspace{\textwidth}}
+\end{enumerate}
+
+
+\section{}
+
+Niin kutsuttu \emph{nollapääte} on monen morfologisen ilmiön selittämisessä käyttökelpoinen käsite. Selitä esimerkein, miten nollapääte liittyy
+
+\subsection{verbien imperatiivimuotoihin}
+    \underline{\hspace{\textwidth}}\\[.3cm] 
+    \underline{\hspace{\textwidth}}\\[.3cm] 
+    \underline{\hspace{\textwidth}}\\[.3cm] 
+
+
+\subsection{substantiivien sijamuotoihin}
+    \underline{\hspace{\textwidth}}\\[.3cm] 
+    \underline{\hspace{\textwidth}}\\[.3cm] 
+    \underline{\hspace{\textwidth}}\\[.3cm] 
+
+
+\section{Lisää verbin täydennys tai subjekti oikeassa sijassa}
+
+
+\section{Valitse sopivampi aspekti ympyröimällä}
+\begin{enumerate}
+    \item Заведи будильник, иначе ты можешь просыпать  / проспать.
+    \item Почему ты еще не вставал / встал? Ведь уже поздно.
+    \item Я вставал / встал, но опять лег, потому что у меня разболелась голова.
+    \item Она просит не зажечь / зажигать свет.
+    \item Ты когда-нибудь слышал / услышал, какие звуки издаёт фагот? 
+    \item Мы посидели / сидели немного, вставали / встали и пошли дальше.
+    \item Соседи весь вечер шумели / зашумели за стеной.
+    \item Я несколько раз перечитывал / перечитал роман Пастернака "Доктор Живаго".
+    \item В зале было тихо. Выступал  / выступил известный писатель.
+\end{enumerate}
+
+\section{Selitä vähintään kaksi edellisistä aspektitapauksista käyttämällä jotakin seuraavista perus-/erityismerkityksistä}
+
+{\small
+\begin{itemize}
+    \item Konkreettis-prosessuaalinen merkitys
+    \item Konkreettis-faktinen merkitys
+    \item Yleisesti toteava merkitys
+    \item Summatiivinen merkitys
+    \item Rajoittamattoman toiston merkitys
+    \item perfektin erityismerkitys
+\end{itemize}
+}
+
+\underline{\hspace{\textwidth}} \\[.3cm]
+\underline{\hspace{\textwidth}} \\[.3cm]
+\underline{\hspace{\textwidth}} \\[.3cm]
+\underline{\hspace{\textwidth}} \\[.3cm]
+
+
+
+\section{Käännä.}
+
+%Ryhmittele seuraavat substantiivit painotyypin perusteella
+%
+%Lisää verbin täydennys tai subjekti oikeassa sijassa
+%
+%Jotain passiivilauseista
+%
+%Jotain liikeverbeistä + aspektista... pieni perustelutehtävä, jossa erityismerkityksiä?
+%
+%
+%
+%Täydennä sopiva muoto:
+%    - verbien taivuttamista konjugaatioissa + helppoa aspektinvalintaa
+%    - joku yksittäinen gerunditapaus
+%    - davai-lauseita
+%
+%Käännä 
+%    - (elollisuuteen liittyviä?)
+%    - joitain na- ja v-juttuja?
+%    - konditionaaliin liittyviä
+
+\end{document}
